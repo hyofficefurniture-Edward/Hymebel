@@ -549,6 +549,6 @@ export const company = {
   telegram: "hysdfurniture",
   email: "z@hysdfurniture.com",
   web3formsKey: "b08f8db9-03cc-4f84-99ed-2e651cddd7ee",
-  /** GA4 测量 ID：拿到后填入（形如 G-XXXXXXXXXX），为空则不注入统计脚本 */
-  gaId: "",
+  /** GA4 衡量 ID：为空则不注入任何统计脚本（中亚站 hymebel.com，2026-10-02 开通） */
+  gaId: "G-P3E4FQ8LK5",
 };

@@ -1,0 +1,127 @@
+# Hymebel — Premium Furniture for Kazakhstan & Central Asia
+
+> Hymebel is the Central Asia brand of Hongye Furniture Group (founded 1996, Guangdong, China). We design, manufacture, ship and install furniture for hotel, office, villa, healthcare and education projects in Kazakhstan and Uzbekistan.
+
+## Company facts (single source of truth)
+
+- Parent group: Hongye Furniture Group, founded 1996, Guangdong, China
+- Factory: 300,000 m² own production base, 1,000+ workers
+- Track record: 1,000+ projects in 50+ countries
+- Certifications: 8 international certifications; EAC TR CU 025/2011 compliant (mandatory furniture certification in the Central Asian customs union)
+- Lead time: 30-45 days production; 9-10 days by rail to Tashkent, 5-7 days by TIR truck
+- Languages served: Kazakh (default), Uzbek, English
+- Contact: z@hysdfurniture.com · WhatsApp +8618038813653
+
+## Site structure
+
+- Default language: Kazakh at https://hymebel.com/kk/ ; Uzbek at https://hymebel.com/uz/ ; English at https://hymebel.com/en/
+- Product catalogue: 75 models across 5 categories
+- Blog / knowledge base: 12 in-depth guides in three languages
+
+## Product categories
+
+- [Hotel Furniture](https://hymebel.com/en/hotel-furniture/) — Full FF&E supply. Furniture for guest rooms, lobbies, restaurants and conference halls. Built to your drawings in 30-45 days, then 9-10 days by rail to Central Asia.
+- [Office Furniture](https://hymebel.com/en/office-furniture/) — Ergonomics & workspace planning. Workstations, meeting rooms and reception areas. Our 300,000 m² factory covers large-scale rollouts.
+- [Villa & Residential](https://hymebel.com/en/villa-residential/) — One manufacturer, whole home. Kitchen, living, bedroom furniture and wall panelling. A complete cycle from site survey to installation.
+- [Healthcare Furniture](https://hymebel.com/en/healthcare-furniture/) — Hygiene-first materials. Furniture for patient rooms, clinics and laboratories. Easy-clean materials from certified production lines.
+- [Education Furniture](https://hymebel.com/en/education-furniture/) — Bulk supply terms. Durable furniture for classrooms, libraries and laboratories, with proven bulk-supply experience for schools and universities.
+
+## Products (English pages)
+
+- [Round Teak Outdoor Dining Set (6-8 Seats)](https://hymebel.com/en/products/hotel-ca-01/) — category: hotel-furniture; material: FSC-certified Grade-A solid teak, UV-resistant olefin flat rope, 35kg/m3 quick-dry foam
+- [Stackable Banquet Chairs](https://hymebel.com/en/products/hotel-ca-02/) — category: hotel-furniture; material: High-tensile steel frame (2.0mm wall), molded cold-cured foam 50kg/m3
+- [Bespoke Hotel Guestroom Furniture](https://hymebel.com/en/products/hotel-ca-03/) — category: hotel-furniture; material: E0-grade MDF / solid ash frame, 304 stainless steel trim, 55kg/m3 HR foam
+- [Bar Height Tables (Wood & Metal)](https://hymebel.com/en/products/hotel-ca-04/) — category: hotel-furniture; material: Solid acacia / white oak / walnut top, 2x2in tubular carbon steel base
+- [High-Back Restaurant Booth Seating](https://hymebel.com/en/products/hotel-ca-05/) — category: hotel-furniture; material: Kiln-dried hardwood + multi-ply plywood frame, 45kg/m3 rebound foam
+- [Commercial Dining Booth Seating](https://hymebel.com/en/products/hotel-ca-06/) — category: hotel-furniture; material: Kiln-dried solid wood / reinforced steel frame, 55kg/m3 cold-cure fire-retardant foam
+- [High-Back Swivel Barstools](https://hymebel.com/en/products/hotel-ca-07/) — category: hotel-furniture; material: Kiln-dried solid ash / rubberwood frame, 45kg/m3 high-density foam
+- [Restaurant Dining Tables (Round & Square)](https://hymebel.com/en/products/hotel-ca-08/) — category: hotel-furniture; material: FSC-certified solid walnut or oak top, cast-iron weighted spider base
+- [Hotel Buffet Sideboards & Display Tops](https://hymebel.com/en/products/hotel-ca-09/) — category: hotel-furniture; material: E0-grade HDF + walnut veneer, Carrara white marble top 20mm, 8mm tempered fluted glass
+- [Comprehensive FF&E Solutions](https://hymebel.com/en/products/hotel-ca-10/) — category: hotel-furniture; material: Solid wood (oak/walnut), E1-grade MDF, marble tops, high-density foam
+- [Folding Banquet Tables](https://hymebel.com/en/products/hotel-ca-11/) — category: hotel-furniture; material: 1.25in high-density commercial multi-ply core, 16-gauge cold-rolled steel legs
+- [High-Back Swivel Conference Chairs](https://hymebel.com/en/products/hotel-ca-12/) — category: hotel-furniture; material: High-density fire-retardant fabric, 350mm polished aluminum 5-star base
+- [Bespoke Villa Furniture Solutions](https://hymebel.com/en/products/home-ca-01/) — category: villa-residential; material: Kiln-dried solid wood / reinforced steel, full-grain leather, performance boucle
+- [Custom Villa Bathroom Furniture](https://hymebel.com/en/products/home-ca-02/) — category: villa-residential; material: Marine-grade plywood / solid oak, Calacatta marble or sintered stone 12-20mm
+- [Whole-Home Custom Furniture](https://hymebel.com/en/products/home-ca-03/) — category: villa-residential; material: Solid oak, walnut, aircraft-grade aluminum, premium boucle / full-grain leather
+- [Modern Villa Furniture Sets](https://hymebel.com/en/products/home-ca-04/) — category: villa-residential; material: Boucle upholstery, solid wood, powder-coated aluminum, teak, E1 MDF with oak veneer
+- [Whole-House Custom Furniture](https://hymebel.com/en/products/home-ca-05/) — category: villa-residential; material: Sintered stone, solid wood, E1 moisture-proof MDF
+- [Luxury Living Room Furniture for Villas](https://hymebel.com/en/products/home-ca-06/) — category: villa-residential; material: Kiln-dried solid larch / reinforced steel frame, top-grain leather or performance velvet, 55kg/m3 foam
+- [Residential Bedroom, Living & Dining Sets](https://hymebel.com/en/products/home-ca-07/) — category: villa-residential; material: Solid oak / walnut frame, premium boucle or full-grain leather, 55kg/m3 foam
+- [Turnkey Villa Lounge Suite](https://hymebel.com/en/products/home-ca-08/) — category: villa-residential; material: Kiln-dried hardwood / Grade-A steel, top-grain leather or performance boucle, 45kg/m3 foam
+- [Villa Whole-House Bespoke Solutions](https://hymebel.com/en/products/home-ca-09/) — category: villa-residential; material: Solid walnut, oak, marble, Grade-A steel; 18mm E1 moisture-proof board cabinetry
+- [High-End Penthouse Furniture (FF&E)](https://hymebel.com/en/products/home-ca-10/) — category: villa-residential; material: Solid birch / oak frame, Italian marble, SUS304 stainless steel, brass inlays, walnut
+- [Kitchen Island for Luxury Residences](https://hymebel.com/en/products/home-ca-11/) — category: villa-residential; material: Calacatta marble, engineered quartz or sintered stone on E0 multi-layer solid wood / marine-grade plywood frame
+- [Residential Furniture for Bulk Projects](https://hymebel.com/en/products/home-ca-12/) — category: villa-residential; material: Solid wood frame, E1-grade MDF with natural wood veneer
+- [L-Shape Executive Desk](https://hymebel.com/en/products/office-ca-01/) — category: office-furniture; material: Solid wood walnut top, E1-class HDF base
+- [Wooden Executive Desk with Storage](https://hymebel.com/en/products/office-ca-02/) — category: office-furniture; material: Wooden top with leather desk pad, E1-class HDF base
+- [Leather-Top Executive Desk](https://hymebel.com/en/products/office-ca-03/) — category: office-furniture; material: Cassia Siamea wood with black metalwork, leather desktop
+- [Executive Desk with Leather Inlay](https://hymebel.com/en/products/office-ca-04/) — category: office-furniture; material: Wooden top with bonded leather inlay, stainless steel baffle, metal-interior base
+- [10-Person Conference Table](https://hymebel.com/en/products/office-ca-05/) — category: office-furniture; material: Wooden top with paint board cover
+- [12-Person Conference Table](https://hymebel.com/en/products/office-ca-06/) — category: office-furniture; material: Wooden top with metal edge and perforated steel leg panels
+- [Meeting Table 4200×1600 mm (Wood)](https://hymebel.com/en/products/office-ca-07/) — category: office-furniture; material: Wooden top, E1-class HDF base
+- [Meeting Table 3800×1400 mm (Wood)](https://hymebel.com/en/products/office-ca-08/) — category: office-furniture; material: Wooden top, E1-class HDF base
+- [Corporate Lobby Reception Desk](https://hymebel.com/en/products/office-ca-09/) — category: office-furniture; material: Engineered stone / marble-effect solid surface front; HPL, wood veneer or solid surface worktop on engineered wood or metal frame
+- [Luxury Reception Front Desk](https://hymebel.com/en/products/office-ca-10/) — category: office-furniture; material: Laminate board
+- [Four-Person Workstation (Bamboo Desktop)](https://hymebel.com/en/products/office-ca-11/) — category: office-furniture; material: Particle board top, E1-class particle board base
+- [Modular Filing Cabinet & Bookshelf](https://hymebel.com/en/products/office-ca-12/) — category: office-furniture; material: Wooden, PVC + stainless steel, steel + MDF
+- [University Student Desk & Chair (Wood Finish)](https://hymebel.com/en/products/edu-ca-01/) — category: education-furniture; material: HPL tabletop with anti-scratch and anti-microbial finish; heavy-duty cold-rolled steel frame with powder coating
+- [Teacher Desk & Podium](https://hymebel.com/en/products/edu-ca-02/) — category: education-furniture; material: E1 eco-friendly MDF with melamine finish; 1.5 mm powder-coated cold-rolled steel frame
+- [Open-Concept Library Shelving](https://hymebel.com/en/products/edu-ca-03/) — category: education-furniture; material: Cold-rolled carbon steel uprights with E0 MDF or solid wood veneer shelves
+- [Dormitory Bunk Bed](https://hymebel.com/en/products/edu-ca-04/) — category: education-furniture; material: Cold-rolled steel frame (1.2 mm) with E0-grade MDF panels
+- [Adjustable Student Desk & Chair](https://hymebel.com/en/products/edu-ca-05/) — category: education-furniture; material: 1.5 mm oval cold-rolled steel tubing; fireproof anti-scratch laminate desktop; E1-grade boards
+- [Lecture Hall Desk](https://hymebel.com/en/products/edu-ca-06/) — category: education-furniture; material: E1-grade fire-retardant wooden panel surface; 2.5 mm reinforced carbon steel pedestals
+- [Multi-Functional Library Bookshelf](https://hymebel.com/en/products/edu-ca-07/) — category: education-furniture; material: 2.0 mm cold-rolled steel frame or high-density MDF; solid wood options
+- [Student Dormitory Bunk Bed](https://hymebel.com/en/products/edu-ca-08/) — category: education-furniture; material: 1.5-2.0 mm cold-rolled steel frame; E1-grade MDF panels; solid wood options
+- [K-12 Science Lab Workstation](https://hymebel.com/en/products/edu-ca-09/) — category: education-furniture; material: Chemical-resistant epoxy resin or phenolic resin worktop; powder-coated 16-gauge steel frame
+- [Central Science Lab Island](https://hymebel.com/en/products/edu-ca-10/) — category: education-furniture; material: Solid epoxy resin or phenolic resin worktop; 1.5 mm powder-coated cold-rolled steel frame
+- [Classroom Desk & Chair Set](https://hymebel.com/en/products/edu-ca-11/) — category: education-furniture; material: High-density MDF or fireproof board; 1.2-1.5 mm cold-rolled steel tubing
+- [Double Student Desk (Ergonomic)](https://hymebel.com/en/products/edu-ca-12/) — category: education-furniture; material: Scratch-resistant HPL desktop; 1.5 mm cold-rolled steel frame; smooth PVC rounded edging
+- [ABS Bedside Cabinet](https://hymebel.com/en/products/med-ca-01/) — category: healthcare-furniture; material: Aluminum frame with ABS plastic
+- [Lab Bench with Sink & Drawers](https://hymebel.com/en/products/med-ca-02/) — category: healthcare-furniture; material: AISI 304 stainless steel; multiple worktop options (chemical resistant, ESD, phenolic resin, epoxy resin, HDPE etc.)
+- [Adjustable Recovery Couch](https://hymebel.com/en/products/med-ca-03/) — category: healthcare-furniture; material: Steel frame with thick reinforced upholstery
+- [Hydraulic Treatment Table](https://hymebel.com/en/products/med-ca-04/) — category: healthcare-furniture
+- [Gynecological Examination Table](https://hymebel.com/en/products/med-ca-05/) — category: healthcare-furniture; material: Stainless steel; mechanical power source
+- [Recovery Injection Chair with IV Pole](https://hymebel.com/en/products/med-ca-06/) — category: healthcare-furniture; material: Water-proof leather, high density foam, steel frame (powder-coated)
+- [3-Seater Waiting Room Bench](https://hymebel.com/en/products/med-ca-07/) — category: healthcare-furniture; material: High-quality die-cut alloy steel, silver color
+- [Custom Nurse Station Counter](https://hymebel.com/en/products/med-ca-08/) — category: healthcare-furniture; material: Physiochemical panel, electrolytic steel plate, HPL, wood panel
+- [Hospital 3-Door Steel Wardrobe](https://hymebel.com/en/products/med-ca-09/) — category: healthcare-furniture; material: High-quality cold-rolled steel (SPCC); phosphorus-free electrostatic coating
+- [Stainless Steel Medication Cabinet](https://hymebel.com/en/products/med-ca-10/) — category: healthcare-furniture; material: Metal, stainless steel
+- [Exam Room Cabinet with Sink](https://hymebel.com/en/products/med-ca-11/) — category: healthcare-furniture; material: Stainless steel
+- [Medical Treatment Cart](https://hymebel.com/en/products/med-ca-12/) — category: healthcare-furniture; material: Aluminum, steel and ABS engineering plastic structure
+- [Hotel Reception Desk 3600 mm (Sintered Stone Top)](https://hymebel.com/en/products/hotel-ca-13/) — category: hotel-furniture; material: E0 grade MDF & wood veneer body, Italian white sintered stone countertop
+- [Hotel Mini-bar Cabinet (Walnut & Marble, Fridge)](https://hymebel.com/en/products/hotel-ca-14/) — category: hotel-furniture; material: North American walnut veneer body, built-in 40L silent thermoelectric fridge
+- [Curved Velvet & Leather Lounge Chair for Hotel Lobbies](https://hymebel.com/en/products/hotel-ca-15/) — category: hotel-furniture; material: Kiln-dried hardwood & steel frame, high-density foam with velvet upholstery; genuine leather optional
+- [Solid Wood Wardrobe with LED Lighting](https://hymebel.com/en/products/home-ca-13/) — category: villa-residential; material: E1-grade solid wood / MDF core with walnut veneer, anti-scratch and moisture-resistant
+- [Floating TV Media Wall with Marble Console](https://hymebel.com/en/products/home-ca-15/) — category: villa-residential; material: E0 plywood / MDF with natural wood veneer (walnut, oak, ash or teak)
+- [Curved Modular Sectional Sofa](https://hymebel.com/en/products/home-ca-14/) — category: villa-residential; material: Kiln-dried solid birch frame with engineered wood panels and reinforced steel brackets; commercial-grade anti-stain velvet or leather upholstery
+- [Two-Person Back-to-Back Workstation](https://hymebel.com/en/products/office-ca-13/) — category: office-furniture; material: Particle board desktop with metal frame and fabric privacy screen; worksurface thickness 60 mm
+- [High-Back Conference Chair (Aluminum Base)](https://hymebel.com/en/products/office-ca-14/) — category: office-furniture; material: Die-cast ADC12 aluminum alloy frame, high-density molded foam, top-grain leather or eco-leather upholstery
+- [Leather Office Sofa for Reception Lounge](https://hymebel.com/en/products/office-ca-15/) — category: office-furniture; material: Kiln-dried solid eucalyptus wood frame with high-density sponge and sinuous springs; top-grain leather upholstery
+- [Tiered Lecture Hall Seating with Writing Tablet](https://hymebel.com/en/products/edu-ca-13/) — category: education-furniture; material: High-density virgin polypropylene (PP) shell; 2.0mm cold-rolled steel tubing frame with powder coating
+- [Dormitory Wardrobe Cabinet with Lock (E1)](https://hymebel.com/en/products/edu-ca-14/) — category: education-furniture; material: E1-grade melamine faced MDF / particle board with steel reinforcements; 18mm main frame, 9mm back panel
+- [Library Group Reading Table (8 Seats)](https://hymebel.com/en/products/edu-ca-15/) — category: education-furniture; material: E0-grade MDF with oak / walnut natural wood veneer; solid wood legs with heavy-duty steel core
+- [Aluminum Shower Chair with Backrest](https://hymebel.com/en/products/med-ca-13/) — category: healthcare-furniture; material: Aluminum
+- [Hospital Stretcher Trolley Bed (Wheeled)](https://hymebel.com/en/products/med-ca-14/) — category: healthcare-furniture; material: Plastic, ABS Plastic with aluminum alloy frame
+- [Height-Adjustable Overbed Table](https://hymebel.com/en/products/med-ca-15/) — category: healthcare-furniture; material: Welded tubular steel H-style base with wood-grain tabletop
+
+## Guides (English pages)
+
+- [Importing Furniture from China: MOQ and Price Guide for Importers](https://hymebel.com/en/blog/moq-pricing-guide/) — How MOQ forms at a Chinese furniture factory, what drives the unit price, and how rail and sea freight shape landed cost — a plain guide for importers.
+- [Solid Wood vs Veneer: Which Survives Central Asia's Climate Better?](https://hymebel.com/en/blog/solid-wood-vs-veneer/) — Solid wood or veneer for Central Asia's dry continental climate? Lifespan, maintenance and price compared, plus the hybrid build we recommend.
+- [Hotel Lobby Furniture Trends 2026: Central Asia](https://hymebel.com/en/blog/hotel-lobby-trends-2026/) — Hotel lobby trends for 2026: statement marble and wood pieces, contract-grade durability and the Kazakhstan–Uzbekistan taste divide — a review by Hymebel.
+- [Office Furniture in Astana: B2B Procurement Guide 2026](https://hymebel.com/en/blog/office-furniture-astana/) — How to buy office furniture in Astana: cost per workstation, EAC documents, a 30–45 day production window and delivery — a guide from Hymebel's factory floor.
+- [School Furniture Standards in Kazakhstan and Bulk Buying](https://hymebel.com/en/blog/school-furniture-standards-kz/) — Furniture standards for Kazakh schools: EAC TR CU 025/2011, ergonomic height norms, bulk buying by classroom set and a 30–45 day production window — a guide by Hymebel.
+- [Full-Wall Custom Wardrobes in Almaty & Astana: 2026 Guide](https://hymebel.com/en/blog/custom-wardrobes-almaty/) — How full-wall custom wardrobes are priced in Almaty and Astana, plus how to choose panels, hardware and measuring service. Get a free quote from Hymebel today.
+- [EAC TR CU 025/2011 Furniture Certification: Buyer's Guide](https://hymebel.com/en/blog/eac-guide/) — What EAC TR CU 025/2011 is, who needs it, which documents are required and what most often delays customs — the complete buyer's guide by Hymebel.
+- [Hotel FF&E Procurement Timeline: Why 12 Months Saves Cost](https://hymebel.com/en/blog/ffe-timeline/) — FF&E started 12 months out costs less: design, sampling, production, freight, installation. See the month-by-month plan and the price of starting late — plan your hotel procurement with Hymebel.
+- [Five-Star Hotel Guestroom FF&E Checklist: 2026 Guide](https://hymebel.com/en/blog/guestroom-checklist/) — The complete five-star guestroom FF&E checklist: bed, headboard, desk, wardrobe, luggage rack, curtain box and more. Nothing missing at installation — check your room list with Hymebel today.
+- [China to Tashkent Furniture Logistics: The 9-10 Day Rail Guide](https://hymebel.com/en/blog/logistics-tashkent-9days/) — Compare shipping routes from China to Tashkent: rail in 9-10 days, TIR trucking in 5-7 days, sea plus land. Order with full EAC documents from Hymebel.
+- [Marble Dining Tables in Tashkent: 8-10 Seater Buying Guide](https://hymebel.com/en/blog/marble-dining-tables-tashkent/) — Choosing a marble dining table for a large family in Tashkent: natural marble vs sintered stone, size matching and care. Request a quote from Hymebel today.
+- [Uzbekistan Hotel Boom 2026: FF&E Opportunities for Suppliers](https://hymebel.com/en/blog/uz-hotels-2026/) — 2026 industry research counts about 1,380 hotels under construction or planning in Uzbekistan. See what the hotel boom means for FF&E buyers — and secure your production slot early with Hymebel.
+
+## Optional
+
+- [Selected projects](https://hymebel.com/en/cases/) — 1,000+ projects in 50+ countries, including Hilton Tashkent; hotel, office, education and residential cases
+- [About Hymebel](https://hymebel.com/en/about/) — company history, factory capability, certifications, international projects
+- [Request a quote](https://hymebel.com/en/contact/) — free proposal within 48 hours
+- [Sitemap](https://hymebel.com/sitemap.xml)

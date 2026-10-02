@@ -1,0 +1,15 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://hymebel.com/sitemap.xml
+Sitemap: https://hymebel.com/sitemap-kk.xml
+Sitemap: https://hymebel.com/sitemap-uz.xml
+Sitemap: https://hymebel.com/sitemap-en.xml
+
+# AI / LLM crawlers: plain-text site summary for retrieval and answers
+# LLM summary: https://hymebel.com/llms.txt
+# RSS (kk): https://hymebel.com/rss-kk.xml
+# RSS (uz): https://hymebel.com/rss-uz.xml
+# RSS (en): https://hymebel.com/rss-en.xml
+
+Host: hymebel.com

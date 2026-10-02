@@ -173,6 +173,51 @@ const crumb = [{ name: pageName, href: localePath(lang, slug) }];
   {isContact && (
     <section class="section">
       <div class="wrap">
+        <div class="contact-people">
+          <article class="person">
+            <p class="person__role">{t("contact.primaryRole")}</p>
+            <h2 class="person__name">{company.primary.name}</h2>
+            <p class="person__title">{company.primary.title} · {company.primary.entity}</p>
+            <p class="person__tagline">{t("contact.tagline")}</p>
+            <ul class="person__list">
+              <li><span>{t("contact.lblTel")}</span><b>{company.tel}</b></li>
+              <li>
+                <span>{t("contact.lblMobile")}</span><b>
+                  <a href={`https://wa.me/${company.primary.mobile}`} target="_blank" rel="noopener">
+                    {company.primary.mobileDisplay}
+                  </a></b
+                >
+              </li>
+              <li>
+                <span>{t("contact.lblEmail")}</span><b>
+                  <a href={`mailto:${company.primary.email}`}>{company.primary.email}</a></b
+                >
+              </li>
+              <li>
+                <span>{t("contact.lblWeb")}</span><b>
+                  <a href={company.webUrl} target="_blank" rel="noopener">{company.web}</a></b
+                >
+              </li>
+              <li><span>{t("contact.lblAddress")}</span><b>{company.address}</b></li>
+            </ul>
+          </article>
+
+          <article class="person person--alt">
+            <p class="person__role">{t("contact.secondaryRole")}</p>
+            <h2 class="person__name">{company.secondary.name}</h2>
+            <p class="person__title">{t("contact.lblLangs")}: {t("contact.langsValue")}</p>
+            <p class="person__tagline">{t("contact.secondaryNote")}</p>
+            <ul class="person__list">
+              <li>
+                <span>{t("contact.lblEmail")}</span><b>
+                  <a href={`mailto:${company.secondary.email}`}>{company.secondary.email}</a></b
+                >
+              </li>
+            </ul>
+          </article>
+        </div>
+
+        <h2 class="form-title">{t("contact.formTitle")}</h2>
         <div class="contact-channels">
           <div class="channel">
             <strong>WhatsApp</strong>

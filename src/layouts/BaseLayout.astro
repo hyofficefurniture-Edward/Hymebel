@@ -48,17 +48,32 @@ const orgJsonLd = {
   foundingDate: company.founded,
   description:
     "Furniture manufacturer for hotel, office, villa, healthcare and education projects in Central Asia.",
-  email: company.email,
-  telephone: company.whatsapp,
+  email: company.primary.email,
+  telephone: company.primary.mobile,
+  address: {
+    "@type": "PostalAddress",
+    streetAddress: "No.1 Section, Heshan Industrial City",
+    addressLocality: "Jiangmen",
+    addressRegion: "Guangdong",
+    addressCountry: "CN",
+  },
   areaServed: ["Kazakhstan", "Uzbekistan", "Central Asia"],
   award: [`${company.certs} international certifications`, "EAC TR CU 025/2011 compliance"],
   contactPoint: [
     {
       "@type": "ContactPoint",
       contactType: "sales",
-      telephone: company.whatsapp,
-      email: company.email,
-      availableLanguage: ["kk", "uz", "ru", "en", "zh"],
+      name: company.primary.name,
+      telephone: company.primary.mobile,
+      email: company.primary.email,
+      availableLanguage: ["en", "zh"],
+    },
+    {
+      "@type": "ContactPoint",
+      contactType: "customer support",
+      name: company.secondary.name,
+      email: company.secondary.email,
+      availableLanguage: ["kk", "uz", "ru"],
     },
   ],
 };

@@ -173,6 +173,7 @@ details.faq p { margin: 10px 0 0; font-size: 0.94rem; color: var(--color-text); 
 
 .case-band { display: grid; grid-template-columns: 1fr 1.1fr; gap: 32px; align-items: center; }
 .case-band__img { width: 100%; border-radius: var(--radius); box-shadow: var(--shadow); object-fit: cover; aspect-ratio: 4 / 3; }
+.case-card__loc { font-size: 0.82rem; color: var(--color-muted); margin-top: 4px; }
 @media (max-width: 800px) { .case-band { grid-template-columns: 1fr; } }
 
 /* ── 站内页 ── */

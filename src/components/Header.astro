@@ -22,6 +22,7 @@ const navItems = [
     dropdown: categories.map((c) => ({ href: localePath(lang, c.slug), label: c.name[lang], icon: c.icon, slug: c.slug })),
   },
   { href: localePath(lang, blogSlug), slug: blogSlug, key: "nav.blog", dropdown: null },
+  { href: localePath(lang, "cases"), slug: "cases", key: "nav.cases", dropdown: null },
   { href: localePath(lang, about.slug), slug: about.slug, key: "nav.about", dropdown: null },
   { href: localePath(lang, contactPage.slug), slug: contactPage.slug, key: "nav.contact", dropdown: null },
 ];

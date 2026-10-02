@@ -15,6 +15,7 @@ const blogSlug = "blog";
 const productLinks = categories.map((c) => ({ href: localePath(lang, c.slug), label: c.name[lang] }));
 const companyLinks = [
   { href: localePath(lang), label: t("nav.home") },
+  { href: localePath(lang, "cases"), label: t("nav.cases") },
   { href: localePath(lang, about.slug), label: about.name[lang] },
   { href: localePath(lang, about.slug) + "#factory", label: t("footer.factory") },
   { href: localePath(lang, contactPage.slug), label: t("nav.contact") },

@@ -1,0 +1,59 @@
+---
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import { useTranslations, localePath } from "../../i18n/utils";
+import { cases } from "../../data/cases";
+import { locales, type Lang } from "../../i18n/ui";
+
+export function getStaticPaths() {
+  return locales.map((lang) => ({ params: { lang } }));
+}
+
+const { lang } = Astro.params as { lang: Lang };
+const t = useTranslations(lang);
+const crumb = [{ name: t("nav.cases"), href: localePath(lang, "cases") }];
+---
+
+<BaseLayout lang={lang} title={`${t("cases.h")} · Hymebel`} description={t("cases.lead")} slug="cases" ogImage={cases[0]?.image} breadcrumb={crumb}>
+  <section class="page-head">
+    <div class="wrap">
+      <p class="breadcrumb">
+        <a href={localePath(lang)}>{t("nav.home")}</a> / {t("nav.cases")}
+      </p>
+      <h1>{t("cases.h")}</h1>
+      <p class="section__lead">{t("cases.lead")}</p>
+    </div>
+  </section>
+
+  <section class="section" style="padding-top:36px">
+    <div class="wrap">
+      <div class="grid grid--3" style="margin-top:22px">
+        {cases.map((c) => (
+          <article class="blog-card blog-card--visual case-card">
+            <img class="blog-card__img" src={c.image} alt={c.imageAlt[lang]} loading="lazy" width="800" height="600" />
+            <div class="blog-card__body">
+              <span class="blog-card__tag">{c.industry[lang]}</span>
+              <span class="blog-card__title">{c.title[lang]}</span>
+              <span class="blog-card__excerpt">{c.scope[lang]}</span>
+              <span class="case-card__loc">📍 {c.location[lang]}</span>
+            </div>
+          </article>
+        ))}
+      </div>
+      <p class="prose" style="margin-top:26px;color:var(--color-muted);font-size:0.88rem">{t("cases.note")}</p>
+      <p style="margin-top:22px">
+        <a class="btn btn--primary" href={localePath(lang, "contact")}>{t("hero.ctaPrimary")}</a>
+      </p>
+    </div>
+  </section>
+
+  <section class="section section--surface">
+    <div class="wrap">
+      <div class="stats">
+        <div class="stat"><div class="stat__value">1000+</div><div class="stat__label">{t("stat.projects")}</div></div>
+        <div class="stat"><div class="stat__value">300 000 m²</div><div class="stat__label">{t("stat.factory")}</div></div>
+        <div class="stat"><div class="stat__value">50+</div><div class="stat__label">{t("stat.countries")}</div></div>
+        <div class="stat"><div class="stat__value">30-45</div><div class="stat__label">{t("stat.leadtime")}</div></div>
+      </div>
+    </div>
+  </section>
+</BaseLayout>

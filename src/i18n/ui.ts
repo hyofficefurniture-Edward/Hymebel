@@ -20,6 +20,14 @@ const kk: Dict = {
   "nav.education": "Білім беру жиһазы",
   "nav.contact": "Байланыс",
   "nav.about": "Біз туралы",
+  "nav.cases": "Жобалар",
+
+  "cases.h": "Таңдаулы жобалар",
+  "cases.lead":
+    "50-ден астам елде 1000-нан астам жоба жүзеге асырылды. Төменде — Орталық Азиядағы жобалардың таңдамалысы: қонақүйлер, кеңселер, білім беру мекемелері және тұрғын үйлер.",
+  "cases.note":
+    "Кейбір тапсырыс берушілердің өтініші бойынша жобалардың бір бөлігі жинақталған сипаттамамен ұсынылған. Толық фотоесептер мен материал сертификаттарын байланыс орнатқаннан кейін ұсынуға болады.",
+  "stat.leadtime": "күн өндіріс (жөнелтуге дейін)",
 
   "site.tagline": "Hongye Furniture Group · Орталық Азия",
   "hero.eyebrow": "Қазақстан · Өзбекстан · Орталық Азия",
@@ -32,6 +40,8 @@ const kk: Dict = {
   "stat.since": "1996 жылдан бері",
   "stat.projects": "жоба",
   "stat.factory": "м² өндіріс алаңы",
+  "stat.since": "жылдан бері нарықта",
+  "stat.workers": "жұмысшы өндірісте",
   "stat.countries": "ел",
   "stat.certs": "халықаралық сертификат",
 
@@ -143,8 +153,8 @@ const kk: Dict = {
   "about.story.p":
     "Hongye Furniture Group 1996 жылы Қытайдың Гуандун провинциясында құрылды. Шамамен 30 жылдық өндірістік тәжірибе негізінде топ Hymebel бренді арқылы Орталық Азия нарығына зауыттық бағамен тікелей жеткізуді ұсынады: жобалау, өндіріс, логистика және монтаж бір ғана жауапкершілікте.",
   "about.factory.h": "Өндіріс базасы",
-  "about.factory.p":
-    "300 000 м² өндіріс алаңы, 1000-нан астам жұмысшы, заманауи CNC желілері, плита цехы, фарфор және металл өңдеу, сапа бақылауы және экспорттық орау — толық цикл бір алаңда.",
+  "about.factory.lead":
+    "Бір алаңда толық цикл: 300 000 м² зауыт, 1000-нан астам жұмысшы, автоматтандырылған кесу және CNC желілері, плита, металл және тігіні цехтары, сапа бақылауы және экспорттық орау. Мұндай масштаб жобалық тапсырыстарды 30-45 күнде орындауға және әр партияның сапасын бірдей ұстауға мүмкіндік береді.",
   "about.certs.h": "Сертификаттар мен сапа",
   "about.certs.p":
     "8 халықаралық сертификат, EAC TR CU 025/2011 сәйкестігі. Әр жобалық жөнелту фотоесеппен және материалдық сертификаттармен толықтырылады.",
@@ -172,6 +182,7 @@ const kk: Dict = {
   "blog.back": "Блогқа оралу",
   "blog.latest.h": "Соңғы мақалалар",
   "blog.latest.cta": "Барлық мақалалар →",
+  "home.cases.cta": "Барлық жобаларды көру →",
 };
 
 const uz: Dict = {
@@ -183,6 +194,14 @@ const uz: Dict = {
   "nav.education": "Ta'lim mebeli",
   "nav.contact": "Aloqa",
   "nav.about": "Biz haqimizda",
+  "nav.cases": "Loyihalar",
+
+  "cases.h": "Tanlangan loyihalar",
+  "cases.lead":
+    "50 dan ortiq davlatda 1000 dan ortiq loyiha amalga oshirildi. Quyida Markaziy Osiyodagi loyihalarning tanlamasi: mehmonxonalar, ofislar, ta'lim muassasalari va turar-joy obyektlari.",
+  "cases.note":
+    "Buyurtmachilarning iltimosiga ko'ra loyihalarning bir qismi umumlashtirilgan tavsif bilan taqdim etilgan. To'liq foto-hisobotlar va material sertifikatlari bilan tanishish uchun biz bilan bog'laning.",
+  "stat.leadtime": "kun ishlab chiqarish (yuborishgacha)",
 
   "site.tagline": "Hongye Furniture Group · Markaziy Osiyo",
   "hero.eyebrow": "Oʻzbekiston · Qozogʻiston · Markaziy Osiyo",
@@ -195,6 +214,8 @@ const uz: Dict = {
   "stat.since": "1996-yildan beri",
   "stat.projects": "loyiha",
   "stat.factory": "m² ishlab chiqarish maydoni",
+  "stat.since": "yildan beri bozorda",
+  "stat.workers": "ishchi ishlab chiqarishda",
   "stat.countries": "davlat",
   "stat.certs": "xalqaro sertifikat",
 
@@ -307,8 +328,8 @@ const uz: Dict = {
   "about.story.p":
     "Hongye Furniture Group 1996-yilda Xitoyning Guandun provinsiyasida tashkil etilgan. 30 yilga yaqin ishlab chiqarish tajribasi asosida guruh Hymebel brendi orqali Markaziy Osiyo bozoriga zavod narxlarida to'g'ridan-to'g'ri yetkazib berishni taklif qiladi: loyihalash, ishlab chiqarish, logistika va o'rnatish bitta javobgarlikda.",
   "about.factory.h": "Ishlab chiqarish bazasi",
-  "about.factory.p":
-    "300 000 m² ishlab chiqarish maydoni, 1000 dan ortiq ishchi, zamonaviy CNC liniyalari, plita sexi, metallga ishlov berish, sifat nazorati va eksport qadoqlash — to'liq tsikl bitta maydonda.",
+  "about.factory.lead":
+    "Bitta maydonda to'liq tsikl: 300 000 m² zavod, 1000 dan ortiq ishchi, avtomatlashtirilgan kesish va CNC liniyalari, plita, metall va tikuv sexlari, sifat nazorati va eksport qadoqlash. Bunday masshtab loyiha buyurtmalarini 30-45 kunda bajarish va har bir partiya sifatini bir xil darajada saqlash imkonini beradi.",
   "about.certs.h": "Sertifikatlar va sifat",
   "about.certs.p":
     "8 ta xalqaro sertifikat, EAC TR CU 025/2011 muvofiqligi. Har bir loyihaviy yuborish foto-hisobot va material sertifikatlari bilan to'ldiriladi.",
@@ -336,6 +357,7 @@ const uz: Dict = {
   "blog.back": "Blogga qaytish",
   "blog.latest.h": "So'nggi maqolalar",
   "blog.latest.cta": "Barcha maqolalar →",
+  "home.cases.cta": "Barcha loyihalarni ko'rish →",
 };
 
 const en: Dict = {
@@ -347,6 +369,14 @@ const en: Dict = {
   "nav.education": "Education Furniture",
   "nav.contact": "Contact",
   "nav.about": "About",
+  "nav.cases": "Projects",
+
+  "cases.h": "Selected projects",
+  "cases.lead":
+    "1,000+ projects delivered across 50+ countries. Below is a selection of Central Asian projects: hotels, offices, educational institutions and residential developments.",
+  "cases.note":
+    "Some projects are presented with generalized descriptions at the client's request. Full photo reports and material certificates are available upon request.",
+  "stat.leadtime": "days production (to dispatch)",
 
   "site.tagline": "Hongye Furniture Group · Central Asia",
   "hero.eyebrow": "Kazakhstan · Uzbekistan · Central Asia",
@@ -359,6 +389,8 @@ const en: Dict = {
   "stat.since": "Since 1996",
   "stat.projects": "projects",
   "stat.factory": "m² factory area",
+  "stat.since": "years in the market",
+  "stat.workers": "workers in production",
   "stat.countries": "countries",
   "stat.certs": "international certifications",
 
@@ -471,8 +503,8 @@ const en: Dict = {
   "about.story.p":
     "Hongye Furniture Group was founded in 1996 in Guangdong, China. Building on nearly 30 years of manufacturing experience, the group serves the Central Asia market under the Hymebel brand with direct factory pricing: design, production, logistics and installation under a single point of responsibility.",
   "about.factory.h": "Production base",
-  "about.factory.p":
-    "300,000 m² of production space, 1,000+ workers, modern CNC lines, panel shop, metal processing, quality control and export packing — a full cycle on one site.",
+  "about.factory.lead":
+    "A full cycle on one site: a 300,000 m² factory with 1,000+ workers, automated cutting and CNC lines, panel, metal and upholstery shops, quality control and export packing. This scale is what allows project orders to be completed in 30-45 days with consistent quality across every batch.",
   "about.certs.h": "Certifications & quality",
   "about.certs.p":
     "8 international certifications and EAC TR CU 025/2011 compliance. Every project shipment is backed by a photo report and material certificates.",
@@ -500,6 +532,7 @@ const en: Dict = {
   "blog.back": "Back to blog",
   "blog.latest.h": "Latest articles",
   "blog.latest.cta": "All articles →",
+  "home.cases.cta": "View all projects →",
 };
 
 export const ui: Record<Lang, Dict> = { kk, uz, en };

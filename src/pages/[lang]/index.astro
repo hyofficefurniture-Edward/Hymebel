@@ -2,6 +2,7 @@
 import BaseLayout from "../../layouts/BaseLayout.astro";
 import { useTranslations, localePath } from "../../i18n/utils";
 import { categories } from "../../data/categories";
+import { cases } from "../../data/cases";
 import { posts } from "../../data/blog";
 import { company, locales, type Lang } from "../../i18n/ui";
 
@@ -13,6 +14,7 @@ const { lang } = Astro.params as { lang: Lang };
 const t = useTranslations(lang);
 
 const faqs = [1, 2, 3, 4].map((i) => ({ q: t(`faq.${i}.q`), a: t(`faq.${i}.a`) }));
+const featuredCases = cases.slice(0, 3);
 
 const faqJsonLd = {
   "@context": "https://schema.org",
@@ -102,13 +104,22 @@ const latestPosts = posts.slice(0, 3);
 
   <section class="section">
     <div class="wrap">
-      <div class="case-band">
-        <img class="case-band__img" src="/images/proyectos/hotel-suite.webp" alt={t("case.imgAlt")} loading="lazy" width="800" height="600" />
-        <div class="case-band__body">
-          <h2>{t("case.title")}</h2>
-          <p class="prose">{t("case.body")}</p>
-        </div>
+      <h2>{t("cases.h")}</h2>
+      <p class="section__lead">{t("cases.lead")}</p>
+      <div class="grid grid--3" style="margin-top:22px">
+        {featuredCases.map((c) => (
+          <article class="blog-card blog-card--visual case-card">
+            <img class="blog-card__img" src={c.image} alt={c.imageAlt[lang]} loading="lazy" width="800" height="600" />
+            <div class="blog-card__body">
+              <span class="blog-card__tag">{c.industry[lang]}</span>
+              <span class="blog-card__title">{c.title[lang]}</span>
+              <span class="blog-card__excerpt">{c.scope[lang]}</span>
+              <span class="case-card__loc">📍 {c.location[lang]}</span>
+            </div>
+          </article>
+        ))}
       </div>
+      <p style="margin-top:20px"><a class="btn btn--ghost" href={localePath(lang, "cases")}>{t("home.cases.cta")}</a></p>
     </div>
   </section>
 

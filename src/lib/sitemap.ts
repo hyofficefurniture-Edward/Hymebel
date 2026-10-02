@@ -8,6 +8,7 @@ export function urlset(lang: Lang, origin: string, lastmod: string): string {
   const paths = [
     `/${lang}/`,
     ...allSlugs.map((s) => `/${lang}/${s}/`),
+    `/${lang}/cases/`,
     ...products.map((p) => `/${lang}/products/${p.id}/`),
     `/${lang}/blog/`,
     ...posts.map((p) => `/${lang}/blog/${p.id}/`),

@@ -53,6 +53,7 @@ ${posts
 
 ## Optional
 
+- [Selected projects](${abs("/en/cases/")}) — 1,000+ projects in 50+ countries, including Hilton Tashkent; hotel, office, education and residential cases
 - [About Hymebel](${abs("/en/about/")}) — company history, factory capability, certifications, international projects
 - [Request a quote](${abs("/en/contact/")}) — free proposal within 48 hours
 - [Sitemap](${abs("/sitemap.xml")})

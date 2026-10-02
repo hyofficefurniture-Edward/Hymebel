@@ -7,3 +7,4 @@ _preview_site/
 _cand/
 _qc/
 _scrape/_rejected/
+.github/workflows/deploy.yml

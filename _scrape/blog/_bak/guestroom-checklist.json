@@ -1,0 +1,406 @@
+{
+ "id": "guestroom-checklist",
+ "tag": {
+  "kk": "Тізім",
+  "uz": "Ro'yxat",
+  "en": "Checklist"
+ },
+ "title": {
+  "kk": "Бес жұлдызды қонақүй бөлмесінің FF&E тізімі: 2026 нұсқаулығы",
+  "uz": "Besh yulduzli mehmonxona xonasi FF&E ro'yxati: 2026 qo'llanma",
+  "en": "Five-Star Hotel Guestroom FF&E Checklist: 2026 Guide"
+ },
+ "excerpt": {
+  "kk": "Бес жұлдызды қонақбөлменің толық FF&E тізімі: төсек, төсек басы, үстел, киім шкафы, жүк тірегі, занавес қорабы. Бірде-бір зат орнату кезінде жоқ болмас үшін — Hymebel тізімімен тексеріңіз.",
+  "uz": "Besh yulduzli mehmon xonasining to'liq FF&E ro'yxati: krovat, krovat etagi, stol, kiyim shkafi, chamadon tirqishi, pardaxon qutisi. O'rnatish kuni biror narsa yetmay qolmasin — Hymebel ro'yxati bilan tekshiring.",
+  "en": "The complete five-star guestroom FF&E checklist: bed, headboard, desk, wardrobe, luggage rack, curtain box and more. Nothing missing at installation — check your room list with Hymebel today."
+ },
+ "date": "2026-09-30",
+ "readingMin": 7,
+ "definition": {
+  "kk": "Бес жұлдызды қонақбөлме белгіленген FF&E жиынтығын қажет етеді: төсек және төсек басы, екі төсек бүйірі, жазу үстелі, киім шкафы немесе ашық гардероб, жүк тірегі, мини-бар тұғыры, занавес қорабы және отырғыш. Бұл тізім әр затты бөлек атап, орнату күні жоқ заттардың кенеттен ашылмауын қамтамасыз етеді.",
+  "uz": "Besh yulduzli mehmon xonasi aniq belgilangan FF&E to'plamini talab qiladi: krovat va krovat etagi, ikkita tunda stoli, yozish stoli, kiyim shkafi yoki ochiq garderob, chamadon tirqishi, minibar javoni, pardaxon qutisi va o'tirgich. Ushbu ro'yxat har bir buyumni alohida sanab, o'rnatish kunida hech narsa yetishmay qolmasligini ta'minlaydi.",
+  "en": "A five-star guestroom needs a defined FF&E set: bed and headboard, two nightstands, a writing desk, a wardrobe or open closet, a luggage rack, a minibar counter, curtain boxes and seating. This checklist itemises each piece so nothing is discovered missing at installation."
+ },
+ "takeaways": {
+  "kk": [
+   "Бес жұлдызды бөлменің негізі — төсек блогы: күнделікті жүктемеге арналған бекітілген негізі мен қапталған төсек басы.",
+   "Сақтау аймағы 180–240 см киім шкафы, ішкі сейф, аяқкиім сөресі мен жүк тірегін қамтиды.",
+   "Жұмыс аймағы — кемінде 120 см үстел, кабель тесігі және жұмсақ орындық.",
+   "Қараңғылатқыш занавес пен тунук перде бір жасырын қорапта тұруы керек — төсектен механизм көрінбеуі керек.",
+   "Сапа — бөлменің емес, зауыттың мәселесі: 300 000 м² өндіріс және ағындық бақылау 40-шы партияның 1-шісіне сәйкес келуін қамтамасыз етеді."
+  ],
+  "uz": [
+   "Besh yulduzli xonaning asosi krovat bloki: kundalik yuklamaga mo'ljallangan mustahkam asos va mato bilan qoplangan krovat etagi.",
+   "Saqlash maydoni 180–240 sm kiyim shkafi, ichki seyf, poyafzal javoni va chamadon tirqishini o'z ichiga oladi.",
+   "Ish maydoni: kamida 120 sm stol, kabel teshigi va yumshoq o'rinli stul.",
+   "Qoraytiruvchi parda va shaffof tilla bir yashirin qutida bo'lishi kerak — krovatdan mexanizm ko'rinmasligi lozim.",
+   "Sifat xona emas, zavod masalasi: 300 000 m² ishlab chiqarish va uzluksiz nazorat 40-partiyaning 1-partiyaga to'g'ri kelishini ta'minlaydi."
+  ],
+  "en": [
+   "The core of a five-star room is the bed block: a reinforced platform base and fully upholstered headboard built for daily hotel duty.",
+   "Storage covers a 180–240 cm wardrobe run, an in-room safe, a shoe rack and a luggage rack or bench.",
+   "The work zone is a desk of at least 120 cm with a cable grommet and an upholstered chair with non-marking glides.",
+   "Blackout and sheer curtains must share one concealed curtain box — no mechanism visible from the bed.",
+   "Consistency is a factory question, not a design question: 300,000 m² of production and inline QC make batch 40 match batch 1."
+  ]
+ },
+ "sections": [
+  {
+   "h": {
+    "kk": "Ұйықтау аймағы: төсек, төсек басы және төсек бүйірлері",
+    "uz": "Uxlash zonasi: krovat, krovat etagi va tunda stallari",
+    "en": "The sleeping zone: bed, headboard and nightstands"
+   },
+   "paras": {
+    "kk": [
+     "Төсек — бөлмедегі ең үлкен зат және қонақ бірінші бағалайтын нәрсе. Бес жұлдызды спецификацияда әдетте толық қапталған төсек басы бар король төсегі немесе қос орындық төсек, күшейтілген негіз және төсек басына кірістірілген розетка мен оқу шамы сұралады. Төсек жақтауы бөлмедегі басқа жиһазбен бір ағаш текстурасында болуы керек.",
+     "Төсек бүйірлері өлшемінен көп қызмет атқарады: бір жәшік, ашық сөре, розеткалар мен шөлмеге, телефонға жеткілікті терең бет. Hymebel-де төсек бүйірінің электр сымдарын бөлменің электр жоспарына сәйкес жасаймыз — Hilton Tashkent жеткізуінде инспекция дәл осыны талап еткен түйіндер.",
+     "Матрас негіздері көрінбейтін жағымен қатар инженериялық назарды лайық. Қонақүй платформалары жылдарға созылатын түнгі пайдалануға есептеледі: бұрыштық бекітпелер, матрас астында ауа айналымын сақтайтын рейка жүйесі және тазалау жабдығы із қалдырмайтын аяқтар. Қонақ бұл қабатты ешқашан көрмейді; оның жоқтығын ғана сезінеді."
+    ],
+    "uz": [
+     "Krovat xonadagi eng katta buyum va mehmon birinchi bo'lib aynan shuni baholaydi. Besh yulduzli spetsifikatsiyada odatda to'liq mato bilan qoplangan krovat etagi bilan keng krovat yoki ikki o'rinli variant, mustahkamlangan platforma asosi hamda etagiga o'rnatilgan rozetka va o'qish chiroqi talab etiladi. Krovat romi xonadagi qolgan mebel bilan bir xil venier ohangida bo'lishi shart.",
+     "Tunda stallari o'lchamidan katta vazifa o'taydi: bir tortma, ochiq javon, rozetkalar va idish hamda telefon uchun yetarli chuqur yuza. Hymebelda tunda stolining simlari xonaning elektr rejasiga moslab chiqiladi — Hilton Tashkent yetkazishida tekshiruv aynan shu detallarga qat'iy e'tibor berdi.",
+     "Matras asoslari ko'rinmas qismi bilan birga muhandislik e'tiboriga loyiq. Mehmonxona platformalari yillar davom etadigan tunlik foydalanishga hisoblanadi: burchak mustahkamlovchilari, matras ostida havo aylanishini saqlaydigan reyka tizimi va tozalash uskunasi iz qoldirmaydigan oyoqlar. Mehmon bu qatlamni hech qachon ko'rmaydi; faqat yo'qligini sezadi."
+    ],
+    "en": [
+     "The bed is the largest object in the room and the one guests judge first. Five-star specifications typically call for a king bed or twin splits with a fully upholstered headboard, a reinforced platform base, and integrated power and reading-light wiring in the headboard panel. The bed frame should carry the same veneer language as the rest of the room so the sleeping zone reads as one composition.",
+     "Nightstands carry more function than their size suggests: a drawer, an open shelf, power outlets and a surface deep enough for a carafe and a phone. At Hymebel we build nightstand wiring to the room's electrical layout, which is one of the details our Hilton Tashkent delivery had to satisfy at operator inspection.",
+     "Mattress bases deserve the same engineering attention as the visible headboard. Hotel platforms are built for turnover measured in years of nightly use, with corner reinforcements, slat systems that keep airflow under the mattress, and legs that accept housekeeping equipment without scuffing. A guest never sees this layer; they only ever feel its absence."
+    ]
+   }
+  },
+  {
+   "h": {
+    "kk": "Сақтау аймағы: киім шкафы, ашық гардероб, сейф және жүк тірегі",
+    "uz": "Saqlash zonasi: kiyim shkafi, ochiq garderob, seyf va chamadon tirqishi",
+    "en": "Storage: wardrobe, open closet, safe and luggage rack"
+   },
+   "paras": {
+    "kk": [
+     "Бес жұлдызды киім шкафы — әдетте ішкі жарығы бар ілгіш бөлім, сөрелер, аяқкиім сөресі мен бөлмелік сейфті біріктіретін 180–240 см жиынтық. Жоспары тар болғанда, толық бой көзделетін айнамен ашық гардероб сақтау орнын сақтай отырып, бөлмеге жеңілдік береді.",
+     "Жүк тірегі немесе орындық-ұзынша кішкентай, бірақ үнемі қолданылатын зат. Бүктелетін тіреге еден алаңын сақтайды; шамамен 45 см биіктіктегі қапталған орындық-ұзынша отырғыш қызметін де атқарады. Әйтеуір, фурнитура күнделікті жүктемеге төтеп беруі керек — арзан жабдықтар алғашқы жылы осы жерде сынады.",
+     "Өлшемдер таңдаудан кем маңызды емес. Визуализацияда ауқымды көрінген киім шкафы 45 см есік ашылуы 60 см жүріс жолымен түйіссе, іс жүзінде жарамсыз болады — сондықтан өндірістен бұрын әр қонақбөлме жоспарын нақты бос кеңістікпен салыстырамыз. Жиһаз қызметке де инженерленеді: алынатын қаптамалар, ауыстырылатын тозатын беттер мен ұзақ сериялы фурнитура бесжылдық жаңартуды қайта құру емес, қарапайым жұмысқа айналдырады."
+    ],
+    "uz": [
+     "Besh yulduzli kiyim shkafi odatda ichki yorug'likka ega ilgich bo'limi, javonlar, poyafzal javoni va xonadagi seyfni birlashtirgan 180–240 sm uzunlikdagi to'plamdir. Joy tor bo'lsa, bo'y ko'zguli ochiq garderob xonaga yengillik baxsh etib, saqlash imkonini saqlaydi — mehmon ko'ziga sarf-xarajat qilmagan soddalik sifatida ko'rinadi.",
+     "Chamadon tirqishi yoki o'tirgich-bench kichik, lekin doim ishlatiladigan buyum. Yig'iladigan tirqish foydalanish maydonini tejaydi; taxminan 45 sm balandlikdagi qoplangan bench o'tirgich vazifasini ham bajaradi. Har holda, armatura kundalik yuklamaga chidashi kerak — sifatsiz fittinqlar aynan shu yerda birinchi yilda o'zini bildiradi.",
+     "O'lchamlar tanlovdan kam ahamiyatga ega emas. Vizualizatsiyada keng ko'ringan kiyim shkafi 45 sm eshik ochilishi 60 sm yurish joyi bilan tutashsa, amalda foydasiz bo'ladi — shuning uchun ishlab chiqarishdan oldin har bir mehmon xonasi rejasini haqiqiy bo'sh joy bilan solishtiramiz. Mebel xizmatga ham muhandislik qilinadi: olinadigan qoplamalar, almashtiriladigan eskiradigan yuzalar va uzoq seriyali armatura besh yillik yangilanishni qayta qurish emas, oddiy ishga aylantiradi."
+    ],
+    "en": [
+     "A five-star wardrobe is usually a 180–240 cm run combining a hanging section with internal lighting, shelves, a shoe rack and an in-room safe. Where the layout is tight, an open closet with a full-length mirror keeps the room visually light while preserving full storage — and reads to the guest as effortless rather than minimal.",
+     "The luggage rack or bench is small but constantly used. A folding rack saves floor space; an upholstered bench at about 45 cm height doubles as seating. Either way, hardware must survive daily commercial use — this is precisely where cheap fittings reveal themselves within the first year.",
+     "Dimensions matter as much as selection. A wardrobe that looks generous in renders can be unusable once a 45 cm door swing meets a 60 cm walkway, which is why we review every guestroom layout against real clearances before production. Casegoods are also engineered for service: removable panels, replaceable wear surfaces and hardware from long-running series turn a five-year refurbishment into a modest exercise rather than a rebuild."
+    ]
+   }
+  },
+  {
+   "h": {
+    "kk": "Жұмыс және демалыс: үстел, орындық және мини-бар тұғыры",
+    "uz": "Ish va tetiklik: stol, stul va minibar javoni",
+    "en": "Work and refreshment: desk, chair and minibar counter"
+   },
+   "paras": {
+    "kk": [
+     "Кемінде 120 см кабель тесігі мен сызылмайтын беті бар жұмыс үстелі және еденге ізді қалдырмайтын төгіші бар жұмсақ орындық бес жұлдызды бөлмелерде стандарт болып қала береді. Іссапармен келгендер оны күн сайын қолданады, ал тербелген үстел басқа кез келген заттан тез шағым тудырады.",
+     "Мини-бар тұғыры тас немесе ағаш әрлеулі бетті, кірістірілген тоңазытқыш ұясын, шәйнік науасы мен стақан орнын біріктіреді. Тоңазытқышты жиһазға жасыру бөлмені дыбыста да, көріністіде тыныш етеді — мұнымен шектен тыс безендірілмеген бес жұлдызды интерьердің қолтаңбасы.",
+     "Отырғыштар бөлмені толықтырады. Ықшам айналмалы орындық пен бүйір үстел қонаққа төсектен басқа екінші отыратын орын береді — бұл шынайы бес жұлдызды жоспарлаудың белгісі. Мата таңдау мұнда практикалық: даққа төзімді, жоғары тозуға шыдаитын орта реңкті маталар тазалау химиясына төзімді және қонақүйдің маркетингтік суреттерінде де әдемі көрінеді."
+    ],
+    "uz": [
+     "Kamida 120 sm, kabel teshigi va tirnalmaga chidamli yuzasi bo'lgan ish stoli hamda polga iz qoldirmaydigan g'ildirakchili yumshoq stul besh yulduzli xonalarda hozir ham standart hisoblanadi. Biznes safaridan kelgan mehmon uni har kuni ishlatadi; qimirlab turgan stol esa deyarli har qanday boshqa buyumdan tezroq shikoyat keltiradi.",
+     "Minibar javoni tosh yoki venier yuza, ichki korpusga o'rnatilgan muzlatgich uyi, choynik joyi va stakan saqlash joyini birlashtiradi. Muzlatgichni mebel ichiga yashirish xonani ham tovushda, ham ko'rinishda sokin qiladi — dabdabasiz, lekin bebaholab qo'shilgan besh yulduzli interierning imzosi shu detallarda yashirin.",
+     "O'tiriqlar xonani to'ldiradi. Ixcham yon stulli dam olish stuli mehmonga krovatdan tashqari ikkinchi o'tirish joyini beradi — bu haqiqiy besh yulduzli rejalashtirish belgisidir. Mato tanlovi bu yerda amaliy: dog'ga chidamli, yuqori ishqalanishga bardoshli o'rta rangdagi matlar tozalash kimyoviy vositalariga chidaydi va mehmonxona marketing suratlarida ham chiroyli chiqadi."
+    ],
+    "en": [
+     "A working desk of at least 120 cm with a cable grommet and an anti-scratch top, plus an upholstered chair with non-marking glides, remains the standard in five-star rooms. Business travelers use it daily, and a wobbly desk generates guest complaints faster than almost any other single item in the room.",
+     "The minibar counter combines a stone or veneer top, an integrated fridge cavity, a kettle tray and glassware storage. Concealing the fridge behind joinery keeps the room quiet in both sound and appearance — a signature of restrained five-star interiors where nothing announces itself unnecessarily.",
+     "Seating rounds out the room. A compact lounge chair and side table give the guest a second place to sit that is not the bed — a marker of true five-star planning. Fabric selection is practical here: stain-resistant, high-rub-count textiles in mid-tones survive housekeeping chemistry and still photograph well for the hotel's marketing."
+    ]
+   }
+  },
+  {
+   "h": {
+    "kk": "Бес жұлдызды инспекция әрдайым қандай егжей-тегжейді тексереді?",
+    "uz": "Besh yulduzli tekshiruv doim qanday detallarni ko'radi?",
+    "en": "Which details do five-star inspections always check?"
+   },
+   "paras": {
+    "kk": [
+     "Бренд пен басқарушы компанияның инспекциялары біртұтастыққа және әрлеу сапасына назар салады: барлық партиядағы бірдей ағаш текстурасы, тұрақты фурнитура, таза жиектеу және шынымен қараңғылататын занавестер. Занавес қорабы қараңғылатқыш пен тунук перденің екеуін де жасыруы керек — төсектен ешбір механизм көрінбеуі керек.",
+     "Бұл тізімде ешбір экөзоттикалық зат жоқ — қиындық жүздеген бөлмені бірдей сапада жеткізуде. Бұл дизайн мәселесі емес, зауыт мәселесі: 300 000 м² өндірістік кеңістік, 1 000-нан астам қызметкер және ағындық сапа бақылауы 40-шы партияның 1-шісіне сәйкес келуін қамтамасыз етеді.",
+     "Соңында, инспекциялар өзін құжаттайтын зауыттарды бағалайды. Қораптар бөлме нөмірлерімен нөмірленіп, әр затты орнымен сәйкестендірген орау тізімі мен жөнелту алдындағы сапа бақылауының фото жазбасы келгенде, қабылдаушы топ бір қабатты апталық емес, күндік мерзімде тазартады. Құжаттама — жиһаздың бір бөлігі."
+    ],
+    "uz": [
+     "Brend va boshqaruv kompaniyasining tekshiruvlari uyg'unlik va pardozlash sifatiga qaraydi: barcha partiyalarda bir xil venier rangi, mustahkam armatura, toza qirralar va haqiqiy qoraytiruvchi pardalar. Pardaxon qutisi qoraytiruvchi hamda shaffof tillaning ikkisini ham yashirishi kerak — krovatdan hech bir mexanizm ko'rinmasligi lozim.",
+     "Ushbu ro'yxatda hech qanday ekzotika yo'q — qiyinlik yuzlab xonani bir xil sifatda yetkazishda. Bu dizayn emas, zavod masalasi: 300 000 m² ishlab chiqarish maydoni, 1 000 dan ortiq xodim va uzluksiz sifat nazorati 40-partiyaning 1-partiyaga to'g'ri kelishini ta'minlaydi. Mehmon o'zgarishni sezmasligi kerak — biz esa ana shu birvallikni saqlashga intilamiz.",
+     "Nihoyat, tekshiruvlar o'zini hujjatlaydigan zavodlarni qadrlaydi. Qutilar xona raqamlari bilan raqamlanib, har bir buyumni o'rniga moslashtirgan yuklama ro'yxati va yuborish oldidan olingan sifat nazorati fotolari kelganda, qabul jamoasi bir qavatni hafta emas, kunlar ichida tozalaydi. Hujjat — mebelning bir qismi."
+    ],
+    "en": [
+     "Brand and operator inspections focus on consistency and finish: identical veneer color across all batches, stable hardware, clean edge banding, and blackout curtains that actually black out. Curtain boxes must conceal both the blackout and sheer tracks so that no mechanism is visible from the bed — the small detail inspectors pull out a chair for.",
+     "Nothing on this checklist is exotic — the difficulty is delivering hundreds of rooms at uniform quality. That is a factory question, not a design question: 300,000 m² of production space, 1,000+ workers and inline quality control are what make batch number 40 match batch number 1.",
+     "Finally, inspections reward factories that document themselves. When cartons arrive numbered to room numbers, with a packing list that maps every piece to its position and a photo record of pre-shipment QC, the receiving team clears a floor in days instead of weeks. Documentation is part of the furniture."
+    ]
+   }
+  },
+  {
+   "h": {
+    "kk": "Тізімнен тапсырысқа дейін",
+    "uz": "Ro'yxatdan buyurtmagacha",
+    "en": "From checklist to order"
+   },
+   "paras": {
+    "kk": [
+     "Бұл тізімді бөлме түрі бойынша көлем тізімдемесіне айналдырып, баға ұсынылуына жіберіңіз. Өндіріс 30–45 күн, Орталық Азияға жол 5–10 күн болғанда, 200 бөлмелік жоба мақұлданған үлгіден нысанға дейінгі жолды бір маусымда өтеді. Бөлме тізіміңізбен z@hysdfurniture.com немесе WhatsApp +86 18038813653 арқылы жазыңыз — біздің FF&E шешімдеріміз сіздің жоба бағдарламаңызға сәйкес орналастырылады.",
+     "Көлемді тапсырыстар кезеңдеуді де қажет етеді. Біз қабат-қабат орап, құрылыс тапсыруына сәйкес жеткізуді реттеп, кеш дизайн өзгерістері үшін қор ұстай аламыз — бәрі бір өндірістік жоспардан үйлестіріледі. Жоғарыдағы тізім сол әңгіменің бастамасы — оны бөлме саныңызбен жіберіңіз, қалғанын кесте сендіреді.",
+     "Есептеу қарапайым: бөлме саны, бөлме түрлері мен ашылу күні — осы үшеуі баға ұсынылуы үшін жеткілікті. Қалғаны — біздің жауапкершілігіміз: үлгіден соңғы бөлмеге дейінгі кестені біз ұстаймыз.",
+     "Анықтама ретінде: бұл тізім Hymebel-дің 1996 жылдан бері 300 000 м² зауытынан 1 000-нан астам жобада қонақүй бөлмелерін спецификациялау тәжірибесін көрсетеді — жоғарыдағы заттар далада тексерілген."
+    ],
+    "uz": [
+     "Ushbu ro'yxatni xona turlari bo'yicha hajm ro'yxatiga aylantirib, taklif uchun yuboring. Ishlab chiqarish 30–45 kun, Markaziy Osiyoga yo'l 5–10 kun bo'lgani uchun, 200 xonalik loyiha tasdiqlangan namunadan obyektgacha bir mavsumda yetib boradi. Xonalar ro'yxatingiz bilan z@hysdfurniture.com manziliga yoki WhatsApp +86 18038813653 raqamiga yozing — FF&E yechimlarimiz loyiha dasturingizga moslashadi.",
+     "Katta buyurtmalar bosqichlashni ham talab qiladi. Biz qavat-qavat qadoqlab, qurilish topshirig'iga mos yetkazishni tartibga solib, kech dizayn o'zgarishlari uchun zaxira saqlay olamiz — barchasi bitta ishlab chiqarish rejasidan muvofiqlashtiriladi. Yuqoridagi ro'yxat shu suhbatning boshlanishi — uni xonalar soningiz bilan yuboring, qolganini jadval isontiradi.",
+     "Ma'lumot uchun: ushbu ro'yxat Hymebelning 1996-yildan beri 300 000 m² lik zavodidan 1 000 dan ortiq loyihada mehmonxona xonalarini spetsifikatsiya qilish tajribasini aks ettiradi — yuqoridagi buyumlar maydonda sinovdan o'tgan."
+    ],
+    "en": [
+     "Turn this list into a bill of quantities by room type and send it for quotation. With production at 30–45 days and freight to Central Asia of 5–10 days, a 200-room project can move from approved samples to delivered furniture within a single season. Write to z@hysdfurniture.com or WhatsApp +86 18038813653 with your room list, and our FF&E solutions team will map each item of this checklist to your project program.",
+     "Bulk orders also deserve staging. We can pack floor-by-floor, sequence deliveries to match construction handover and hold buffer stock for late design changes, all coordinated from one production plan. The checklist above is the start of that conversation — send it with your room counts and let the schedule do the persuading.",
+     "For reference, this checklist reflects how Hymebel has specified hotel rooms since 1996 across 1,000+ projects from its 300,000 m² factory — the items above are field-proven, not theoretical."
+    ]
+   }
+  }
+ ],
+ "tables": [
+  {
+   "headers": {
+    "kk": [
+     "Зат",
+     "Спецификация ескертпесі",
+     "Әдеттегі саны / бөлме"
+    ],
+    "uz": [
+     "Buyum",
+     "Spetsifikatsiya izohi",
+     "Odatiy soni / xona"
+    ],
+    "en": [
+     "Item",
+     "Specification notes",
+     "Typical qty per room"
+    ]
+   },
+   "rows": {
+    "kk": [
+     [
+      "Төсегі мен төсек басы",
+      "Король немесе қос орындық; қапталған төсек басы, кірістірілген розетка мен оқу шамы",
+      "1"
+     ],
+     [
+      "Төсек бүйірлері",
+      "Жәшік + ашық сөре, розеткалар, сәйкес ағаш әрлеуі",
+      "2"
+     ],
+     [
+      "Жазу үстелі",
+      "Кемінде 120 см, кабель тесігі, сызылмайтын бет",
+      "1"
+     ],
+     [
+      "Үстел орындығы",
+      "Қапталған, еденге ізді қалдырмайтын төгіштер",
+      "1"
+     ],
+     [
+      "Киім шкафы / ашық гардероб",
+      "180–240 см жиын: ілгіш, сейф, аяқкиім сөресі, жарықты ілгіш",
+      "1"
+     ],
+     [
+      "Жүк тірегі / орындық-ұзынша",
+      "Бүктелетін немесе қапталған, шамамен 45 см биіктік",
+      "1"
+     ],
+     [
+      "Мини-бар тұғыры",
+      "Тас немесе ағаш бет, кірістірілген тоңазытқыш ұясы, шәйнік науасы",
+      "1"
+     ],
+     [
+      "Айналмалы орындық және бүйір үстел",
+      "Ықшам алаң, даққа төзімді матамен",
+      "1 жиынтық"
+     ],
+     [
+      "Занавес қорабы мен қараңғылатқыш",
+      "Қараңғылатқыш + тунук қос жол, жасырын қорап",
+      "1"
+     ],
+     [
+      "ТВ тумбасы",
+      "Желдету мен кабель басқаруы бар медиа тумба",
+      "1"
+     ]
+    ],
+    "uz": [
+     [
+      "Krovat va krovat etagi",
+      "Keng yoki ikki o'rinli; qoplangan etag, ichki rozetka va o'qish chiroqi",
+      "1"
+     ],
+     [
+      "Tunda stallari",
+      "Tortma + ochiq javon, rozetkalar, mos venier",
+      "2"
+     ],
+     [
+      "Yozish stoli",
+      "Kamida 120 sm, kabel teshigi, tirnalmaga chidamli yuza",
+      "1"
+     ],
+     [
+      "Stol stuli",
+      "Qoplangan, polga iz qoldirmaydigan g'ildirakchalar",
+      "1"
+     ],
+     [
+      "Kiyim shkafi / ochiq garderob",
+      "180–240 sm: ilgich, seyf, poyafzal javoni, yorug'likli shtanga",
+      "1"
+     ],
+     [
+      "Chamadon tirqishi / bench",
+      "Yig'iladigan yoki qoplangan, taxminan 45 sm balandlik",
+      "1"
+     ],
+     [
+      "Minibar javoni",
+      "Tosh yoki venier yuza, ichki muzlatgich uyi, choynik joyi",
+      "1"
+     ],
+     [
+      "Lobbiya stuli va yon stol",
+      "Ixcham o'lcham, dog'ga chidamli mato",
+      "1 to'plam"
+     ],
+     [
+      "Pardaxon qutisi va qoraytirgich",
+      "Qoraytiruvchi + shaffof ikki yo'lak, yashirin quti",
+      "1"
+     ],
+     [
+      "TV tumbasi",
+      "Ventilyatsiya va kabel boshqaruvi bilan media javon",
+      "1"
+     ]
+    ],
+    "en": [
+     [
+      "Bed base & headboard",
+      "King or twin split; upholstered headboard with integrated power and reading light",
+      "1"
+     ],
+     [
+      "Nightstands",
+      "Drawer + open shelf, power outlets, matching veneer",
+      "2"
+     ],
+     [
+      "Writing desk",
+      "Min. 120 cm, cable grommet, anti-scratch top",
+      "1"
+     ],
+     [
+      "Desk chair",
+      "Upholstered, non-marking glides",
+      "1"
+     ],
+     [
+      "Wardrobe / open closet",
+      "180–240 cm run: hanging rod with light, safe, shoe rack",
+      "1"
+     ],
+     [
+      "Luggage rack / bench",
+      "Folding or upholstered, approx. 45 cm height",
+      "1"
+     ],
+     [
+      "Minibar counter",
+      "Stone or veneer top, integrated fridge cavity, kettle tray",
+      "1"
+     ],
+     [
+      "Lounge chair & side table",
+      "Compact footprint, stain-resistant fabric",
+      "1 set"
+     ],
+     [
+      "Curtain box & blackout",
+      "Blackout + sheer double track, concealed pelmet",
+      "1"
+     ],
+     [
+      "TV console",
+      "Media unit with ventilation and cable management",
+      "1"
+     ]
+    ]
+   }
+  }
+ ],
+ "faqs": [
+  {
+   "q": {
+    "kk": "Бес жұлдызды қонақүй бөлмесіне қандай жиһаз керек?",
+    "uz": "Besh yulduzli mehmonxona xonasiga qanday mebel kerak?",
+    "en": "What furniture does a five-star hotel room need?"
+   },
+   "a": {
+    "kk": "Негізгі жиынтық: төсегі мен қапталған төсек басы, екі төсек бүйірі, жазу үстелі мен орындығы, киім шкафы немесе ашық гардероб, жүк тірегі, мини-бар тұғыры, отырғыш жиынтығы, ТВ тумбасы және жасырын қорапты қараңғылатқыш занавес.",
+    "uz": "Asosiy to'plam: krovat va qoplangan krovat etagi, ikkita tunda stoli, yozish stoli va stul, kiyim shkafi yoki ochiq garderob, chamadon tirqishi, minibar javoni, o'tirgich to'plami, TV javon hamda yashirin qutili qoraytiruvchi parda.",
+    "en": "The core set: bed with upholstered headboard, two nightstands, a writing desk and chair, a wardrobe or open closet, a luggage rack, a minibar counter, lounge seating, a TV console and blackout curtains in a concealed box."
+   }
+  },
+  {
+   "q": {
+    "kk": "Бес жұлдызды бөлмеге төсек өлшемі қандай?",
+    "uz": "Besh yulduzli xona uchun krovat o'lchami qanday?",
+    "en": "What bed size fits a five-star room?"
+   },
+   "a": {
+    "kk": "Стандарт — кең төсек немесе екі жеке орындық төсек; нақты өлшем бөлме жоспарына байланысты. Спецификация бекітілген негізді және электр сымдары кірістірілген төсек басын талап етеді.",
+    "uz": "Standart — keng krovat yoki ikki alohida o'rinli variant; aniq o'lcham xona rejasiga bog'liq. Spetsifikatsiya mustahkam asos va elektr simlari o'rnatilgan krovat etagini talab qiladi.",
+    "en": "Standard options are a king bed or twin splits; the exact size follows the room layout. The specification should always call for a reinforced base and headboard wiring integrated into the electrical plan."
+   }
+  },
+  {
+   "q": {
+    "kk": "Бес жұлдызды бөлменің FF&E жиынтығы қанша тұрады?",
+    "uz": "Besh yulduzli xonaning FF&E to'plami qancha turadi?",
+    "en": "How much does a five-star guestroom FF&E package cost?"
+   },
+   "a": {
+    "kk": "Баға көлемі, әрлеу және материал таңдауына байланысты тұрақты диапазонда тұрмайды, сондықтан нақты бағаны бөлме тізімі негізінде ұсынамыз: тізімді жіберіңіз, 48 сағат ішінде баға аласыз.",
+    "uz": "Narx hajm, pardozlash va material tanloviga qarab o'zgaradi, shu sababli aniq taklifni xonalar ro'yxati asosida beramiz: ro'yxatni yuboring, 48 soat ichida javob olasiz.",
+    "en": "Pricing depends on scope, finishes and material selection, so we quote from the room list rather than publish figures. Send your bill of quantities and our team returns a line-item quotation within 48 hours."
+   }
+  },
+  {
+   "q": {
+    "kk": "200 бөлмелі қонақүйді жабдықтау қанша уақыт алады?",
+    "uz": "200 xonalik mehmonxonani jihozlash qancha vaqt oladi?",
+    "en": "How long does it take to furnish a 200-room hotel?"
+   },
+   "a": {
+    "kk": "Партиялармен өндіру әрқайсысы 30–45 күн, жол 5–10 күн; мақұлданған үлгіден соңғы бөлме орнатылғанға дейін әдетте бір маусым жеткілікті. Толық кесте — FF&E уақыт желісі мақаламызда.",
+    "uz": "Partiyalar bilan ishlab chiqarish har biri 30–45 kun, yo'l 5–10 kun; tasdiqlangan namunadan oxirgi xona o'rnatilgunicha odatda bir mavsum yetarli. To'liq jadval FF&E vaqt chizig'i maqolamizda.",
+    "en": "With batched production of 30–45 days per batch and 5–10 days of freight, a 200-room property typically goes from approved samples to the final installed room within a single season. See our FF&E procurement timeline for the full month-by-month plan."
+   }
+  }
+ ],
+ "image": "/images/blog/guestroom-checklist.webp",
+ "imageAlt": {
+  "kk": "Панорамалық терезесі бар бес жұлдызды қонақүй бөлмесінің интерьері",
+  "uz": "Panoramik oynali besh yulduzli mehmonxona xonasi interyeri",
+  "en": "Five-star hotel guestroom interior with panoramic window"
+ }
+}

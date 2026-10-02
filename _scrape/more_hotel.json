@@ -1,0 +1,67 @@
+{
+  "hotel": [
+    {
+      "id": "hotel-ca-13",
+      "name_en": "3600mm Modular Hotel Reception Desk with Sintered Stone Top",
+      "source_url": "https://hysdfurniture.com/product/modern-luxury-hotel-reception-desk-modular-check-in-counter-front-desk/",
+      "images": [
+        "https://hysdfurniture.com/wp-content/uploads/2026/09/lobby-reception-counter.jpg",
+        "https://hysdfurniture.com/wp-content/uploads/2026/09/Hotel-Front-Desk.jpg",
+        "https://hysdfurniture.com/wp-content/uploads/2026/09/L-Shaped-Hotel-Counter.jpg",
+        "https://hysdfurniture.com/wp-content/uploads/2026/09/lobby-check-in-desk.jpg"
+      ],
+      "specs": {
+        "material": "E0 grade MDF & wood veneer body, Italian white sintered stone countertop",
+        "dimensions": "L3600 x W900 x H1100 mm, custom lengths & angles available",
+        "finish": "Brushed titanium stainless steel trim, warm white 24V LED strip, integrated aluminium wire box"
+      },
+      "selling_points": [
+        "Modular layout adapts to any lobby floor plan, cutting installation time by 35%",
+        "Sintered stone and wood surface resists scratches with a 99.8% wear resistance rate",
+        "Hidden cable management and multi-station layout keep the check-in workspace tidy"
+      ]
+    },
+    {
+      "id": "hotel-ca-14",
+      "name_en": "Walnut & Marble Hotel Mini-bar Cabinet with Built-in Fridge",
+      "source_url": "https://hysdfurniture.com/product/mini-bar-cabinet-luxury-freestanding-bar-built-in-fridge-for-hotel-guestroom/",
+      "images": [
+        "https://hysdfurniture.com/wp-content/uploads/2026/09/minibar-cabinet.jpg",
+        "https://hysdfurniture.com/wp-content/uploads/2026/09/hospitality-mini-bar-unit.jpg",
+        "https://hysdfurniture.com/wp-content/uploads/2026/09/mini-fridge-cabinet.jpg",
+        "https://hysdfurniture.com/wp-content/uploads/2026/09/Commercial-mini-bar-furniture-for-hotel-rooms.jpg"
+      ],
+      "specs": {
+        "material": "North American walnut veneer body, built-in 40L silent thermoelectric fridge",
+        "dimensions": "W1200 x D550 x H1100 mm, fully customizable to room layout",
+        "finish": "Brushed champagne gold stainless steel frame, Italian Carrara white marble top, warm 12V motion-sensor LED strip"
+      },
+      "selling_points": [
+        "Ultra-quiet thermoelectric cooling below 26 dB keeps guestrooms undisturbed",
+        "Dedicated slots for glassware, shakers and coffee machines with motion-activated LED lighting",
+        "CE, ISO9001 and E0 eco-standard compliant for commercial hospitality use"
+      ]
+    },
+    {
+      "id": "hotel-ca-15",
+      "name_en": "Curved Velvet & Leather Accent Lounge Chair for Hotel Lobbies",
+      "source_url": "https://hysdfurniture.com/product/luxury-velvet-leather-accent-chairs-curved-lounge-seating-for-hotel-lobby/",
+      "images": [
+        "https://hysdfurniture.com/wp-content/uploads/2026/09/Hotel-Lobby-Accent-Chairs.jpg",
+        "https://hysdfurniture.com/wp-content/uploads/2026/09/Custom-Accent-Chairs-for-Hotels.jpg",
+        "https://hysdfurniture.com/wp-content/uploads/2026/09/Accent-Chairs.jpg",
+        "https://hysdfurniture.com/wp-content/uploads/2026/09/Commercial-Lounge-Chairs.jpg"
+      ],
+      "specs": {
+        "material": "Kiln-dried hardwood & steel frame, high-density foam with velvet upholstery; genuine leather optional",
+        "dimensions": "W85 x D82 x H78 cm, custom sizing available for projects",
+        "finish": "Solid oak, walnut or brushed brass base; CA TB 117-2013 fire-retardant certified"
+      },
+      "selling_points": [
+        "Kiln-dried hardwood frame backed by a 5-year commercial warranty",
+        "Load tested up to 350 lbs (158 kg) with reinforced options for heavy-duty use",
+        "Velvet, genuine leather or performance fabric upholstery in custom colors"
+      ]
+    }
+  ]
+}

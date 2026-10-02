@@ -1,0 +1,332 @@
+---
+import BaseLayout from "../../../layouts/BaseLayout.astro";
+import { localePath, useTranslations } from "../../../i18n/utils";
+import { categories } from "../../../data/categories";
+import { products, productById } from "../../../data/products";
+import { company, locales, type Lang } from "../../../i18n/ui";
+
+export function getStaticPaths() {
+  return locales.flatMap((lang) => products.map((p) => ({ params: { lang, id: p.id }, props: { pid: p.id } })));
+}
+
+const { lang } = Astro.params as { lang: Lang };
+const { pid } = Astro.props;
+const p = productById(pid)!;
+const t = useTranslations(lang);
+const cat = categories.find((c) => c.slug === p.cat)!;
+
+const title = `${p.name[lang]} · Hymebel`;
+const description = p.desc[lang].slice(0, 158);
+const related = products.filter((x) => x.cat === p.cat && x.id !== p.id).slice(0, 3);
+
+const specsRows = [
+  [t("products.dimensions"), p.dimensions],
+  [t("products.material"), p.material],
+  [t("products.finish"), p.finish],
+].filter(([, v]) => v && v.trim().length > 0);
+
+const productJsonLd = {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  name: p.name[lang],
+  description: p.desc[lang],
+  image: new URL(p.image, Astro.site).href,
+  brand: { "@type": "Brand", name: "Hymebel" },
+  manufacturer: { "@type": "Organization", name: "Hongye Furniture Group" },
+  category: cat.name[lang],
+  material: p.material || undefined,
+  offers: {
+    "@type": "Offer",
+    availability: "https://schema.org/InStock",
+    priceCurrency: "USD",
+    priceSpecification: {
+      "@type": "PriceSpecification",
+      valueAddedTaxIncluded: false,
+      description:
+        lang === "kk"
+          ? "Жоба көлеміне қарай жеке баға — 48 сағат ішінде ұсыныс"
+          : lang === "uz"
+            ? "Loyiha hajmiga qarab individual narx — 48 soat ichida taklif"
+            : "Individually quoted per project scope — proposal within 48 hours",
+    },
+    seller: { "@type": "Organization", name: "Hymebel · Hongye Furniture Group" },
+  },
+};
+
+/** GEO/AOE 直答块 + 要点 + FAQ（三语模板，产品/品类参数化） */
+const answer = {
+  kk: `${p.name[lang]} — ${cat.name[lang]} санатындағы Hymebel өнімі. Қонақүй, кеңсе, вилла, медициналық және білім беру жобаларына арналған. Тапсырыс бойынша өндіріледі: өндіріс мерзімі 30-45 күн, ең аз тапсырыс көлемі 20-30 дана (жоба түріне қарай).`,
+  uz: `${p.name[lang]} — ${cat.name[lang]} toifasidagi Hymebel mahsuloti. Mehmonxona, ofis, villa, tibbiyot va ta'lim loyihalari uchun mo'ljallangan. Buyurtma asosida ishlab chiqariladi: ishlab chiqarish muddati 30-45 kun, minimal buyurtma 20-30 dona (loyiha turiga qarab).`,
+  en: `${p.name[lang]} is a Hymebel ${cat.name[lang].toLowerCase()} product built for hotel, office, villa, healthcare and education projects. It is made to order: production takes 30-45 days and minimum order is typically 20-30 units depending on project scope.`,
+}[lang];
+
+const points = {
+  kk: [
+    "Жоба бойынша өндіріс — сызба, 3D модель немесе өлшем бойынша",
+    "EAC TR CU 025/2011 сәйкестігі және 8 халықаралық сертификат",
+    "Өндіріс 30-45 күн, Орталық Азияға теміржолмен 9-10 күн",
+    "Әр жөнелтуге фотоесеп және материалдық сертификаттар",
+  ],
+  uz: [
+    "Loyiha asosida ishlab chiqarish — chizma, 3D model yoki o'lchov bo'yicha",
+    "EAC TR CU 025/2011 muvofiqligi va 8 xalqaro sertifikat",
+    "Ishlab chiqarish 30-45 kun, Markaziy Osiyoga temir yo'l orqali 9-10 kun",
+    "Har bir jo'natmaga foto-hisobot va material sertifikatlari",
+  ],
+  en: [
+    "Made to order — from drawings, 3D models or on-site measurements",
+    "EAC TR CU 025/2011 compliant, backed by 8 international certifications",
+    "30-45 day production; 9-10 days by rail to Central Asia",
+    "Photo report and material certificates issued for every shipment",
+  ],
+}[lang];
+
+const pFaqs = {
+  kk: [
+    { q: `Ең аз тапсырыс көлемі қанша?`, a: `Жоба түріне қарай 20-30 данадан басталады; көтерме жобалар үшін көлемдік жеңілдік қарастырылады.` },
+    { q: `Сызба бойынша жасай аласыз ба?`, a: `Иә — сызба, 3D модель немесе сілтеме сурет бойынша өндіреміз, өлшемдерді жоба талабына сәйкес бейімдейміз.` },
+    { q: `Жеткізу мерзімі қанша?`, a: `Өндіріс 30-45 күн, теміржолмен Орталық Азияға 9-10 күн (TIR көлігімен 5-7 күн). Құжаттама жүкпен бірге жүреді.` },
+  ],
+  uz: [
+    { q: `Minimal buyurtma hajmi qancha?`, a: `Loyiha turiga qarab 20-30 donadan boshlanadi; ulgurji loyihalarda hajmli chegirma qo'llaniladi.` },
+    { q: `Chizma bo'yicha tayyorlaysizmi?`, a: `Ha — chizma, 3D model yoki namuna rasm bo'yicha ishlab chiqaramiz va o'lchamlarni loyiha talabiga moslashtiramiz.` },
+    { q: `Yetkazib berish muddati qancha?`, a: `Ishlab chiqarish 30-45 kun, Markaziy Osiyoga temir yo'l orqali 9-10 kun (TIR bilan 5-7 kun). Hujjatlar yuk bilan birga keladi.` },
+  ],
+  en: [
+    { q: `What is the minimum order quantity?`, a: `Typically 20-30 units depending on project type, with volume pricing applied on wholesale projects.` },
+    { q: `Can you produce from our drawings?`, a: `Yes — we manufacture from drawings, 3D models or reference images, and adapt dimensions to your project requirements.` },
+    { q: `What are your lead times?`, a: `30-45 days production, then 9-10 days by rail to Central Asia (5-7 days by TIR truck). Documentation travels with the shipment.` },
+  ],
+}[lang];
+
+const productFaqJsonLd = {
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  mainEntity: pFaqs.map((f) => ({
+    "@type": "Question",
+    name: f.q,
+    acceptedAnswer: { "@type": "Answer", text: f.a },
+  })),
+};
+
+const crumb = [
+  { name: cat.name[lang], href: localePath(lang, cat.slug) },
+  { name: p.name[lang], href: localePath(lang, `products/${p.id}`) },
+];
+
+/** 图集每张独立 ALT（差异化，利于图片搜索） */
+const ALT_PARTS: Record<Lang, string[]> = {
+  kk: ["жалпы көрініс", "бөлшек", "интерьерде", "өлшемдермен"],
+  uz: ["umumiy ko'rinish", "tafsilot", "interyerda", "o'lchamlar bilan"],
+  en: ["overall view", "close-up detail", "shown in context", "with dimensions"],
+};
+const gallery = p.gallery ?? [p.image];
+const alts = gallery.map((_, i) => `${p.name[lang]} — ${ALT_PARTS[lang][i] ?? ALT_PARTS[lang][1]}`);
+
+/** 同品类对比表（本款 + 3 款同类，AOE 高引格式） */
+const cmp = [p, ...related];
+const cmpRows: { label: string; values: string[] }[] = [
+  { label: t("products.dimensions"), values: cmp.map((x) => x.dimensions || "—") },
+  { label: t("products.material"), values: cmp.map((x) => (x.material || "—").slice(0, 68)) },
+  { label: t("products.finish"), values: cmp.map((x) => (x.finish || "—").slice(0, 68)) },
+  {
+    label: lang === "kk" ? "Өндіріс мерзімі" : lang === "uz" ? "Ishlab chiqarish muddati" : "Production lead time",
+    values: cmp.map(() => (lang === "kk" ? "30-45 күн" : lang === "uz" ? "30-45 kun" : "30-45 days")),
+  },
+  {
+    label: lang === "kk" ? "Ең аз тапсырыс" : lang === "uz" ? "Minimal buyurtma" : "Minimum order",
+    values: cmp.map(() => (lang === "kk" ? "20-30 дана" : lang === "uz" ? "20-30 dona" : "20-30 units")),
+  },
+];
+---
+
+<BaseLayout lang={lang} title={title} description={description} slug={`products/${p.id}`} ogImage={p.image} breadcrumb={crumb}>
+  <script type="application/ld+json" set:html={JSON.stringify(productJsonLd)} />
+  <script type="application/ld+json" set:html={JSON.stringify(productFaqJsonLd)} />
+
+  <section class="page-head">
+    <div class="wrap">
+      <p class="breadcrumb">
+        <a href={localePath(lang)}>{t("nav.home")}</a> / <a href={localePath(lang, cat.slug)}>{cat.name[lang]}</a> / {p.name[lang]}
+      </p>
+      <h1>{p.name[lang]}</h1>
+      <p class="prose">{p.desc[lang]}</p>
+      <div class="definition" style="margin-top:18px">
+        <p style="margin:0">{answer}</p>
+      </div>
+    </div>
+  </section>
+
+  <section class="section" style="padding-top:0">
+    <div class="wrap" style="display:grid;grid-template-columns:1.2fr 1fr;gap:32px;align-items:start">
+      <div class="pgallery">
+        <img
+          id="pg-main"
+          class="pgallery__main"
+          src={gallery[0]}
+          alt={alts[0]}
+          loading="eager"
+          width="800"
+          height="600"
+        />
+        {gallery.length > 1 && (
+          <div class="pgallery__thumbs">
+            {gallery.map((g, i) => (
+              <button
+                type="button"
+                class={`pgallery__thumb${i === 0 ? " is-active" : ""}`}
+                data-src={g}
+                data-alt={alts[i]}
+                aria-label={`${p.name[lang]} — ${ALT_PARTS[lang][i] ?? ""}`}
+              >
+                <img src={g} alt={alts[i]} loading="lazy" width="160" height="120" />
+              </button>
+            ))}
+          </div>
+        )}
+      </div>
+      <div>
+        {specsRows.length > 0 && (
+          <>
+            <h2 style="font-size:1.2rem">{t("products.specs.h")}</h2>
+            <table class="specs-table">
+              <tbody>
+                {specsRows.map(([k, v]) => (
+                  <tr>
+                    <th>{k}</th>
+                    <td>{v}</td>
+                  </tr>
+                ))}
+              </tbody>
+            </table>
+          </>
+        )}
+        <a class="btn btn--primary" style="margin-top:22px" href={localePath(lang, "contact")}>
+          {t("products.inquiry")}
+        </a>
+        <p style="margin-top:12px;font-size:0.85rem;color:var(--color-muted)">
+          WhatsApp: {company.whatsapp} · {company.email}
+        </p>
+      </div>
+    </div>
+  </section>
+
+  <section class="section" style="padding-top:34px">
+    <div class="wrap" style="max-width:860px">
+      <div class="key-takeaways">
+        <strong>{lang === "kk" ? "Негізгі тезистер" : lang === "uz" ? "Asosiy tezislar" : "Key takeaways"}</strong>
+        <ul>
+          {points.map((k) => <li>{k}</li>)}
+        </ul>
+      </div>
+      <p>
+        {lang === "kk"
+          ? <>Толық шешім: <a href={localePath(lang, cat.slug)}>{cat.name[lang]}</a> — каталогтағы барлық үлгілер мен жоба мысалдары.</>
+          : lang === "uz"
+            ? <>To'liq yechim: <a href={localePath(lang, cat.slug)}>{cat.name[lang]}</a> — katalogdagi barcha modellar va loyiha misollari.</>
+            : <>Full solution: see our <a href={localePath(lang, cat.slug)}>{cat.name[lang].toLowerCase()}</a> catalogue for the complete range and project references.</>}
+      </p>
+    </div>
+  </section>
+
+  <section class="section section--surface">
+    <div class="wrap">
+      <h2>
+        {lang === "kk" ? "Осы санаттағы салыстыру" : lang === "uz" ? "Ushbu toifadagi taqqoslash" : "Compare across this range"}
+      </h2>
+      <p class="section__lead" style="margin-bottom:18px">
+        {lang === "kk"
+          ? "Ұқсас үлгілерді материал, өлшем және жеткізу шарттары бойынша салыстырыңыз — жобаңызға сай таңдау жасаңыз."
+          : lang === "uz"
+            ? "O'xshash modellarni material, o'lcham va yetkazib berish shartlari bo'yicha taqqoslang — loyihangizga mosini tanlang."
+            : "Compare similar models on material, dimensions and delivery terms to pick the right fit for your project."}
+      </p>
+      <div class="cmp-wrap">
+        <table class="cmp-table">
+          <thead>
+            <tr>
+              <th>{lang === "kk" ? "Сипаттама" : lang === "uz" ? "Xususiyat" : "Attribute"}</th>
+              {cmp.map((x, i) => (
+                <th>
+                  <a href={localePath(lang, `products/${x.id}`)}>
+                    {x.name[lang]}
+                    {i === 0 && <span class="cmp-badge">{lang === "kk" ? "осы үлгі" : lang === "uz" ? "ushbu model" : "this model"}</span>}
+                  </a>
+                </th>
+              ))}
+            </tr>
+          </thead>
+          <tbody>
+            {cmpRows.map((r) => (
+              <tr>
+                <th scope="row">{r.label}</th>
+                {r.values.map((v) => <td>{v}</td>)}
+              </tr>
+            ))}
+          </tbody>
+        </table>
+      </div>
+    </div>
+  </section>
+
+  <section class="section section--surface">
+    <div class="wrap">
+      <h2>{t("products.related.h")}</h2>
+      <div class="grid grid--3" style="margin-top:22px">
+        {related.map((r) => (
+          <a class="product-card" href={localePath(lang, `products/${r.id}`)}>
+            <img class="product-card__img" src={r.image} alt={`${r.name[lang]} — Hymebel`} loading="lazy" width="800" height="600" />
+            <div class="product-card__body">
+              <div class="product-card__name">{r.name[lang]}</div>
+            </div>
+          </a>
+        ))}
+      </div>
+      <a href={localePath(lang, cat.slug)} class="card__link" style="display:inline-block;margin-top:18px">
+        {t("products.viewAll")} →
+      </a>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="wrap" style="max-width:860px">
+      <h2>{lang === "kk" ? "Жиі қойылатын сұрақтар" : lang === "uz" ? "Ko'p beriladigan savollar" : "Frequently asked questions"}</h2>
+      <div style="margin-top:16px">
+        {pFaqs.map((f) => (
+          <details class="faq">
+            <summary>{f.q}</summary>
+            <p>{f.a}</p>
+          </details>
+        ))}
+      </div>
+      <p style="margin-top:22px">
+        <a href={localePath(lang, "blog")}>{lang === "kk" ? "Барлық мақалалар" : lang === "uz" ? "Barcha maqolalar" : "All articles"}</a>
+      </p>
+    </div>
+  </section>
+
+  <section class="cta-band">
+    <div class="wrap">
+      <h2>{t("cta.title")}</h2>
+      <p>{t("cta.body")}</p>
+      <a class="btn btn--ghost" href={localePath(lang, "contact")}>{t("hero.ctaPrimary")}</a>
+    </div>
+  </section>
+
+  <script is:inline>
+    (function () {
+      var main = document.getElementById("pg-main");
+      if (!main) return;
+      var thumbs = Array.prototype.slice.call(document.querySelectorAll(".pgallery__thumb"));
+      thumbs.forEach(function (t) {
+        t.addEventListener("click", function () {
+          main.src = t.getAttribute("data-src");
+          var alt = t.getAttribute("data-alt");
+          if (alt) main.alt = alt;
+          thumbs.forEach(function (x) { x.classList.remove("is-active"); });
+          t.classList.add("is-active");
+        });
+      });
+    })();
+  </script>
+</BaseLayout>

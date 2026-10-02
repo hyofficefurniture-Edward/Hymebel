@@ -1,0 +1,172 @@
+---
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import { useTranslations, localePath } from "../../i18n/utils";
+import { categories } from "../../data/categories";
+import { posts } from "../../data/blog";
+import { company, locales, type Lang } from "../../i18n/ui";
+
+export function getStaticPaths() {
+  return locales.map((lang) => ({ params: { lang } }));
+}
+
+const { lang } = Astro.params as { lang: Lang };
+const t = useTranslations(lang);
+
+const faqs = [1, 2, 3, 4].map((i) => ({ q: t(`faq.${i}.q`), a: t(`faq.${i}.a`) }));
+
+const faqJsonLd = {
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  mainEntity: faqs.map((f) => ({
+    "@type": "Question",
+    name: f.q,
+    acceptedAnswer: { "@type": "Answer", text: f.a },
+  })),
+};
+
+const why = [1, 2, 3, 4].map((i) => t(`why.${i}`));
+const process = [1, 2, 3, 4].map((i) => t(`process.${i}`));
+const companyFaqs = [1, 2, 3, 4, 5, 6, 7, 8].map((i) => ({ q: t(`cf.${i}.q`), a: t(`cf.${i}.a`) }));
+const latestPosts = posts.slice(0, 3);
+---
+
+<BaseLayout lang={lang} title={t("meta.home.title")} description={t("meta.home.desc")}>
+  <script type="application/ld+json" set:html={JSON.stringify(faqJsonLd)} />
+
+  <section class="hero hero--img" style={`--hero-bg: url('/images/hero/hero-main.webp')`}>
+    <div class="wrap">
+      <p class="hero__eyebrow">{t("hero.eyebrow")}</p>
+      <h1 class="hero__title">{t("hero.title")}</h1>
+      <p class="hero__sub">{t("hero.subtitle")}</p>
+      <div class="hero__actions">
+        <a class="btn btn--primary" href={localePath(lang, "contact")}>{t("hero.ctaPrimary")}</a>
+        <a class="btn btn--ghost" href={localePath(lang, "hotel-furniture")}>{t("hero.ctaSecondary")}</a>
+      </div>
+
+      <div class="stats">
+        <div class="stat"><div class="stat__value">{company.projects}</div><div class="stat__label">{t("stat.projects")}</div></div>
+        <div class="stat"><div class="stat__value">{company.factory} m²</div><div class="stat__label">{t("stat.factory")}</div></div>
+        <div class="stat"><div class="stat__value">{company.countries}</div><div class="stat__label">{t("stat.countries")}</div></div>
+        <div class="stat"><div class="stat__value">{company.certs}</div><div class="stat__label">{t("stat.certs")}</div></div>
+      </div>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="wrap">
+      <div class="definition">
+        <p>{t("definition")}</p>
+      </div>
+    </div>
+  </section>
+
+  <section class="section section--surface">
+    <div class="wrap">
+      <h2>{t("categories.title")}</h2>
+      <p class="section__lead">{t("categories.subtitle")}</p>
+      <div class="grid grid--3" style="margin-top:26px">
+        {
+          categories.map((c) => (
+            <article class="card card--visual">
+              <img class="card__img" src={c.image} alt={c.imageAlt[lang]} loading="lazy" width="800" height="600" />
+              <div class="card__body">
+                <div class="card__title">{c.icon} {c.name[lang]}</div>
+                <div class="card__tag">{c.tagline[lang]}</div>
+                <p class="card__text">{c.intro[lang]}</p>
+                <a class="card__link" href={localePath(lang, c.slug)}>{c.name[lang]} →</a>
+              </div>
+            </article>
+          ))
+        }
+      </div>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="wrap">
+      <h2>{t("why.title")}</h2>
+      <ul class="list-check" style="margin-top:18px">
+        {why.map((item) => <li>{item}</li>)}
+      </ul>
+    </div>
+  </section>
+
+  <section class="section section--surface">
+    <div class="wrap">
+      <h2>{t("process.title")}</h2>
+      <div class="steps" style="margin-top:22px">
+        {process.map((step) => <div class="step">{step}</div>)}
+      </div>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="wrap">
+      <div class="case-band">
+        <img class="case-band__img" src="/images/proyectos/hotel-suite.webp" alt={t("case.imgAlt")} loading="lazy" width="800" height="600" />
+        <div class="case-band__body">
+          <h2>{t("case.title")}</h2>
+          <p class="prose">{t("case.body")}</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="section section--surface">
+    <div class="wrap">
+      <h2>{t("blog.latest.h")}</h2>
+      <p class="section__lead">{t("blog.subtitle")}</p>
+      <div class="grid grid--3" style="margin-top:22px">
+        {latestPosts.map((p) => (
+          <a class="blog-card blog-card--visual" href={localePath(lang, `blog/${p.id}`)}>
+            <img class="blog-card__img" src={p.image} alt={p.imageAlt[lang]} loading="lazy" width="800" height="450" />
+            <div class="blog-card__body">
+              <span class="blog-card__tag">{p.tag[lang]}</span>
+              <span class="blog-card__title">{p.title[lang]}</span>
+              <span class="blog-card__excerpt">{p.excerpt[lang]}</span>
+              <span class="blog-card__meta">{p.date} · {p.readingMin} min</span>
+            </div>
+          </a>
+        ))}
+      </div>
+      <p style="margin-top:20px"><a class="btn btn--ghost" href={localePath(lang, "blog")}>{t("blog.latest.cta")}</a></p>
+    </div>
+  </section>
+
+  <section class="section section--surface">
+    <div class="wrap">
+      <h2>{t("faq.title")}</h2>
+      <div style="margin-top:18px;max-width:860px">
+        {faqs.map((f) => (
+          <details class="faq">
+            <summary>{f.q}</summary>
+            <p>{f.a}</p>
+          </details>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="wrap">
+      <h2>{t("companyfaq.title")}</h2>
+      <p class="section__lead">{t("companyfaq.subtitle")}</p>
+      <div class="faq-grid">
+        {companyFaqs.map((f) => (
+          <details class="faq">
+            <summary>{f.q}</summary>
+            <p>{f.a}</p>
+          </details>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <section class="cta-band">
+    <div class="wrap">
+      <h2>{t("cta.title")}</h2>
+      <p>{t("cta.body")}</p>
+      <a class="btn btn--ghost" href={localePath(lang, "contact")}>{t("hero.ctaPrimary")}</a>
+    </div>
+  </section>
+</BaseLayout>

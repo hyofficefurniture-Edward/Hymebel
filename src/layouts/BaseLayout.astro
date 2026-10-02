@@ -1,0 +1,144 @@
+---
+import "../styles/global.css";
+import Header from "../components/Header.astro";
+import Footer from "../components/Footer.astro";
+import { alternates, localePath } from "../i18n/utils";
+import { languages, company, type Lang } from "../i18n/ui";
+
+interface Props {
+  lang: Lang;
+  title: string;
+  description: string;
+  /** 不带语言前缀的 slug（首页传空字符串）；用于 canonical / hreflang 互链 */
+  slug?: string;
+  /** 本页专属社交分享图（相对路径，缺省回落品牌 hero 图） */
+  ogImage?: string;
+  /** 面包屑层级（不含首页，末项为当前页），用于 BreadcrumbList 结构化数据 */
+  breadcrumb?: { name: string; href: string }[];
+}
+
+const { lang, title, description, slug = "", ogImage, breadcrumb } = Astro.props;
+const { alts, xDefault } = alternates(slug);
+const canonical = new URL(localePath(lang, slug), Astro.site).href;
+const siteOrigin = Astro.site?.origin ?? "https://hymebel.com";
+const shareImage = new URL(ogImage ?? "/images/hero/hero-main.webp", Astro.site).href;
+
+const breadcrumbJsonLd = breadcrumb
+  ? {
+      "@context": "https://schema.org",
+      "@type": "BreadcrumbList",
+      itemListElement: [
+        { name: lang === "kk" ? "Басты бет" : lang === "uz" ? "Bosh sahifa" : "Home", href: localePath(lang) },
+        ...breadcrumb,
+      ].map((item, i) => ({
+        "@type": "ListItem",
+        position: i + 1,
+        name: item.name,
+        item: new URL(item.href, Astro.site).href,
+      })),
+    }
+  : null;
+
+const orgJsonLd = {
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  name: "Hongye Furniture Group",
+  alternateName: "Hymebel",
+  url: siteOrigin + "/",
+  foundingDate: company.founded,
+  description:
+    "Furniture manufacturer for hotel, office, villa, healthcare and education projects in Central Asia.",
+  email: company.email,
+  telephone: company.whatsapp,
+  areaServed: ["Kazakhstan", "Uzbekistan", "Central Asia"],
+  award: [`${company.certs} international certifications`, "EAC TR CU 025/2011 compliance"],
+  contactPoint: [
+    {
+      "@type": "ContactPoint",
+      contactType: "sales",
+      telephone: company.whatsapp,
+      email: company.email,
+      availableLanguage: ["kk", "uz", "ru", "en", "zh"],
+    },
+  ],
+};
+---
+
+<!doctype html>
+<html lang={languages[lang].htmlLang} dir="ltr">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{title}</title>
+    <meta name="description" content={description} />
+    <link rel="canonical" href={canonical} />
+
+    {/* 三语互链 + x-default 指向默认哈萨克语版 */}
+    {alts.map((alt) => <link rel="alternate" hreflang={alt.hreflang} href={new URL(alt.href, Astro.site).href} />)}
+    <link rel="alternate" hreflang={xDefault.hreflang} href={new URL(xDefault.href, Astro.site).href} />
+    <link rel="alternate" type="application/rss+xml" title={`Hymebel Blog (${lang})`} href={`${siteOrigin}/rss-${lang}.xml`} />
+
+    <meta property="og:type" content="website" />
+    <meta property="og:site_name" content="Hymebel" />
+    <meta property="og:locale" content={languages[lang].htmlLang.replace("-", "_")} />
+    <meta property="og:title" content={title} />
+    <meta property="og:description" content={description} />
+    <meta property="og:url" content={canonical} />
+    <meta property="og:image" content={shareImage} />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="theme-color" content="#8a6a3f" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+
+    <script type="application/ld+json" set:html={JSON.stringify(orgJsonLd)} />
+    {breadcrumbJsonLd && <script type="application/ld+json" set:html={JSON.stringify(breadcrumbJsonLd)} />}
+
+    {company.gaId && (
+      <script is:inline async src={`https://www.googletagmanager.com/gtag/js?id=${company.gaId}`} />
+      <script is:inline define:vars={{ gaId: company.gaId }}>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', gaId);
+      </script>
+    )}
+  </head>
+  <body>
+    <Header lang={lang} slug={slug} />
+    <main>
+      <slot />
+    </main>
+    <Footer lang={lang} />
+
+    <div class="fab" aria-label="Quick contact">
+      <a class="wa" href={`https://wa.me/${company.whatsapp}`} target="_blank" rel="noopener" aria-label="WhatsApp">💬</a>
+      <a class="tg" href={`https://t.me/${company.telegram}`} target="_blank" rel="noopener" aria-label="Telegram">✈️</a>
+    </div>
+
+    <script is:inline>
+      const toggle = document.querySelector(".nav-toggle");
+      const nav = document.querySelector("#site-nav");
+      if (toggle && nav) {
+        toggle.addEventListener("click", () => {
+          const open = nav.classList.toggle("is-open");
+          toggle.setAttribute("aria-expanded", open ? "true" : "false");
+        });
+        document.addEventListener("click", (e) => {
+          if (!nav.contains(e.target) && !toggle.contains(e.target)) nav.classList.remove("is-open");
+        });
+        // 移动端产品下拉：点父级展开
+        nav.querySelectorAll(".nav-item").forEach((item) => {
+          const link = item.querySelector(":scope > .nav-link");
+          const dd = item.querySelector(":scope > .nav-dropdown");
+          if (link && dd) {
+            link.addEventListener("click", (ev) => {
+              if (window.matchMedia("(max-width: 1080px)").matches) {
+                ev.preventDefault();
+                item.classList.toggle("is-open");
+              }
+            });
+          }
+        });
+      }
+    </script>
+  </body>
+</html>

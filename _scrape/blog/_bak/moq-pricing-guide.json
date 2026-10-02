@@ -1,0 +1,345 @@
+{
+  "id": "moq-pricing-guide",
+  "tag": {
+    "kk": "Импорт",
+    "uz": "Import",
+    "en": "B2B guide"
+  },
+  "title": {
+    "kk": "Қытайдан жиһаз импорты: MOQ және баға бойынша нұсқаулық",
+    "uz": "Xitoydan mebel importi: MOQ va narx bo'yicha qo'llanma",
+    "en": "Importing Furniture from China: MOQ and Price Guide for Importers"
+  },
+  "excerpt": {
+    "kk": "MOQ зауытта қалай қалыптасады, бірлік бағаны не анықтайды, жүк түпкі құнды қалай өзгертеді — импортерлерге арналған нұсқаулық.",
+    "uz": "MOQ zavodda qanday shakllanadi, birlik narxni nima belgilaydi, temir yo'l va dengiz yuki yakuniy narxni qanday o'zgartiradi — importchilar uchun qo'llanma.",
+    "en": "How MOQ forms at a Chinese furniture factory, what drives the unit price, and how rail and sea freight shape landed cost — a plain guide for importers."
+  },
+  "date": "2026-10-02",
+  "readingMin": 7,
+  "definition": {
+    "kk": "MOQ (ең аз тапсырыс көлемі) — зауыттың бір тапсырыста қабылдайтын ең аз саны, ол ереже емес, өндірістің партиялау және контейнер экономикасымен анықталады. Бұл нұсқаулық MOQ логикасын, бағаның құрылымын, жүк шығындарын, төлем шарттарын және жөнелтуге дейінгі тексеруді Орталық Азия импортерлерінің көзқарасымен түсіндіреді.",
+    "uz": "MOQ (eng kam buyurtma hajmi) — zavodning bitta buyurtmada qabul qiladigan eng kam soni; bu ixtiyoriy qoida emas, ishlab chiqarish partiyalashuvi va konteyner ekonomikasi bilan belgilanadi. Ushbu qo'llanma MOQ mantiqini, narx tuzilmasini, yuk xarajatlarini, to'lov shartlari va yuklashdan oldingi tekshiruvni Markaziy Osiyo importchilari nigohida tushuntiradi.",
+    "en": "MOQ (minimum order quantity) is the smallest volume a factory will accept in one order — not an arbitrary rule, but a function of production batching and container economics. This guide explains MOQ logic, price structure, freight costs, payment terms and pre-shipment inspection from the perspective of Central Asian importers."
+  },
+  "takeaways": {
+    "kk": [
+      "MOQ өндірістің партиялауымен анықталады: аралас тапсырыс бір 40 футтық контейнерден (шамамен 50–60 м³) басталады, бір үлгі бойынша 10–50 дана.",
+      "Фурнитура мен жабын бірлік бағасын 15–30 пайызға ауыстырады, көлем үлгі санынан контейнер санына өткенде 10–25 пайыз жеңілдік береді.",
+      "Түпкі құнда жүк әдетте 15–30 пайыз; Ташкентке теміржол 9–10 күн жүреді.",
+      "Стандартты төлем — 30 пайыз аванс және жөнелту алдында 70 пайыз; ірі келісімшарттарда аккредитив.",
+      "Hymebel 1996 жылдан бері 50-ден астам елге 1 000-нан астам жоба жөнелтуде."
+    ],
+    "uz": [
+      "MOQ ishlab chiqarish partiyalashuviga bog'liq: aralash buyurtma bitta 40 futli konteynerdan (taxminan 50–60 m³) boshlanadi, bitta model bo'yicha 10–50 dona.",
+      "Furnitura va qoplama birlik narxni 15–30 foizga o'zgartiradi, hajm namuna sonidan konteyner soniga o'tganda 10–25 foiz chegirma beradi.",
+      "Yakuniy narxda yuk odatda 15–30 foiz; Toshkentga temir yo'l 9–10 kun yuradi.",
+      "Standart to'lov — 30 foiz oldindan to'lov va yuklashdan oldin 70 foiz; yirik shartnomalarda akkreditiv.",
+      "Hymebel 1996-yildan beri 50 dan ortiq mamlakatga 1 000 dan ortiq loyiha yubormoqda."
+    ],
+    "en": [
+      "MOQ follows production batching: mixed orders start from one 40-foot container (roughly 50–60 m³), single models from 10–50 pieces.",
+      "Hardware and finish swing unit price by 15–30 percent; volume steps from sample to container quantity cut 10–25 percent.",
+      "Freight is typically 15–30 percent of landed cost; rail runs 9–10 days to Tashkent.",
+      "Standard payment is a 30 percent deposit with 70 percent before shipment; letters of credit for larger contracts.",
+      "Hymebel has shipped 1,000+ projects across 50+ countries since 1996."
+    ]
+  },
+  "sections": [
+    {
+      "h": {
+        "kk": "Қысқа жауап: MOQ контейнер экономикасымен анықталады, ережемен емес",
+        "uz": "Qisqa javob: MOQ konteyner ekonomikasi bilan belgilanadi, qoida bilan emas",
+        "en": "Short answer: MOQ follows container economics, not policy"
+      },
+      "paras": {
+        "kk": [
+          "Орталық Азия сатып алушылары үшін қытайлық жиһаз зауытындағы MOQ еркін қойылған ереже емес, контейнер экономикасы мен өндірістің партиялауымен анықталады. Практикада аралас тапсырыс бір 40 футтық кең контейнерден (қапталған жиһаздың шамамен 50–60 м³) басталады, ал бір үлгі бойынша MOQ өлшемі мен жабын күрделілігіне қарай әдетте 10-нан 50 данаға дейінгі аралықта болады.",
+          "Жобалық бизнес басқаша жұмыс істейді: FF&E тапсырыстары көлем сметасына қарай бағаланады, онда нақты ең аз шек — позиция саны емес, жобалық құн шегі. Сондықтан 120 нөмерлі қонақүй де, 15 позициялы пәтер тапсырысы да мағыналы бола алады. Дистрибьюторлар, қонақүйлер мен мердігерлер MOQ-мен әртүрлі кездеседі, ал айырма негізінен контейнер арифметикасында: контейнер толтырылуы керек, зауыт желілері партиямен жұмыс істеуі керек.",
+          "Hymebel 1996 жылдан бері 300 000 м² зауытынан 50-ден астам елге жиһаз жөнелтуде; зауытта 1 000-нан астам жұмысшы бар және орындалған 1 000-нан астам жоба тіркелген. Бұл нұсқаулық MOQ мен бағаның нақты қалай қалыптасатынын, бірлік бағасын не жылжытатынын және жүк, төлем мен тексерудің Орталық Азия импортерлері үшін қалай бірісетінін түсіндіреді."
+        ],
+        "uz": [
+          "Markaziy Osiyo xaridorlari uchun Xitoy mebel zavodidagi MOQ ixtiyoriy qoida emas, konteyner ekonomikasi va ishlab chiqarish partiyalashuvi bilan belgilanadi. Amalda aralash buyurtma bitta 40 futli baland konteynerdan (qadoqlangan mebelning taxminan 50–60 m³) boshlanadi, bitta model bo'yicha MOQ esa o'lcham va qoplama murakkabligiga qarab odatda 10 dan 50 donagacha bo'lgan oraliqda bo'ladi.",
+          "Loyiha biznesi boshqacha ishlaydi: FF&E buyurtmalari hajm smetasi bo'yicha baholanadi, u yerda haqiqiy minimal chegara — pozitsiyalar soni emas, loyiha qiymati chegarasi. Shu sababli 120 xonali mehmonxona ham, 15 pozitsiyali kvartira buyurtmasi ham mazmunli bo'lishi mumkin. Distribyutorlar, mehxonalar va pudratchilar MOQ bilan har xil uchrashadi, farq esa asosan konteyner arifmetikasida: konteyner to'ldirilishi kerak, zavod liniyalari partiya bilan ishlashi kerak.",
+          "Hymebel 1996-yildan beri 300 000 m² zavodidan 50 dan ortiq mamlakatga mebel yubormoqda; zavodda 1 000 dan ortiq ishchi bor va bajarilgan 1 000 dan ortiq loyiha qayd etilgan. Ushbu qo'llanma MOQ va narxning aslida qanday shakllanishini, birlik narxni nima harakatga keltirishini hamda yuk, to'lov va tekshiruvning Markaziy Osiyo importchilari uchun qanday birlashishini tushuntiradi."
+        ],
+        "en": [
+          "For Central Asian buyers, MOQ at a Chinese furniture factory is set by container economics and production batching, not by an arbitrary rule. In practice a mixed order starts from one 40-foot high-cube container (roughly 50–60 m³ of packed furniture), while the MOQ for a single model typically ranges from 10 to 50 pieces depending on size and finish complexity.",
+          "Project business works differently: FF&E orders are quoted against a bill of quantities, where the real minimum is a project value threshold rather than per-item counts. That is why a 120-room hotel and a 15-item apartment order can both be viable. Distributors, hotels and contractors each meet the MOQ differently, and the difference is mostly container arithmetic: the box has to be filled, and the factory has to keep its lines running in batches.",
+          "Hymebel has shipped furniture from its 300,000 m² factory to 50+ countries since 1996, with 1,000+ workers on the floor and 1,000+ completed projects on record. This guide explains how MOQ and pricing actually form, what moves the unit price, and how freight, payment and inspection fit together for Central Asian importers."
+        ]
+      }
+    },
+    {
+      "h": {
+        "kk": "MOQ өндірісте шынымен қалай жұмыс істейді",
+        "uz": "MOQ ishlab chiqarishda aslida qanday ishlaydi",
+        "en": "How MOQ actually works in production"
+      },
+      "paras": {
+        "kk": [
+          "Әр үлгіге қойылатын ең аз санның артында өндіріс логикасы тұр: бояу желілері партиямен жүреді, жиек таспасы мен фурнитура топтап сатып алынады, қаптама матрицалары мен картон дайындамаларына дайындық қажет. Осы шектен төмен тапсырыс желінің тиімділігін бұзады, сондықтан зауыт оны бағаны көтерумен емес, қабылдамаумен шешеді. Стандартты тәсіл — контейнер ішінде үлгілерді араластыру: бір 40 футтық контейнер ондаған позицияны тасымалдауы мүмкін. Сондықтан бір тапсырыста 20–30 позицияны араластыру — арзан әрі ықшам жеткізудің негізгі жолы, ол MOQ шектеуін де әлсіретеді.",
+          "Дистрибьюторлар үшін практикалық жол — бір контейнерде бірнеше үлгіден аралас ассортимент жинау. Қайталанған тапсырыстарда MOQ төмендейді, себебі қаптама мен технологиялық дайындық бар: таныс үлгілер бойынша тапсырыс 5–20 данадан жүре алады. Бірінші баға ұсынысында қайталанатын тапсырыстың ең аз санын жазбаша сұраңыз — екінші контейнер нақты сандардан жоспарланады.",
+          "Жобалық FF&E тапсырыстары сметаға байланған: бөлме тізімі мақұлданған үлгілермен бекітіліп, 30–45 күндік өндіріс терезесіне кестеленеді. Мұнда әр позицияға MOQ сұрамаңыз — басты сұрақ құн шегі мен кесте сәйкестігі. Үлгілер мақұлданғаннан кейінгі өзгерістер өндіріс кестесі мен құнға тікелей әсер етеді, сондықтан сметаны соңғы нұсқамен бекітіңіз."
+        ],
+        "uz": [
+          "Har bir modelga qo'yiladigan eng kam sonning ortida ishlab chiqarish mantiqi turadi: bo'yoq liniyalari partiya bilan yuradi, qirqa lentasi va furnitura to'plab sotib olinadi, qadoq matritsalariga va karton blankalariga tayyorgarlik zarur. Bu chegaredan past buyurtma liniya samaradorligini buzadi, shuning uchun zavod uni narxni oshirish bilan emas, qabul qilmaslik bilan hal qiladi. Standart yondashuv — konteyner ichida modellarni aralashtirish: bitta 40 futli konteyner o'nlab pozitsiyani tashiy oladi. Shuning uchun bitta buyurtmada 20–30 pozitsiyani aralashtirish tejamli va tartibli yetkazishning asosiy yo'li bo'lib, MOQ cheklovini ham yumshatadi.",
+          "Distribyutorlar uchun amaliy yo'l — bitta konteynerda bir necha modeldan aralash assortiment yig'ish. Qayta buyurtmalarda MOQ pasayadi, chunki qadoq va texnologik tayyorgarlik mavjud: tanish modellar bo'yicha buyurtma 5–20 donadan yura oladi. Birinchi narx taklifida takroriy buyurtmaning eng kam sonini yozma so'rang — ikkinchi konteyner aniq raqamlardan rejalashtiriladi.",
+          "Loyihaviy FF&E buyurtmalari smetaga bog'langan: xonalar ro'yxati maqullangan namunalar bilan tasdiqlanib, 30–45 kunlik ishlab chiqarish oynasiga rejalashtiriladi. Bunda har bir pozitsiya bo'yicha MOQ so'ramang — asosiy savol qiymat chegari va jadval mosligi. Namunalar tasdiqlangandan keyingi o'zgarishlar ishlab chiqarish jadvali va qiymatga bevosita ta'sir qiladi, shuning uchun smetani yakuniy versiya bilan tasdiqlang."
+        ],
+        "en": [
+          "Behind every per-model minimum stands production logic: finishing lines run in batches, edge banding and hardware are purchased in bulk, and packaging dies and carton blanks must be prepared. An order below that threshold breaks line efficiency, which is why the factory answers it with refusal rather than a surcharge. The standard workaround is mixing models inside one container: a single 40-foot box can carry dozens of positions.",
+          "For distributors the practical route is building a mixed assortment of several models per container. Repeat orders carry lower MOQs because packaging and tooling already exist: known models can run from as few as 5–20 pieces. Ask your supplier to name the repeat-order minimum per model in writing at the first quotation, so your second container is planned from real numbers.",
+          "Project FF&E orders are BOQ-driven: the room list is fixed against approved samples and scheduled into a 30–45 day production window. Do not ask for per-item MOQs here — the questions that matter are the value threshold and schedule fit."
+        ]
+      }
+    },
+    {
+      "h": {
+        "kk": "Бірлік бағасын не жылжытады",
+        "uz": "Birlik narxni nima harakatga keltiradi",
+        "en": "What moves the unit price"
+      },
+      "paras": {
+        "kk": [
+          "Бағаға материалы ең күшті әсер етеді: каркас материалы (массив немесе инженерлік плита), төсеу маталарының деңгейі, фурнитура — алқалар, жүгірткілер, механизмдер — және жабын күрделілігі. Фурнитура мен жабын бірлік бағасын 15–30 пайызға ауыстыра алады, сондықтан спецификацияны баға беру кезеңінде мұқият бекітіңіз. Бағаны салыстыру бірдей спецификация бойынша ғана мағыналы: фурнитура маркасы мен жабын түрі өзгерсе, екі ұсыныстың айырмасы нақты үнемі емес, айырмашылық болады.",
+          "Көлем сатылары нақты жұмыс істейді: үлгі санынан контейнер санына өту бірлік бағасын әдетте 10–25 пайызға түсіреді. Екінші фактор — сәйкестік: Қазақстанға жөнелтулерде EAC TR CU 025/2011 құжаттамасы қажет, оның құны контейнер көлемдерінде бір данаға шаққанда шамалы. Бір көрсеткіштің орнына сатылы баға ұсынысын сұраңыз: ол кейінгі келіссөздерді деректермен жүргізуге мүмкіндік береді.",
+          "Төмендегі кесте түпкі құнның құрамдас бөліктерін көрсетеді."
+        ],
+        "uz": [
+          "Narxga material eng kuchli ta'sir qiladi: karkas materiali (massiv yoki muhandislik plitasi), to'shama matolar darajasi, furnitura — sharnirlar, sirg'inadigan mexanizmlar va qoplama murakkabligi. Furnitura va qoplama birlik narxni 15–30 foizga o'zgartira oladi, shu sababli spetsifikatsiyani taklif bosqichida sinchiklab tasdiqlang. Narx solishtirmasi faqat bir xil spetsifikatsiya bo'yicha ma'noli: furnitura brendi va qoplama turi o'zgarsa, ikki taklif orasidagi farq haqiqiy tejash emas, nomutanosiblik bo'ladi.",
+          "Hajm bosqichlari amalda ishlaydi: namuna sonidan konteyner soniga o'tish birlik narxni odatda 10–25 foizga pasaytiradi. Ikkinchi omil — moslik: Qozog'istonga yuboriladigan yuklarda EAC TR CU 025/2011 hujjatlari talab qilinadi, uning xarajati konteyner hajmlarida bir donaga hisoblanganda nomutanosib kichik. Bitta ko'rsatkich o'rniga bosqichli narx taklifini so'rang: u keyingi muzokaralarni ma'lumotlar bilan olib borish imkonini beradi.",
+          "Quyidagi jadval yakuniy narxning tarkibiy qismlarini ko'rsatadi."
+        ],
+        "en": [
+          "Material moves price hardest: frame material (solid wood versus engineered panel), upholstery grade, hardware — hinges, slides, mechanisms — and finish complexity. Hardware and finish alone can swing unit price by 15–30 percent, which is why the specification must be frozen precisely at quotation stage.",
+          "Volume steps work reliably: moving from sample quantity to container quantity typically reduces unit price by 10–25 percent. The second factor is compliance: shipments to Kazakhstan require EAC TR CU 025/2011 documentation, whose cost is marginal per unit at container volumes. Ask for a tiered quotation instead of a single figure: it keeps later negotiations factual and shows where the discount actually comes from.",
+          "The table below shows how landed cost breaks down."
+        ]
+      }
+    },
+    {
+      "h": {
+        "kk": "Жүк құнының құрылымы: теңіз және теміржол",
+        "uz": "Yuk narxi tuzilmasi: dengiz va temir yo'l",
+        "en": "Freight cost structure: sea and rail"
+      },
+      "paras": {
+        "kk": [
+          "Түпкі құн бірнеше қабаттан тұрады: зауыт бағасы, Қытай ішіндегі жер тасымалы, халықаралық жүк (теміржол немесе теңіз), сақтандыру, тағайындалған елдегі кеден баждары мен ҚҚС және соңғы милі. Маршрут пен маусымға қарай халықаралық жүк әдетте түпкі құнның 15–30 пайызын құрайды. Әр қабатты жеке бақылау мүмкіндігі — тәжірибелі жеткізуші мен жаңадан келген жеткізушінің негізгі айырмашылығы.",
+          "Орталық Азия үшін теміржол басым нұсқа: Қытайдан Ташкентке жүк 9–10 күнде жетеді, бұл жобалық кестемен ырғақты сәйкестендіруді жеңілдетеді. Теңіз маршруттары кейбір бағыттарда кубометрі арзанырақ, бірақ жолдағы мерзімі едәуір ұзақ. Тағы бір практикалық мәселе — контейнерді толтыру: жартылай толтырылған жөнелту милі шығынын бір данаға шаққанда күрт өсіреді. Қазақстан бағытында контейнер тиектелмей тұрып EAC құжаттары дайын болуы керек. Маршрут таңдауын [Ташкентке теміржол жеткізуі жөніндегі жазбамыздан](logistics-tashkent-9days) толық оқыңыз.",
+          "Жалпы уақытты қоса жоспарлаңыз: 30–45 күндік өндіріс, жолдағы мерзім және кеден тазартылуы. Тапсырысты жүк ставкаларының маусымдық шыңынан бұрын беру соңғы милі бағасын да тұрақтандырады — жүк құны жыл ішінде айтарлықтай ауытқиды. Күнтізбені нысандағы орнату күнінен кері есептеп құрыңыз: алдымен өндіріс, содан кейін жол, кеден және соңғы милі. Осы есеппен әр жоба кестеден артта қалмауы мүмкін."
+        ],
+        "uz": [
+          "Yakuniy narx bir necha qatlamdan iborat: zavod narxi, Xitoy ichidagi quruq tashish, xalqaro yuk (temir yo'l yoki dengiz), sug'urta, manzil davlatidagi bojxona bojlari va QQS hamda oxirgi mili. Marshrut va mavsumga qarab xalqaro yuk odatda yakuniy narxning 15–30 foizini tashkil etadi. Har bir qatlamni alohida kuzatish imkoniyati — tajribali yetkazib beruvchi bilan yangi yetkazib beruvchi o'rtasidagi asosiy farq.",
+          "Markaziy Osiyo uchun temir yo'l ustuvor variant: Xitoydan Toshkentga yuk 9–10 kunda yetib boradi, bu loyiha jadvali bilan ritmni moslashtirishni osonlashtiradi. Dengiz marshrutlari ba'zi yo'nalishlarda kubometr arzonroq, ammo yo'ldagi muddati ancha uzoq. Yana bir amaliy masala — konteinerni to'ldirish: yarim to'ldirilgan yuborilish oxirgi mili xarajatini bir donaga hisoblanganda keskin oshiradi. Qozog'iston yo'nalishida konteyner yuklanishidan oldin EAC hujjatlari tayyor bo'lishi shart. Marshrut tanlovini [Toshkentga temir yo'l yetkazishi haqidagi yozuvimizdan](logistics-tashkent-9days) to'liq o'qing.",
+          "Umumiy vaqtni birga rejalashtiring: 30–45 kunlik ishlab chiqarish, yo'ldagi muddat va bojxona rasmiylashtiruvi. Buyurtmani yuk stavkalari mavsumiy cho'qqisidan oldin berish oxirgi mili narxini ham barqarorlashtiradi — yuk narxi yil ichida sezilarli o'zgaradi. Kalendar saytdagi o'rnatish kunidan teskari hisoblab tuziladi: avval ishlab chiqarish, so'ng yo'l, bojxona va oxirgi mili."
+        ],
+        "en": [
+          "Landed cost stacks in layers: the factory price, inland haulage inside China, international freight (rail or sea), insurance, customs duties and VAT in the destination country, and the last mile. Depending on route and season, international freight typically takes 15–30 percent of landed cost.",
+          "For Central Asia rail is the primary option: cargo reaches Tashkent from China in 9–10 days, which makes it easier to sync freight rhythm with project schedules. Sea routes are cheaper per cubic metre on some lanes but significantly slower. For Kazakhstan, EAC documents must be ready before the container is loaded. For a full read on the route choice, see our [rail delivery to Tashkent write-up](logistics-tashkent-9days).",
+          "Plan the total timeline together: 30–45 days of production, transit time and customs clearance. Placing orders before seasonal peaks in freight rates also steadies the last mile — freight pricing swings noticeably through the year. Build the calendar backwards from the installation date: production first, then transit, then clearance, then the last mile on site."
+        ]
+      }
+    },
+    {
+      "h": {
+        "kk": "Төлем, тексеру және бастау жолы",
+        "uz": "To'lov, tekshiruv va boshlash yo'li",
+        "en": "Payment, inspection and how to start"
+      },
+      "paras": {
+        "kk": [
+          "Төлем стандарты қарапайым: келісімшарт бойынша 30 пайыз аванс, қалған 70 пайыз жөнелту алдында; ірі келісімшарт көлемдерінде аккредитив қолданылады. Барлық шарттарды — спецификация, өндіріс кестесі, сәйкестік құжаттары — өндіріс басталмай тұрып келісімшартқа жазыңыз. Ұзақ экспорттық тәжірибесі бар зауыттар бұл шарттарды қалыпты жағдай деп қабылдайды; ерекше сұраныстар жазбаша негізді талап етеді.",
+          "Тексеру — жүк құнымен емес, сеніммен байланысты: жөнелтуге дейінгі тексеру және контейнер тиектеуін бақылау фото мен видео жазбалармен жүргізіледі, әр қорап орау тізімімен салыстырылады. Дәл осы тәртіп Hilton Tashkent жеткізуімізде сақталды. Тапсырысты [жобалық командамызға](contact) жіберуден бастаңыз — сметаны, MOQ құрылымын және жүк жоспарын бір жауапта қайтарамыз. Мақұлдау этабындағы фотосуреттер мен видеожазбалар кейінгі даулардың алдын алады және қабылдауды тездетеді.",
+          "Байланыс: WhatsApp +86 18038813653 · z@hysdfurniture.com. Бөлме тізімін, тағайындалған қаланы және мерзімді жіберіңіз — баға ұсынысы өндіріс кестесімен бірге дайын болады. Бірінші жауапта контейнерді толтыру сызбасы да келеді — позициялардың тасымалдау тиімділігін бірден көресіз."
+        ],
+        "uz": [
+          "To'lov standarti oddiy: shartnoma bo'yicha 30 foiz oldindan to'lov, qolgan 70 foiz yuklashdan oldin; yirik shartnoma hajmlarida akkreditiv qo'llanadi. Barcha shartlarni — spetsifikatsiya, ishlab chiqarish jadvali, moslik hujjatlari — ishlab chiqarish boshlanishidan oldin shartnomaga yozib oling. Uzoq eksport tajribasiga ega zavodlar bu shartlarni oddiy holat deb qabul qiladi; g'ayrioddiy so'rovlar yozma asos talab qiladi.",
+          "Tekshiruv yuk narxi bilan emas, ishonch bilan bog'liq: yuklashdan oldingi tekshiruv va konteyner yuklash nazorati foto hamda video yozuvlar bilan o'tkaziladi, har bir quti yuklama ro'yxati bilan solishtiriladi. Aynan shu tartib Hilton Tashkent yetkazishimizda saqlandi. Buyurtmani [loyiha jamoamizga](contact) yuborishdan boshlang — smetani, MOQ tuzilmasini va yuk rejasini bitta javobda qaytaramiz. Tasdiqlash bosqichidagi fotosuratlar va videolar keyingi nizolarning oldini oladi hamda qabulni tezlashtiradi.",
+          "Aloqa: WhatsApp +86 18038813653 · z@hysdfurniture.com. Xonalar ro'yxatini, manzil shahrini va muddatni yuboring — narx taklifi ishlab chiqarish jadvali bilan birga tayyor bo'ladi. Birinchi javobda konteinerni to'ldirish sxemasi ham keladi — pozitsiyalarning tashish samaradorligini darhol ko'rasiz."
+        ],
+        "en": [
+          "Standard payment is simple: a 30 percent deposit against the contract and the remaining 70 percent before shipment; letters of credit apply to larger contract volumes. Write every condition into the contract before production starts — specification, production schedule and conformity documents alike. Suppliers with long export records accept these terms as routine; unusual requests deserve a written rationale.",
+          "Inspection is about trust, not cargo value: pre-shipment inspection and container loading supervision run with photo and video records, and every carton is checked against the packing list. Exactly this discipline carried our Hilton Tashkent delivery. Start by sending your bill of quantities or room list to our [project team](contact) — we return the quotation, the MOQ structure and the freight plan in one response.",
+          "Contact: WhatsApp +86 18038813653 · z@hysdfurniture.com. Send the room list, destination city and timeline — the quotation comes back together with the production schedule."
+        ]
+      }
+    }
+  ],
+  "tables": [
+    {
+      "headers": {
+        "kk": [
+          "Құн бөлігі",
+          "Не қамтиды",
+          "Типтік үлес"
+        ],
+        "uz": [
+          "Narx qismi",
+          "Nimani o'z ichiga oladi",
+          "Tipik ulush"
+        ],
+        "en": [
+          "Cost component",
+          "What it covers",
+          "Typical share"
+        ]
+      },
+      "rows": {
+        "kk": [
+          [
+            "Зауыт бағасы",
+            "Материалдар, еңбек, фурнитура, жабын, қаптама",
+            "Түпкі құнның 70–85 пайызы"
+          ],
+          [
+            "Қытай ішіндегі жер тасымалы",
+            "Зауыттан жөнелту портына немесе терминалға дейін",
+            "1–3 пайыз"
+          ],
+          [
+            "Халықаралық жүк",
+            "Теміржол (Ташкентке 9–10 күн) немесе теңіз жөнелтілімі",
+            "10–25 пайыз"
+          ],
+          [
+            "Сақтандыру",
+            "Жүк құны бойынша қамту",
+            "1–2 пайыз"
+          ],
+          [
+            "Кеден баждары мен ҚҚС",
+            "Тағайындалған елдің тарифтері мен салығы",
+            "Ел бойынша өзгереді"
+          ],
+          [
+            "Соңғы милі",
+            "Кеденнен алу, тасымалдау, нысанға дейін",
+            "Жобалық көлеміне қарай"
+          ]
+        ],
+        "uz": [
+          [
+            "Zavod narxi",
+            "Materiallar, mehnat, furnitura, qoplama, qadoq",
+            "Yakuniy narxning 70–85 foizi"
+          ],
+          [
+            "Xitoy ichidagi quruq tashish",
+            "Zavoddan yuklash portiga yoki terminalgacha",
+            "1–3 foiz"
+          ],
+          [
+            "Xalqaro yuk",
+            "Temir yo'l (Toshkentga 9–10 kun) yoki dengiz yuborilishi",
+            "10–25 foiz"
+          ],
+          [
+            "Sug'urta",
+            "Yuk qiymati bo'yicha qamrov",
+            "1–2 foiz"
+          ],
+          [
+            "Bojxona bojlari va QQS",
+            "Manzil davlatining tariflari va solig'i",
+            "Davlatga qarab o'zgaradi"
+          ],
+          [
+            "Oxirgi mili",
+            "Bojxonadan olish, tashish, manzilgacha",
+            "Loyiha hajmiga bog'liq"
+          ]
+        ],
+        "en": [
+          [
+            "Factory price",
+            "Materials, labour, hardware, finish, packaging",
+            "70–85 percent of landed cost"
+          ],
+          [
+            "Inland haulage in China",
+            "From factory to port or rail terminal",
+            "1–3 percent"
+          ],
+          [
+            "International freight",
+            "Rail (9–10 days to Tashkent) or sea shipment",
+            "10–25 percent"
+          ],
+          [
+            "Insurance",
+            "Coverage against cargo value",
+            "1–2 percent"
+          ],
+          [
+            "Customs duties and VAT",
+            "Destination country tariffs and tax",
+            "Varies by country"
+          ],
+          [
+            "Last mile",
+            "Pickup, haulage and delivery to site",
+            "Depends on project volume"
+          ]
+        ]
+      }
+    }
+  ],
+  "faqs": [
+    {
+      "q": {
+        "kk": "Қытай жиһаз зауытына тән MOQ қандай?",
+        "uz": "Xitoy mebel zavodiga xos MOQ qanday?",
+        "en": "What is a typical MOQ at a Chinese furniture factory?"
+      },
+      "a": {
+        "kk": "Практикада аралас тапсырыс бір 40 футтық контейнерден (шамамен 50–60 м³ қапталған жиһаз) басталады, бір үлгі бойынша MOQ 10–50 дана аралығында. Қайталанған тапсырыстарда, қаптама мен технологиялық дайындық бар болғандықтан, таныс үлгілер бойынша 5–20 данадан жүруге болады. Сондықтан алғашқы тапсырыста контейнерді аралас позициялармен толтыру ең тиімді бастау болады.",
+        "uz": "Amalda aralash buyurtma bitta 40 futli konteynerdan (taxminan 50–60 m³ qadoqlangan mebel) boshlanadi, bitta model bo'yicha MOQ 10–50 dona oralig'ida. Qayta buyurtmalarda qadoq va texnologik tayyorgarlik mavjud bo'lgani uchun tanish modellar bo'yicha 5–20 donadan yurish mumkin. Shuning uchun ilk buyurtmada konteinerni aralash pozitsiyalar bilan to'ldirish eng samarali boshlanish bo'ladi.",
+        "en": "In practice a mixed order starts from one 40-foot container (about 50–60 m³ of packed furniture), with single-model MOQs of 10–50 pieces. On repeat orders, where packaging and tooling already exist, known models can run from as few as 5–20 pieces."
+      }
+    },
+    {
+      "q": {
+        "kk": "Бірлік бағасына не әсер етеді?",
+        "uz": "Birlik narxga nima ta'sir qiladi?",
+        "en": "What affects the unit price most?"
+      },
+      "a": {
+        "kk": "Каркас материалы, төсеу маталарының деңгейі, фурнитура мен жабын күрделілігі — фурнитура мен жабын 15–30 пайызға айырма бере алады. Көлем де маңызды: үлгі санынан контейнер санына өткенде бірлік баға әдетте 10–25 пайызға түседі. Бағаны әрқашан бірдей спецификациямен салыстырыңыз, әйтпесе айырма нақты үнемі емес.",
+        "uz": "Karkas materiali, to'shama matolar darajasi, furnitura va qoplama murakkabligi — furnitura va qoplama 15–30 foizga farq bera oladi. Hajm ham muhim: namuna sonidan konteyner soniga o'tganda birlik narx odatda 10–25 foizga pasayadi. Narxni har doim bir xil spetsifikatsiya bilan solishtiring, aks holda farq haqiqiy tejash emas.",
+        "en": "Frame material, upholstery grade, hardware and finish complexity — hardware and finish alone can move the price by 15–30 percent. Volume matters too: stepping from sample quantity to container quantity typically cuts the unit price by 10–25 percent. Always compare prices on an identical specification, or the difference is not a saving."
+      }
+    },
+    {
+      "q": {
+        "kk": "Ташкентке жеткізу қанша уақыт алады?",
+        "uz": "Toshkentga yetkazish qancha vaqt oladi?",
+        "en": "How long does delivery to Tashkent take?"
+      },
+      "a": {
+        "kk": "Өндіріс әдетте 30–45 күн, теміржолмен тасымалдау Қытайдан Ташкентке 9–10 күн жүреді, кеден тазартылуына бірнеше күн қосылады. Жалпы алғанда, тапсырыс берілген күннен нысанға дейінгі жоспар 45–60 күн шамасында құрылады. Маусымдық жүк ставкалары мен кеден кезегі жоспарға 5–10 күн қосуы мүмкін, сондықтан қор уақыт қалдырыңыз.",
+        "uz": "Ishlab chiqarish odatda 30–45 kun, temir yo'l tashuvi Xitoydan Toshkentga 9–10 kun yuradi, bojxona rasmiylashtiruviga bir necha kun qo'shiladi. Umuman olganda, buyurtma berilgan kundan manzilgacha reja 45–60 kun atrofida quriladi. Mavsumiy yuk stavkalari va bojxona navbati rejaga 5–10 kun qo'shishi mumkin, shuning uchun zaxira vaqt qoldiring.",
+        "en": "Production typically takes 30–45 days, rail transit from China to Tashkent runs 9–10 days, and customs clearance adds a few days. Overall, plan 45–60 days from order placement to site delivery. Place orders before seasonal freight peaks, and keep a buffer week in the project calendar for clearance and final delivery."
+      }
+    },
+    {
+      "q": {
+        "kk": "Қытайлық жеткізушімен қандай төлем шарттары қолданылады?",
+        "uz": "Xitoy yetkazib beruvchi bilan qanday to'lov shartlari qo'llaniladi?",
+        "en": "What payment terms are standard with Chinese suppliers?"
+      },
+      "a": {
+        "kk": "Ең таралған схема — келісімшарт бойынша 30 пайыз аванс және жөнелту алдында 70 пайыз. Ірі келісімшарт көлемдерінде аккредитив қолданылуы мүмкін. Барлық төлем кезеңдері мен сәйкестік құжаттарын өндіріс басталмай тұрып келісімшартқа жазыңыз. Аванс төленгеннен кейін өндіріс кестесі белсендіріледі, ал соңғы төлем тексеруден және тиектеуден кейін жүзеге асады.",
+        "uz": "Eng keng tarqalgan sxema — shartnoma bo'yicha 30 foiz oldindan to'lov va yuklashdan oldin 70 foiz. Yirik shartnoma hajmlarida akkreditiv qo'llanilishi mumkin. Barcha to'lov bosqichlari va moslik hujjatlarini ishlab chiqarish boshlanishidan oldin shartnomaga yozib oling. Oldindan to'lovdan keyin ishlab chiqarish jadvali faollashadi, yakuniy to'lov esa tekshiruv va yuklashdan keyin bajariladi.",
+        "en": "The most common scheme is a 30 percent deposit against the contract and the remaining 70 percent before shipment. Letters of credit can apply to larger contract volumes. Write all payment milestones and conformity documents into the contract before production starts."
+      }
+    }
+  ],
+  "image": "/images/blog/moq-pricing-guide.webp",
+  "imageAlt": {
+    "kk": "Экспорттық орауға дайын жиһаз бұйымдары қойылған өндіріс цехы",
+    "uz": "Eksport qadoqlashga tayyor mebel buyumlari joylashtirilgan ishlab chiqarish sexi",
+    "en": "Furniture production hall with finished pieces prepared for export packing and shipment"
+  }
+}

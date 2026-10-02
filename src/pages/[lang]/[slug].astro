@@ -1,0 +1,219 @@
+---
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import { useTranslations, localePath } from "../../i18n/utils";
+import { allSlugs, categories, about, contactPage } from "../../data/categories";
+import { productsOf } from "../../data/products";
+import { company, locales, type Lang } from "../../i18n/ui";
+
+export function getStaticPaths() {
+  return locales.flatMap((lang) => allSlugs.map((slug) => ({ params: { lang, slug } })));
+}
+
+const { lang, slug } = Astro.params as { lang: Lang; slug: string };
+const t = useTranslations(lang);
+
+const category = categories.find((c) => c.slug === slug);
+const isAbout = slug === about.slug;
+const isContact = slug === contactPage.slug;
+
+const pageName = category ? category.name[lang] : isAbout ? about.name[lang] : contactPage.name[lang];
+const pageIntro = category ? category.intro[lang] : isAbout ? about.intro[lang] : t("contact.subtitle");
+
+/** 骨架期：元描述取简介并按词边界截断到 158 字符（上线前需按 TDK 规范逐页重写） */
+function clampDesc(text: string, max = 158): string {
+  if (text.length <= max) return text;
+  const cut = text.slice(0, max);
+  const sp = cut.lastIndexOf(" ");
+  return (sp > 80 ? cut.slice(0, sp) : cut).trim() + "…";
+}
+
+const title = category
+  ? `${pageName} · Hymebel`
+  : isAbout
+    ? `${about.name[lang]} · Hymebel`
+    : `${contactPage.name[lang]} · Hymebel`;
+
+const description = clampDesc(pageIntro);
+
+const process = [1, 2, 3, 4].map((i) => t(`process.${i}`));
+const bullets = category ? category.bullets[lang] : isAbout ? about.bullets[lang] : [];
+const catProducts = category ? productsOf(category.slug) : [];
+const ogImage = category?.image ?? (isAbout ? "/images/fabrica/showroom.webp" : "/images/hero/hero-main.webp");
+const crumb = [{ name: pageName, href: localePath(lang, slug) }];
+---
+
+<BaseLayout lang={lang} title={title} description={description} slug={slug} ogImage={ogImage} breadcrumb={crumb}>
+  <section class="page-head">
+    <div class="wrap">
+      <p class="breadcrumb">
+        <a href={localePath(lang)}>{t("nav.home")}</a> / {pageName}
+      </p>
+      <h1>{pageName}</h1>
+      {category && <p class="card__tag">{category.tagline[lang]}</p>}
+      <p class="prose">{pageIntro}</p>
+    </div>
+  </section>
+
+  {category && (
+    <section class="section" style="padding-top:0">
+      <div class="wrap">
+        <img
+          src={category.image}
+          alt={category.imageAlt[lang]}
+          loading="eager"
+          width="800"
+          height="600"
+          style="width:100%;max-height:420px;object-fit:cover;border-radius:var(--radius);box-shadow:var(--shadow)"
+        />
+      </div>
+    </section>
+  )}
+
+  {isAbout && (
+    <>
+      <section class="section" style="padding-top:0">
+        <div class="wrap">
+          <img
+            src="/images/fabrica/showroom.webp"
+            alt={lang === "kk" ? "Hymebel өндіріс базасының экспозиция залы" : lang === "uz" ? "Hymebel ishlab chiqarish bazasining ko'rgazma zali" : "Hymebel factory showroom"}
+            loading="eager"
+            width="800"
+            height="600"
+            style="width:100%;max-height:440px;object-fit:cover;border-radius:var(--radius);box-shadow:var(--shadow)"
+          />
+        </div>
+      </section>
+
+      <section class="section" style="padding-top:36px">
+        <div class="wrap prose-article">
+          <h2>{t("about.story.h")}</h2>
+          <p>{t("about.story.p")}</p>
+          <h2>{t("about.factory.h")}</h2>
+          <p>{t("about.factory.p")}</p>
+          <h2>{t("about.certs.h")}</h2>
+          <p>{t("about.certs.p")}</p>
+          <h2>{t("about.global.h")}</h2>
+          <p>{t("about.global.p")}</p>
+        </div>
+      </section>
+
+      <section class="section section--surface" id="factory">
+        <div class="wrap">
+          <h2>{t("about.gallery.h")}</h2>
+          <div class="gallery-grid">
+            {[
+              { src: "/images/fabrica/cnc.webp", kk: "Фабрика панорамасы — 300 000 м²", uz: "Zavod panoramasi — 300 000 m2", en: "Factory campus — 300,000 m²" },
+              { src: "/images/fabrica/assembly.webp", kk: "Монтаждау желісі", uz: "Yig'ish liniyasi", en: "Assembly line" },
+              { src: "/images/fabrica/quality-control.webp", kk: "Сапа бақылауы", uz: "Sifat nazorati", en: "Quality control" },
+              { src: "/images/fabrica/export-packing.webp", kk: "Экспорттық орау", uz: "Eksport qadoqlash", en: "Export packing" },
+              { src: "/images/fabrica/showroom.webp", kk: "Үлгі залы", uz: "Namoyish zali", en: "Showroom" },
+            ].map((g) => (
+              <img src={g.src} alt={g[lang]} loading="lazy" width="800" height="600" />
+            ))}
+          </div>
+        </div>
+      </section>
+    </>
+  )}
+
+  {bullets.length > 0 && (
+    <section class="section">
+      <div class="wrap">
+        <div class="grid grid--3">
+          {bullets.map((b) => (
+            <div class="card">
+              <div class="card__title">{b}</div>
+            </div>
+          ))}
+        </div>
+      </div>
+    </section>
+  )}
+
+  {category && catProducts.length > 0 && (
+    <section class="section">
+      <div class="wrap">
+        <h2>{t("products.cat.h")}</h2>
+        <p class="section__lead">{catProducts.length} {t("products.count")}</p>
+        <div class="grid grid--3" style="margin-top:22px">
+          {catProducts.map((p) => (
+            <a class="product-card" href={localePath(lang, `products/${p.id}`)}>
+              <img class="product-card__img" src={p.image} alt={`${p.name[lang]} — Hymebel ${category.name[lang]}`} loading="lazy" width="800" height="600" />
+              <div class="product-card__body">
+                <div class="product-card__name">{p.name[lang]}</div>
+                {p.dimensions && <div class="product-card__meta">{p.dimensions}</div>}
+              </div>
+            </a>
+          ))}
+        </div>
+      </div>
+    </section>
+  )}
+
+  {category && (
+    <section class="section section--surface">
+      <div class="wrap">
+        <h2>{t("process.title")}</h2>
+        <div class="steps" style="margin-top:22px">
+          {process.map((step) => <div class="step">{step}</div>)}
+        </div>
+      </div>
+    </section>
+  )}
+
+  {isContact && (
+    <section class="section">
+      <div class="wrap">
+        <div class="contact-channels">
+          <div class="channel">
+            <strong>WhatsApp</strong>
+            <span><a href={`https://wa.me/${company.whatsapp}`} target="_blank" rel="noopener">{company.whatsapp}</a></span>
+          </div>
+          <div class="channel">
+            <strong>Telegram</strong>
+            <span><a href={`https://t.me/${company.telegram}`} target="_blank" rel="noopener">@{company.telegram}</a></span>
+          </div>
+          <div class="channel">
+            <strong>Email</strong>
+            <span><a href={`mailto:${company.email}`}>{company.email}</a></span>
+          </div>
+        </div>
+
+        <form class="form" action="https://api.web3forms.com/submit" method="POST">
+          <input type="hidden" name="access_key" value={company.web3formsKey} />
+          <input type="hidden" name="subject" value="Hymebel website enquiry" />
+          <input type="hidden" name="from_name" value="hymebel.com" />
+          <input type="hidden" name="language" value={lang} />
+          <input type="checkbox" name="botcheck" style="display:none" tabindex="-1" autocomplete="off" />
+
+          <label>{t("form.name")}<input type="text" name="name" required /></label>
+          <label>{t("form.company")}<input type="text" name="company" /></label>
+          <label>{t("form.country")}<input type="text" name="country" /></label>
+          <label>{t("form.phone")}<input type="text" name="phone" required /></label>
+          <label>
+            {t("form.category")}
+            <select name="category">
+              {categories.map((c) => <option value={c.slug}>{c.name[lang]}</option>)}
+            </select>
+          </label>
+          <label class="full">
+            {t("form.message")}
+            <textarea name="message" rows="5"></textarea>
+          </label>
+          <div class="full">
+            <button class="btn btn--primary" type="submit">{t("form.submit")}</button>
+          </div>
+          <p class="form__note">{t("form.note")}</p>
+        </form>
+      </div>
+    </section>
+  )}
+
+  <section class="cta-band">
+    <div class="wrap">
+      <h2>{t("cta.title")}</h2>
+      <p>{t("cta.body")}</p>
+      <a class="btn btn--ghost" href={localePath(lang, "contact")}>{t("hero.ctaPrimary")}</a>
+    </div>
+  </section>
+</BaseLayout>

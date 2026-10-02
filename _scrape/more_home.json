@@ -1,0 +1,46 @@
+{
+  "home": [
+    {
+      "id": "home-ca-13",
+      "name_en": "Solid Wood Swing-Door Wardrobe with LED Strip Lighting",
+      "source_url": "https://hysdfurniture.com/product/hotel-guestroom-wardrobe-swing-door-integrated-safe-luggage-bench/",
+      "images": [
+        "https://hysdfurniture.com/wp-content/uploads/2026/09/Hospitality-Closet-Cabinet.jpg",
+        "https://hysdfurniture.com/wp-content/uploads/2026/09/Custom-Hotel-Closet.jpg",
+        "https://hysdfurniture.com/wp-content/uploads/2026/09/Hotel-Bedroom-Armoire.jpg",
+        "https://hysdfurniture.com/wp-content/uploads/2026/09/Wooden-Hotel-Wardrobe.jpg"
+      ],
+      "specs": {
+        "material": "E1-grade solid wood / MDF core with walnut veneer, anti-scratch and moisture-resistant",
+        "dimensions": "W1800 x D600 x H2100 mm standard, fully customizable sizes",
+        "finish": "Matte wood-grain lacquer / melamine, optional PVD trim; soft-close stainless steel hinges"
+      },
+      "selling_points": [
+        "Soft-close stainless steel hinges tested for 50,000+ opening cycles",
+        "Integrated LED sensor strip lighting, seat bench and digital safe",
+        "Hanging rods hold 80kg and shelves 50kg to heavy-duty commercial standard"
+      ]
+    },
+    {
+      "id": "home-ca-15",
+      "name_en": "Floating TV Media Wall Unit with Marble-Top Console",
+      "source_url": "https://hysdfurniture.com/product/modern-luxury-floating-hotel-tv-unit-media-wall-divider/",
+      "images": [
+        "https://hysdfurniture.com/wp-content/uploads/2026/09/Luxury-Hotel-TV-Cabinet.jpg",
+        "https://hysdfurniture.com/wp-content/uploads/2026/09/Hotel-TV-Wall-Unit.jpg",
+        "https://hysdfurniture.com/wp-content/uploads/2026/09/Hotel-TV-Media-Console.jpg",
+        "https://hysdfurniture.com/wp-content/uploads/2026/09/Hotel-TV-Cabinet.jpg"
+      ],
+      "specs": {
+        "material": "E0 plywood / MDF with natural wood veneer (walnut, oak, ash or teak)",
+        "dimensions": "W2800 x D450 x H2400 mm configurable, fully customizable to room blueprint",
+        "finish": "Brushed stainless steel accents in titanium gold or black; warm dimmable LED strip backlighting"
+      },
+      "selling_points": [
+        "Floating wall design divides open-plan lounge and sleeping zones without extra partitions",
+        "80kg load-tested display mounting with reinforced brackets available on request",
+        "CARB P2 / EPA TSCA Title VI certified low-emission boards with soft-close undermount slides"
+      ]
+    }
+  ]
+}

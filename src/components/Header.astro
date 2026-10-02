@@ -1,0 +1,94 @@
+---
+import { alternates, localePath, useTranslations } from "../i18n/utils";
+import { categories, about, contactPage } from "../data/categories";
+import { languages, type Lang } from "../i18n/ui";
+
+interface Props {
+  lang: Lang;
+  slug?: string;
+}
+
+const { lang, slug = "" } = Astro.props;
+const t = useTranslations(lang);
+const { alts } = alternates(slug);
+
+const blogSlug = "blog";
+const navItems = [
+  { href: localePath(lang), slug: "", key: "nav.home", dropdown: null as any },
+  {
+    href: "#",
+    slug: "",
+    key: "nav.products",
+    dropdown: categories.map((c) => ({ href: localePath(lang, c.slug), label: c.name[lang], icon: c.icon, slug: c.slug })),
+  },
+  { href: localePath(lang, blogSlug), slug: blogSlug, key: "nav.blog", dropdown: null },
+  { href: localePath(lang, about.slug), slug: about.slug, key: "nav.about", dropdown: null },
+  { href: localePath(lang, contactPage.slug), slug: contactPage.slug, key: "nav.contact", dropdown: null },
+];
+---
+
+<header class="navbar">
+  <div class="nav-inner wrap-wide">
+    <a class="brand" href={localePath(lang)} aria-label="Hymebel">
+      <img
+        class="brand__logo"
+        src="/images/brand/hongye-logo.png"
+        alt={lang === "kk" ? "Hongye Furniture Group логотипі" : lang === "uz" ? "Hongye Furniture Group logotipi" : "Hongye Furniture Group logo"}
+        width="74"
+        height="44"
+      />
+      <span class="brand__text">
+        <span class="brand__name">Hymebel</span>
+        <span class="brand__tag">{t("site.tagline")}</span>
+      </span>
+    </a>
+
+    <button class="nav-toggle" type="button" aria-expanded="false" aria-controls="site-nav" aria-label="Menu">
+      <span></span><span></span><span></span>
+    </button>
+
+    <nav class="nav" id="site-nav" aria-label="Main navigation">
+      {
+        navItems.map((item) => (
+          <div class="nav-item">
+            <a
+              href={item.href}
+              class="nav-link"
+              aria-current={item.slug && item.slug === slug ? "page" : undefined}
+            >
+              {t(item.key)}
+              {item.dropdown && (
+                <svg class="nav-chevron" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5">
+                  <polyline points="6 9 12 15 18 9" />
+                </svg>
+              )}
+            </a>
+            {item.dropdown && (
+              <div class="nav-dropdown">
+                {item.dropdown.map((d: any) => (
+                  <a href={d.href} class="nav-dropdown-item">
+                    <span class="dd-icon" aria-hidden="true">
+                      {d.icon}
+                    </span>
+                    {d.label}
+                  </a>
+                ))}
+              </div>
+            )}
+          </div>
+        ))
+      }
+      <div class="lang-switch" role="group" aria-label="Language">
+        {
+          alts.map((alt) => (
+            <a href={alt.href} hreflang={alt.hreflang} class:list={["lang-btn", { "lang-btn-active": alt.lang === lang }]}>
+              {languages[alt.lang].short}
+            </a>
+          ))
+        }
+      </div>
+    </nav>
+
+    <a class="nav-cta" href={localePath(lang, contactPage.slug)}>{t("hero.ctaPrimary")}</a>
+  </div>
+</header>

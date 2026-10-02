@@ -1,0 +1,65 @@
+{
+  "office": [
+    {
+      "id": "office-ca-13",
+      "name_en": "Two-Person Back-to-Back Office Workstation with Fabric Screens",
+      "source_url": "https://www.hyofficefurniture.com/2-Person-Office-Cubicle-Desk-pd44165392.html",
+      "images": [
+        "https://iororwxhmkpklj5p.leadongcdn.com/cloud/lkBpnKmklrSRijrkkmpoiq/HY-CTW014.jpg",
+        "https://iororwxhmkpklj5p.leadongcdn.com/cloud/llBpnKmklrSRijrkkmmoiq/HY-CTW014.jpg",
+        "https://iororwxhmkpklj5p.leadongcdn.com/cloud/ljBpnKmklrSRijrkkmqoiq/HY-CTW014.jpg"
+      ],
+      "specs": {
+        "material": "Particle board desktop with metal frame and fabric privacy screen; worksurface thickness 60 mm",
+        "dimensions": "Overall width/depth/height: customized",
+        "finish": "White laminate desktop with green or burgundy fabric screen, aluminum frame"
+      },
+      "selling_points": [
+        "Two-person back-to-back workstation that links into larger desk pods for open offices",
+        "Waterproof, scratch-resistant laminate surfaces that are easy to clean",
+        "Desktop grommets and removable panels on metal legs for cable management"
+      ]
+    },
+    {
+      "id": "office-ca-14",
+      "name_en": "High-Back Upholstered Conference Chair with Aluminum Base",
+      "source_url": "https://www.hyofficefurniture.com/modern-conference-chair-for-office-boardroom.html",
+      "images": [
+        "https://iororwxhmkpklj5p.leadongcdn.com/cloud/pjBpnKmklrSRqljmrpioip/conferenc-chair.png",
+        "https://iororwxhmkpklj5p.leadongcdn.com/cloud/pkBpnKmklrSRqljmrpjoip/conference-chair.png",
+        "https://iororwxhmkpklj5p.leadongcdn.com/cloud/pqBpnKmklrSRqljmrpqnip/conferenc-chair.png"
+      ],
+      "specs": {
+        "material": "Die-cast ADC12 aluminum alloy frame, high-density molded foam, top-grain leather or eco-leather upholstery",
+        "dimensions": "",
+        "finish": "Matte black powder-coated or polished chrome base; multiple upholstery colors"
+      },
+      "selling_points": [
+        "Die-cast aluminum frame passes 300-hour salt-spray testing for rust-free durability",
+        "Supports up to 136 kg with 5-star rolling or 4-star fixed base options",
+        "Class 4 pneumatic cylinder and molded foam cushion for long meetings"
+      ]
+    },
+    {
+      "id": "office-ca-15",
+      "name_en": "Leather Executive Office Sofa for Reception Lounge",
+      "source_url": "https://www.hyofficefurniture.com/executive-office-sofa-luxury-leather-modern-ceo-reception-couch.html",
+      "images": [
+        "https://iororwxhmkpklj5p.leadongcdn.com/cloud/prBpnKmklrSRmlkkmrrqip/ceo-sofa.jpg",
+        "https://iororwxhmkpklj5p.leadongcdn.com/cloud/plBpnKmklrSRmlkkmrnoip/ceo-sofa.jpg",
+        "https://iororwxhmkpklj5p.leadongcdn.com/cloud/poBpnKmklrSRmlkkmrqoip/ceo-sofa.jpg",
+        "https://iororwxhmkpklj5p.leadongcdn.com/cloud/pnBpnKmklrSRmlkkmrooip/ceo-sofa.jpg"
+      ],
+      "specs": {
+        "material": "Kiln-dried solid eucalyptus wood frame with high-density sponge and sinuous springs; top-grain leather upholstery",
+        "dimensions": "Single 950 mm / 2-seater 1800 mm / 3-seater 2200 mm; depth 900-950 mm; height 780 mm; seat height 450 mm",
+        "finish": "Olive green, mustard yellow, navy blue, black, cognac brown or custom colors"
+      },
+      "selling_points": [
+        "Modular seating: armchair, 2-seater, 3-seater or custom modular arrangements",
+        "Top-grain leather over kiln-dried eucalyptus frame with sinuous spring support",
+        "Concealed heavy-duty steel legs suit executive offices and VIP reception areas"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,202 @@
+---
+import BaseLayout from "../../../layouts/BaseLayout.astro";
+import { localePath, useTranslations } from "../../../i18n/utils";
+import { posts, postById, type BlogPost } from "../../../data/blog";
+import { categories } from "../../../data/categories";
+import { locales, type Lang } from "../../../i18n/ui";
+
+const BUILD_DATE = new Date().toISOString().slice(0, 10);
+
+export function getStaticPaths() {
+  return locales.flatMap((lang) => posts.map((p) => ({ params: { lang, post: p.id }, props: { postId: p.id } })));
+}
+
+const { lang, post: postIdParam } = Astro.params as { lang: Lang; post: string };
+const { postId } = Astro.props;
+const p: BlogPost = postById(postId)!;
+const t = useTranslations(lang);
+
+const title = `${p.title[lang]} · Hymebel Blog`;
+const description = p.excerpt[lang];
+const related = posts.filter((x) => x.id !== p.id).slice(0, 3);
+
+/** 文章 → 相关品类页（正文锚文本内链，传递站内权重） */
+const POST_CATS: Record<string, string[]> = {
+  "uz-hotels-2026": ["hotel-furniture"],
+  "guestroom-checklist": ["hotel-furniture"],
+  "ffe-timeline": ["hotel-furniture"],
+  "eac-guide": ["hotel-furniture", "about"],
+  "custom-wardrobes-almaty": ["villa-residential"],
+  "marble-dining-tables-tashkent": ["villa-residential"],
+  "logistics-tashkent-9days": ["about"],
+};
+const relCats = (POST_CATS[p.id] ?? [])
+  .map((slug) => categories.find((c) => c.slug === slug))
+  .filter((c): c is NonNullable<typeof c> => Boolean(c));
+
+const relLinks = {
+  kk: "Қатысты шешімдер",
+  uz: "Tegishli yechimlar",
+  en: "Related solutions",
+}[lang];
+const aboutLinkLabel = { kk: "Өндіріс базамыз", uz: "Ishlab chiqarish bazamiz", en: "Our factory and capability" }[lang];
+const editorLabel = {
+  kk: "Hymebel редакциясы · Hongye Furniture Group",
+  uz: "Hymebel tahririyati · Hongye Furniture Group",
+  en: "Hymebel Editorial Team · Hongye Furniture Group",
+}[lang];
+const updatedLabel = { kk: "Жаңартылды", uz: "Yangilandi", en: "Updated" }[lang];
+
+/** 正文锚文本：[锚文本](slug) → 带语言前缀的站内链接（内容自有，可信） */
+const linkify = (s: string): string =>
+  s.replace(/\[([^\]]+)\]\(([^)\s]+)\)/g, (_m, text: string, slug: string) => {
+    const href = /^https?:/.test(slug) ? slug : localePath(lang, slug.replace(/^\/+/, ""));
+    return `<a href="${href}">${text}</a>`;
+  });
+
+const faqJsonLd = {
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  mainEntity: p.faqs.map((f) => ({
+    "@type": "Question",
+    name: f.q[lang],
+    acceptedAnswer: { "@type": "Answer", text: f.a[lang] },
+  })),
+};
+const articleJsonLd = {
+  "@context": "https://schema.org",
+  "@type": "Article",
+  headline: p.title[lang],
+  description: p.excerpt[lang],
+  datePublished: p.date,
+  dateModified: BUILD_DATE,
+  image: `https://hymebel.com${p.image}`,
+  author: { "@type": "Organization", name: "Hymebel · Hongye Furniture Group" },
+  publisher: {
+    "@type": "Organization",
+    name: "Hymebel · Hongye Furniture Group",
+    logo: { "@type": "ImageObject", url: "https://hymebel.com/images/brand/hongye-logo.png" },
+  },
+  inLanguage: lang === "kk" ? "kk-KZ" : lang === "uz" ? "uz-UZ" : "en",
+};
+
+const crumb = [
+  { name: t("blog.title"), href: localePath(lang, "blog") },
+  { name: p.title[lang], href: localePath(lang, `blog/${p.id}`) },
+];
+---
+
+<BaseLayout lang={lang} title={title} description={description} slug={`blog/${p.id}`} ogImage={p.image} breadcrumb={crumb}>
+  <script type="application/ld+json" set:html={JSON.stringify(faqJsonLd)} />
+  <script type="application/ld+json" set:html={JSON.stringify(articleJsonLd)} />
+
+  <section class="page-head">
+    <div class="wrap prose-article">
+      <p class="breadcrumb">
+        <a href={localePath(lang)}>{t("nav.home")}</a> / <a href={localePath(lang, "blog")}>{t("blog.title")}</a> / {p.tag[lang]}
+      </p>
+      <h1>{p.title[lang]}</h1>
+      <p class="byline">
+        {editorLabel} · {p.date} · {updatedLabel} {BUILD_DATE} · {p.readingMin} min
+      </p>
+    </div>
+  </section>
+
+  <section class="section" style="padding-top:30px">
+    <div class="wrap prose-article">
+      <img
+        class="post-cover"
+        src={p.image}
+        alt={p.imageAlt[lang]}
+        width="1200"
+        height="675"
+        loading="eager"
+      />
+      <div class="definition">
+        <p style="margin:0">{p.definition[lang]}</p>
+      </div>
+
+      <div class="key-takeaways">
+        <strong>{lang === "kk" ? "Негізгі тезистер" : lang === "uz" ? "Asosiy tezislar" : "Key takeaways"}</strong>
+        <ul>
+          {p.takeaways[lang].map((k) => <li>{k}</li>)}
+        </ul>
+      </div>
+
+      {p.sections.map((s) => (
+        <>
+          <h2>{s.h[lang]}</h2>
+          {s.paras[lang].map((par) => <p set:html={linkify(par)} />)}
+        </>
+      ))}
+
+      {p.tables.length > 0 &&
+        p.tables.map((tb) => (
+          <table>
+            <thead>
+              <tr>{tb.headers[lang].map((h) => <th>{h}</th>)}</tr>
+            </thead>
+            <tbody>
+              {tb.rows[lang].map((row) => (
+                <tr>{row.map((cell) => <td>{cell}</td>)}</tr>
+              ))}
+            </tbody>
+          </table>
+        ))}
+
+      <h2>{t("faq.title")}</h2>
+      {p.faqs.map((f) => (
+        <details class="faq">
+          <summary>{f.q[lang]}</summary>
+          <p>{f.a[lang]}</p>
+        </details>
+      ))}
+
+      {relCats.length > 0 && (
+        <div class="related-solutions">
+          <strong>{relLinks}</strong>
+          <ul>
+            {relCats.map((c) => (
+              <li>
+                <a href={localePath(lang, c.slug)}>{c.name[lang]}</a> — {c.tagline[lang]}
+              </li>
+            ))}
+            <li>
+              <a href={localePath(lang, "about")}>{aboutLinkLabel}</a>
+            </li>
+          </ul>
+        </div>
+      )}
+
+      <p style="margin-top:2.2em">
+        <a href={localePath(lang, "blog")}>{t("blog.back")}</a>
+      </p>
+    </div>
+  </section>
+
+  <section class="section section--surface">
+    <div class="wrap">
+      <h2 style="font-size:1.2rem">{lang === "kk" ? "Басқа мақалалар" : lang === "uz" ? "Boshqa maqolalar" : "More articles"}</h2>
+      <div class="grid grid--3" style="margin-top:18px">
+        {related.map((r) => (
+          <a class="blog-card blog-card--visual" href={localePath(lang, `blog/${r.id}`)}>
+            <img class="blog-card__img" src={r.image} alt={r.imageAlt[lang]} loading="lazy" width="800" height="450" />
+            <div class="blog-card__body">
+              <div class="blog-card__tag">{r.tag[lang]}</div>
+              <div class="blog-card__title">{r.title[lang]}</div>
+              <p class="blog-card__excerpt">{r.excerpt[lang]}</p>
+            </div>
+          </a>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <section class="cta-band">
+    <div class="wrap">
+      <h2>{t("cta.title")}</h2>
+      <p>{t("cta.body")}</p>
+      <a class="btn btn--ghost" href={localePath(lang, "contact")}>{t("hero.ctaPrimary")}</a>
+    </div>
+  </section>
+</BaseLayout>

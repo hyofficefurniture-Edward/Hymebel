@@ -1,0 +1,65 @@
+{
+  "medical": [
+    {
+      "id": "med-ca-13",
+      "name_en": "Heavy Duty Aluminum Shower Chair with Arms and Backrest",
+      "source_url": "https://www.hyhealthcarefurniture.com/medical-shower-chair-with-arms.html",
+      "images": [
+        "https://5irorwxhrqkrjij.leadongcdn.com/cloud/klBpjKjlRikSornpnrjoi/25c91a468086895bd00560040aa16ab.png",
+        "https://5irorwxhrqkrjij.leadongcdn.com/cloud/kkBpjKjlRikSornporjli/aea4b91c56282316a72ec4f117b8942.png",
+        "https://5irorwxhrqkrjij.leadongcdn.com/cloud/knBpjKjlRikSornporjoi/e204678412b015b106df94c50d8bbac_fuben.png"
+      ],
+      "specs": {
+        "material": "Aluminum",
+        "dimensions": "17.1\"D x 18.3\"W x 33\"H; legs height adjustable 27-33 in; seat 16\"W x 15\"D; max load 330 lbs",
+        "finish": "White powder-coated aluminum, white molded seat (color customizable)"
+      },
+      "selling_points": [
+        "Heavy-duty angled-leg aluminum frame with non-skid rubber tips supports users up to 330 lbs",
+        "Extra-wide anti-slip seat with drainage holes reduces slippage risk during showering",
+        "Removable back and handles plus height-adjustable legs from 27 to 33 inches"
+      ]
+    },
+    {
+      "id": "med-ca-14",
+      "name_en": "Hospital Stretcher Bed on Wheels for Ambulance Transfer",
+      "source_url": "https://www.hyhealthcarefurniture.com/stretcher-bed-on-wheels-for-ambulance.html",
+      "images": [
+        "https://5irorwxhrqkrjij.leadongcdn.com/cloud/koBpjKjlRikSorlpprjoi/f0066f3be279166bc3cf3f619092d04.png",
+        "https://5irorwxhrqkrjij.leadongcdn.com/cloud/kjBpjKjlRikSorlplrjoi/4b3d5db6888baf20ea7d68ad6cebc14.png",
+        "https://5irorwxhrqkrjij.leadongcdn.com/cloud/knBpjKjlRikSorlpnrjpi/24b79bed35feb968e3257ec9e3223aa.png",
+        "https://5irorwxhrqkrjij.leadongcdn.com/cloud/klBpjKjlRikSorlporjoi/59c9ab3cbc3ec1cb00df50496e3db06.png"
+      ],
+      "specs": {
+        "material": "Plastic, ABS Plastic with aluminum alloy frame",
+        "dimensions": "75 x 22 x 36 (highest) to 75 x 22 x 11 (lowest); weight limit 159 kg or less",
+        "finish": ""
+      },
+      "selling_points": [
+        "Folds into a transport chair for easy movement through narrow corridors and elevators",
+        "Both ends adjust to twelve positions for flexible patient positioning during transfer",
+        "ABS plastic construction with weight limit up to 159 kg for demanding hospital use"
+      ]
+    },
+    {
+      "id": "med-ca-15",
+      "name_en": "Heavy Duty Height Adjustable Overbed Table with Casters",
+      "source_url": "https://www.hyhealthcarefurniture.com/heavyduty-adjustable-overbed-table.html",
+      "images": [
+        "https://5irorwxhrqkrjij.leadongcdn.com/cloud/kqBpjKjlRijSnmokmqlkj/1.jpg",
+        "https://5irorwxhrqkrjij.leadongcdn.com/cloud/kmBpjKjlRijSnmokmqlnj/3.jpg",
+        "https://5irorwxhrqkrjij.leadongcdn.com/cloud/kiBpjKjlRijSnmokmqlqk/5.jpg"
+      ],
+      "specs": {
+        "material": "Welded tubular steel H-style base with wood-grain tabletop",
+        "dimensions": "15\"D x 30\"W x 29-40\"H; adjustable range 28-40 in; safe working load 50 KG",
+        "finish": "Walnut wood grain laminate top"
+      },
+      "selling_points": [
+        "Welded tubular steel H-style base provides heavy-duty stability for daily hospital use",
+        "Spring-loaded locking handle adjusts table height from 28 to 40 inches with one touch",
+        "Lowers for wheelchair use; four casters allow smooth bedside positioning"
+      ]
+    }
+  ]
+}

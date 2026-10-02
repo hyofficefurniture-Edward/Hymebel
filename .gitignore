@@ -1,0 +1,9 @@
+node_modules/
+dist/
+.astro/
+.DS_Store
+*.log
+_preview_site/
+_cand/
+_qc/
+_scrape/_rejected/

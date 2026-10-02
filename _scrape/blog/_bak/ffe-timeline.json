@@ -1,0 +1,357 @@
+{
+ "id": "ffe-timeline",
+ "tag": {
+  "kk": "Жоспар",
+  "uz": "Reja",
+  "en": "Timeline"
+ },
+ "title": {
+  "kk": "Қонақүй FF&E сатып алу уақыт желісі: 12 ай неге ақшаны үнемдейді",
+  "uz": "Mehmonxona FF&E xarid vaqt chizig'i: 12 oy nima uchun tejab qoladi",
+  "en": "Hotel FF&E Procurement Timeline: Why 12 Months Saves Cost"
+ },
+ "excerpt": {
+  "kk": "FF&E сатып алуды 12 ай бұрын бастаған жоба арзанырақ түседі: дизайн→үлгі→өндіріс→логистика→ортау. Ай сайынғы кесте мен мерзімінен кешігу қаупін қараңыз — Hymebel FF&E нұсқаулығы.",
+  "uz": "FF&E xaridini 12 oy oldin boshlagan loyiha arzonroq chiqadi: dizayn→namuna→ishlab chiqarish→logistika→o'rnatish. Oy sayin jadval va kechikish xavflarini ko'ring — Hymebel FF&E qo'llanmasi.",
+  "en": "FF&E started 12 months out costs less: design, sampling, production, freight, installation. See the month-by-month plan and the price of starting late — plan your hotel procurement with Hymebel."
+ },
+ "date": "2026-09-30",
+ "readingMin": 7,
+ "definition": {
+  "kk": "Қонақүй FF&E сатып алу белгіленген уақыт желісі бойынша жүреді: дизайн тоқтатылуы, үлгілеу, өндіріс және орнатудың әрқайсысының өз мерзімі бар. Негізгі ереже: FF&E неғұрлым ерте басталса, соғұрлым арзан болады — идеал жол 12 ай.",
+  "uz": "Mehmonxona FF&E xaridi aniq vaqt chizig'i bo'yicha yuradi: dizaynni muzlatish, namunalash, ishlab chiqarish va o'rnatishning har biri o'z muddatiga ega. Asosiy qoida: FF&E qancha erta boshlansa, shuncha arzon bo'ladi — ideal yo'l 12 oy.",
+  "en": "Hotel FF&E procurement runs on a fixed timeline: design freeze, sampling, production and installation each have set durations. The core rule is simple: the earlier FF&E starts, the cheaper it is — an ideal runway is 12 months before opening."
+ },
+ "takeaways": {
+  "kk": [
+   "Идеал FF&E уақыт желісі — ашылуга дейін 12 ай; әр ай кешігу арзандық нұсқаларын алып кетеді.",
+   "Дизайн тоқтатылуы — бәрінің негізі: мақұлдау кейін өзгерген зат көлемдегі материал бағасын көбейтеді.",
+   "Партия өндірісі 30–45 күн; Ташкентке теміржолмен 9–10 күн, TIR-мен 5–7 күн.",
+   "Қол қойылған үлгі — түс, әрлеу және сапа бойынша келісімшарт стандарты; оны жеделдетпеңіз.",
+   "Орнату — соңғы 10% ашылу күнін шешетін жұмыс: нөмірленген қораптар мен тәжірибелі монтаждаушылар керек."
+  ],
+  "uz": [
+   "Ideal FF&E vaqt chizig'i — ochilishgacha 12 oy; har bir kechkin arzon variantlarni olib ketadi.",
+   "Dizaynni muzlatish hamma narsaning asosi: tasdiqdan keyin o'zgargan buyum partiya materialining narxini oshiradi.",
+   "Partiya bilan ishlab chiqarish 30–45 kun; Toshkentga temir yo'l bilan 9–10 kun, TIR bilan 5–7 kun.",
+   "Imzo qo'yilgan namuna rang, pardozlash va sifat bo'yicha shartnoma standarti; uni tezlatmang.",
+   "O'rnatish — ochilish kunini hal qiladigan oxirgi 10 foiz: raqamlangan qutilar va tajribali jamoa kerak."
+  ],
+  "en": [
+   "The ideal FF&E runway is 12 months before opening; every month of delay removes cheaper options from the table.",
+   "Design freeze is the anchor: anything that changes after approval multiplies volume-ordered material cost.",
+   "Batch production takes 30–45 days; rail freight to Tashkent runs 9–10 days, TIR trucking 5–7 days.",
+   "The signed sample is the contract standard for color, finish and quality — never rush that stage.",
+   "Installation is the last 10% that decides the opening date: numbered cartons and trained crews close the job on time."
+  ]
+ },
+ "sections": [
+  {
+   "h": {
+    "kk": "1–2 ай: дизайн тоқтатылуы және спецификация",
+    "uz": "1–2-oylar: dizaynni muzlatish va spetsifikatsiya",
+    "en": "Months 1–2: design freeze and specification"
+   },
+   "paras": {
+    "kk": [
+     "Кейінгінің барлығы тоқтатылған дизайнына байланысты. Алғашқы екі айда жобалық команда бөлме тізімін, жиһаз жоспарларын, әрлеу палитрасын мен бренд стандарттарын бекітеді. Үлгі мақұлдауынан кейін өзгерген әр зат құнын көбейтеді, себебі материалдар көлеммен тапсырыс беріледі.",
+     "Спецификация — ақша сақталатын, жұмсалмайтын кезең. Стандарт парақ өлшемдерін, ағаш кесуін рационалдастыруды және фурнитураны ерте келісу өндірістегі қалдықты азайтады. Сызбаларды бірінші айда көрген зауыт бұл үнемділер құлыпталмай тұрып ескертеді.",
+     "Бұл кезеңдегі пайдалы тәртіп — бөлме түрінің матрицасы: 200 бөлмені жеке спецификациялаудың орнына, төрт-бес бөлме түрін анықтап, әрқайсысына көлем тізімдемесін бекітіңіз. Көлем қажет жерде шоғырланады, үлгілер нақты өндірісті білдіреді, ал кейінгі өзгерістер бүкіл нысанға емес, бір түрмен шектеледі. Бұл матрицаны өткізіп жіберген жобалар оны үлгілеу уақытына да, бөлме бағасына да төлейді.",
+     "Мұнда мазмұн маңызды: Hymebel 1996 жылдан бері 300 000 м² меншікті зауыт алаңында қонақүй жиһазын шығарады, сондықтан жоғарыдағы кесте теория емес — жобалық топтарымыз әр маусым ұстанатын ырғақ."
+    ],
+    "uz": [
+     "Keyingi hamma narsa muzlatilgan dizaynga bog'liq. Birinchi ikki oyda loyiha jamoasi xonalar ro'yxatini, mebel rejalasini, pardozlash palitrasini va brend standartlarini belgilaydi. Namuna tasdig'idan keyin o'zgargan har bir buyum xarajatni ko'paytiradi, chunki materiallar partiya bo'lib buyurtma qilinadi.",
+     "Spetsifikatsiya pul tejiladigan, emas, sarflanadigan bosqichdir. Standart plastina o'lchamlari, venier kesimini ratsionallashtirish va armaturani erta kelishish ishlab chiqarishdagi chiqindini kamaytiradi. Chizmalarni birinchi oyda ko'rgan zavod bu tejamkorliklar qulflanishidan avval ogohlantiradi — bu savdo-sotiq emas, hamkorlik ruhi.",
+     "Ushbu bosqichdagi foydali tartib — xona turlari matritsasi: 200 xonani alohida spetsifikatsiya qilish o'rniga, to'rt-besh xona turini belgilab, har biriga hajm ro'yxatini bog'lang. Hajm kerakli joyda to'planadi, namunalar haqiqiy ishlab chiqarishni ifodalaydi va keyingi o'zgarishlar butun obyektga emas, bitta tur bilan chegaralanadi. Ushbu matritsani o'tkazib yuborgan loyihalar buni ham namunalash vaqtiga, ham xona narxiga to'laydi.",
+     "Bu yerda kontekst muhim: Hymebel 1996-yildan beri 300 000 m² lik o'z zavodida mehmonxona mebeli ishlab chiqaradi, shu bois yuqoridagi jadval nazariya emas — loyiha jamoalarimiz har mavsum kuzatadigan ritmdir."
+    ],
+    "en": [
+     "Everything downstream depends on a frozen design. In the first two months the project team fixes the room list, furniture layouts, finish palette and brand standards. Every item that later changes after sample approval multiplies cost, because materials are ordered in volume against the frozen specification.",
+     "Specification is where money is saved, not spent. Choosing standard sheet sizes, rationalizing veneer cuts and agreeing on hardware early reduces waste in production. A factory that sees drawings at month one can flag these savings before they are locked out — which is exactly why starting 12 months out pays for itself.",
+     "A useful discipline in this phase is the room-type matrix: rather than specifying 200 rooms individually, define four or five room types and attach a bill of quantities to each. Volume concentrates where it should, samples represent real production, and later changes are contained to a single type instead of rippling through the whole property. Projects that skip this matrix pay for it in both sampling time and per-room cost.",
+     "Context helps here: Hymebel has manufactured hotel furniture since 1996 on a 300,000 m² own factory campus, so the calendar above is not theory — it is the cadence our project teams run every season."
+    ]
+   }
+  },
+  {
+   "h": {
+    "kk": "3–4 ай: үлгілеу және мақұлдау",
+    "uz": "3–4-oylar: namunalash va tasdiqlash",
+    "en": "Months 3–4: sampling and approval"
+   },
+   "paras": {
+    "kk": [
+     "Үлгілеу сызбаларды шешімдерге айналдырады. Прототип бөлме — немесе ең болмағанда төсек, үстел, киім шкафы мен төсек басының толық өлшемді үлгілері — өндіріліп, қаралып, қол қойылады. Бір-екі раунд күтіңіз; екі жақ та уақытын шектегені дұрыс.",
+     "Қол қойылған үлгі түс, әрлеу және сапа бойынша келісімшарт стандартына айналады. Бұл кезеңді өткізіп жіберуді немесе жеделдетуді орнату кезіндегі даулардың ең жиі себебі.",
+     "Үлгілеу логистика жобаланатын жері де. Мақұлданған үлгі қорап өлшемдерін анықтайды, ал қорап өлшемдері бір контейнерге қанша бөлме сыятынын — бүкіл жобаның жүк құнын шешетін көрсеткішті анықтайды. Үлгілеуді тек эстетикалық жаттығу деп қараған сатып алушылар кейін үстелдің үш сантиметрлік шығыңқылығы 200 бөлмеге жинақталғанда толық қосымша контейнер екенін біледі."
+    ],
+    "uz": [
+     "Namunalash chizmalarni qarorlarga aylantiradi. Prototip xona — yoki kamida krovat, stol, kiyim shkafi va krovat etagining to'liq o'lchamdagi namunalari — ishlab chiqariladi, ko'rib chiqiladi va imzolanadi. Bir-ikki raund kutish tabiiy; ikkala tomon ham muddatni chegaralashi maqsadga muvofiq.",
+     "Imzo qo'yilgan namuna rang, pardozlash va sifat bo'yicha shartnoma standartiga aylanadi. Ushbu bosqichni o'tkazib yuborish yoki shoshiltirish o'rnatish davridagi nizolarning eng keng tarqalgan sababi — buni har qanday yangi mehmondo'stlik loyihasi tajribasidan bilamiz.",
+     "Namunalash logistika loyihalanadigan joy hamdir. Tasdiqlangan namuna quti o'lchamlarini belgilaydi, quti o'lchamlari esa bir konteynerga nechta xona sig'ishini — butun loyiha yuk xarajatini hal qiladigan raqamni belgilaydi. Namunalashni faqat estetik mashq deb qaragan xaridorlar keyin stolning uch santimetrlik chiqindi qismi 200 xonaga to'planganda to'liq qo'shimcha konteyner ekanini biladi."
+    ],
+    "en": [
+     "Sampling converts drawings into decisions. A prototype room — or at minimum full-size samples of the bed, desk, wardrobe and headboard — is produced, reviewed and signed off. Expect one or two rounds; both sides should time-box them rather than let them drift.",
+     "The signed sample becomes the contract standard for color, finish and quality, which is why both parties sign it physically. Skipping or rushing this stage is the single most common cause of disputes at installation — a lesson every experienced hotel project team has paid for once.",
+     "Sampling is also where logistics is designed. The approved sample determines carton sizes, and carton sizes determine how many rooms fit in one container — a number that decides freight cost for the entire project. Buyers who treat sampling purely as an aesthetic exercise discover later that a three-centimeter desk overhang, multiplied across 200 rooms, is a whole extra container."
+    ]
+   }
+  },
+  {
+   "h": {
+    "kk": "Кешірілген FF&E тапсырысы неге қымбатқа түседі?",
+    "uz": "Kechiktirilgan FF&E buyurtmasi nega qimmatga tushadi?",
+    "en": "Why do late FF&E orders cost more?"
+   },
+   "paras": {
+    "kk": [
+     "Себебі кеш тапсырыс жиһазды емес, асығыстықты сатып алады. Маусым шыңында өндіріске кірген жоба кезек үстемесін және жеделдетілген жүк төлемін төлейді; 12 ай бұрын бастаған жоба күнтізбелік күш позициясынан келіседі. Бұл нұсқаулықтың негізгі жауабы: FF&E неғұрлым ерте басталса, соғұрлым арзан — идеалда ашылуга 12 ай бұрын.",
+     "Кеш басталу нұсқаларды да алып кетеді. Тапсырыстық әрлеулер, партияларға бөлу мен кезеңдік жеткізу зауыт күнтізбесінде орын талап етеді. Күнтізбе толып қалғанда, артында тек баға мен тәуекел қалады.",
+     "Абырой өлшемі де бар. Басқарушы компаниялар қай жобаның мерзімінде ашылғанын есте сақтайды, ал әзірлеушінің келесі қаржыландыруы сол тарихқа байланысты. FF&E күнтізбесін құрылымдық кезеңдермен бірдей қатаңдықпен қарау — қонақүй топтарының банк пен бренд сенімін құрылыс бойы сақтау жолы."
+    ],
+    "uz": [
+     "Chunki kech buyurtma mebelni emas, shoshilinchlikni sotib oladi. Mavsum cho'qqisida ishlab chiqarishga kirgan loyiha navbat ustamasini va tezlashtirilgan yuk haqini to'laydi; 12 oy oldin boshlagan loyiha esa taqvim kuchidan kelishib oladi. Ushbu qo'llanmaning asosiy javobi shu: FF&E qancha erta boshlansa, shuncha arzon — ideal holda ochilishga 12 oy qolganda.",
+     "Kech boshlanish variantlarni ham olib ketadi. Maxsus pardozlash, partiyalarga bo'lish va bosqichma-bosqich yetkazish zavod taqvimida joy talab qiladi. Taqvim to'lgach, qolgan yagona o'zgaruvchi — narx va xavf. Mehmondo'stlik oila uyi singari: uy qurishni erta boshlagan oila balog'at kuni to'liq bo'ladi.",
+     "Obro' o'lchami ham bor. Boshqaruv kompaniyalari qaysi loyihaning o'z vaqtida ochilganini eslab qoladi, dasturchining keyingi moliyalashtirilishi esa o'sha tarixga bog'liq. FF&E taqvimi konstruksiya bosqichlari bilan bir xil qat'iyat bilan qaralishi — mehmonxona guruhlari bank hamda brend ishonchini qurilish davomida saqlash yo'lidir."
+    ],
+    "en": [
+     "Because late orders buy urgency, not furniture. A project that enters production in peak season pays queue premiums and expedited freight; a project that starts 12 months out negotiates from a position of calendar strength. The core answer of this guide: the earlier FF&E starts, the cheaper it is — ideally 12 months before opening.",
+     "A late start also removes options. Custom finishes, batch splitting and phased deliveries all require room in the factory calendar. Once the calendar is full, the only variables left are price and risk — and both move against the buyer.",
+     "There is also a reputational dimension. Operators remember which projects opened on time, and a developer's next financing depends on that record. Treating the FF&E calendar with the same seriousness as structural milestones is how hotel groups keep both banks and brands confident through a build."
+    ]
+   }
+  },
+  {
+   "h": {
+    "kk": "5–8 ай: өндіріс және сапа бақылауы",
+    "uz": "5–8-oylar: ishlab chiqarish va sifat nazorati",
+    "en": "Months 5–8: production and quality control"
+   },
+   "paras": {
+    "kk": [
+     "Қонақүй партиясы әдетте көлеміне қарай 30–45 күн өндірісті алады. Сапа бақылауы соңында емес, ағын бойында жүреді: ағаш сәйкестендіру, фурнитура тығыздығы мен әрлеу тексерісі әр кезеңде жүргізіліп, сатып алушы командасына фото есеп беріледі.",
+     "Ірі нысандар үшін өндіріс қабаттардың дайындығымен тураланған партияларға бөлінеді, сондықтан жиһаз бөлмелер дайын болған сайын жетеді. Hilton Tashkent жеткізуін дәл осылай ұйымдастырдық, онда орнату терезелерін басқарушы компания белгіледі.",
+     "Бұл кезеңдегі сатып алушының қатысуы өлшемді, тұрақты емес: зауыттағы ортаңғы өндірістік инспекция мен орау алдындағы жөнелту инспекциясы тәуекелдердің көбін жабады. Осы екі нүктенің арасында апталық фото есеп сатып алушы командасын сызықты баяндатпай хабардар етеді. Hilton Tashkent жеткізуі дәл осы ырғақпен жүрді және ол 100 бөлмеден 500 бөлмеге дейін масштабталады.",
+     "Сатып алушы үшін мұнда практикалық қорытынды бар: партияларға бөлуді және фото есеп ырғағын келісімшартқа жазыңыз. Жазбаша бекітілген ырғақ мерзімді ғана емес, жобаның ішкі үйлестіру шығынын да сақтайды.",
+     "Қорытынды бір сөйлемде: өндірістегі инспекция — ақауды зауытта, жөнелту инспекциясы — қалдықты алаңға жеткізбей шешеді."
+    ],
+    "uz": [
+     "Mehmonxona partiyasi odatda hajmiga qarab 30–45 kun ishlab chiqarish oladi. Sifat nazorati oxirida emas, jarayon ichida yuritiladi: venier moslashtirish, armatura zichligi va pardozlash tekshiruvi har bosqichda o'tkazilib, xaridor jamoasiga foto hisobot taqdim etiladi.",
+     "Katta obyektlar uchun ishlab chiqarish qavatlar tayyorligiga mos partiyalarga bo'linadi, shu bois mebel xonalar tayyor bo'lgan sari yetib boradi. Hilton Tashkent yetkazishini aynan shu tartibda tashkil qildik — u yerda o'rnatish oynalarini boshqaruv kompaniyasi belgilagan edi.",
+     "Ushbu bosqichda xaridor ishtiroki o'lchovli, doimiy emas: zavoddagi o'rtacha ishlab chiqarish tekshiruvi va qadoqlash oldidan yuborish tekshiruvi xavflarning ko'pini yopadi. Bu ikki nuqta orasida haftalik foto hisobot xaridor jamoasini liniyani sekinlashtirmasdan xabardor qiladi. Hilton Tashkent yetkazishi aynan shu ritm bilan yuritildi va u 100 xonadan 500 xonagacha masshtablanadi."
+    ],
+    "en": [
+     "A hotel batch typically takes 30–45 days of production depending on scope. Quality control runs inline, not at the end: veneer matching, hardware torque and finish checks happen at each stage, with photo reports sent to the buyer's team.",
+     "For large properties, production is split into batches aligned with floor readiness, so furniture arrives as rooms are prepared. This is exactly how we structured the Hilton Tashkent delivery, where installation windows were fixed by the operator and could not move.",
+     "Buyer presence in this phase is proportionate, not constant: a mid-production inspection at the factory and a pre-shipment inspection before packing close most risks. Between those two points, weekly photo reporting keeps the buyer's team informed without slowing the line. This rhythm is how the Hilton Tashkent delivery ran, and it scales from 100 rooms to 500."
+    ]
+   }
+  },
+  {
+   "h": {
+    "kk": "9–12 ай: жүк, кеден және орнату",
+    "uz": "9–12-oylar: yuk, bojxona va o'rnatish",
+    "en": "Months 9–12: shipping, customs and installation"
+   },
+   "paras": {
+    "kk": [
+     "Қытайдан Орталық Азияға жүк — анықталған бағыт: Ташкентке теміржолмен 9–10 күн немесе TIR автокөлігімен 5–7 күн. Кеден құжаттары, оның ішінде Қазақстанға жөнелтілетін тауарға EAC сәйкестігі, тиектеу алдында, келуінен кейін емес, дайындалуы керек.",
+     "Орнату — жобаның жартысындай сезілетін соңғы 10%. Тәжірибелі монтаждаушы топтар, бөлме нөмірімен сәйкестендірілген нөмірленген қораптар мен ақау тізімі жұмысты мерзімінде жабады. 12-айға орнату қорын қосыңыз — ашылу ешқашан ығыспайды, жиһаз жоспары ығысады.",
+     "Тұтас жоспарды қорғайтын соңғы әдет — алғашқы контейнер жөнелтілгенге дейінгі бірлескен алаң дайындығын шолу. Қабаттар, электр, лифттер мен сақтау орны жеткізу кестесімен жазбаша расталады және түсіру жауапкершілігі келісіледі. Дайын ғимаратқа келген жиһаз — орнату; сұрақ белгісіне келген жиһаз — сақтау мәселесі.",
+     "Осы кестені жобаңыздың ашылу күніне қарай аударып береміз: бөлме тізімін жіберіңіз — біз өндіріс терезесі мен жүк кестесін бір жауапта қайтарамыз және әр кезеңнің иесін белгілейміз.",
+     "Осы нұсқаулықтағы әр кесте — өңірдегі жобалар үшін аптасайын ұстайтын жеткіземіз: өндіріс терезелері, теміржол мен TIR жөнелтулері, орнату топтары. Ашылу күніңіз бен бөлме саныңызды WhatsApp +86 18038813653 немесе z@hysdfurniture.com арқылы жіберіңіз — күнтізбеңізге негізделген айсайын жоспар қайтарамыз."
+    ],
+    "uz": [
+     "Xitoydan Markaziy Osiyoga yuk aniq yo'nalish: Toshkentga temir yo'l bilan 9–10 kun yoki TIR avtomobili bilan 5–7 kun. Bojxona hujjatlari, jumladan Qozog'istonga ketayotgan tovar uchun EAC mosligi, yuklashdan oldin — kelgandan keyin emas — tayyorlanishi kerak.",
+     "O'rnatish loyihaning yarmidek his qilinadigan oxirgi 10 foizidir. Tajribali jamoalar, xona raqamiga mos raqamlangan qutilar va nuqsonlar ro'yxati ishni o'z vaqtida yopadi. 12-oyga o'rnatish zaxirasini qo'shing — ochilish sanasi hech qachon siljimaydi, siljiadigan narsa mebel rejasi.",
+     "Butun rejni himoya qiladigan yana bir odat — birinchi konteyner yuborilishidan oldingi qo'shma maydon tayyorligi ko'rigi. Qavatlar, elektr, liftlar va saqlash joyi yetkazish jadvali bilan yozma ravishda tasdiqlanadi, tushirish javobgarligi kelishiladi. Tayyor binoga kelgan mebel — o'rnatish; so'roq belgisiga kelgan mebel — saqlash muammosi.",
+     "Ushbu qo'llanmadagi har bir jadval — mintaqadagi loyihalar uchun haftada yangilab boradigan majburiyatimiz: ishlab chiqarish oynalari, temir yo'l va TIR yuborishlari, o'rnatish jamoalari. Ochilish sanangiz va xonalar soningizni WhatsApp +86 18038813653 yoki z@hysdfurniture.com manziliga yuboring — taqvimingizga asoslangan oy sayin reja qaytaramiz."
+    ],
+    "en": [
+     "Freight from China to Central Asia is a defined corridor: rail to Tashkent in 9–10 days or TIR trucking in 5–7 days. Customs paperwork, including EAC conformity for Kazakhstan-bound goods, should be prepared before loading, not after arrival.",
+     "Installation is the last 10 percent that feels like half the project. Trained assembly crews, numbered cartons matched to room numbers and a punch-list process close the job on time. Build installation buffer into month 12 — openings never move, furniture plans do.",
+     "One final habit protects the whole plan: a joint site-readiness review before the first container ships. Floors, power, lifts and storage space are confirmed against the delivery schedule in writing, and responsibilities for offloading are agreed. Furniture that arrives to a prepared building is an installation; furniture that arrives to a question mark is a storage problem.",
+     "Every schedule in this guide is a deliverable we maintain weekly for projects in the region: production windows, rail and TIR departures, installation crews. Send your opening date and room count to WhatsApp +86 18038813653 or z@hysdfurniture.com, and we will return a month-by-month plan built around your calendar."
+    ]
+   }
+  }
+ ],
+ "tables": [
+  {
+   "headers": {
+    "kk": [
+     "Кезең",
+     "Мерзім",
+     "Негізгі іс-әрекеттер",
+     "Кешігу тәуекелі"
+    ],
+    "uz": [
+     "Bosqich",
+     "Muddat",
+     "Asosiy amallar",
+     "Kechikish xavfi"
+    ],
+    "en": [
+     "Phase",
+     "Timing",
+     "Key actions",
+     "Risk if delayed"
+    ]
+   },
+   "rows": {
+    "kk": [
+     [
+      "Дизайн тоқтатылуы",
+      "1–2 ай",
+      "Бөлме тізімі, жоспарлар, әрлеулер мақұлданады",
+      "Кейінгі әр өзгеріс құнды көбейтеді"
+     ],
+     [
+      "Үлгілеу",
+      "3–4 ай",
+      "Прототип бөлме немесе үлгілер қол қойылып бекітіледі",
+      "Өндіріс мақұлданбаған дизайнмен басталады"
+     ],
+     [
+      "Өндіріс",
+      "5–8 ай (партияға 30–45 күн)",
+      "Партиялық өндіріс, ағындық сапа бақылауы",
+      "Маусым шыңындағы кезек, қымбаттау баға"
+     ],
+     [
+      "Логистика",
+      "9–10 ай",
+      "Ташкентке теміржолмен 9–10 күн / TIR-мен 5–7 күн, кеден",
+      "Әуе жүгі немесе ашылу кешігуі"
+     ],
+     [
+      "Орнату",
+      "11–12 ай",
+      "Алаңға жеткізу, жинау, ақау тізімі",
+      "Ашылу күні тәуекелге ұшырайды"
+     ]
+    ],
+    "uz": [
+     [
+      "Dizaynni muzlatish",
+      "1–2-oy",
+      "Xonalar ro'yxati, rejalas, pardozlash tasdiqlanadi",
+      "Keyingi har o'zgarish xarajatni ko'paytiradi"
+     ],
+     [
+      "Namunalash",
+      "3–4-oy",
+      "Prototip xona yoki namunalar imzolanadi",
+      "Ishlab chiqarish tasdiqlanmagan dizayn bilan boshlanadi"
+     ],
+     [
+      "Ishlab chiqarish",
+      "5–8-oy (partiyaga 30–45 kun)",
+      "Partiyali ishlab chiqarish, uzluksiz sifat nazorati",
+      "Mavsum cho'qqisidagi navbat, qimmatroq narx"
+     ],
+     [
+      "Logistika",
+      "9–10-oy",
+      "Toshkentga temir yo'l bilan 9–10 kun / TIR bilan 5–7 kun, bojxona",
+      "Avia yuk yoki ochilish kechikishi"
+     ],
+     [
+      "O'rnatish",
+      "11–12-oy",
+      "Maydonga yetkazish, yig'ish, nuqsonlar ro'yxati",
+      "Ochilish kuni xavf ostiga tushadi"
+     ]
+    ],
+    "en": [
+     [
+      "Design freeze",
+      "Months 1–2",
+      "Room list, layouts, finishes approved",
+      "Every later change multiplies cost"
+     ],
+     [
+      "Sampling",
+      "Months 3–4",
+      "Prototype room or sample pieces signed off",
+      "Production starts on unapproved design"
+     ],
+     [
+      "Production",
+      "Months 5–8 (30–45 days per batch)",
+      "Batch manufacturing, inline quality control",
+      "Peak-season queue, premium pricing"
+     ],
+     [
+      "Logistics",
+      "Months 9–10",
+      "Rail to Tashkent 9–10 days / TIR 5–7 days, customs",
+      "Air freight or a delayed opening"
+     ],
+     [
+      "Installation",
+      "Months 11–12",
+      "Site delivery, assembly, punch list",
+      "Opening date at risk"
+     ]
+    ]
+   }
+  }
+ ],
+ "faqs": [
+  {
+   "q": {
+    "kk": "FF&E сатып алуды қашан бастау керек?",
+    "uz": "FF&E xaridini qachon boshlash kerak?",
+    "en": "When should FF&E procurement start?"
+   },
+   "a": {
+    "kk": "Идеалда ашылуга 12 ай бұрын. Неғұрлым ерте басталса, зауыт күнтізбесі, баға және жүк нұсқалары соғұрлым кең; кешіккен жоба асығыстықты сатып алады.",
+    "uz": "Ideal holda ochilishga 12 oy qolganda. Qancha erta boshlansa, zavod taqvimi, narx va yuk variantlari shuncha keng; kechikkan loyiha shoshilinchlikni sotib oladi.",
+    "en": "Ideally 12 months before opening. The earlier you start, the wider your factory calendar, pricing and freight options; a late project effectively pays for urgency rather than furniture."
+   }
+  },
+  {
+   "q": {
+    "kk": "FF&E жобасында ең ұзақ қандай кезең?",
+    "uz": "FF&E loyihasida eng uzoq bosqich qaysi?",
+    "en": "What takes longest in an FF&E project?"
+   },
+   "a": {
+    "kk": "Әдетте үлгілеу раундтары мен өндірістік кезек. Бір партия 30–45 күн өндіріледі; үлгі шешімдері кешіксе, бүкіл кесте ығысады — сондықтан 3–4 айлық үлгілеу кезеңін қатал шектеңіз.",
+    "uz": "Odatda namunalash raundlari va ishlab chiqarish navbati. Bir partiya 30–45 kun ishlab chiqariladi; namuna qarorlari kechiksa, butun jadval siljiydi — shu bois 3–4-oylik namunalashni qat'iy cheklang.",
+    "en": "Usually the sampling rounds and the production queue. One batch takes 30–45 days of production; if sample decisions drift, the whole schedule shifts — which is why the sampling window should be strictly time-boxed."
+   }
+  },
+  {
+   "q": {
+    "kk": "FF&E Орталық Азияға қалай жөнелтіледі?",
+    "uz": "FF&E Markaziy Osiyoga qanday yetkaziladi?",
+    "en": "How is FF&E shipped to Central Asia?"
+   },
+   "a": {
+    "kk": "Қытайдан Ташкентке теміржолмен 9–10 күн немесе TIR автокөлігімен 5–7 күн. Қазақстанға жөнелтулер кеденге дейін EAC сәйкестік құжаттарын талап етеді — құжаттар жүкпен бірге келуі керек.",
+    "uz": "Xitoydan Toshkentga temir yo'l bilan 9–10 kun yoki TIR bilan 5–7 kun. Qozog'istonga yuboriladigan yuklar bojxonagacha EAC moslik hujjatlarini talab qiladi — hujjatlar yuk bilan birga yetib borishi kerak.",
+    "en": "Rail from China reaches Tashkent in 9–10 days, TIR trucking in 5–7 days. Kazakhstan-bound shipments need EAC conformity documents cleared before customs — the paperwork should arrive together with the cargo."
+   }
+  },
+  {
+   "q": {
+    "kk": "Өндірісті партияларға бөлуге бола ма?",
+    "uz": "Ishlab chiqarishni partiyalarga bo'lish mumkinmi?",
+    "en": "Can production be split into batches?"
+   },
+   "a": {
+    "kk": "Иә — ірі қонақүйлерде партиялар қабаттардың дайындығымен тураланады, жиһаз бөлмелер дайын болған сайын жетеді. Бұл орнату алаңдағы қысымды азайтады және Hilton Tashkent жобасында қолданылған тәсіл.",
+    "uz": "Ha — katta mehmonxonalarda partiyalar qavatlar tayyorligiga moslanadi, mebel xonalar tayyor bo'lgan sari yetadi. Bu o'rnatish maydonidagi bosimni kamaytiradi va Hilton Tashkent loyihasida qo'llangan yondashuvimiz.",
+    "en": "Yes — in large hotels, batches are aligned with floor readiness so furniture arrives as rooms are prepared. This reduces pressure on site and is exactly how we delivered the Hilton Tashkent project."
+   }
+  }
+ ],
+ "image": "/images/blog/ffe-timeline.webp",
+ "imageAlt": {
+  "kk": "FF&E жобасы бойынша жиһаздалған қонақүй қабылдау залы",
+  "uz": "FF&E loyihasi bo'yicha jihozlangan mehmonxona lobbi zonasi",
+  "en": "Hotel lobby lounge zone furnished under an FF&E project"
+ }
+}

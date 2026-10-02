@@ -1,0 +1,27 @@
+---
+/**
+ * 根路径 / —— 默认语言为哈萨克语，跳转至 /kk/（静态托管下用 meta refresh + canonical + hreflang 表达）
+ * 注：真正 301 由 CDN / Pages 侧配置；此处 HTML 跳转保证任何托管环境都能正确落地到默认语。
+ */
+const SITE = "https://hymebel.com";
+const target = `${SITE}/kk/`;
+---
+
+<!doctype html>
+<html lang="kk-KZ">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Hymebel — Қазақша нұсқаға өту</title>
+    <meta name="robots" content="noindex, follow" />
+    <link rel="canonical" href={target} />
+    <link rel="alternate" hreflang="kk-KZ" href={target} />
+    <link rel="alternate" hreflang="uz-UZ" href={`${SITE}/uz/`} />
+    <link rel="alternate" hreflang="en" href={`${SITE}/en/`} />
+    <link rel="alternate" hreflang="x-default" href={target} />
+    <meta http-equiv="refresh" content="0; url=/kk/" />
+  </head>
+  <body>
+    <p><a href="/kk/">Қазақша нұсқаға өту →</a> · <a href="/uz/">Oʻzbekcha</a> · <a href="/en/">English</a></p>
+  </body>
+</html>

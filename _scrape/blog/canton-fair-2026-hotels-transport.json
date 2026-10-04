@@ -1,0 +1,667 @@
+{
+ "id": "canton-fair-2026-hotels-transport",
+ "tag": {
+  "kk": "Сапар және көрме",
+  "uz": "Sayohat va yarmarka",
+  "en": "Travel & trade fair"
+ },
+ "title": {
+  "kk": "Кантон жәрмеңкесі қонақ үй: Гуанчжоуда қайда тұру және көрмеге қалай бару",
+  "uz": "Kanton yarmarkasi mehmonxona: Guanchjouda qayerda turish va yarmarkaga qanday borish",
+  "en": "Canton Fair hotels: where to stay in Guangzhou and how to commute to the fair"
+ },
+ "excerpt": {
+  "kk": "Кантон жәрмеңкесі 2026 қонақүйін қай ауданнан брондау керек: Пачжоу маңы ма, әлде қала орталығы ма, брондау қашан басталуы керек, метро мен таксимен күнделікті жүру және көрме күнінің ырғағы — Орталық Азия сатып алушыларына арналған практикалық жоспар.",
+  "uz": "Kanton yarmarkasi 2026 mehmonxonasini qaysi hududda bron qilish kerak: Pachjou atrofimi yoki shahar markazimi, bron qachon boshlanishi lozim, metro va taksi bilan kundalik yurish hamda yarmarka kunining ritmi — Markaziy Osiyo xaridorlari uchun amaliy reja.",
+  "en": "Canton Fair hotels for 2026: which district to book in — Pazhou near the complex or the city centre — when to reserve, daily commuting by metro and taxi, and how to pace a fair day. A practical plan for Central Asian buyers."
+ },
+ "date": "2026-10-04",
+ "readingMin": 10,
+ "image": "/images/blog/canton-fair-2026-hotels-transport.webp",
+ "imageAlt": {
+  "kk": "Көрме кешенінің маңындағы қала көрінісі мен жаяу жүргіншілер",
+  "uz": "Ko'rgazma majmuasi atrofidagi shahar manzarasi va piyodalar",
+  "en": "City view with pedestrians near the fair complex"
+ },
+ "definition": {
+  "kk": "Кантон жәрмеңкесі қонақ үй мәселесі — 140-шы Кантон жәрмеңкесіне (жиһаз кезеңі, 23–27 қазан) келетін сатып алушының Гуанчжоуда қайда тұратыны, қонақүйді қашан брондайтыны және күнделікті көрмеге қалай жететіні туралы практикалық жоспар. Мекенжай: Гуанчжоу қаласы, Хайчжу ауданы, Юэцзян орталық жолы 382-үй; келіссөз уақыты 9:30–18:00.",
+  "uz": "Kanton yarmarkasi mehmonxona masalasi — 140-Kanton yarmarkasiga (mebel bosqichi, 23–27-oktabr) keladigan xaridorga Guanchjouda qayerda turish, mehmonxonani qachon bron qilish va har kuni yarmarkaga qanday yetib borish haqidagi amaliy reja. Manzil: Guanchjou shahri, Xaychju tumani, Yueczyan markaziy ko'chasi 382-uy; muzokara vaqti 9:30–18:00.",
+  "en": "Canton Fair hotels are about a practical plan: where a buyer attending the 140th Canton Fair (furniture phase, 23–27 October) stays in Guangzhou, when to book, and how to reach the complex each day. Venue: 382 Yuejiang Middle Road, Haizhu District, Guangzhou; negotiation hours 9:30–18:00."
+ },
+ "takeaways": {
+  "kk": [
+   "Қонақүйді көрме ашылмай тұрып 1–2 ай бұрын брондаңыз: жәрмеңке күндері баға көтеріліп, бос орын азаяды.",
+   "Пачжоу маңындағы қонақүй күнделікті жүруді қысқартады; қала орталығы кеңірек таңдау береді, бірақ жол ұзарады.",
+   "Екінші кезең (23–27 қазан) жиһаз кезеңі; келіссөз 9:30–18:00, сондықтан таңертең ерте шығу әдеті керек.",
+   "20–22 және 28–30 қазан — ауыстыру күндері, келіссөз жүргізілмейді; оларды демалыс пен қосымша кездесуге бөліңіз.",
+   "Стенд нөмірі бізде құпия сақталады: `/contacto/` арқылы жазсаңыз, стенд нөмірі, шақыру хат және қабылдау уақытын жекелей жібереміз."
+  ],
+  "uz": [
+   "Mehmonxonani yarmarka ochilishidan 1–2 oy oldin bron qiling: yarmarka kunlarida narx oshadi, bo'sh joy kamayadi.",
+   "Pachjou atrofidagi mehmonxona kundalik yo'lni qisqartiradi; shahar markazi kengroq tanlov beradi, lekin yo'l uzayadi.",
+   "Ikkinchi bosqich (23–27-oktabr) mebel bosqichi; muzokara 9:30–18:00, shuning uchun ertalab erta chiqish odati kerak.",
+   "20–22 va 28–30-oktabr almashtirish kunlari, muzokara olib borilmaydi; ularni dam olish va qo'shimcha uchrashuvga ajrating.",
+   "Stend raqamini biz maxfiy saqlaymiz: `/contacto/` orqali yozsangiz, stend raqami, taklifnoma va qabul vaqtini yakka yuboramiz."
+  ],
+  "en": [
+   "Book your hotel one to two months before the fair: rates climb and availability tightens during fair days.",
+   "A hotel around Pazhou shortens the daily commute; the city centre offers more choice but a longer ride.",
+   "Phase 2 (23–27 October) is the furniture phase; negotiations run 9:30–18:00, so an early start becomes a habit.",
+   "20–22 and 28–30 October are changeover days with no trading; use them for rest and extra meetings.",
+   "We keep our stand number private: write to us via `/contacto/` and we will reply one to one with the stand number, an invitation letter and a reserved meeting slot."
+  ]
+ },
+ "sections": [
+  {
+   "h": {
+    "kk": "Көрме қонақүйін қашан және қалай брондау керек",
+    "uz": "Yarmarka mehmonxonasini qachon va qanday bron qilish kerak",
+    "en": "When and how to book a hotel for the fair"
+   },
+   "paras": {
+    "kk": [
+     "Кантон жәрмеңкесіне баратын сатып алушы үшін басты қағида бір: қонақүйді екінші кезең күндеріне (23–27 қазан) бір-екі ай қалғанда брондау. Жәрмеңке күндері Гуанчжоуда баға көтеріліп, ыңғайлы орын тез толады; нақты баға санын келтірмейтінімізбен, кеш брондау әрқашан қымбатырақ және алысырақ нұсқа қалдырады.",
+     "Брондауды ұшудан бұрын бекітіп, түндердің көрме күндерімен сәйкесінін тексеріңіз: әдетте көрмеге бір күн қалғанда келіп, соңғы көрме күнінен кейінгі түнге дейін тұрасыз. Ауыстыру кезеңінде (20–22 және 28–30 қазан) зауытқа баруды жоспарласаңыз, қонақүйді сол күндерге дейін ұзартуды ұмытпаңыз — бұл кезеңде де қалада көп адам қалады.",
+     "Тіркелу мен шақыру хат мәселелері толық алдыңғы нұсқаулықта айтылды; бұл жерде тек байланысы бар: тіркелу растауыңыз қонақүй датаңызбен сәйкес болсын. Қонақүй растауын, билет пен тіркелу нөмірін қағазбен де, телефонда да сақтаңыз — келген күні орналасу тез өтеді.",
+     "Тағы бір кеңес: иілгіш тарифпен алыңыз. Кездесу күні ауысуы, зауытқа бару қосылуы мүмкін; иілгіш тариф сәл қымбат көрінгенімен, ақырында уақыт пен жүйке үнемдейді."
+    ],
+    "uz": [
+     "Kanton yarmarkasida qatnashadigan xaridor uchun bosh qoida bitta: mehmonxonani ikkinchi bosqich kunlariga (23–27-oktabr) bir-ikki oy qolganda bron qilish. Yarmarka kunlarida Guanchjouda narx oshadi, qulay joy tez to'ladi; aniq raqam keltirmaymiz, lekin kech bron har doim qimmatroq va uzoqroq variant qoldiradi.",
+     "Bronni parvozdan oldin tasdiqlab, tunlar yarmarka kunlariga mos kelishini tekshiring: odatda yarmarkadan bir kun oldin kelib, oxirgi kunidan keyingi tungacha turasiz. Almashtirish davrida (20–22 va 28–30-oktabr) zavodga borishni rejalashtirsangiz, mehmonxonani o'sha kunlargacha uzaytirishni unutmang.",
+     "Ro'yxatdan o'tish va taklifnoma masalalari to'liq oldingi qo'llanmada; bu yerda faqat bog'liqlik bor: ro'yxatdan o'tish tasdig'ingiz mehmonxona sanangizga mos bo'lsin. Mehmonxona tasdig'ini, chipta va ro'yxat raqamini qog'ozda ham, telefonda ham saqlang — kelgan kuni joylashish tez o'tadi.",
+     "Yana bir maslahat: moslashuvchan tarif bilan oling. Uchrashuv kuni o'zgarishi, zavodga tashrif qo'shilishi mumkin; moslashuvchan tarif biroz qimmat ko'rinsa ham, oxirda vaqt va asabni tejaydi."
+    ],
+    "en": [
+     "For a buyer attending the Canton Fair, one rule comes first: book the hotel one to two months before the Phase 2 days (23–27 October). During fair days rates climb in Guangzhou and convenient rooms go fast; we will not quote prices, but late booking always leaves the costlier, more distant options.",
+     "Fix the booking before you fly and check the nights against fair days: usually you arrive a day before the fair and stay until the night after the last day. If a factory visit is planned in the changeover window (20–22 and 28–30 October), stretch the booking over those days as well — plenty of people stay in the city then too.",
+     "Pre-registration and invitation letters were covered in the previous guide; only the connection matters here: keep your registration confirmation in line with your hotel dates, and carry the hotel confirmation, ticket and registration number on paper and on your phone. Prefer a flexible rate — plans change, and flexibility saves time and nerves."
+    ]
+   }
+  },
+  {
+   "h": {
+    "kk": "Кантон жәрмеңкесіне қай ауданда тұру керек?",
+    "uz": "Kanton yarmarkasiga qaysi hududda turish kerak?",
+    "en": "Where should I stay for the Canton Fair?"
+   },
+   "paras": {
+    "kk": [
+     "Қысқа жауап: барлық күндеріңіз көрмеде өтетін болса, кешен маңындағы Пачжоу ауданы ең қарапайым нұсқа. Кешен — Гуанчжоу қаласы, Хайчжу ауданы, Юэцзян орталық жолы 382-үй мекенжайында (Қытай импорт-экспорт жәрмеңкесінің ресми сайты, 2026). Пачжоудан көрмеге жаяу немесе бір аялдамада жетесіз, түскі үзілісте жүгіңізді қалдыруға болады.",
+     "Пачжоудың артықшылығы — уақыт: 9:30-дағы келіссөзге тынығып жетесіз, 18:00-ден кейін тез ораласыз. Кешен ауқымды — жалпы көрме ауданы шамамен 1,5 млн шаршы метр, 32 мыңға жуық қатысушы компания (сол дереккөз, 2026); күніне көп жүресіз, жақын тұрақ айырмашылықты сезінесіз.",
+     "Қала орталығы — екінші нұсқа: таңдау кең, кешкі кездесулерге ыңғайлы. Жол ұзағырақ, метромен жүресіз; бағдарламаңызда көрмеден басқа нүктелер болса, орталық ыңғайлырақ шығуы мүмкін.",
+     "Шешімді үш сұрақпен қабылдаңыз: қанша күн толық көрме күні? Ұзақ жүруге қалай шыдайсыз? Бюджет қандай? Толық көрме күндері — Пачжоу; аралас бағдарлама — метроға жақын орталық; алғашқы күндер орталықта, көрме күндері Пачжоуда деген аралас схема да жұмыс істейді."
+    ],
+    "uz": [
+     "Qisqa javob: barcha kunlaringiz yarmarkada o'tadigan bo'lsa, majmua atrofidagi Pachjou hududi eng oddiy variant. Majmua — Guanchjou shahri, Xaychju tumani, Yueczyan markaziy ko'chasi 382-uy manzilida (Xitoy import-eksport yarmarkasining rasmiy sayti, 2026). Pachjoudan yarmarkaga piyoda yoki bitta bekatda yetasiz, tushlik tanaffusida yukni qoldirish mumkin.",
+     "Pachjou afzalligi — vaqt: 9:30 dagi muzokaraga tinchang yetib borasiz, 18:00 dan keyin tez qaytasiz. Majmua katta — umumiy maydon taxminan 1,55 million kvadrat metr, 32 minga yaqin ishtirokchi kompaniya (o'sha manba, 2026); kuniga ko'p yurasiz, yaqin joy farqni sezdiradi.",
+     "Shahar markazi — ikkinchi variant: tanlov keng, kechki uchrashuvlarga qulay. Yo'l uzoqroq, metromen yurasiz; dasturingizda yarmarkadan boshqa nuqtalar bo'lsa, markaz qulayroq chiqishi mumkin. Shartli holda uch savolga qarang: necha kun to'liq yarmarka kuni, uzoq yurishga qanday chidaysiz, byudjet qanday."
+    ],
+    "en": [
+     "The short answer: if every day happens at the fair, the Pazhou area around the complex is the simplest choice. The venue sits at 382 Yuejiang Middle Road, Haizhu District, Guangzhou (Canton Fair official site, 2026). From Pazhou you walk or ride one stop, and you can drop your bags at lunch instead of carrying them all day.",
+     "Pazhou's advantage is time: you reach the 9:30 negotiation rested and return quickly after 18:00. The complex is vast — the exhibition area covers roughly 1.55 million square metres with about 32,000 exhibitors (same source, 2026); you walk a lot each day, and staying close changes how the afternoon feels.",
+     "The city centre is the second option: wider choice, easier evening meetings, a longer ride on the metro. Decide with three questions: how many days are full fair days, how well do you handle long walks, and what does the budget allow. A mixed scheme — centre first, Pazhou for fair days — also works."
+    ]
+   }
+  },
+  {
+   "h": {
+    "kk": "Гуанчжоуға Алматыдан қалай баруға болады?",
+    "uz": "Toshkentdan Guanchjouga qanday borish mumkin?",
+    "en": "How many days do you need for the Canton Fair?"
+   },
+   "paras": {
+    "kk": [
+     "Алматыдан Гуанчжоуға бару сұрағына біз тағы бір сұрақпен жауап береміз: неше түн брондайсыз? Рейс схемасы қандай болса да, сапардың ырғағын тұрғын жайдың күндері белгілейді. Жиһаз кезеңіне баратын сатып алушы кемінде бес-жеті түн алады: біреуі жол мен бейімделуге, екі-үшеуі көрме күндеріне, қалғаны зауыт пен қорытындыға.",
+     "Қону күнін көрмеге бір күн қалдырып жоспарлаңыз: ұзақ рейстен кейін тіркелу, бадж және бейімделу уақыт алады. Алғашқы күні кешен маңын жаяу аралап, метро аялдамалары мен қонақүйден көрмеге дейінгі жолды өз көзіңізбен көріңіз — ертең бұл уақыт үнемдейді.",
+     "Екінші кезеңнен кейін демалыс түні қалдырсаңыз, ауыстыру кезеңіндегі (20–22 және 28–30 қазан) зауытқа баруға орын пайда болады. Тіркелу мен ұшу мәселелерін алдын ала шешіп қойып, күндерді бөліп жазыңыз: қайсысы көрме, қайсысы жол, қайсысы демалыс.",
+     "Ауқымды да есте сақтаңыз: алдыңғы 139-шы басылымға 220 ел мен аймақтан 314 мың шетелдік сатып алушы келген (Қытай импорт-экспорт жәрмеңкесінің ресми сайты, 2026). Бір күнде бәрін қамту мүмкін емес; тұрағыңызға жақын бөлімдерден бастап аралау — қалыпты тәсіл."
+    ],
+    "uz": [
+     "Toshkentdan Guanchjouga borish savoliga yana bitta savol bilan javob beramiz: necha tun bron qilasiz? Parvoz sxemasi qanday bo'lsa ham, safar ritmini turar joy kunlari belgilaydi. Mebel bosqichiga boradigan xaridor kamida besh-yetti tun oladi: bittasi yo'l va moslashishga, ikki-uch yarmarka kunlariga, qolgani zavod va yakunga.",
+     "Qonish kunini yarmarkadan bir kun oldin rejalashtiring: uzoq parvozdan keyin ro'yxatdan o'tish, badge va moslashish vaqt oladi. Birinchi kuni majmua atrofini piyoda aylanib, metro bekatlari va mehmonxonadan yarmarkagacha bo'lgan yo'lni o'z ko'zingiz bilan ko'ring — ertaga bu vaqt tejaydi.",
+     "Ikkinchi bosqichdan keyin dam olish tunini qoldirsangiz, almashtirish davridagi (20–22 va 28–30-oktabr) zavodga tashrifga joy paydo bo'ladi. Hajmni ham yodda tuting: oldingi 139-nashrga 220 mamlakat va hududdan 314 ming xorijiy xaridor kelgan (Xitoy import-eksport yarmarkasining rasmiy sayti, 2026); barchasini bir kunda ko'rish mumkin emas."
+    ],
+    "en": [
+     "How many days do you need for the Canton Fair? We answer with the nights: whatever the flight routing, the rhythm is set by your accommodation. A buyer heading for the furniture phase books at least five to seven nights — one for travel, two or three for fair days, the rest for the factory and closing talks.",
+     "Arrive a day before the fair: after a long flight, registration, badge collection and orientation take time. Spend the first day walking around the complex, seeing the metro stops and the route from your hotel with your own eyes — it saves time the next morning.",
+     "Keep a rest night after Phase 2 and a factory visit in the changeover window (20–22 and 28–30 October) fits in. Remember the scale: the previous 139th edition drew 314,000 overseas buyers from 220 countries and regions (Canton Fair official site, 2026); nobody covers everything in one day, so start from the halls nearest your base."
+    ]
+   }
+  },
+  {
+   "h": {
+    "kk": "Көрмеге күн сайын қалай барамын?",
+    "uz": "Yarmarkaga har kuni qanday boraman?",
+    "en": "How do I commute to the fair each day?"
+   },
+   "paras": {
+    "kk": [
+     "Күнделікті жүру таңертеңнен басталады. Келіссөз 9:30-да басталады (Қытай импорт-экспорт жәрмеңкесінің ресми сайты, 2026); қауіпсіздік тексерісі мен кезекті ескеріп, 8:30 шамасында кешенге жақын болыңыз. Бірінші күні жолды уақытымен өлшеңіз: қонақүйден аялдамаға, аялдамадан кіру пунктіне.",
+     "Метро — көрме күндерінің ең болжамды нұсқасы: уақыты тұрақты, жол тығыздығына тәуелсіз. Аялдамалар жүктелген, кешкі қайтарда да кезек болады; билетке жергілікті төлем тәсілін алдын ала дайын қойыңыз.",
+     "Ресми такси мен лицензияланған қосымшалар қалада жақсы жұмыс істейді, алайда 18:00-ден кейін кешен маңындағы кезек ұзарады; көптеген сатып алушылар соңғы кездесуді 17:00-ге қойып, ағымның шыңына түспей кетеді. Қонақүй шаттлы бар-жоғын брондау кезінде сұраңыз.",
+     "Пачжоуда тұрсаңыз, жаяу 15–20 минут та нұсқа, алайда тексеріс жаяу жүргіншілерге де қолданылады. Жалпы кеңес: бір тәсілді таңдап, оны үйреніңіз; кешен ішіндегі жүру да жоспар сұрайды — таңертең қай бөлімнен бастайтыныңызды шешіп, кездесулерді сол жаққа жақын қойыңыз."
+    ],
+    "uz": [
+     "Kundalik yurish ertalabdan boshlanadi. Muzokara 9:30 da boshlanadi (Xitoy import-eksport yarmarkasining rasmiy sayti, 2026); xavfsizlik tekshiruvi va navbatni hisobga olib, 8:30 atrofida majmua yonida bo'ling. Birinchi kuni yo'lni vaqt bilan o'lchang: mehmonxonadan bekatga, bekatdan kirish nuqtasiga.",
+     "Metro — yarmarka kunining eng bashoratqir varianti: vaqti barqaror, tirbandishdan bog'liq emas. Bekatlar yuklanadi, kechki qaytishda ham navbat bo'ladi; chiptaga mahalliy to'lov usulini oldindan tayyorlang.",
+     "Rasmiy taksi va litsenziyalangan ilovalar shaharda yaxshi ishlaydi, biroq 18:00 dan keyin majmua yonidagi navbat uzayadi; ko'p xaridorlar oxirgi uchrashuvni 17:00 ga qo'yib, oqim cho'qqisiga tushmay ketadi. Mehmonxona shatli bormi-yo'qmi bron vaqtida so'rang.",
+     "Pachjou sifatida yursangiz, piyoda 15–20 daqiqa ham variant, biroq tekshiruv piyodalarga ham tatbiq etiladi. Umumiy maslahat: bitta usul tanlab uni o'rganing; majmua ichidagi yurish ham reja so'raydi — ertalab qaysi bo'limdan boshlashingizni belgilab, uchrashuvlarni o'sha tomonga yaqin qo'ying."
+    ],
+    "en": [
+     "The commute starts with the morning. Negotiations open at 9:30 (Canton Fair official site, 2026); allow for security screening and queues and be near the complex by around 8:30. Time the route on day one: hotel to stop, stop to entrance gate.",
+     "The metro is the most predictable option on fair days: stable timing, independent of traffic; stations run busy and the evening ride back means queues too, so set up a local payment method for tickets in advance. Official taxis and licensed ride apps work well across the city, though after the 18:00 close the queue near the complex grows; many buyers schedule the last meeting around 17:00 and leave before the peak.",
+     "If you stay in Pazhou, a 15–20 minute walk also works, but screening applies to walkers too. In general, pick one method and learn it; walking inside the complex needs a plan as well — decide each morning which section you start from and place meetings near that side."
+    ]
+   }
+  },
+  {
+   "h": {
+    "kk": "Көрме күні өзіңізбен не алу керек",
+    "uz": "Yarmarka kunida o'zingiz bilan nima olish kerak",
+    "en": "What to carry on a fair day"
+   },
+   "paras": {
+    "kk": [
+     "Көрме күні — ұзақ жүру күні: бағдарлама таңғы 8:30-дан кешкі 18:00-ге дейін созылады. Әмбебапты таңертең қонақүйде жинап, кешке қайта толтырыңыз: жеңіл сөмке, су бөтелкесі, ыңғайлы аяқ киім — бұлар безендіру емес, өнімділік құралы.",
+     "Құжаттарға бөлек қалтадан орын беріңіз: төлқұжат пен бадж әрқашан өзіңізбен болсын. Визитка мен кішкентай дәптер кездесу жазбаларына керек; суретке түсіру мен хабар алмасу батареяны күн ортасында-ақ сарпытады — зарядтағыш немесе қосалқы батарея әмбебапта болсын.",
+     "Өлшеуіш рулетка — тәжірибелі сатып алушының әдеттегі құралы: бұйымның өлшемін орнында анықтау бірнеше секунд. Маңызды бұйымдарды бірнеше бұрыстан түсіріп, кешке қонақүйде реттеңіз — жарық пен адам ағыны түсірілім сапасын өзгертіп отырады.",
+     "Соңғы ереже: ауыр сатып алуларды көрме күніне жинамаңыз. Үлгі мен каталогты қонақүйге тасып, бірге тасымалдау сұрағын кейінге қалдырыңыз; жұмысыңыз қазір — көру, салыстыру, байланыс жинау. Кешкі жолдағы жеңіл сөмке ертеңгі күнді де жеңіл қылады."
+    ],
+    "uz": [
+     "Yarmarka kuni — uzoq yurish kuni: dastur ertalab 8:30 dan kechki 18:00 gacha cho'ziladi. Farzondan ertalab mehmonxonada yig'ib, kechqurun qayta to'ldiring: yengil sumka, suv shishasi, qulay poyabzal — bu dekor emas, samaradorlik vositasi.",
+     "Hujjatlarga alohida xalta ajrating: pasport va badge har doim o'zingiz bilan bo'lsin. Vizitka va kichik daftar uchrashuv yozuvlari uchun; suratga olish va xabar almashish batareyani kun o'rtasidayoq tugatadi — quvvatlagich yoki zaxira batareya farzonda bo'lsin.",
+     "O'lchov lentasi — tajribali xaridorning odatiy quroli: buyum o'lchamini joyida aniqlash bir necha soniya. Muhim buyumlarni bir necha burchakdan suratga olib, kechqurun mehmonxonada tartibga keltiring. Og'ir xaridlarni yarmarka kuniga yig'ilmang: namuna va katalogni mehmonxonaga olib borib, tashish masalasini keyin hal qilasiz."
+    ],
+    "en": [
+     "A fair day is a long walking day: the programme runs from around 8:30 in the morning to the 18:00 close. Pack the daily kit at the hotel each morning and refill it each evening: a light bag, a water bottle, comfortable shoes — not comforts but productivity tools.",
+     "Give documents their own pocket: passport and badge stay on you at all times. Cards and a small notebook handle meeting notes; photos and messages drain the battery by midday, so a charger or power bank belongs in the kit. A tape measure checks a piece's size on the spot in seconds.",
+     "One more rule: do not collect heavy purchases on fair days. Carry samples and catalogues back to the hotel and leave combined shipment for later; right now your work is seeing, comparing and collecting contacts. A light bag on the evening ride makes the next morning lighter."
+    ]
+   }
+  },
+  {
+   "h": {
+    "kk": "Стенд нөмірі мен шақыру хатты қалай алуға болады?",
+    "uz": "Stend raqami va taklifnomani qanday olish mumkin?",
+    "en": "How do I get our stand number and an invitation letter?"
+   },
+   "paras": {
+    "kk": [
+     "Hongye Furniture Group 140-шы Кантон жәрмеңкесінде көрмеге шығады. **Біз стенд нөмірін жарияламаймыз**: `/contacto/` арқылы салаңызды және қай елден келетініңізді жазып жіберсеңіз, стенд нөмірін және келуге арналған **шақыру хатын** жібереміз.",
+     "Неге жазып қалдыруға тұрарлық? Бір хабарлама бірнеше нәрсені бірге береді: стенд нөмірі мен кешенге кіру бағыты, салаңызға арналған қабылдау уақыты, шақыру хат (сапар құжаттарында мақсатты растауға көмектеседі) және көрме алдында не кейін зауытқа бару кестесі.",
+     "Шақыру хат туралы екі нәрсені анық айтайық. Бірінші: оны біз расымен жібереміз — бұл келуге шақыру құжаты. Екінші: виза шешімін Қытайдың елшілігі мен консулдығы қабылдайды, ал тіркелу мен кіру тәртібін ұйымдастырушы белгілейді; соңғы ресми талаптарды әрқашан Қытайдың елшілігі, консулдығы және жәрмеңке ұйымдастырушысының хабарламаларынан тексеріңіз. Біз виза нәтижесіне уәде бермейміз және заңдық кеңес бермейміз.",
+     "Келетін кездесуге дайындық: қонақүйіңізді брондағанда, стендте қабылдау уақытын сұрап қойыңыз. Қонақүй бағыты үшін [қонақүй жиһазы](hotel-furniture) бөлімінен үлгілерді алдын ала қарап келіңіз; кеңсе бағыты үшін [кеңсе жиһазы](office-furniture) беті бар; тұрғын жобалар [вилла және тұрғын үй](villa-residential) бөлімінде; біздің өндіріс туралы [зауыт туралы](about) бетінде оқыңыз; жеке сұрақтар үшін [жоба тобымен байланысу](contact) бетін қолданыңыз."
+    ],
+    "uz": [
+     "Hongye Furniture Group 140-Kanton yarmarkasida ishtirok etadi. **Biz stend raqamini e'lon qilmaymiz**: `/contacto/` orqali sohangizni va qaysi davlatdan kelishingizni yozib yuboring, stend raqami va tashrif uchun **taklifnomani** yuboramiz.",
+     "Nega yozib qoldirishga arziydi? Bitta xabar bir nechta narsani birga beradi: stend raqami va majmuaga kirish yo'nalishi, sohangizga ajratilgan qabul vaqti, tashrif taklifnomasi (sayohat hujjatlarida maqsadni tasdiqlashga yordam beradi) hamda yarmarka oldida yoki keyin zavodga tashrif jadvali.",
+     "Taklifnoma haqida ikki narsani aniq aytamiz. Birinchisi: uni biz haqiqatan ham yuboramiz — bu tashrifga chaqiruv hujjati. Ikkinchisi: viza qarorini Xitoyning elchixonasi va konsuligi qabul qiladi, ro'yxatdan o'tish va kirish tartibini esa tashkilotchi belgilaydi; oxirgi rasmiy talablarni har doim Xitoy elchixona va konsuligining hamda yarmarka tashkilotchisining xabarlaridan tekshiring. Viza natijasiga va'da bermaymiz va yuridik maslahat bermaymiz.",
+     "Keladigan uchrashuvga tayyorgarlik: mehmonxonangizni bronlaganda, stendda qabul vaqtini so'rab qo'ying. Mehmonxona yo'nalishi uchun [mehmonxona mebeli](hotel-furniture) bo'limidan namunalarni oldindan ko'ring; ofis yo'nalishi uchun [ofis mebeli](office-furniture) beti bor; turar-joy loyihalari [villa va turar-joy](villa-residential) bo'limida; ishlab chiqarishimiz haqida [zavod haqida](about) betida o'qing; shaxsiy savollar uchun [loyiha jamoasi bilan bog'lanish](contact) betidan foydalaning."
+    ],
+    "en": [
+     "Hongye Furniture Group exhibits at the 140th Canton Fair. **We do not publish our stand number**: email us via `/contacto/` with your sector and the country you are travelling from, and we will send you our stand number together with an **invitation letter** for your visit.",
+     "Why is it worth writing in? One message brings several things at once: our stand number and the direction to enter the complex, a reserved meeting slot for your sector, the invitation letter for your visit, and a factory visit schedule before or after the fair.",
+     "Two things about the invitation letter should be said plainly. First, we do send it — it is a document inviting you to visit our stand. Second, visa decisions rest with the Chinese embassy or consulate, and registration and entry rules are set by the organiser; always follow the latest official requirements of the Chinese embassy or consulate and the fair organiser. We do not promise visa outcomes and do not provide legal advice.",
+     "Preparation for the meeting: while booking your hotel, ask for a reserved slot at our stand. For the hotel direction, preview models in [hotel furniture](hotel-furniture); offices have their own [office furniture](office-furniture) page; residential projects are in [villa & residential](villa-residential); read about our production under [our factory and capability](about); and use [contact the project team](contact) for personal questions."
+    ]
+   }
+  }
+ ],
+ "tables": [
+  {
+   "headers": {
+    "kk": [
+     "Аудан",
+     "Артықшылығы",
+     "Кемшілігі",
+     "Кімге ыңғайлы"
+    ],
+    "uz": [
+     "Hudud",
+     "Afzalligi",
+     "Kamchiligi",
+     "Kimga qulay"
+    ],
+    "en": [
+     "Area",
+     "Advantage",
+     "Drawback",
+     "Best for"
+    ]
+   },
+   "rows": {
+    "kk": [
+     [
+      "Пачжоу (кешен маңы)",
+      "Жүру қысқа; түскі үзілісте қонақүйге баруға болады",
+      "Көрме кезінде орын тез толады; брондау ерте жүргізіледі",
+      "Барлық күндері көрмеде өтетіндер"
+     ],
+     [
+      "Қала орталығы",
+      "Таңдау кең; кешкі кездесулерге ыңғайлы",
+      "Күнделікті жол ұзарады; қайтар жолда кезек болады",
+      "Аралас бағдарламалы сатып алушылар"
+     ],
+     [
+      "Метро желісіне жақын аудандар",
+      "Баға мен ыңғайлылық теңгерілген",
+      "Ауысу пункттері жүктелген",
+      "Бюджет пен уақытты теңестіргіңіз келгендер"
+     ]
+    ],
+    "uz": [
+     [
+      "Pachjou (majmua atrofi)",
+      "Yo'l qisqa; tushlik tanaffusida mehmonxonaga borish mumkin",
+      "Yarmarka davrida joy tez to'ladi; bron erta o'tkaziladi",
+      "Barcha kunlari yarmarkada o'tadiganlar"
+     ],
+     [
+      "Shahar markazi",
+      "Tanlov keng; kechki uchrashuvlarga qulay",
+      "Kundalik yo'l uzayadi; qaytishda navbat bo'ladi",
+      "Aralash dasturli xaridorlar"
+     ],
+     [
+      "Metro yo'nalishiga yaqin hududlar",
+      "Narx va qulaylik muvozanatlangan",
+      "Almashtirish nuqtalari yuklanadi",
+      "Byudjet va vaqtni muvozanatlashni istaganlar"
+     ]
+    ],
+    "en": [
+     [
+      "Pazhou (near the complex)",
+      "Short commute; you can drop bags at lunch",
+      "Fills fast during the fair; book very early",
+      "Buyers spending every day at the fair"
+     ],
+     [
+      "City centre",
+      "Wider choice; easy evening meetings",
+      "Longer daily ride; expect queues on the way back",
+      "Buyers with a mixed programme"
+     ],
+     [
+      "Districts near metro lines",
+      "Balanced price and convenience",
+      "Interchange points get crowded",
+      "Those balancing budget and time"
+     ]
+    ]
+   }
+  },
+  {
+   "headers": {
+    "kk": [
+     "Уақыт",
+     "Жасалатын іс",
+     "Ескерту"
+    ],
+    "uz": [
+     "Vaqt",
+     "Bajariladigan ish",
+     "Izoh"
+    ],
+    "en": [
+     "Timing",
+     "What to do",
+     "Note"
+    ]
+   },
+   "rows": {
+    "kk": [
+     [
+      "Көрмеге 2 ай қалғанда",
+      "Қонақүйді брондау (иілгіш тариф)",
+      "Көрме күндері баға көтеріліп, орын азаяды"
+     ],
+     [
+      "Көрмеге 1–2 апта қалғанда",
+      "Ұшу билеттерін растау; қонақүй датаңызды қайта тексеру",
+      "Рейс схемасы ауысуы мүмкін"
+     ],
+     [
+      "Келген күні",
+      "Орналасу; кешенге жолды өлшеу",
+      "Тіркелу мен бадж — алдыңғы нұсқаулықта"
+     ],
+     [
+      "Көрме күндері",
+      "9:30–18:00 келіссөз; 8:30 шамасында жолға шығу",
+      "Кешкі қайтарда кезек болады"
+     ],
+     [
+      "20–22 және 28–30 қазан",
+      "Ауыстыру кезеңі: келіссөз жүргізілмейді",
+      "Демалыс, қосымша кездесу, зауытқа баруға қолайлы"
+     ]
+    ],
+    "uz": [
+     [
+      "Yarmarkaga 2 oy qolganda",
+      "Mehmonxonani bron qilish (moslashuvchan tarif)",
+      "Yarmarka kunlarida narx oshadi, joy kamayadi"
+     ],
+     [
+      "Yarmarkaga 1–2 hafta qolganda",
+      "Parvoz chiptalarini tasdiqlash; mehmonxona sanangizni qayta tekshirish",
+      "Parvoz sxemasi o'zgarishi mumkin"
+     ],
+     [
+      "Kelgan kuni",
+      "Joylashish; majmuaga yo'lni o'lchash",
+      "Ro'yxatdan o'tish va badge — oldingi qo'llanmada"
+     ],
+     [
+      "Yarmarka kunlari",
+      "9:30–18:00 muzokara; 8:30 atrofida yo'lga chiqish",
+      "Kechki qaytishda navbat bo'ladi"
+     ],
+     [
+      "20–22 va 28–30-oktabr",
+      "Almashtirish davri: muzokara olib borilmaydi",
+      "Dam olish, qo'shimcha uchrashuv, zavodga tashrifga qulay"
+     ]
+    ],
+    "en": [
+     [
+      "2 months before the fair",
+      "Book the hotel (flexible rate)",
+      "Rates climb and rooms go during fair days"
+     ],
+     [
+      "1–2 weeks before",
+      "Confirm flights; re-check hotel dates",
+      "Routing can change"
+     ],
+     [
+      "Arrival day",
+      "Check in; time the route to the complex",
+      "Registration and badge — see the previous guide"
+     ],
+     [
+      "Fair days",
+      "Negotiations 9:30–18:00; leave around 8:30",
+      "Expect queues on the evening ride back"
+     ],
+     [
+      "20–22 and 28–30 October",
+      "Changeover days: no trading",
+      "Rest, extra meetings, factory visits fit here"
+     ]
+    ]
+   }
+  },
+  {
+   "headers": {
+    "kk": [
+     "Тәсіл",
+     "Қашан ыңғайлы",
+     "Ескерту"
+    ],
+    "uz": [
+     "Usul",
+     "Qachon qulay",
+     "Izoh"
+    ],
+    "en": [
+     "Method",
+     "When it suits",
+     "Note"
+    ]
+   },
+   "rows": {
+    "kk": [
+     [
+      "Метро",
+      "Таңертеңгі және кешкі мезгіл",
+      "Уақыты тұрақты; көрме кезінде аялдамалар жүктелген"
+     ],
+     [
+      "Ресми такси / қосымша",
+      "Кешкі және жүксіз жүру",
+      "18:00-ден кейін кезек ұзарады"
+     ],
+     [
+      "Қонақүй шаттлы",
+      "Шаттлы бар қонақүйде",
+      "Брондау кезінде сұрап алыңыз"
+     ],
+     [
+      "Жаяу жүру",
+      "Пачжоудағы қонақүйлерден",
+      "15–20 минут; қауіпсіздік тексерісі бар"
+     ]
+    ],
+    "uz": [
+     [
+      "Metro",
+      "Ertalab va kechqurun",
+      "Vaqti barqaror; yarmarka davrida bekatlar yuklanadi"
+     ],
+     [
+      "Rasmiy taksi / ilova",
+      "Kechqurun va yuksiz yurish",
+      "18:00 dan keyin navbat uzayadi"
+     ],
+     [
+      "Mehmonxona shatli",
+      "Shatli bor mehmonxonada",
+      "Bron vaqtida so'rab oling"
+     ],
+     [
+      "Piyoda yurish",
+      "Pachjoudagi mehmonxonalardan",
+      "15–20 daqiqa; xavfsizlik tekshiruvi bor"
+     ]
+    ],
+    "en": [
+     [
+      "Metro",
+      "Morning and evening peak",
+      "Stable timing; stations busy during the fair"
+     ],
+     [
+      "Official taxi / ride app",
+      "Late trips, no luggage",
+      "Queue grows after 18:00"
+     ],
+     [
+      "Hotel shuttle",
+      "If your hotel offers one",
+      "Ask at booking time"
+     ],
+     [
+      "Walking",
+      "From Pazhou hotels",
+      "15–20 minutes; security screening applies"
+     ]
+    ]
+   }
+  },
+  {
+   "headers": {
+    "kk": [
+     "Бұйым",
+     "Неге керек"
+    ],
+    "uz": [
+     "Buyum",
+     "Nima uchun kerak"
+    ],
+    "en": [
+     "Item",
+     "Why it is needed"
+    ]
+   },
+   "rows": {
+    "kk": [
+     [
+      "Төлқұжат пен көрме баджы",
+      "Кіру мен күнделікті тексеріс үшін"
+     ],
+     [
+      "Су бөтелкесі",
+      "Ұзақ жүру кезіндегі шаршауды азайтады"
+     ],
+     [
+      "Ыңғайлы аяқ киім",
+      "Кешен ауқымды; күніне көп қадам жүресіз"
+     ],
+     [
+      "Визитка және кішкентай дәптер",
+      "Кездесу жазбалары мен байланыстар үшін"
+     ],
+     [
+      "Зарядтағыш немесе қосалқы батарея",
+      "Фото мен хабар алмасу батареяны тез сарпытады"
+     ],
+     [
+      "Өлшеуіш рулетка",
+      "Бұйымның өлшемін орнында анықтау үшін"
+     ],
+     [
+      "Жеңіл иық сөмкесі",
+      "Үлгі, каталог және құжаттарға арналған"
+     ]
+    ],
+    "uz": [
+     [
+      "Pasport va yarmarka badge",
+      "Kirish va kundalik tekshiruv uchun"
+     ],
+     [
+      "Suv shishasi",
+      "Uzoq yurishdagi charchoqni kamaytiradi"
+     ],
+     [
+      "Qulay poyabzal",
+      "Majmua katta; kuniga ko'p qadam yurasiz"
+     ],
+     [
+      "Vizitka va kichik daftar",
+      "Uchrashuv yozuvlari va aloqalar uchun"
+     ],
+     [
+      "Quvvatlagich yoki zaxira batareya",
+      "Surat va xabar almashish batareyani tez tugatadi"
+     ],
+     [
+      "O'lchov lentasi",
+      "Buyumning o'lchamini joyida aniqlash uchun"
+     ],
+     [
+      "Yengil yelka sumkasi",
+      "Namuna, katalog va hujjatlar uchun"
+     ]
+    ],
+    "en": [
+     [
+      "Passport and fair badge",
+      "Entry and daily security checks"
+     ],
+     [
+      "Water bottle",
+      "Keeps fatigue down on long walking days"
+     ],
+     [
+      "Comfortable shoes",
+      "The complex is vast; expect many steps"
+     ],
+     [
+      "Business cards and a small notebook",
+      "Meeting notes and contacts"
+     ],
+     [
+      "Charger or power bank",
+      "Photos and messages drain the battery fast"
+     ],
+     [
+      "Tape measure",
+      "Checking a piece's size on the spot"
+     ],
+     [
+      "Light shoulder bag",
+      "For samples, catalogues and documents"
+     ]
+    ]
+   }
+  }
+ ],
+ "faqs": [
+  {
+   "q": {
+    "kk": "Кантон жәрмеңкесіне қай ауданда тұру керек?",
+    "uz": "Kanton yarmarkasiga qaysi hududda turish kerak?",
+    "en": "Where should I stay for the Canton Fair?"
+   },
+   "a": {
+    "kk": "Барлық күндеріңіз көрмеде өтетін болса, Пачжоу маңындағы қонақүй ең қарапайым нұсқа: жүру қысқа, түскі үзілісте жүгіңізді қалдыруға болады. Бағдарламаңыз аралас болса, метро желісіне жақын қала орталығы ыңғайлырақ. Кез келген жағдайда брондауды көрмеге 1–2 ай қалғанда жасаңыз, себебі көрме күндері орын тез толып кетеді.",
+    "uz": "Barcha kunlaringiz yarmarkada o'tadigan bo'lsa, Pachjou atrofidagi mehmonxona eng oddiy variant: yo'l qisqa, tushlik tanaffusida yukingizni qoldirishingiz mumkin. Dasturingiz aralash bo'lsa, metro yo'nalishiga yaqin shahar markazi qulayroq. Har qanday holda bronni yarmarkaga 1–2 oy qolganda qiling, chunki yarmarka kunlarida joy tez to'lib ketadi.",
+    "en": "If every day happens at the fair, a hotel around Pazhou is the simplest choice: the commute is short and you can drop your bags at lunch. With a mixed programme, the city centre near a metro line suits better. Either way, book one to two months ahead, because rooms fill quickly on fair days."
+   }
+  },
+  {
+   "q": {
+    "kk": "Көрме қонақүйін қанша уақыт бұрын брондау керек?",
+    "uz": "Yarmarka mehmonxonasini qancha vaqt oldin bron qilish kerak?",
+    "en": "How early should I book a hotel for the Canton Fair?"
+   },
+   "a": {
+    "kk": "Көрмеге 1–2 ай қалғанда. Жәрмеңке күндері, әсіресе екінші кезеңде (23–27 қазан), Гуанчжоудағы қонақүй бағасы көтеріліп, бос орын азаяды; нақты баға келтірмейтін болсақ та, кеш брондау әрқашан қымбатырақ және алысырақ нұсқа қалдырады. Иілгіш тариф таңдаңыз — сапар жоспары жиі өзгереді.",
+    "uz": "Yarmarkaga 1–2 oy qolganda. Yarmarka kunlarida, ayniqsa ikkinchi bosqichda (23–27-oktabr), Guanchjoudagi mehmonxona narxi oshadi, bo'sh joy kamayadi; aniq raqam keltirmasak ham, kech bron har doim qimmatroq va uzoqroq variant qoldiradi. Moslashuvchan tarif tanlang — safar rejasi tez-tez o'zgaradi.",
+    "en": "One to two months ahead. During fair days — especially Phase 2 (23–27 October) — hotel rates in Guangzhou rise and availability shrinks; even without quoting prices, late booking always leaves the more expensive and more distant options. Choose a flexible rate: trip plans change often."
+   }
+  },
+  {
+   "q": {
+    "kk": "Кантон жәрмеңкесі үшін неше түн брондау керек?",
+    "uz": "Kanton yarmarkasi uchun necha tun bron qilish kerak?",
+    "en": "How many nights should I book for the Canton Fair?"
+   },
+   "a": {
+    "kk": "Жиһаз кезеңіне баратын сатып алушы кемінде бес-жеті түн брондайды: бір түн жол мен бейімделуге, екі-үш түн көрме күндеріне (9:30–18:00), қалғаны ауыстыру кезеңіндегі зауытқа бару мен қорытынды келіссөзге. Медициналық жиһаз үшінші кезеңде (31 қазан – 4 қараша) болғандықтан, оны да көргіңіз келсе, түндерді ұзартыңыз.",
+    "uz": "Mebel bosqichiga boradigan xaridor kamida besh-yetti tun bron qiladi: bitta tun yo'l va moslashishga, ikki-uch tun yarmarka kunlariga (9:30–18:00), qolgani almashtirish davridagi zavodga tashrif va yakuniy muzokaraga. Tibbiy mebel uchinchi bosqichda (31-oktabr – 4-noyabr) bo'lgani uchun, uni ham ko'rmoqchi bo'lsangiz, tunlarni uzaytiring.",
+    "en": "A buyer heading for the furniture phase books at least five to seven nights: one for travel and adjustment, two or three for fair days (9:30–18:00), the rest for a factory visit in the changeover window and closing talks. Because medical furniture sits in Phase 3 (31 October–4 November), stretch the nights if you want that too."
+   }
+  },
+  {
+   "q": {
+    "kk": "Көрмеге метромен бару тиімді ме, әлде таксимен ме?",
+    "uz": "Yarmarkaga metro bilan borish qulaymi yoki taksi bilanmi?",
+    "en": "Is the metro or a taxi better for getting to the fair?"
+   },
+   "a": {
+    "kk": "Көрме күндері метродан болжау оңай: уақыты тұрақты, жол тығыздығына тәуелсіз. Такси ыңғайлы, алайда 18:00-де көрме аяқталғанда кешен маңындағы кезек ұзарады. Пачжоуда тұрсаңыз, жаяу 15–20 минут та нұсқа. Қай тәсілді алсаңыз да, қауіпсіздік тексерісіне уақыт қалдырып, таңғы 8:30 шамасында кешенге жақын болыңыз.",
+    "uz": "Yarmarka kunlarida metro bashorat qilish oson: vaqti barqaror, yo'l tirbandishiga bog'liq emas. Taksi qulay, biroq 18:00 da yarmarka tugagach majmua atrofidagi navbat uzayadi. Pachjou sifatida yursangiz, piyoda 15–20 daqiqa ham variant. Qaysi usulni olsangiz ham, xavfsizlik tekshiruviga vaqt qoldirib, ertalab 8:30 atrofida majmuaga yaqin bo'ling.",
+    "en": "On fair days the metro is the easier bet: stable timing, independent of traffic. Taxis are convenient, but after the 18:00 close the queue near the complex grows. If you stay in Pazhou, a 15–20 minute walk also works. Whichever you choose, allow time for security screening and aim to be near the complex by around 8:30."
+   }
+  },
+  {
+   "q": {
+    "kk": "Сіздің стенд нөміріңіз қандай және шақыру хатты қалай аламын?",
+    "uz": "Stend raqamingiz qanday va taklifnomani qanday olaman?",
+    "en": "What is your stand number and how do I get an invitation letter?"
+   },
+   "a": {
+    "kk": "Hongye Furniture Group 140-шы Кантон жәрмеңкесінде көрмеге шығады. **Біз стенд нөмірін жарияламаймыз**: `/contacto/` арқылы салаңызды және қай елден келетініңізді жазып жіберсеңіз, стенд нөмірін және келуге арналған **шақыру хатын** жібереміз. Жазып қалдыруға тұрады: бір хабарламаға стенд нөмірі, шақыру хат, салаңызға арналған қабылдау уақыты және зауытқа бару кестесі қосылады. Виза шешімін Қытайдың елшілігі мен консулдығы қабылдайды; соңғы ресми талаптарды елшілік пен ұйымдастырушы хабарламаларынан тексеріңіз.",
+    "uz": "Hongye Furniture Group 140-Kanton yarmarkasida ishtirok etadi. **Biz stend raqamini e'lon qilmaymiz**: `/contacto/` orqali sohangizni va qaysi davlatdan kelishingizni yozib yuboring, stend raqami va tashrif uchun **taklifnomani** yuboramiz. Yozib qoldirishga arziydi: bitta xabarga stend raqami, taklifnoma, sohangizga ajratilgan qabul vaqti va zavodga tashrif jadvali qo'shiladi. Viza qarorini Xitoyning elchixonasi va konsuligi qabul qiladi; oxirgi rasmiy talablarni elchixona va tashkilotchi xabarlaridan tekshiring.",
+    "en": "Hongye Furniture Group exhibits at the 140th Canton Fair. **We do not publish our stand number**: email us via `/contacto/` with your sector and the country you are travelling from, and we will send you our stand number together with an **invitation letter** for your visit. It is worth writing in: one message brings the stand number, the invitation letter, a reserved meeting slot for your sector and a factory visit schedule. Visa decisions rest with the Chinese embassy or consulate; always check the latest official requirements from the embassy and the organiser."
+   }
+  },
+  {
+   "q": {
+    "kk": "Шақыру хат виза мәселесінде не береді?",
+    "uz": "Taklifnoma viza masalasida nima beradi?",
+    "en": "What does the invitation letter mean for my visa?"
+   },
+   "a": {
+    "kk": "Шақыру хат — көрмеге келу мақсатыңызды растайтын құжат; оны біз клиент сұрауы бойынша жекелей жібереміз. Алайда виза шешімін Қытайдың елшілігі мен консулдығы қабылдайды, қажетті құжаттар мен рәсімдер олардың соңғы ресми талаптарымен анықталады; біз виза нәтижесіне уәде бермейміз және заңдық кеңес бермейміз. Ұйымдастырушының тіркелу мен кіру бойынша соңғы хабарламаларын да тексеріп отырыңыз.",
+    "uz": "Taklifnoma — yarmarkaga kelish maqsadingizni tasdiqlaydigan hujjat; uni biz mijoz so'roviga binoan yakka yuboramiz. Biroq viza qarorini Xitoyning elchixonasi va konsuligi qabul qiladi, kerakli hujjatlar va tartiblar ularning oxirgi rasmiy talablari bilan aniqlanadi; biz viza natijasiga va'da bermaymiz va yuridik maslahat bermaymiz. Tashkilotchining ro'yxatdan o'tish va kirish bo'yicha oxirgi xabarlarini ham tekshirib turing.",
+    "en": "The invitation letter is a document confirming the purpose of your visit to the fair; we send it one to one on a client's request. Visa decisions, however, rest with the Chinese embassy or consulate, and the required documents and procedures follow their latest official requirements; we do not promise visa outcomes and do not provide legal advice. Keep an eye on the organiser's latest notices on registration and entry as well."
+   }
+  }
+ ]
+}

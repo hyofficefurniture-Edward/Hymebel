@@ -24,21 +24,32 @@ export function localePath(lang: Lang, slug = ""): string {
 
 export type AltLink = { lang: Lang; hreflang: string; href: string; label: string };
 
-/** 三语互链 + x-default（指向默认哈萨克语版） */
-export function alternates(slug = ""): { alts: AltLink[]; xDefault: AltLink } {
-  const alts: AltLink[] = locales.map((l) => ({
-    lang: l,
-    hreflang: languages[l].htmlLang,
-    href: localePath(l, slug),
-    label: languages[l].label,
-  }));
+/**
+ * 市场隔离：KK、UZ、EN 旧内容 URL 不再声明为彼此的翻译版本。
+ * 这避免把哈萨克和乌兹别克采购意图错误合并；可见英文入口由
+ * marketEnglishEntry() 提供，且只在当前市场内跳转。
+ */
+export function alternates(lang: Lang, slug = ""): { alts: AltLink[]; xDefault: AltLink } {
+  const alts: AltLink[] = [{
+    lang,
+    hreflang: languages[lang].htmlLang,
+    href: localePath(lang, slug),
+    label: languages[lang].label,
+  }];
   return {
     alts,
     xDefault: {
-      lang: defaultLang,
+      lang,
       hreflang: "x-default",
-      href: localePath(defaultLang, slug),
-      label: languages[defaultLang].label,
+      href: "/",
+      label: "Market selector",
     },
   };
+}
+
+/** English never jumps from one Central-Asia market into the other. */
+export function marketEnglishEntry(lang: Lang): string | null {
+  if (lang === "kk") return "/kk/en/";
+  if (lang === "uz") return "/uz/en/";
+  return null;
 }

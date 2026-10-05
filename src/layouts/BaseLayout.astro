@@ -4,6 +4,7 @@ import Header from "../components/Header.astro";
 import Footer from "../components/Footer.astro";
 import { alternates, localePath } from "../i18n/utils";
 import { languages, company, type Lang } from "../i18n/ui";
+import { marketForLanguage } from "../config/markets";
 
 interface Props {
   lang: Lang;
@@ -18,7 +19,8 @@ interface Props {
 }
 
 const { lang, title, description, slug = "", ogImage, breadcrumb } = Astro.props;
-const { alts, xDefault } = alternates(slug);
+const market = marketForLanguage(lang);
+const { alts, xDefault } = alternates(lang, slug);
 const canonical = new URL(localePath(lang, slug), Astro.site).href;
 const siteOrigin = Astro.site?.origin ?? "https://hymebel.com";
 const shareImage = new URL(ogImage ?? "/images/hero/hero-main.webp", Astro.site).href;
@@ -58,7 +60,6 @@ const orgJsonLd = {
     addressCountry: "CN",
   },
   areaServed: ["Kazakhstan", "Uzbekistan", "Central Asia"],
-  award: [`${company.certs} international certifications`, "EAC TR CU 025/2011 compliance"],
   contactPoint: [
     {
       "@type": "ContactPoint",
@@ -73,7 +74,7 @@ const orgJsonLd = {
       contactType: "customer support",
       name: company.secondary.name,
       email: company.secondary.email,
-      availableLanguage: ["kk", "uz", "ru"],
+      availableLanguage: ["kk", "uz", "en"],
     },
   ],
 };
@@ -109,13 +110,15 @@ const orgJsonLd = {
 
     {company.gaId && (
       <script is:inline async src={`https://www.googletagmanager.com/gtag/js?id=${company.gaId}`} />
-      <script is:inline define:vars={{ gaId: company.gaId, pageLang: lang }}>
+      <script is:inline define:vars={{ gaId: company.gaId, pageLang: lang, market }}>
         window.dataLayer = window.dataLayer || [];
         function gtag(){dataLayer.push(arguments);}
         gtag('js', new Date());
         /* page_language 用于区分站内语言版（默认「语言」维度取的是浏览器语言，不等于用户看的语言版）
            content_group 是 GA4 内置维度，无需后台注册即可在「页面/屏幕」报告里按 kk/uz/en 分组 */
         gtag('config', gaId, {
+          site: 'hymebel',
+          market: market,
           page_language: pageLang,
           content_group: pageLang
         });
@@ -127,6 +130,8 @@ const orgJsonLd = {
           if (!a) return;
           var href = a.getAttribute('href') || '';
           var payload = {
+            site: 'hymebel',
+            market: market,
             page_language: pageLang,
             link_url: href,
             link_text: (a.textContent || '').trim().slice(0, 60)
@@ -139,8 +144,27 @@ const orgJsonLd = {
         /* 询盘表单提交（Web3Forms 原生 POST，页面会跳转，用 beacon 保证事件送达） */
         window.addEventListener('DOMContentLoaded', function () {
           document.querySelectorAll('form[action*="web3forms"]').forEach(function (f) {
+            var metadata = {
+              site: 'hymebel',
+              market: market,
+              page_language: pageLang,
+              source_url: window.location.href,
+              referrer: document.referrer || 'direct'
+            };
+            Object.entries(metadata).forEach(function ([key, value]) {
+              var input = f.querySelector('input[name="' + key + '"]');
+              if (!input) {
+                input = document.createElement('input');
+                input.type = 'hidden';
+                input.name = key;
+                f.appendChild(input);
+              }
+              input.value = value;
+            });
             f.addEventListener('submit', function () {
               gtag('event', 'generate_lead', {
+                site: 'hymebel',
+                market: market,
                 page_language: pageLang,
                 form_id: 'contact',
                 transport_type: 'beacon'

@@ -1,0 +1,9 @@
+---
+import MarketCategoryLayout from "../../layouts/MarketCategoryLayout.astro";
+import { marketPages } from "../../data/market-pages";
+import { categoriesFor } from "../../data/market-categories";
+export function getStaticPaths() { return categoriesFor("mn", "mn").map((category) => ({ params: { category: category.slug }, props: { category } })); }
+const { category } = Astro.props;
+const href = `/mn/${category.slug}/`;
+---
+<MarketCategoryLayout copy={marketPages.mn} category={category} href={href} alternateHref={`/mn/en/${category.slug}/`} />

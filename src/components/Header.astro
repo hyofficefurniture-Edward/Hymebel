@@ -1,5 +1,5 @@
 ---
-import { alternates, localePath, useTranslations } from "../i18n/utils";
+import { alternates, localePath, marketEnglishEntry, useTranslations } from "../i18n/utils";
 import { categories, about, contactPage } from "../data/categories";
 import { languages, type Lang } from "../i18n/ui";
 
@@ -10,7 +10,8 @@ interface Props {
 
 const { lang, slug = "" } = Astro.props;
 const t = useTranslations(lang);
-const { alts } = alternates(slug);
+const { alts } = alternates(lang, slug);
+const englishEntry = marketEnglishEntry(lang);
 
 const blogSlug = "blog";
 const navItems = [
@@ -87,6 +88,7 @@ const navItems = [
             </a>
           ))
         }
+        {englishEntry && <a href={englishEntry} hreflang="en" class="lang-btn">EN</a>}
       </div>
     </nav>
 

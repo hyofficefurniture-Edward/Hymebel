@@ -1,8 +1,5 @@
 import type { APIRoute } from "astro";
 import { company } from "../i18n/ui";
-import { categories } from "../data/categories";
-import { products } from "../data/products";
-import { posts } from "../data/blog";
 
 /**
  * /llms.txt — 面向 AI 引擎（ChatGPT / Perplexity / Gemini 等）的站点结构化摘要。
@@ -13,49 +10,30 @@ export const GET: APIRoute = ({ site }) => {
   const origin = site?.origin ?? "https://hymebel.com";
   const abs = (p: string) => `${origin}${p}`;
 
-  const body = `# Hymebel — Premium Furniture for Kazakhstan & Central Asia
+  const body = `# Hymebel — Project Furniture Enquiries
 
-> Hymebel is the Central Asia brand of Hongye Furniture Group (founded ${company.founded}, Guangdong, China). We design, manufacture, ship and install furniture for hotel, office, villa, healthcare and education projects in Kazakhstan and Uzbekistan.
+> Hymebel is a project-furniture enquiry site operated under Hongye Furniture Group, Guangdong, China. It provides market-specific entry pages for Kazakhstan, Uzbekistan, Mongolia and Russia.
 
-## Company facts (single source of truth)
+## Brand and scope
 
 - Parent group: Hongye Furniture Group, founded ${company.founded}, Guangdong, China
-- Factory: ${company.factory} m² own production base, ${company.workers} workers
-- Track record: ${company.projects} projects in ${company.countries} countries
-- Certifications: ${company.certs} international certifications; EAC TR CU 025/2011 compliant (mandatory furniture certification in the Central Asian customs union)
-- Lead time: 30-45 days production; 9-10 days by rail to Tashkent, 5-7 days by TIR truck
-- Languages served: Kazakh (default), Uzbek, English
+- Project scope: hotel, office, education, healthcare and other project-furniture requirements
 - Contact: ${company.email} · WhatsApp ${company.whatsapp}
+- Evidence rule: production capacity, certification, delivery, logistics, installation, project references and commercial terms are confirmed for the individual enquiry; they are not universal promises on this site.
 
 ## Site structure
 
-- Default language: Kazakh at ${origin}/kk/ ; Uzbek at ${origin}/uz/ ; English at ${origin}/en/
-- Product catalogue: ${products.length} models across 5 categories
-- Blog / knowledge base: ${posts.length} in-depth guides in three languages
+- Kazakhstan: Kazakh at ${origin}/kk/ ; Uzbekistan: Uzbek at ${origin}/uz/ ; Central Asia English: ${origin}/en/
+- Mongolia: Mongolian at ${origin}/mn/ ; Mongolia English: ${origin}/mn/en/
+- Russia: Russian at ${origin}/ru/ ; Russia English: ${origin}/ru/en/
+- Market boundary: Mongolia and Russia do not link into Kazakhstan or Uzbekistan market pages; each new market has its own English fallback.
+- Product and knowledge pages: browse the market-specific navigation and sitemap; individual claims in a page must be evaluated against its cited or supplied project evidence.
 
-## Product categories
+## Enquiry pages
 
-${categories
-  .map((c) => `- [${c.name.en}](${abs(`/en/${c.slug}/`)}) — ${c.tagline.en}. ${c.intro.en}`)
-  .join("\n")}
-
-## Products (English pages)
-
-${products
-  .map((p) => `- [${p.name.en}](${abs(`/en/products/${p.id}/`)}) — category: ${p.cat}${p.material ? `; material: ${p.material}` : ""}`)
-  .join("\n")}
-
-## Guides (English pages)
-
-${posts
-  .map((p) => `- [${p.title.en}](${abs(`/en/blog/${p.id}/`)}) — ${p.excerpt.en}`)
-  .join("\n")}
-
-## Optional
-
-- [Selected projects](${abs("/en/cases/")}) — 1,000+ projects in 50+ countries, including Hilton Tashkent; hotel, office, education and residential cases
-- [About Hymebel](${abs("/en/about/")}) — company history, factory capability, certifications, international projects
-- [Request a quote](${abs("/en/contact/")}) — free proposal within 48 hours
+- [Kazakhstan / Uzbekistan / Central Asia English contact](${abs("/en/contact/")})
+- [Mongolia project enquiry](${abs("/mn/contact/")})
+- [Russia project enquiry](${abs("/ru/contact/")})
 - [Sitemap](${abs("/sitemap.xml")})
 `;
 

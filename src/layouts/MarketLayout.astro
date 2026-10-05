@@ -1,0 +1,161 @@
+---
+import "../styles/global.css";
+import { company } from "../i18n/ui";
+
+export interface MarketCopy {
+  market: "mn" | "ru";
+  language: "mn" | "ru" | "en";
+  htmlLang: string;
+  title: string;
+  description: string;
+  homeHref: string;
+  contactHref: string;
+  pairedHref: string;
+  pairedLabel: string;
+  homeLabel: string;
+  productsLabel: string;
+  contactLabel: string;
+  brandLine: string;
+  heroTitle: string;
+  heroBody: string;
+  ctaLabel: string;
+  formTitle: string;
+  formIntro: string;
+  nameLabel: string;
+  companyLabel: string;
+  countryLabel: string;
+  phoneLabel: string;
+  scopeLabel: string;
+  messageLabel: string;
+  submitLabel: string;
+  scopeOptions: string[];
+  productTitle: string;
+  productItems: { title: string; body: string }[];
+  processTitle: string;
+  processItems: string[];
+  footerNote: string;
+  alternate?: { hreflang: string; href: string };
+}
+
+interface Props {
+  copy: MarketCopy;
+  isContact?: boolean;
+}
+
+const { copy, isContact = false } = Astro.props;
+const alternate = copy.alternate ?? {
+  hreflang: copy.market === "mn" ? (copy.language === "en" ? "mn-MN" : "en-MN") : (copy.language === "en" ? "ru-RU" : "en-RU"),
+  href: copy.pairedHref,
+};
+const localizedProducts = copy.language === "mn"
+  ? [
+      { title: "Зочид буудал ба зочлох үйлчилгээ", body: "Зочны өрөө, нийтийн талбай болон төслийн тавилгын уялдаа." },
+      { title: "Оффис ба ажлын орчин", body: "Ажлын байр, уулзалтын өрөө, удирдах албаны төслийн орон зай." },
+      { title: "Боловсрол ба эрүүл мэнд", body: "Зураг болон тоо хэмжээтэй нь хамт нягтлах төслийн тавилгын шаардлага." },
+    ]
+  : copy.language === "ru"
+    ? [
+        { title: "Отели и гостеприимство", body: "Номера, общественные зоны и координация комплектации проекта." },
+        { title: "Офисы и рабочие пространства", body: "Рабочие места, переговорные и кабинеты для проектных команд." },
+        { title: "Образование и здравоохранение", body: "Требования к мебели для проекта, проверяемые по чертежам и количеству." },
+      ]
+    : copy.productItems;
+const categorySlugs = ["hotel-furniture", "office-furniture", "education-healthcare"];
+const canonical = new URL(isContact ? copy.contactHref : copy.homeHref, Astro.site).href;
+const pageTitle = isContact ? `${copy.contactLabel} | Hymebel` : copy.title;
+const pageDescription = isContact ? copy.formIntro : copy.description;
+const origin = Astro.site?.origin ?? "https://hymebel.com";
+const orgJsonLd = {
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  name: "Hongye Furniture Group",
+  alternateName: "Hymebel",
+  url: origin,
+  email: company.email,
+  telephone: company.primary.mobile,
+  address: {
+    "@type": "PostalAddress",
+    streetAddress: "No.1 Section, Heshan Industrial City",
+    addressLocality: "Jiangmen",
+    addressRegion: "Guangdong",
+    addressCountry: "CN",
+  },
+};
+---
+
+<!doctype html>
+<html lang={copy.htmlLang} dir="ltr">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{pageTitle}</title>
+    <meta name="description" content={pageDescription} />
+    <link rel="canonical" href={canonical} />
+    <link rel="alternate" hreflang={copy.htmlLang} href={canonical} />
+    <link rel="alternate" hreflang={alternate.hreflang} href={new URL(isContact ? `${alternate.href}contact/` : alternate.href, Astro.site).href} />
+    <link rel="alternate" hreflang="x-default" href={new URL(copy.homeHref, Astro.site).href} />
+    <meta property="og:type" content="website" />
+    <meta property="og:site_name" content="Hymebel" />
+    <meta property="og:locale" content={copy.htmlLang.replace("-", "_")} />
+    <meta property="og:title" content={pageTitle} />
+    <meta property="og:description" content={pageDescription} />
+    <meta property="og:url" content={canonical} />
+    <meta property="og:image" content={new URL("/images/hero/hero-main.webp", Astro.site).href} />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="theme-color" content="#8a6a3f" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <script type="application/ld+json" set:html={JSON.stringify(orgJsonLd)} />
+    {company.gaId && (
+      <script is:inline async src={`https://www.googletagmanager.com/gtag/js?id=${company.gaId}`} />
+    )}
+    {company.gaId && (
+      <script is:inline define:vars={{ gaId: company.gaId, market: copy.market, language: copy.language }}>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', gaId, { site: 'hymebel', market: market, page_language: language, content_group: language });
+        window.addEventListener('DOMContentLoaded', function () {
+          document.querySelectorAll('form[action*="web3forms"]').forEach(function (f) {
+            var fields = { site: 'hymebel', market: market, page_language: language, source_url: window.location.href, referrer: document.referrer || 'direct' };
+            Object.entries(fields).forEach(function ([key, value]) {
+              var input = f.querySelector('input[name="' + key + '"]') || document.createElement('input');
+              input.type = 'hidden'; input.name = key; input.value = value;
+              if (!input.parentNode) f.appendChild(input);
+            });
+            f.addEventListener('submit', function () { gtag('event', 'generate_lead', { site: 'hymebel', market: market, page_language: language, form_id: 'market_contact' }); });
+          });
+        });
+      </script>
+    )}
+  </head>
+  <body>
+    <header class="navbar">
+      <div class="nav-inner wrap-wide">
+        <a class="brand" href={copy.homeHref} aria-label="Hymebel">
+          <img class="brand__logo" src="/images/brand/hongye-logo.png" alt="Hongye Furniture Group logo" width="74" height="44" />
+          <span class="brand__text"><span class="brand__name">Hymebel</span><span class="brand__tag">{copy.brandLine}</span></span>
+        </a>
+        <nav class="nav market-nav" aria-label="Main navigation">
+          <a href={copy.homeHref} class="nav-link">{copy.homeLabel}</a>
+          <a href={isContact ? `${copy.homeHref}#products` : "#products"} class="nav-link">{copy.productsLabel}</a>
+          <a href={copy.pairedHref} class="lang-btn" hreflang={alternate.hreflang}>{copy.pairedLabel}</a>
+        </nav>
+        <a class="nav-cta" href={copy.contactHref}>{copy.contactLabel}</a>
+      </div>
+    </header>
+    <main>
+      {isContact ? (
+        <section class="page-head"><div class="wrap"><p class="breadcrumb"><a href={copy.homeHref}>{copy.homeLabel}</a> / {copy.contactLabel}</p><h1>{copy.formTitle}</h1><p class="prose">{copy.formIntro}</p></div></section>
+      ) : (
+        <section class="hero"><div class="wrap hero-grid"><div class="hero-content"><p class="eyebrow">{copy.brandLine}</p><h1>{copy.heroTitle}</h1><p>{copy.heroBody}</p><div class="hero-actions"><a href={copy.contactHref} class="btn btn--primary">{copy.ctaLabel}</a></div></div><img src="/images/hero/hero-main.webp" alt="Hongye Furniture Group commercial furniture project" width="800" height="600" loading="eager" /></div></section>
+      )}
+
+      {isContact ? (
+        <section class="section"><div class="wrap"><form class="form" action="https://api.web3forms.com/submit" method="POST"><input type="hidden" name="access_key" value={company.web3formsKey} /><input type="hidden" name="subject" value={`Hymebel ${copy.market.toUpperCase()} market enquiry`} /><input type="hidden" name="from_name" value="hymebel.com" /><input type="checkbox" name="botcheck" style="display:none" tabindex="-1" autocomplete="off" /><label>{copy.nameLabel}<input type="text" name="name" required /></label><label>{copy.companyLabel}<input type="text" name="company" /></label><label>{copy.countryLabel}<input type="text" name="country" required /></label><label>{copy.phoneLabel}<input type="text" name="phone" required /></label><label>{copy.scopeLabel}<select name="project_scope">{copy.scopeOptions.map((option) => <option value={option}>{option}</option>)}</select></label><label class="full">{copy.messageLabel}<textarea name="message" rows="6" required></textarea></label><div class="full"><button class="btn btn--primary" type="submit">{copy.submitLabel}</button></div></form></div></section>
+      ) : (
+        <><section id="products" class="section"><div class="wrap"><div class="section-head"><h2>{copy.productTitle}</h2></div><div class="card-grid">{localizedProducts.map((item, index) => <article class="card"><h3>{item.title}</h3><p>{item.body}</p><a href={`${copy.homeHref}${categorySlugs[index]}/`} class="text-link">{copy.ctaLabel} →</a></article>)}</div></div></section><section class="section section--tint"><div class="wrap"><div class="section-head"><h2>{copy.processTitle}</h2></div><ol class="process-list">{copy.processItems.map((item) => <li>{item}</li>)}</ol></div></section></>
+      )}
+    </main>
+    <footer class="site-footer"><div class="wrap footer-top"><div class="footer-brand"><img class="footer-logo-img" src="/images/brand/hongye-fenmi-group.jpg" alt="Hongye Furniture Group and Fenmi Casa logos" width="150" height="140" loading="lazy" /><p class="footer-tagline">{copy.footerNote}</p><p class="footer-info"><a href={`mailto:${company.email}`}>{company.email}</a></p></div></div><div class="footer-bottom"><div class="wrap footer-bottom-inner"><p>© {new Date().getFullYear()} Hongye Furniture Group</p></div></div></footer>
+  </body>
+</html>

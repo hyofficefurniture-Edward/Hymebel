@@ -37,7 +37,6 @@ const kk: Dict = {
   "hero.ctaPrimary": "Тегін смета алу",
   "hero.ctaSecondary": "Жобаны талқылау",
 
-  "stat.since": "1996 жылдан бері",
   "stat.projects": "жоба",
   "stat.factory": "м² өндіріс алаңы",
   "stat.since": "жылдан бері нарықта",
@@ -224,7 +223,6 @@ const uz: Dict = {
   "hero.ctaPrimary": "Bepul hisob-kitob olish",
   "hero.ctaSecondary": "Loyihani muhokama qilish",
 
-  "stat.since": "1996-yildan beri",
   "stat.projects": "loyiha",
   "stat.factory": "m² ishlab chiqarish maydoni",
   "stat.since": "yildan beri bozorda",
@@ -412,7 +410,6 @@ const en: Dict = {
   "hero.ctaPrimary": "Get a free quote",
   "hero.ctaSecondary": "Discuss your project",
 
-  "stat.since": "Since 1996",
   "stat.projects": "projects",
   "stat.factory": "m² factory area",
   "stat.since": "years in the market",

@@ -1,5 +1,5 @@
 ---
-import { alternates, localePath, useTranslations } from "../i18n/utils";
+import { alternates, localePath, marketEnglishEntry, useTranslations } from "../i18n/utils";
 import { categories, about, contactPage } from "../data/categories";
 import { company, languages, type Lang } from "../i18n/ui";
 
@@ -9,7 +9,8 @@ interface Props {
 
 const { lang } = Astro.props;
 const t = useTranslations(lang);
-const { alts } = alternates("");
+const { alts } = alternates(lang, "");
+const englishEntry = marketEnglishEntry(lang);
 
 const blogSlug = "blog";
 const productLinks = categories.map((c) => ({ href: localePath(lang, c.slug), label: c.name[lang] }));
@@ -94,6 +95,7 @@ const resourceLinks = [
         <p class="footer-info">📍 Guangdong, China</p>
         <div class="lang-switch" role="group" aria-label="Language">
           {alts.map((alt) => <a href={alt.href} hreflang={alt.hreflang} class="lang-btn">{languages[alt.lang].short}</a>)}
+          {englishEntry && <a href={englishEntry} hreflang="en" class="lang-btn">EN</a>}
         </div>
       </div>
     </div>

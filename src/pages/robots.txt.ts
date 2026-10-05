@@ -11,6 +11,8 @@ export const GET: APIRoute = ({ site }) => {
     `Sitemap: ${origin}/sitemap-kk.xml`,
     `Sitemap: ${origin}/sitemap-uz.xml`,
     `Sitemap: ${origin}/sitemap-en.xml`,
+    `Sitemap: ${origin}/sitemap-mn.xml`,
+    `Sitemap: ${origin}/sitemap-ru.xml`,
     "",
     "# AI / LLM crawlers: plain-text site summary for retrieval and answers",
     `# LLM summary: ${origin}/llms.txt`,

@@ -1,7 +1,7 @@
 import { defineConfig } from "astro/config";
 
-// hymebel.com — 中亚三语站（哈萨克语 / 乌兹别克语 / 英语）
-// 语言矩阵（2026-09-29 定稿）：默认 kk（根路径 301 跳 /kk/）→ uz → en（末位）；ru 架构预留 P1
+// hymebel.com — KK / UZ / EN 动态内容树 + 独立 MN / RU 市场入口。
+// MN/RU are intentionally fixed Astro routes, not additions to the Central-Asia locale matrix.
 export default defineConfig({
   site: "https://hymebel.com",
   output: "static",
@@ -12,13 +12,9 @@ export default defineConfig({
     locales: ["kk", "uz", "en"],
     routing: {
       prefixDefaultLocale: true,
-      // 根路径重定向由 src/pages/index.astro 自行渲染（静态托管下用 meta refresh + rel=canonical）
+      // 根路径 is an x-default market selector rendered by src/pages/index.astro.
       redirectToDefaultLocale: false,
       fallbackType: "redirect",
     },
-  },
-  // 预留：/ru/ 上线时把 "ru" 加入 locales 并开启 localePathMap
-  redirects: {
-    "/ru/": { status: 302, destination: "/kk/" },
   },
 });

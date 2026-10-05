@@ -8,7 +8,8 @@
     "build": "astro build",
     "check": "astro check",
     "preview": "astro preview --host 127.0.0.1",
-    "qa:hreflang": "node scripts/qa-hreflang.mjs"
+    "qa:hreflang": "node scripts/qa-hreflang.mjs",
+    "qa:markets": "node scripts/qa-market-boundaries.mjs"
   },
   "dependencies": {
     "@astrojs/check": "^0.9.4",

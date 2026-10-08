@@ -1,5 +1,6 @@
 import { posts } from "../data/blog";
 import type { Lang } from "../i18n/ui";
+import { marketPostsFor, type MarketCode } from "../data/market-posts";
 
 const esc = (s: string) =>
   s
@@ -45,4 +46,15 @@ ${items}
   </channel>
 </rss>
 `;
+}
+
+/** MN/RU have independent editorial streams; never pull the three-language archive into them. */
+export function marketRss(market: "mn" | "ru", origin: string): string {
+  const title = market === "mn" ? "Hymebel Mongolia — Project furniture knowledge" : "Hymebel Russia — Project furniture knowledge";
+  const items = marketPostsFor(market as MarketCode).map((p) => {
+    const url = `${origin}/${market}/blog/${p.id}/`;
+    const body = [p.definition, ...p.sections.flatMap((s) => s.paragraphs)].join(" ");
+    return ["    <item>", `      <title>${esc(p.title)}</title>`, `      <link>${url}</link>`, `      <guid isPermaLink="true">${url}</guid>`, `      <pubDate>${new Date(p.date + "T08:00:00Z").toUTCString()}</pubDate>`, `      <category>${esc(p.tag)}</category>`, `      <description><![CDATA[${p.excerpt}]]></description>`, `      <content:encoded><![CDATA[${body}]]></content:encoded>`, "    </item>"].join("\n");
+  }).join("\n");
+  return `<?xml version="1.0" encoding="UTF-8"?>\n<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">\n  <channel>\n    <title>${esc(title)}</title>\n    <link>${origin}/${market}/blog/</link>\n    <description>${esc(title)}</description>\n    <language>${market === "mn" ? "mn-MN" : "ru-RU"}</language>\n    <atom:link href="${origin}/rss-${market}.xml" rel="self" type="application/rss+xml"/>\n${items}\n  </channel>\n</rss>\n`;
 }

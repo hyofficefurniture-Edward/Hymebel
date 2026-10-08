@@ -1,0 +1,8 @@
+---
+import MarketBlogLayout from "../../../layouts/MarketBlogLayout.astro";
+import { marketPages } from "../../../data/market-pages";
+import { marketPostsFor } from "../../../data/market-posts";
+const copy = marketPages.ru;
+const posts = marketPostsFor("ru");
+---
+<MarketBlogLayout copy={copy}><section class="section"><div class="wrap"><p class="prose">Здесь публикуются только материалы для рынка России, проверенные по источникам и техническому контексту проекта.</p><div class="grid grid--3">{posts.map((post) => <a class="blog-card blog-card--visual" href={`/ru/blog/${post.id}/`}><img class="blog-card__img" src={post.image} alt={post.imageAlt} width="800" height="450" loading="lazy" /><div class="blog-card__body"><div class="blog-card__tag">{post.tag}</div><div class="blog-card__title">{post.title}</div><p class="blog-card__excerpt">{post.excerpt}</p></div></a>)}</div><p><a class="btn btn--primary" href="/ru/project-starter/">Подготовить бриф проекта</a></p></div></section></MarketBlogLayout>

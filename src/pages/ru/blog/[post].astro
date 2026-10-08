@@ -1,0 +1,8 @@
+---
+import MarketBlogLayout from "../../../layouts/MarketBlogLayout.astro";
+import { marketPages } from "../../../data/market-pages";
+import { marketPostsFor } from "../../../data/market-posts";
+export function getStaticPaths() { return marketPostsFor("ru").map((post) => ({ params: { post: post.id }, props: { post } })); }
+const { post } = Astro.props;
+---
+<MarketBlogLayout copy={marketPages.ru} post={post} />

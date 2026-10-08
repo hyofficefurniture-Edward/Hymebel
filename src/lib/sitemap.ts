@@ -1,6 +1,7 @@
 import { allSlugs } from "../data/categories";
 import { products } from "../data/products";
 import { posts } from "../data/blog";
+import { marketPostsFor } from "../data/market-posts";
 import { languages, type Lang } from "../i18n/ui";
 
 /**
@@ -59,15 +60,20 @@ export function marketUrlset(market: "mn" | "ru", origin: string): string {
   const localHreflang = market === "mn" ? "mn-MN" : "ru-RU";
   const englishHreflang = market === "mn" ? "en-MN" : "en-RU";
   const categorySlugs = ["hotel-furniture", "office-furniture", "education-healthcare"];
+  const resources = ["project-starter", "faq"];
   const paths = [
-    `/${market}/`, `/${market}/contact/`, ...categorySlugs.map((slug) => `/${market}/${slug}/`),
-    `/${market}/en/`, `/${market}/en/contact/`, ...categorySlugs.map((slug) => `/${market}/en/${slug}/`),
+    `/${market}/`, `/${market}/contact/`, ...categorySlugs.map((slug) => `/${market}/${slug}/`), ...resources.map((slug) => `/${market}/${slug}/`),
+    `/${market}/en/`, `/${market}/en/contact/`, ...categorySlugs.map((slug) => `/${market}/en/${slug}/`), ...resources.map((slug) => `/${market}/en/${slug}/`),
+    `/${market}/blog/`, `/${market}/en/blog/`,
+    ...marketPostsFor(market).map((post) => `/${market}/blog/${post.id}/`),
   ];
   const now = new Date().toISOString().slice(0, 10);
   const urls = paths.map((path) => {
     const english = path.includes("/en/");
+    const isArticle = path.includes("/blog/") && path !== `/${market}/blog/` && path !== `/${market}/en/blog/`;
     const paired = english ? path.replace(`/${market}/en/`, `/${market}/`) : path.replace(`/${market}/`, `/${market}/en/`);
-    return `  <url>\n    <loc>${origin}${path}</loc>\n    <lastmod>${now}</lastmod>\n    <xhtml:link rel="alternate" hreflang="${english ? englishHreflang : localHreflang}" href="${origin}${path}"/>\n    <xhtml:link rel="alternate" hreflang="${english ? localHreflang : englishHreflang}" href="${origin}${paired}"/>\n  </url>`;
+    const alternate = isArticle ? "" : `\n    <xhtml:link rel="alternate" hreflang="${english ? localHreflang : englishHreflang}" href="${origin}${paired}"/>`;
+    return `  <url>\n    <loc>${origin}${path}</loc>\n    <lastmod>${now}</lastmod>\n    <xhtml:link rel="alternate" hreflang="${english ? englishHreflang : localHreflang}" href="${origin}${path}"/>${alternate}\n  </url>`;
   }).join("\n");
   return `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">\n${urls}\n</urlset>\n`;
 }

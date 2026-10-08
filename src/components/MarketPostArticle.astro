@@ -1,0 +1,19 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import { localePath, useTranslations } from "../i18n/utils";
+import type { Lang } from "../i18n/ui";
+import type { MarketPost } from "../data/market-posts";
+
+interface Props { lang: Lang; post: MarketPost; }
+const { lang, post } = Astro.props;
+const t = useTranslations(lang);
+const articleJsonLd = { "@context": "https://schema.org", "@type": "Article", headline: post.title, description: post.excerpt, datePublished: post.date, dateModified: post.date, image: `https://hymebel.com${post.image}`, author: { "@type": "Organization", name: "Hymebel Editorial Team · Hongye Furniture Group" }, publisher: { "@type": "Organization", name: "Hongye Furniture Group" }, inLanguage: lang === "kk" ? "kk-KZ" : lang === "uz" ? "uz-UZ" : "en" };
+const faqJsonLd = { "@context": "https://schema.org", "@type": "FAQPage", mainEntity: post.faqs.map((f) => ({ "@type": "Question", name: f.question, acceptedAnswer: { "@type": "Answer", text: f.answer } })) };
+---
+<BaseLayout lang={lang} title={`${post.title} · Hymebel Blog`} description={post.excerpt} slug={`blog/${post.id}`} ogImage={post.image} breadcrumb={[{ name: t("blog.title"), href: localePath(lang, "blog") }, { name: post.title, href: localePath(lang, `blog/${post.id}`) }]}>
+  <script type="application/ld+json" set:html={JSON.stringify(articleJsonLd)} />
+  <script type="application/ld+json" set:html={JSON.stringify(faqJsonLd)} />
+  <section class="page-head"><div class="wrap prose-article"><p class="breadcrumb"><a href={localePath(lang)}>{t("nav.home")}</a> / <a href={localePath(lang, "blog")}>{t("blog.title")}</a> / {post.tag}</p><h1>{post.title}</h1><p class="byline">Hymebel Editorial Team · {post.date} · {post.readingMin} min</p></div></section>
+  <article class="section"><div class="wrap prose-article"><img src={post.image} alt={post.imageAlt} width="1200" height="675" loading="eager" /><p class="lead">{post.definition}</p><h2>Key points</h2><ul>{post.takeaways.map((item) => <li>{item}</li>)}</ul>{post.sections.map((section) => <section><h2>{section.heading}</h2>{section.paragraphs.map((paragraph) => <p>{paragraph}</p>)}</section>)}<h2>FAQ</h2>{post.faqs.map((faq) => <section><h3>{faq.question}</h3><p>{faq.answer}</p></section>)}</div></article>
+  <section class="cta-band"><div class="wrap"><h2>{t("cta.title")}</h2><a class="btn btn--ghost" href={localePath(lang, "contact")}>{t("hero.ctaPrimary")}</a></div></section>
+</BaseLayout>

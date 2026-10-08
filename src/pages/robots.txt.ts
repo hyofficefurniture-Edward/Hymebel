@@ -19,6 +19,8 @@ export const GET: APIRoute = ({ site }) => {
     `# RSS (kk): ${origin}/rss-kk.xml`,
     `# RSS (uz): ${origin}/rss-uz.xml`,
     `# RSS (en): ${origin}/rss-en.xml`,
+    `# RSS (mn): ${origin}/rss-mn.xml`,
+    `# RSS (ru): ${origin}/rss-ru.xml`,
     "",
     "Host: hymebel.com",
     "",

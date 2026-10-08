@@ -17,7 +17,8 @@ function check(file) {
   checked++;
   const canonical = html.match(/<link rel="canonical" href="([^"]+)"/);
   if (!canonical) errors.push(`${url}: missing canonical`);
-  else if (!canonical[1].endsWith(url)) errors.push(`${url}: canonical mismatch → ${canonical[1]}`);
+  else if (url === "/" && !canonical[1].endsWith("/kk/")) errors.push(`${url}: root canonical must target /kk/ → ${canonical[1]}`);
+  else if (url !== "/" && !canonical[1].endsWith(url)) errors.push(`${url}: canonical mismatch → ${canonical[1]}`);
   const market = url.startsWith("/mn/") ? "mn" : url.startsWith("/ru/") ? "ru" : null;
   const central = url.startsWith("/kk/") ? "kk" : url.startsWith("/uz/") ? "uz" : url.startsWith("/en/") ? "en" : null;
   const tags = market === "mn"
@@ -29,7 +30,7 @@ function check(file) {
         : url === "/uz/en/"
           ? ['hreflang="en-UZ"', 'hreflang="x-default"']
         : url === "/"
-        ? ['hreflang="kk-KZ"', 'hreflang="uz-UZ"', 'hreflang="mn-MN"', 'hreflang="ru-RU"', 'hreflang="x-default"']
+        ? ['hreflang="kk-KZ"', 'hreflang="uz-UZ"', 'hreflang="en"', 'hreflang="x-default"']
         : central === "kk"
           ? ['hreflang="kk-KZ"', 'hreflang="x-default"']
           : central === "uz"
@@ -55,8 +56,8 @@ if (!existsSync(DIST)) {
   process.exit(1);
 }
 const root = join(DIST, "index.html");
-if (!existsSync(root)) errors.push("missing dist/index.html market selector");
-else if (readFileSync(root, "utf8").includes('http-equiv="refresh"')) errors.push("root selector must not auto-redirect");
+if (!existsSync(root)) errors.push("missing dist/index.html root redirect");
+else if (!readFileSync(root, "utf8").includes('http-equiv="refresh" content="0; url=/kk/"')) errors.push("root must redirect to /kk/");
 walk(DIST);
 if (errors.length) {
   console.error(`✗ hreflang QA failed (${checked} HTML pages)`);

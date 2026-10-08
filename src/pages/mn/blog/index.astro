@@ -1,0 +1,8 @@
+---
+import MarketBlogLayout from "../../../layouts/MarketBlogLayout.astro";
+import { marketPages } from "../../../data/market-pages";
+import { marketPostsFor } from "../../../data/market-posts";
+const copy = marketPages.mn;
+const posts = marketPostsFor("mn");
+---
+<MarketBlogLayout copy={copy}><section class="section"><div class="wrap"><p class="prose">Энд зөвхөн Монголын зах зээлд зориулж бэлтгэсэн, нотолгоо болон техникийн эх сурвалжаар шалгасан нийтлэлүүд гарна.</p><div class="grid grid--3">{posts.map((post) => <a class="blog-card blog-card--visual" href={`/mn/blog/${post.id}/`}><img class="blog-card__img" src={post.image} alt={post.imageAlt} width="800" height="450" loading="lazy" /><div class="blog-card__body"><div class="blog-card__tag">{post.tag}</div><div class="blog-card__title">{post.title}</div><p class="blog-card__excerpt">{post.excerpt}</p></div></a>)}</div><p><a class="btn btn--primary" href="/mn/project-starter/">Төслийн бриф бэлтгэх</a></p></div></section></MarketBlogLayout>

@@ -1,26 +1,28 @@
 ---
-/** Global x-default selector. No automatic language redirect: each market keeps its own entry. */
+/**
+ * Root path stays with the Central Asia default (Kazakh). MN/RU are separate
+ * direct-entry markets, so neither is presented on the KK/UZ/EN root path.
+ * A CDN 301 may be configured later; this works on every static host.
+ */
 const SITE = "https://hymebel.com";
+const target = `${SITE}/kk/`;
 ---
 
 <!doctype html>
-<html lang="en">
+<html lang="kk-KZ">
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>Hymebel | Select your market</title>
-    <meta name="description" content="Select the appropriate Hymebel market entry for your project-furniture enquiry." />
-    <link rel="canonical" href={`${SITE}/`} />
-    <link rel="alternate" hreflang="kk-KZ" href={`${SITE}/kk/`} />
+    <title>Hymebel — Қазақша нұсқаға өту</title>
+    <meta name="robots" content="noindex, follow" />
+    <link rel="canonical" href={target} />
+    <link rel="alternate" hreflang="kk-KZ" href={target} />
     <link rel="alternate" hreflang="uz-UZ" href={`${SITE}/uz/`} />
     <link rel="alternate" hreflang="en" href={`${SITE}/en/`} />
-    <link rel="alternate" hreflang="mn-MN" href={`${SITE}/mn/`} />
-    <link rel="alternate" hreflang="ru-RU" href={`${SITE}/ru/`} />
-    <link rel="alternate" hreflang="x-default" href={`${SITE}/`} />
-    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
-    <style>body{font-family:system-ui,sans-serif;background:#f7f4ef;color:#1c2730;margin:0}.wrap{max-width:940px;margin:auto;padding:64px 24px}.brand{color:#8a6a3f;font-weight:800;letter-spacing:.08em}.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(210px,1fr));gap:16px;margin-top:32px}.card{background:#fff;border:1px solid #e6dfd4;border-radius:12px;padding:22px;text-decoration:none;color:inherit;box-shadow:0 4px 16px #0000000d}.card:hover{border-color:#8a6a3f}.card span{display:block;color:#71665a;font-size:.9rem;margin-top:8px}</style>
+    <link rel="alternate" hreflang="x-default" href={target} />
+    <meta http-equiv="refresh" content="0; url=/kk/" />
   </head>
   <body>
-    <main class="wrap"><p class="brand">HYmebel · Hongye Furniture Group</p><h1>Select your market</h1><p>Choose the market-specific entry for a project-furniture enquiry. Markets remain separate; this selector does not route visitors automatically.</p><div class="grid"><a class="card" href="/kk/"><strong>Kazakhstan</strong><span>Қазақша</span></a><a class="card" href="/uz/"><strong>Uzbekistan</strong><span>Oʻzbekcha</span></a><a class="card" href="/mn/"><strong>Mongolia</strong><span>Монгол</span></a><a class="card" href="/ru/"><strong>Russia</strong><span>Русский</span></a></div></main>
+    <p><a href="/kk/">Қазақша нұсқаға өту →</a> · <a href="/uz/">Oʻzbekcha</a> · <a href="/en/">English</a></p>
   </body>
 </html>

@@ -61,6 +61,7 @@ const localizedProducts = copy.language === "mn"
       ]
     : copy.productItems;
 const categorySlugs = ["hotel-furniture", "office-furniture", "education-healthcare"];
+const blogLabel = copy.language === "mn" ? "Нийтлэл" : copy.language === "ru" ? "Статьи" : "Insights";
 const canonical = new URL(isContact ? copy.contactHref : copy.homeHref, Astro.site).href;
 const pageTitle = isContact ? `${copy.contactLabel} | Hymebel` : copy.title;
 const pageDescription = isContact ? copy.formIntro : copy.description;
@@ -138,6 +139,8 @@ const orgJsonLd = {
         <nav class="nav market-nav" aria-label="Main navigation">
           <a href={copy.homeHref} class="nav-link">{copy.homeLabel}</a>
           <a href={isContact ? `${copy.homeHref}#products` : "#products"} class="nav-link">{copy.productsLabel}</a>
+          <a href={`${copy.homeHref}blog/`} class="nav-link">{blogLabel}</a>
+          <a href={`${copy.homeHref}project-starter/`} class="nav-link">{copy.language === "mn" ? "Төслийн бриф" : copy.language === "ru" ? "Бриф проекта" : "Project brief"}</a>
           <a href={copy.pairedHref} class="lang-btn" hreflang={alternate.hreflang}>{copy.pairedLabel}</a>
         </nav>
         <a class="nav-cta" href={copy.contactHref}>{copy.contactLabel}</a>

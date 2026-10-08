@@ -1,0 +1,27 @@
+{
+ "per_article": {
+  "canton-fair-2026-hotels-transport": 1,
+  "canton-fair-2026-registration-travel": 23,
+  "canton-fair-2026-visa-travel-planning": 15,
+  "custom-wardrobes-almaty": 40,
+  "eac-guide": 114,
+  "ffe-timeline": 39,
+  "guestroom-checklist": 63,
+  "hotel-lobby-trends-2026": 24,
+  "logistics-tashkent-9days": 78,
+  "marble-dining-tables-tashkent": 27,
+  "moq-pricing-guide": 78,
+  "office-furniture-astana": 48,
+  "school-furniture-standards-kz": 58,
+  "solid-wood-vs-veneer": 17,
+  "uz-hotels-2026": 55
+ },
+ "by_type": {
+  "commercial promise": 73,
+  "named reference": 99,
+  "delivery / logistics": 195,
+  "certification / compliance": 255,
+  "scale / project count": 58
+ },
+ "clean": []
+}

@@ -94,8 +94,7 @@ const resourceLinks = [
         <p class="footer-info">📱 WhatsApp {company.whatsapp}</p>
         <p class="footer-info">📍 Guangdong, China</p>
         <div class="lang-switch" role="group" aria-label="Language">
-          {alts.map((alt) => <a href={alt.href} hreflang={alt.hreflang} class="lang-btn">{languages[alt.lang].short}</a>)}
-          {englishEntry && <a href={englishEntry} hreflang="en" class="lang-btn">EN</a>}
+          {(['kk','uz','en'] as Lang[]).map((target) => <a href={localePath(target)} lang={target} class="lang-btn">{languages[target].short}</a>)}
         </div>
       </div>
     </div>

@@ -22,3 +22,35 @@ export const marketPages: Record<"mn" | "mn-en" | "ru" | "ru-en", MarketCopy> = 
     market: "ru", language: "en", htmlLang: "en-RU", title: "Hymebel Russia | Project Furniture Enquiries", description: "English project-furniture enquiry page for Russia: hotel, office, education and healthcare scopes.", homeHref: "/ru/en/", contactHref: "/ru/en/contact/", pairedHref: "/ru/", pairedLabel: "RU", homeLabel: "Home", productsLabel: "Solutions", contactLabel: "Project enquiry", brandLine: "Hongye Furniture Group | Russia market", heroTitle: "Discuss a project-furniture scope with one team", heroBody: "Send drawings, BOQs, room lists or a procurement brief. We will clarify the scope, relevant categories and next technical-commercial step with your team.", ctaLabel: "Send project enquiry", formTitle: "Send your project brief", formIntro: "Include drawings, BOQ, dimensions, quantities and target timing. Delivery, certification and installation are evaluated against the specific project rather than promised generically.", nameLabel: "Name", companyLabel: "Company / design studio", countryLabel: "Country / city", phoneLabel: "Phone or WhatsApp", scopeLabel: "Project type", messageLabel: "Project brief", submitLabel: "Submit enquiry", scopeOptions: ["Hotel", "Office", "Education / healthcare", "Other project"], productTitle: "Project categories", processTitle: "Start with usable information", processItems: ["Send a drawing, BOQ or room list.", "We clarify use, quantities and material requirements.", "Agree the next technical and commercial step for the specific project."], footerNote: "A separate project-enquiry page for Russia.", ...common,
   },
 };
+
+Object.assign(marketPages.mn, {
+  title: 'Монголын төслийн тавилга | Зочид буудал, оффис, интерьер',
+  description: 'Монголын зочид буудал, оффис, сургууль, ресторан ба хувийн интерьерийн тавилга. Каталог, төслийн жишээ, материал, зураг ба BOQ-д тулгуурласан комплектац.',
+  heroTitle: 'Монголын төсөлд зориулсан тавилгын нэгдсэн шийдэл',
+  heroBody: 'Зочны өрөөнөөс лобби, оффисоос хувийн интерьер хүртэл — тавилгын хүрээ, материал ба тоо хэмжээг нэг багтай уялдуулна. Зураг эсвэл BOQ-оос эхэлж, өрөө бүрийн шийдлийг хамт тодруулъя.',
+  productsLabel: 'Тавилга',
+  formIntro: 'Хот, төслийн төрөл, зураг эсвэл BOQ, хэмжээ, тоо ширхэг, материалын жишээ ба зорилтот огноогоо оруулна уу. Манай баг шаардлага болон дараагийн алхмыг тодруулна.',
+});
+Object.assign(marketPages.ru, {
+  title: 'Мебель для проектов в России | Гостиницы, офисы, интерьеры',
+  description: 'Проектная мебель для гостиниц, офисов, ресторанов, учебных пространств и резиденций в России. Каталог, примеры комплектации, работа с BOQ, отделками и чертежами.',
+  heroTitle: 'Проектная мебель — от спецификации до комплектации',
+  heroBody: 'Мебель для гостиниц, офисов, ресторанов и жилых интерьеров. Согласуем изделия, отделки и количества по чертежам; поможем разделить комплектацию на помещения и этапы закупки.',
+  productsLabel: 'Мебель',
+  formIntro: 'Пришлите город, тип объекта, чертежи или BOQ, количества, референсы материалов и целевые даты. Уточним технические вопросы и состав комплектации для расчёта.',
+});
+Object.assign(marketPages['mn-en'], {
+  title: 'Mongolia Project Furniture | Hotels, Offices and Interiors',
+  heroTitle: 'Coordinate furniture for your Mongolia project',
+  heroBody: 'Bring guestrooms, public spaces, offices and residential interiors into one room-by-room furniture scope. Start with drawings or a BOQ to review materials, quantities and project interfaces.',
+});
+Object.assign(marketPages['ru-en'], {
+  title: 'Russia Project Furniture | Specifications and Procurement',
+  heroTitle: 'From furniture specification to project procurement',
+  heroBody: 'Review hotel, office, restaurant and residential furniture against drawings and finish references. Coordinate quantities and procurement phases before confirming the order.',
+});
+
+marketPages.mn.scopeOptions.push('Орон сууц / хувийн интерьер', 'Ресторан / кафе');
+marketPages.ru.scopeOptions.push('Жилой интерьер / резиденция', 'Ресторан / кафе');
+marketPages['mn-en'].scopeOptions.push('Residential interiors', 'Restaurant / café');
+marketPages['ru-en'].scopeOptions.push('Residential interiors', 'Restaurant / café');

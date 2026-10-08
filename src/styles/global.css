@@ -113,6 +113,7 @@ p { margin: 0 0 1em; }
 /* ── Hero ── */
 .hero { position: relative; padding: 96px 0 72px; background: linear-gradient(180deg, #faf9f7 0%, #ffffff 100%); border-bottom: 1px solid var(--color-border); overflow: hidden; }
 .hero--img { color: #fff; }
+.hero--img .hero__title { color:#fff; }
 .hero--img::before { content: ""; position: absolute; inset: 0; background-image: var(--hero-bg); background-size: cover; background-position: center; }
 .hero--img::after { content: ""; position: absolute; inset: 0; background: linear-gradient(90deg, rgba(20, 18, 14, 0.78) 0%, rgba(20, 18, 14, 0.55) 55%, rgba(20, 18, 14, 0.28) 100%); }
 .hero--img > .wrap { position: relative; z-index: 1; }
@@ -336,4 +337,14 @@ details.faq p { margin: 10px 0 0; font-size: 0.94rem; color: var(--color-text); 
 
 @media (max-width: 640px) {
   .pgallery__thumbs { grid-template-columns: repeat(2, 1fr); }
+}
+/* Keep Central-Asia language access visible outside the collapsed menu. */
+.nav-inner > .lang-switch { flex-shrink:0; margin-left:8px; }
+@media(max-width:640px){
+ .nav-inner { gap:8px; }
+ .nav-inner > .lang-switch { margin-left:0;gap:2px; }
+ .nav-inner > .lang-switch .lang-btn { padding:6px;font-size:.72rem; }
+ .navbar:not(.regional-header) .brand__tag { display:none; }
+ .navbar:not(.regional-header) .brand__logo { height:32px; }
+ .navbar:not(.regional-header) .brand__name { font-size:1rem; }
 }

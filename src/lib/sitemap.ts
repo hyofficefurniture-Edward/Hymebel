@@ -2,6 +2,7 @@ import { allSlugs } from "../data/categories";
 import { products } from "../data/products";
 import { posts } from "../data/blog";
 import { marketPostsFor } from "../data/market-posts";
+import { catalogFor, catalogGroups } from '../data/market-catalog';
 import { languages, type Lang } from "../i18n/ui";
 
 /**
@@ -59,13 +60,14 @@ ${items}
 export function marketUrlset(market: "mn" | "ru", origin: string): string {
   const localHreflang = market === "mn" ? "mn-MN" : "ru-RU";
   const englishHreflang = market === "mn" ? "en-MN" : "en-RU";
-  const categorySlugs = ["hotel-furniture", "office-furniture", "education-healthcare"];
-  const resources = ["project-starter", "faq"];
+  const categorySlugs = catalogGroups.map(g => g.slug);
+  const resources = ["project-starter", "faq", "cases", "services", "about"];
   const paths = [
     `/${market}/`, `/${market}/contact/`, ...categorySlugs.map((slug) => `/${market}/${slug}/`), ...resources.map((slug) => `/${market}/${slug}/`),
     `/${market}/en/`, `/${market}/en/contact/`, ...categorySlugs.map((slug) => `/${market}/en/${slug}/`), ...resources.map((slug) => `/${market}/en/${slug}/`),
     `/${market}/blog/`, `/${market}/en/blog/`,
     ...marketPostsFor(market).map((post) => `/${market}/blog/${post.id}/`),
+    ...catalogFor(market, market).flatMap(p => [`/${market}/products/${p.id}/`, `/${market}/en/products/${p.id}/`]),
   ];
   const now = new Date().toISOString().slice(0, 10);
   const urls = paths.map((path) => {

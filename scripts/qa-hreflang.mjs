@@ -21,7 +21,10 @@ function check(file) {
   else if (url !== "/" && !canonical[1].endsWith(url)) errors.push(`${url}: canonical mismatch → ${canonical[1]}`);
   const market = url.startsWith("/mn/") ? "mn" : url.startsWith("/ru/") ? "ru" : null;
   const central = url.startsWith("/kk/") ? "kk" : url.startsWith("/uz/") ? "uz" : url.startsWith("/en/") ? "en" : null;
-  const tags = market === "mn"
+  const marketArticle = !!market && /^\/(mn|ru)\/blog\/[^/]+\/$/.test(url);
+  const tags = marketArticle
+    ? [`hreflang="${market === 'mn' ? 'mn-MN' : 'ru-RU'}"`, 'hreflang="x-default"']
+    : market === "mn"
     ? ['hreflang="mn-MN"', 'hreflang="en-MN"', 'hreflang="x-default"']
     : market === "ru"
       ? ['hreflang="ru-RU"', 'hreflang="en-RU"', 'hreflang="x-default"']
@@ -41,8 +44,9 @@ function check(file) {
     const other = market === "mn" ? "ru" : "mn";
     if (new RegExp(`href="/${other}/`).test(html)) errors.push(`${url}: cross-market link to ${other}`);
   }
-  if (central === "kk" && /href="\/uz\//.test(html)) errors.push(`${url}: Kazakhstan page links to Uzbekistan market`);
-  if (central === "uz" && /href="\/kk\//.test(html)) errors.push(`${url}: Uzbekistan page links to Kazakhstan market`);
+  // Visible Central-Asia navigation can switch KK/UZ/EN; SEO alternates remain separate.
+  if (central === "kk" && /<link rel="alternate" hreflang="uz-UZ"/.test(html)) errors.push(`${url}: unrelated Uzbekistan SEO alternate`);
+  if (central === "uz" && /<link rel="alternate" hreflang="kk-KZ"/.test(html)) errors.push(`${url}: unrelated Kazakhstan SEO alternate`);
 }
 function walk(dir) {
   for (const entry of readdirSync(dir)) {

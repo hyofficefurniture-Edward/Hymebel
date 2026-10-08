@@ -1,0 +1,8 @@
+---
+import { catalogFor, regionalCopy } from '../data/market-catalog';
+import type { MarketCopy } from '../layouts/MarketLayout.astro';
+const {copy, category, limit} = Astro.props as {copy:MarketCopy;category?:string;limit?:number};
+const r = regionalCopy(copy.market,copy.language);
+const items = catalogFor(copy.market,copy.language).filter(p=>!category||p.category===category).slice(0,limit);
+---
+<div class="grid grid--3 regional-grid">{items.map(p=><article class="card card--visual"><a href={`${copy.homeHref}products/${p.id}/`}><img class="card__img regional-product-img" src={p.image} alt={p.title} width="800" height="600" loading="lazy" /></a><div class="card__body"><h3>{p.title}</h3><p>{p.note}</p><a class="card__link" href={`${copy.homeHref}products/${p.id}/`}>{r.read}</a></div></article>)}</div>

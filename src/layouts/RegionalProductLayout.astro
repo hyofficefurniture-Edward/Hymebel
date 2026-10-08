@@ -1,0 +1,21 @@
+---
+import RegionalShell from './RegionalShell.astro';
+import RegionalCatalog from '../components/RegionalCatalog.astro';
+import { catalogFor, catalogGroups, regionalCopy } from '../data/market-catalog';
+import type { MarketCopy } from './MarketLayout.astro';
+interface Props {copy:MarketCopy;id:string;href:string;alternateHref:string;}
+const {copy,id,href,alternateHref}=Astro.props;
+const product=catalogFor(copy.market,copy.language).find(p=>p.id===id)!;
+const group=catalogGroups.find(g=>g.slug===product.category)!;
+const r=regionalCopy(copy.market,copy.language);
+const labels=copy.language==='mn'?['Бүтээгдэхүүний төрөл','Захиалгын өмнө тодруулах','Хэмжээ ба материал','Тоо хэмжээ ба нийлүүлэлт']:copy.language==='ru'?['Направление','Что уточнить перед заказом','Размеры и материалы','Количество и поставка']:['Category','Review before ordering','Dimensions and materials','Quantity and supply'];
+const specification=copy.language==='mn'?'Хэмжилттэй зураг, өнгөлгөө, бүрээс ба тоноглолын сонголтыг баталсан техникийн нөхцөлд оруулна.':copy.language==='ru'?'Габариты, отделка, обивка и фурнитура фиксируются в согласованной спецификации по чертежам.':'Dimensions, finish, upholstery and hardware are confirmed in the approved drawing-based specification.';
+const quantity=copy.language==='mn'?'Өрөө бүрийн тоо ширхэг, хот, зорилтот огноо, савлагаа болон угсралтын хүрээг өгнө үү.':copy.language==='ru'?'Укажите количества по помещениям, город, даты, упаковку и состав работ по монтажу.':'Provide quantities by room, destination, target dates, packing and installation scope.';
+const itemList={'@context':'https://schema.org','@type':'ItemList',name:group.title[copy.language],itemListElement:catalogFor(copy.market,copy.language).filter(p=>p.category===product.category).map((p,i)=>({'@type':'ListItem',position:i+1,name:p.title,url:new URL(`${copy.homeHref}products/${p.id}/`,Astro.site).href}))};
+---
+<RegionalShell copy={copy} title={product.title} description={`${product.note} ${specification}`} href={href} alternateHref={alternateHref}>
+<script slot="head" type="application/ld+json" set:html={JSON.stringify(itemList)}/>
+<section class="page-head"><div class="wrap"><p class="breadcrumb"><a href={copy.homeHref}>{copy.homeLabel}</a> / <a href={`${copy.homeHref}${product.category}/`}>{group.title[copy.language]}</a> / {product.title}</p><h1>{product.title}</h1><p>{product.note}</p></div></section>
+<section class="section"><div class="wrap"><div class="regional-brief"><div>{product.gallery.map((image,i)=><img src={image} alt={`${product.title} · ${i+1}`} width="800" height="600" loading={i===0?'eager':'lazy'} style="margin-bottom:18px"/>)}</div><div><h2>{group.title[copy.language]}</h2><p>{product.context}</p><table class="regional-spec"><tbody><tr><th>{labels[0]}</th><td>{group.title[copy.language]}</td></tr><tr><th>{labels[1]}</th><td>{group.checklist[copy.language]}</td></tr><tr><th>{labels[2]}</th><td>{specification}</td></tr><tr><th>{labels[3]}</th><td>{quantity}</td></tr></tbody></table><p class="regional-note">{r.rangeNote}</p><p style="margin-top:24px"><a href={`${copy.contactHref}?product=${encodeURIComponent(id)}`} class="btn btn--primary">{copy.ctaLabel}</a></p><a href={`${copy.homeHref}project-starter/`}>{r.brief}</a></div></div></div></section>
+<section class="section section--surface"><div class="wrap"><h2>{r.products}</h2><RegionalCatalog copy={copy} category={product.category}/></div></section>
+</RegionalShell>

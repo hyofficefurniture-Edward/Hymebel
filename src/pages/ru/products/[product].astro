@@ -1,0 +1,8 @@
+---
+import RegionalProductLayout from '../../../layouts/RegionalProductLayout.astro';
+import {marketPages} from '../../../data/market-pages';
+import {catalogFor} from '../../../data/market-catalog';
+export function getStaticPaths(){return catalogFor('ru','ru').map(p=>({params:{product:p.id}}));}
+const {product}=Astro.params;
+---
+<RegionalProductLayout copy={marketPages.ru} id={product!} href={`/ru/products/${product}/`} alternateHref={`/ru/en/products/${product}/`}/>

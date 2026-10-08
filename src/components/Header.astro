@@ -1,7 +1,7 @@
 ---
-import { alternates, localePath, marketEnglishEntry, useTranslations } from "../i18n/utils";
+import { localePath, useTranslations } from "../i18n/utils";
 import { categories, about, contactPage } from "../data/categories";
-import { languages, type Lang } from "../i18n/ui";
+import { type Lang } from "../i18n/ui";
 
 interface Props {
   lang: Lang;
@@ -10,8 +10,11 @@ interface Props {
 
 const { lang, slug = "" } = Astro.props;
 const t = useTranslations(lang);
-const { alts } = alternates(lang, slug);
-const englishEntry = marketEnglishEntry(lang);
+const centralEntries = [
+  { lang: "kk", href: "/kk/", label: "Қазақша" },
+  { lang: "uz", href: "/uz/", label: "Oʻzbekcha" },
+  { lang: "en", href: "/en/", label: "English" },
+];
 
 const blogSlug = "blog";
 const navItems = [
@@ -80,17 +83,17 @@ const navItems = [
           </div>
         ))
       }
+
+    </nav>
       <div class="lang-switch" role="group" aria-label="Language">
         {
-          alts.map((alt) => (
-            <a href={alt.href} hreflang={alt.hreflang} class:list={["lang-btn", { "lang-btn-active": alt.lang === lang }]}>
-              {languages[alt.lang].short}
+          centralEntries.map((alt) => (
+            <a href={alt.href} lang={alt.lang} aria-label={alt.label} class:list={["lang-btn", { "lang-btn-active": alt.lang === lang }]}>
+              {alt.lang.toUpperCase()}
             </a>
           ))
         }
-        {englishEntry && <a href={englishEntry} hreflang="en" class="lang-btn">EN</a>}
       </div>
-    </nav>
 
     <a class="nav-cta" href={localePath(lang, contactPage.slug)}>{t("hero.ctaPrimary")}</a>
   </div>

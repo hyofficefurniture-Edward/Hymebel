@@ -1,0 +1,28 @@
+---
+import type { MarketCopy } from '../layouts/MarketLayout.astro';
+import { regionalCopy } from '../data/market-catalog';
+const { copy } = Astro.props as { copy: MarketCopy };
+const r = regionalCopy(copy.market, copy.language);
+const pairedLang = copy.language === 'en' ? copy.market : 'en';
+---
+<header class="navbar regional-header"><div class="nav-inner wrap-wide">
+  <a class="brand" href={copy.homeHref}><img class="brand__logo" src="/images/brand/hongye-logo.png" alt="Hongye Furniture Group" width="74" height="44" /><span class="brand__text"><span class="brand__name">Hymebel</span><span class="brand__tag">{copy.market === 'mn' ? 'Mongolia' : 'Россия'} · Hongye Furniture Group</span></span></a>
+  <button class="nav-toggle regional-toggle" type="button" aria-expanded="false" aria-controls="regional-nav" aria-label={copy.productsLabel}><span></span><span></span><span></span></button>
+  <nav id="regional-nav" class="nav" aria-label={copy.homeLabel}>
+    <a class="nav-link" href={`${copy.homeHref}#products`}>{r.products}</a>
+    <a class="nav-link" href={`${copy.homeHref}cases/`}>{r.cases}</a>
+    <a class="nav-link" href={`${copy.homeHref}services/`}>{r.services}</a>
+    <a class="nav-link" href={`${copy.homeHref}about/`}>{r.about}</a>
+    <a class="nav-link" href={`${copy.homeHref}blog/`}>{copy.language === 'mn' ? 'Нийтлэл' : copy.language === 'ru' ? 'Статьи' : 'Insights'}</a>
+    <a class="lang-btn" href={copy.pairedHref} lang={pairedLang}>{copy.pairedLabel}</a>
+  </nav><a class="nav-cta" href={copy.contactHref}>{copy.contactLabel}</a>
+</div></header>
+<script>
+  document.querySelectorAll('.regional-toggle').forEach(button => {
+    button.addEventListener('click', () => {
+      const expanded = button.getAttribute('aria-expanded') !== 'true';
+      button.setAttribute('aria-expanded', String(expanded));
+      document.getElementById('regional-nav')?.classList.toggle('is-open', expanded);
+    });
+  });
+</script>

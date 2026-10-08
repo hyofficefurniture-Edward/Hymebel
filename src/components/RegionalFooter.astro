@@ -1,0 +1,12 @@
+---
+import { company } from '../i18n/ui';
+import { regionalCopy } from '../data/market-catalog';
+import type { MarketCopy } from '../layouts/MarketLayout.astro';
+const { copy } = Astro.props as {copy: MarketCopy};
+const r = regionalCopy(copy.market, copy.language);
+---
+<footer class="site-footer"><div class="wrap regional-footer">
+  <div><img class="footer-logo-img" src="/images/brand/hongye-fenmi-group.jpg" alt="Hongye Furniture Group · Fenmi Casa" width="150" height="140" loading="lazy" /><p>{r.definition}</p></div>
+  <div><h2>{copy.productsLabel}</h2><a href={`${copy.homeHref}cases/`}>{r.cases}</a><a href={`${copy.homeHref}services/`}>{r.services}</a><a href={`${copy.homeHref}about/`}>{r.about}</a><a href={`${copy.homeHref}faq/`}>{r.faq}</a><a href={`${copy.homeHref}project-starter/`}>{r.brief}</a></div>
+  <div><h2>{copy.contactLabel}</h2><a href={`mailto:${company.email}`}>{company.email}</a><a href={`tel:${company.primary.mobile}`}>{company.primary.mobile}</a><p>Jiangmen · Guangdong · China</p><a href={copy.contactHref}>{copy.ctaLabel}</a></div>
+</div><div class="footer-bottom"><div class="wrap">© {new Date().getFullYear()} Hongye Furniture Group</div></div></footer>

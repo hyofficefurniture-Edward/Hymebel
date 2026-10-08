@@ -34,7 +34,7 @@ for (const { lang, market } of expectations) {
 }
 
 for (const market of ["mn", "ru"]) {
-  for (const part of ["", "contact", "project-starter", "faq", "blog", "en", "en/contact", "en/project-starter", "en/faq", "en/blog"]) {
+  for (const part of ["", "contact", "project-starter", "faq", "blog", "cases", "services", "about", "villa-residential", "restaurant-furniture", "products/hotel-ca-03", "en", "en/contact", "en/project-starter", "en/faq", "en/blog", "en/cases", "en/services", "en/about", "en/products/hotel-ca-03"]) {
     const file = join(dist, market, ...part.split("/").filter(Boolean), "index.html");
     if (!existsSync(file)) {
       errors.push(`缺少 ${file}`);
@@ -55,6 +55,11 @@ for (const market of ["mn", "ru"]) {
   const sitemap = join(dist, `sitemap-${market}.xml`);
   if (!existsSync(sitemap)) errors.push(`缺少 ${sitemap}`);
   else if (!readFileSync(sitemap, "utf8").includes(`/${market}/blog/`)) errors.push(`${market}: sitemap 缺少博客入口`);
+}
+
+for (const lang of ['kk', 'uz', 'en']) {
+  const home = readFileSync(join(dist, lang, 'index.html'), 'utf8');
+  for (const target of ['kk', 'uz', 'en']) if (!home.includes(`href="/${target}/"`)) errors.push(`${lang}: missing Central Asia ${target} switch`);
 }
 
 if (errors.length) {

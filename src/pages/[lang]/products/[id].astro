@@ -37,17 +37,17 @@ const productJsonLd = {
   material: p.material || undefined,
   offers: {
     "@type": "Offer",
-    availability: "https://schema.org/InStock",
+    availability: "https://schema.org/PreOrder",
     priceCurrency: "USD",
     priceSpecification: {
       "@type": "PriceSpecification",
       valueAddedTaxIncluded: false,
       description:
         lang === "kk"
-          ? "Жоба көлеміне қарай жеке баға — 48 сағат ішінде ұсыныс"
+          ? "Жоба көлеміне қарай жеке баға — ұсыныс жоба бойынша дайындалады"
           : lang === "uz"
-            ? "Loyiha hajmiga qarab individual narx — 48 soat ichida taklif"
-            : "Individually quoted per project scope — proposal within 48 hours",
+            ? "Loyiha hajmiga qarab individual narx — taklif loyiha bo'yicha tayyorlanadi"
+            : "Individually quoted per project scope — proposal prepared per project",
     },
     seller: { "@type": "Organization", name: "Hymebel · Hongye Furniture Group" },
   },
@@ -55,47 +55,47 @@ const productJsonLd = {
 
 /** GEO/AOE 直答块 + 要点 + FAQ（三语模板，产品/品类参数化） */
 const answer = {
-  kk: `${p.name[lang]} — ${cat.name[lang]} санатындағы Hymebel өнімі. Қонақүй, кеңсе, вилла, медициналық және білім беру жобаларына арналған. Тапсырыс бойынша өндіріледі: өндіріс мерзімі 30-45 күн, ең аз тапсырыс көлемі 20-30 дана (жоба түріне қарай).`,
-  uz: `${p.name[lang]} — ${cat.name[lang]} toifasidagi Hymebel mahsuloti. Mehmonxona, ofis, villa, tibbiyot va ta'lim loyihalari uchun mo'ljallangan. Buyurtma asosida ishlab chiqariladi: ishlab chiqarish muddati 30-45 kun, minimal buyurtma 20-30 dona (loyiha turiga qarab).`,
-  en: `${p.name[lang]} is a Hymebel ${cat.name[lang].toLowerCase()} product built for hotel, office, villa, healthcare and education projects. It is made to order: production takes 30-45 days and minimum order is typically 20-30 units depending on project scope.`,
+  kk: `${p.name[lang]} — ${cat.name[lang]} санатындағы Hymebel өнімі. Қонақүй, кеңсе, вилла, медициналық және білім беру жобаларына арналған. Тапсырыс бойынша өндіріледі: өндіріс мерзімі мен көлемі жоба бойынша келісіледі.`,
+  uz: `${p.name[lang]} — ${cat.name[lang]} toifasidagi Hymebel mahsuloti. Mehmonxona, ofis, villa, tibbiyot va ta'lim loyihalari uchun mo'ljallangan. Buyurtma asosida ishlab chiqariladi: ishlab chiqarish muddati va hajmi loyiha bo'yicha kelishiladi.`,
+  en: `${p.name[lang]} is a Hymebel ${cat.name[lang].toLowerCase()} product built for hotel, office, villa, healthcare and education projects. It is made to order: the production schedule and order volume are agreed per project.`,
 }[lang];
 
 const points = {
   kk: [
     "Жоба бойынша өндіріс — сызба, 3D модель немесе өлшем бойынша",
-    "EAC TR CU 025/2011 сәйкестігі және 8 халықаралық сертификат",
-    "Өндіріс 30-45 күн, Орталық Азияға теміржолмен 9-10 күн",
+    "EAC TR CU 025/2011 сәйкестігі және толық құжаттама",
+    "Өндіріс мерзімі мен жеткізу жолы тапсырыс расталғанда келісіледі",
     "Әр жөнелтуге фотоесеп және материалдық сертификаттар",
   ],
   uz: [
     "Loyiha asosida ishlab chiqarish — chizma, 3D model yoki o'lchov bo'yicha",
-    "EAC TR CU 025/2011 muvofiqligi va 8 xalqaro sertifikat",
-    "Ishlab chiqarish 30-45 kun, Markaziy Osiyoga temir yo'l orqali 9-10 kun",
+    "EAC TR CU 025/2011 muvofiqligi va to'liq hujjatlar",
+    "Ishlab chiqarish muddati va yetkazib berish yo'li buyurtma tasdiqlanganda kelishiladi",
     "Har bir jo'natmaga foto-hisobot va material sertifikatlari",
   ],
   en: [
     "Made to order — from drawings, 3D models or on-site measurements",
-    "EAC TR CU 025/2011 compliant, backed by 8 international certifications",
-    "30-45 day production; 9-10 days by rail to Central Asia",
+    "EAC TR CU 025/2011 compliant, with full documentation",
+    "Production and shipping schedules agreed when the order is confirmed",
     "Photo report and material certificates issued for every shipment",
   ],
 }[lang];
 
 const pFaqs = {
   kk: [
-    { q: `Ең аз тапсырыс көлемі қанша?`, a: `Жоба түріне қарай 20-30 данадан басталады; көтерме жобалар үшін көлемдік жеңілдік қарастырылады.` },
+    { q: `Ең аз көлем қалай анықталады?`, a: `Жоба түрі мен көлеміне қарай анықталады; нақты шарттар тапсырыс кезінде келісіледі.` },
     { q: `Сызба бойынша жасай аласыз ба?`, a: `Иә — сызба, 3D модель немесе сілтеме сурет бойынша өндіреміз, өлшемдерді жоба талабына сәйкес бейімдейміз.` },
-    { q: `Жеткізу мерзімі қанша?`, a: `Өндіріс 30-45 күн, теміржолмен Орталық Азияға 9-10 күн (TIR көлігімен 5-7 күн). Құжаттама жүкпен бірге жүреді.` },
+    { q: `Жеткізу мерзімі қалай келісіледі?`, a: `Өндіріс мерзімі мен жеткізу жолы тапсырыс расталғанда келісіледі. Құжаттама жүкпен бірге жүреді.` },
   ],
   uz: [
-    { q: `Minimal buyurtma hajmi qancha?`, a: `Loyiha turiga qarab 20-30 donadan boshlanadi; ulgurji loyihalarda hajmli chegirma qo'llaniladi.` },
+    { q: `Minimal hajm qanday belgilanadi?`, a: `Loyiha turi va hajmiga qarab belgilanadi; aniq shartlar buyurtma paytida kelishiladi.` },
     { q: `Chizma bo'yicha tayyorlaysizmi?`, a: `Ha — chizma, 3D model yoki namuna rasm bo'yicha ishlab chiqaramiz va o'lchamlarni loyiha talabiga moslashtiramiz.` },
-    { q: `Yetkazib berish muddati qancha?`, a: `Ishlab chiqarish 30-45 kun, Markaziy Osiyoga temir yo'l orqali 9-10 kun (TIR bilan 5-7 kun). Hujjatlar yuk bilan birga keladi.` },
+    { q: `Yetkazib berish muddati qanday kelishiladi?`, a: `Ishlab chiqarish muddati va yetkazib berish yo'li buyurtma tasdiqlanganda kelishiladi. Hujjatlar yuk bilan birga keladi.` },
   ],
   en: [
-    { q: `What is the minimum order quantity?`, a: `Typically 20-30 units depending on project type, with volume pricing applied on wholesale projects.` },
+    { q: `How is the minimum volume determined?`, a: `It depends on the project type and scope; the specific terms are agreed at the time of order.` },
     { q: `Can you produce from our drawings?`, a: `Yes — we manufacture from drawings, 3D models or reference images, and adapt dimensions to your project requirements.` },
-    { q: `What are your lead times?`, a: `30-45 days production, then 9-10 days by rail to Central Asia (5-7 days by TIR truck). Documentation travels with the shipment.` },
+    { q: `How are production and shipping schedules set?`, a: `Both are agreed when the order is confirmed. Documentation travels with the shipment.` },
   ],
 }[lang];
 
@@ -130,12 +130,12 @@ const cmpRows: { label: string; values: string[] }[] = [
   { label: t("products.material"), values: cmp.map((x) => (x.material || "—").slice(0, 68)) },
   { label: t("products.finish"), values: cmp.map((x) => (x.finish || "—").slice(0, 68)) },
   {
-    label: lang === "kk" ? "Өндіріс мерзімі" : lang === "uz" ? "Ishlab chiqarish muddati" : "Production lead time",
-    values: cmp.map(() => (lang === "kk" ? "30-45 күн" : lang === "uz" ? "30-45 kun" : "30-45 days")),
+    label: lang === "kk" ? "Өндіріс" : lang === "uz" ? "Ishlab chiqarish" : "Production",
+    values: cmp.map(() => (lang === "kk" ? "Тапсырыс бойынша" : lang === "uz" ? "Buyurtma asosida" : "Made to order")),
   },
   {
-    label: lang === "kk" ? "Ең аз тапсырыс" : lang === "uz" ? "Minimal buyurtma" : "Minimum order",
-    values: cmp.map(() => (lang === "kk" ? "20-30 дана" : lang === "uz" ? "20-30 dona" : "20-30 units")),
+    label: lang === "kk" ? "Ең аз көлем" : lang === "uz" ? "Minimal hajm" : "Minimum volume",
+    values: cmp.map(() => (lang === "kk" ? "Жоба бойынша" : lang === "uz" ? "Loyiha bo'yicha" : "Project-based")),
   },
 ];
 ---

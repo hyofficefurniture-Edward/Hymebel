@@ -24,25 +24,21 @@ const kk: Dict = {
 
   "cases.h": "Таңдаулы жобалар",
   "cases.lead":
-    "50-ден астам елде 1000-нан астам жоба жүзеге асырылды. Төменде — Орталық Азиядағы жобалардың таңдамалысы: қонақүйлер, кеңселер, білім беру мекемелері және тұрғын үйлер.",
+    "Халықаралық нарықтардағы жоба тәжірибемізге сүйенеміз. Төменде — Орталық Азиядағы жобалардың таңдамалысы: қонақүйлер, кеңселер, білім беру мекемелері және тұрғын үйлер.",
   "cases.note":
     "Кейбір тапсырыс берушілердің өтініші бойынша жобалардың бір бөлігі жинақталған сипаттамамен ұсынылған. Толық фотоесептер мен материал сертификаттарын байланыс орнатқаннан кейін ұсынуға болады.",
-  "stat.leadtime": "күн өндіріс (жөнелтуге дейін)",
 
   "site.tagline": "Hongye Furniture Group · Орталық Азия",
   "hero.eyebrow": "Қазақстан · Өзбекстан · Орталық Азия",
   "hero.title": "Орталық Азия нарығына арналған премиум жиһаз",
   "hero.subtitle":
-    "1996 жылдан бері · 1000+ жоба · 300 000 м² өндіріс алаңы · 50+ ел · 8 халықаралық сертификат. Қонақүй, кеңсе және вилла жобаларын жобалаудан монтажға дейін толық қамтимыз.",
+    "1996 жылдан бері · қонақүй, кеңсе, вилла, медициналық және білім беру жобалары. Жобалаудан өндіруге, жеткізуге және монтаждауға дейін толық цикл — өз өндірісімізде.",
   "hero.ctaPrimary": "Тегін смета алу",
   "hero.ctaSecondary": "Жобаны талқылау",
 
-  "stat.projects": "жоба",
-  "stat.factory": "м² өндіріс алаңы",
-  "stat.since": "жылдан бері нарықта",
-  "stat.workers": "жұмысшы өндірісте",
-  "stat.countries": "ел",
-  "stat.certs": "халықаралық сертификат",
+  "stat.since": "құрылған жыл",
+  "stat.lines": "өнім бағыты",
+  "stat.steps": "жұмыс кезеңі",
 
   "definition":
     "Hymebel — 1996 жылы құрылған Hongye Furniture Group компаниясының Орталық Азия нарығына арналған жиһаз бренді. Қонақүй, кеңсе, вилла, медициналық және білім беру жобаларына арналған жиһазды жобалаудан өндіруге, жеткізуге және монтаждауға дейін толық циклмен жеткізеді.",
@@ -51,9 +47,9 @@ const kk: Dict = {
   "categories.subtitle": "Бес негізгі бағыт — қонақүйден бастап білім беру жобаларына дейін.",
 
   "why.title": "Неге Hymebel",
-  "why.1": "300 000 м² өз өндіріс алаңы — делдалсыз баға және тұрақты сапа",
-  "why.2": "EAC TR CU 025/2011 талаптарына сәйкестік және 8 халықаралық сертификат",
-  "why.3": "Өндіріс 30-45 күн, теміржолмен Орталық Азияға 9-10 күн",
+  "why.1": "Өз өндіріс алаңымыз — делдалсыз баға және тұрақты сапа",
+  "why.2": "EAC TR CU 025/2011 талаптарына сәйкестік; құжаттама әр жобамен беріледі",
+  "why.3": "Өндіріс мерзімі мен жеткізу жолы тапсырыс расталғанда келісіледі",
   "why.4": "Толық цикл: өлшеу, 3D жобалау, өндіріс, жеткізу, монтаж",
 
   "process.title": "Жұмыс тәртібі",
@@ -64,7 +60,7 @@ const kk: Dict = {
 
   "case.title": "Халықаралық тәжірибе",
   "case.body":
-    "50-ден астам елде 1000-нан астам жоба жүзеге асырылды — оның ішінде Hilton Tashkent (Өзбекстан) қонақүй жобасы. Әр жоба үшін фотоесеп және материалдық сертификаттар беріледі.",
+    "Халықаралық жоба тәжірибеміз бар — оның ішінде Hilton Tashkent (Өзбекстан) қонақүй жобасы. Әр жоба үшін фотоесеп және материалдық сертификаттар беріледі.",
   "case.cta": "Жобаларды көру",
   "case.imgAlt": "Hymebel жабдықтаған премиум қонақүй нөмірі",
 
@@ -74,16 +70,16 @@ const kk: Dict = {
     "Қонақүй, кеңсе, вилла, медициналық және білім беру нысандарына арналған жиһазды жобалаймыз, өндіреміз, жеткіземіз және монтаждаймыз.",
   "faq.2.q": "Жеткізу және өндіріс мерзімі қанша?",
   "faq.2.a":
-    "Өндіріс 30-45 күн, теміржолмен Орталық Азияға 9-10 күн (TIR көлігімен 5-7 күн).",
+    "Өндіріс мерзімі тапсырыс көлемі мен жоба кестесіне қарай анықталады; жеткізу жолы мен уақыты тапсырыс расталғанда келісіледі.",
   "faq.3.q": "EAC сертификаты бар ма?",
   "faq.3.a":
-    "Иә — өндіріс EAC TR CU 025/2011 талаптарына сәйкес, 8 халықаралық сертификатымыз бар. Құжаттама жобамен бірге беріледі.",
+    "Иә — өндіріс EAC TR CU 025/2011 талаптарына сәйкес. Құжаттама жобамен бірге беріледі.",
   "faq.4.q": "Ең аз тапсырыс көлемі қандай?",
   "faq.4.a":
-    "Жоба түріне байланысты: қонақүй жобалары әдетте 30-50 бөлме жиһазынан басталады, вилла жобалары бөлме бойынша есептеледі.",
+    "Ең аз көлем жоба түрі мен кестесіне қарай анықталады; нақты шарттар тапсырыс кезінде келісіледі.",
 
   "cta.title": "Жобаңызды талқылайық",
-  "cta.body": "Жоспар, өлшем немесе сурет жіберіңіз — 48 сағат ішінде коммерциялық ұсыныс дайындаймыз.",
+  "cta.body": "Жоспар, өлшем немесе сурет жіберіңіз — коммерциялық ұсыныс дайындаймыз.",
 
   "contact.title": "Байланыс",
   "contact.subtitle": "WhatsApp, Telegram немесе электрондық пошта арқылы жазыңыз — жауап 24 сағат ішінде.",
@@ -116,7 +112,7 @@ const kk: Dict = {
 
   "meta.home.title": "Hymebel — Қазақстан мен Орталық Азияға арналған премиум жиһаз",
   "meta.home.desc":
-    "Қонақүй, кеңсе, вилла, медициналық және білім беру жобаларына арналған жиһаз: 300 000 м² өндіріс, EAC сәйкестігі, 30-45 күн өндіріс. Тегін смета алыңыз.",
+    "Қонақүй, кеңсе, вилла, медициналық және білім беру жобаларына арналған жиһаз: өз өндірісіміз, EAC TR CU 025/2011 сәйкестігі. Тегін смета алыңыз.",
 
   // ── 页头/页脚（对齐西语双站结构）──
   "nav.products": "Өнімдер",
@@ -140,16 +136,16 @@ const kk: Dict = {
     "Hymebel — 1996 жылы құрылған Hongye Furniture Group компаниясының Орталық Азияға мамандандырылған жиһаз бренді. Қонақүй, кеңсе, вилла, медициналық және білім беру жобалары үшін жиһазды жобалаудан өндіріске, жеткізуге және монтаждауға дейін толық циклмен жеткіземіз.",
   "cf.2.q": "Өндіріс базасы қандай?",
   "cf.2.a":
-    "Өзіміздің 300 000 м² өндіріс алаңы және 1000-нан астам жұмысшы. Барлық өнім өз зауытымызда шығарылады — делдалсыз баға және тұрақты сапа.",
+    "Өзіміздің өндіріс алаңымыз бар. Барлық өнім өз зауытымызда шығарылады — делдалсыз баға және тұрақты сапа.",
   "cf.3.q": "EAC сертификаты бар ма?",
   "cf.3.a":
-    "Иә — өндіріс EAC TR CU 025/2011 талаптарына сәйкес, қосымша 8 халықаралық сертификатымыз бар. Толық құжаттама әр жобамен бірге беріледі.",
+    "Иә — өндіріс EAC TR CU 025/2011 талаптарына сәйкес. Толық құжаттама әр жобамен бірге беріледі.",
   "cf.4.q": "Өндіріс және жеткізу мерзімі қандай?",
   "cf.4.a":
-    "Тапсырыс көлеміне байланысты өндіріс әдетте 30-45 күн. Теміржолмен Орталық Азияға 9-10 күн, TIR көлігімен 5-7 күн жетеді.",
+    "Өндіріс мерзімі тапсырыс көлеміне қарай анықталады. Жеткізу жолы мен уақыты тапсырыс расталғанда келісіледі.",
   "cf.5.q": "Ең аз тапсырыс көлемі қандай?",
   "cf.5.a":
-    "Жоба түріне байланысты: қонақүй жобалары әдетте 30-50 нөмірлік жиһаздан басталады, вилла жобалары бөлме бойынша есептеледі.",
+    "Ең аз көлем жоба түрі мен кестесіне қарай анықталады; нақты шарттар тапсырыс кезінде келісіледі.",
   "cf.6.q": "Жеке жоба бойынша жасай аласыз ба?",
   "cf.6.a":
     "Иә — сызба, 3D модель немесе сілтеме суреттер бойынша өндіреміз. Әр жобаға фотоесеп және материалдық сертификаттар беріледі.",
@@ -158,7 +154,7 @@ const kk: Dict = {
     "Әр тапсырыс өндіріс кезеңдерінде сапа бақылауынан өтеді, жөнелту алдында толық фотоесеп дайындалады және тапсырысшыға жіберіледі.",
   "cf.8.q": "Тапсырысты қалай беруге болады?",
   "cf.8.a":
-    "WhatsApp, Telegram немесе сайттағы форма арқылы жоспар, өлшем немесе сызба жіберіңіз — 48 сағат ішінде коммерциялық ұсыныс дайындаймыз.",
+    "WhatsApp, Telegram немесе сайттағы форма арқылы жоспар, өлшем немесе сызба жіберіңіз — коммерциялық ұсыныс дайындаймыз.",
 
   // ── About 页 ──
   "about.story.h": "Компания тарихы",
@@ -166,13 +162,13 @@ const kk: Dict = {
     "Hongye Furniture Group 1996 жылы Қытайдың Гуандун провинциясында құрылды. Шамамен 30 жылдық өндірістік тәжірибе негізінде топ Hymebel бренді арқылы Орталық Азия нарығына зауыттық бағамен тікелей жеткізуді ұсынады: жобалау, өндіріс, логистика және монтаж бір ғана жауапкершілікте.",
   "about.factory.h": "Өндіріс базасы",
   "about.factory.lead":
-    "Бір алаңда толық цикл: 300 000 м² зауыт, 1000-нан астам жұмысшы, автоматтандырылған кесу және CNC желілері, плита, металл және тігіні цехтары, сапа бақылауы және экспорттық орау. Мұндай масштаб жобалық тапсырыстарды 30-45 күнде орындауға және әр партияның сапасын бірдей ұстауға мүмкіндік береді.",
+    "Бір алаңда толық цикл: өз зауытымыз, автоматтандырылған кесу және CNC желілері, плита, металл және тігіні цехтары, сапа бақылауы және экспорттық орау. Бір алаңдағы толық цикл жобалық тапсырыстарды бір кестеде орындауға және әр партияның сапасын бірдей ұстауға мүмкіндік береді.",
   "about.certs.h": "Сертификаттар мен сапа",
   "about.certs.p":
-    "8 халықаралық сертификат, EAC TR CU 025/2011 сәйкестігі. Әр жобалық жөнелту фотоесеппен және материалдық сертификаттармен толықтырылады.",
+    "EAC TR CU 025/2011 сәйкестігі. Әр жобалық жөнелту фотоесеппен және материалдық сертификаттармен толықтырылады.",
   "about.global.h": "Халықаралық жобалар",
   "about.global.p":
-    "50-ден астам елде 1000-нан астам жоба жүзеге асырылды, соның ішінде Hilton Tashkent (Өзбекстан) қонақүй жобасы.",
+    "Халықаралық жоба тәжірибеміз бар, соның ішінде Hilton Tashkent (Өзбекстан) қонақүй жобасы.",
   "about.gallery.h": "Өндіріс фотогалереясы",
 
   // ── 产品板块 ──
@@ -210,25 +206,21 @@ const uz: Dict = {
 
   "cases.h": "Tanlangan loyihalar",
   "cases.lead":
-    "50 dan ortiq davlatda 1000 dan ortiq loyiha amalga oshirildi. Quyida Markaziy Osiyodagi loyihalarning tanlamasi: mehmonxonalar, ofislar, ta'lim muassasalari va turar-joy obyektlari.",
+    "Xalqaro bozorlardagi loyiha tajribamizga tayanamiz. Quyida Markaziy Osiyodagi loyihalarning tanlamasi: mehmonxonalar, ofislar, ta'lim muassasalari va turar-joy obyektlari.",
   "cases.note":
     "Buyurtmachilarning iltimosiga ko'ra loyihalarning bir qismi umumlashtirilgan tavsif bilan taqdim etilgan. To'liq foto-hisobotlar va material sertifikatlari bilan tanishish uchun biz bilan bog'laning.",
-  "stat.leadtime": "kun ishlab chiqarish (yuborishgacha)",
 
   "site.tagline": "Hongye Furniture Group · Markaziy Osiyo",
   "hero.eyebrow": "Oʻzbekiston · Qozogʻiston · Markaziy Osiyo",
   "hero.title": "Markaziy Osiyo bozori uchun premium mebel",
   "hero.subtitle":
-    "1996-yildan beri · 1000+ loyiha · 300 000 m² ishlab chiqarish maydoni · 50+ davlat · 8 xalqaro sertifikat. Mehmonxona, ofis va villa loyihalarini loyihalashdan o'rnatishgacha to'liq ta'minlaymiz.",
+    "1996-yildan beri · mehmonxona, ofis, villa, tibbiyot va ta'lim loyihalari. Loyihalashdan ishlab chiqarish, yetkazib berish va o'rnatishgacha to'liq tsikl — o'z ishlab chiqarishimizda.",
   "hero.ctaPrimary": "Bepul hisob-kitob olish",
   "hero.ctaSecondary": "Loyihani muhokama qilish",
 
-  "stat.projects": "loyiha",
-  "stat.factory": "m² ishlab chiqarish maydoni",
-  "stat.since": "yildan beri bozorda",
-  "stat.workers": "ishchi ishlab chiqarishda",
-  "stat.countries": "davlat",
-  "stat.certs": "xalqaro sertifikat",
+  "stat.since": "tashkil etilgan yil",
+  "stat.lines": "mahsulot yo'nalishi",
+  "stat.steps": "ish bosqichi",
 
   "definition":
     "Hymebel — 1996-yilda tashkil etilgan Hongye Furniture Group kompaniyasining Markaziy Osiyo bozori uchun mebel brendi. Mehmonxona, ofis, villa, tibbiyot va ta'lim loyihalari uchun mebelni loyihalash, ishlab chiqarish, yetkazib berish va o'rnatishni to'liq tsiklda amalga oshiradi.",
@@ -237,9 +229,9 @@ const uz: Dict = {
   "categories.subtitle": "Beshta asosiy yo'nalish — mehmonxonadan ta'lim loyihalarigacha.",
 
   "why.title": "Nega Hymebel",
-  "why.1": "300 000 m² o'z ishlab chiqarish maydonimiz — vositachisiz narx va barqaror sifat",
-  "why.2": "EAC TR CU 025/2011 talablariga muvofiqlik va 8 xalqaro sertifikat",
-  "why.3": "Ishlab chiqarish 30-45 kun, temiryo'l orqali Markaziy Osiyoga 9-10 kun",
+  "why.1": "O'z ishlab chiqarish maydonimiz — vositachisiz narx va barqaror sifat",
+  "why.2": "EAC TR CU 025/2011 talablariga muvofiqlik; hujjatlar har bir loyiha bilan beriladi",
+  "why.3": "Ishlab chiqarish muddati va yetkazib berish yo'li buyurtma tasdiqlanganda kelishiladi",
   "why.4": "To'liq tsikl: o'lchov, 3D dizayn, ishlab chiqarish, yetkazib berish, o'rnatish",
 
   "process.title": "Ish tartibi",
@@ -250,7 +242,7 @@ const uz: Dict = {
 
   "case.title": "Xalqaro tajriba",
   "case.body":
-    "50 dan ortiq davlatda 1000 dan ortiq loyiha amalga oshirildi — jumladan Hilton Tashkent (Oʻzbekiston) mehmonxona loyihasi. Har bir loyiha uchun foto-hisobot va material sertifikatlari taqdim etiladi.",
+    "Xalqaro loyiha tajribamiz bor — jumladan Hilton Tashkent (Oʻzbekiston) mehmonxona loyihasi. Har bir loyiha uchun foto-hisobot va material sertifikatlari taqdim etiladi.",
   "case.cta": "Loyihalarni ko'rish",
   "case.imgAlt": "Hymebel jihozlagan premium mehmonxona xonasi",
 
@@ -260,16 +252,16 @@ const uz: Dict = {
     "Mehmonxona, ofis, villa, tibbiyot va ta'lim muassasalari uchun mebelni loyihalaymiz, ishlab chiqaramiz, yetkazib beramiz va o'rnatamiz.",
   "faq.2.q": "Ishlab chiqarish va yetkazib berish muddati qancha?",
   "faq.2.a":
-    "Ishlab chiqarish 30-45 kun, temiryo'l orqali Markaziy Osiyoga 9-10 kun (TIR transportida 5-7 kun).",
+    "Ishlab chiqarish muddati buyurtma hajmi va loyiha jadvaliga qarab belgilanadi; yetkazib berish yo'li va muddati buyurtma tasdiqlanganda kelishiladi.",
   "faq.3.q": "EAC sertifikati bormi?",
   "faq.3.a":
-    "Ha — ishlab chiqarish EAC TR CU 025/2011 talablariga javob beradi, 8 ta xalqaro sertifikatimiz bor. Hujjatlar loyiha bilan birga taqdim etiladi.",
+    "Ha — ishlab chiqarish EAC TR CU 025/2011 talablariga javob beradi. Hujjatlar loyiha bilan birga taqdim etiladi.",
   "faq.4.q": "Minimal buyurtma hajmi qancha?",
   "faq.4.a":
-    "Loyiha turiga bog'liq: mehmonxona loyihalari odatda 30-50 xona mebelidan boshlanadi, villa loyihalari xona bo'yicha hisoblanadi.",
+    "Eng kam hajm loyiha turi va jadvaliga qarab belgilanadi; aniq shartlar buyurtma paytida kelishiladi.",
 
   "cta.title": "Loyihangizni muhokama qilamiz",
-  "cta.body": "Reja, o'lchov yoki rasm yuboring — 48 soat ichida tijorat taklifini tayyorlaymiz.",
+  "cta.body": "Reja, o'lchov yoki rasm yuboring — tijorat taklifini tayyorlaymiz.",
 
   "contact.title": "Aloqa",
   "contact.subtitle":
@@ -303,7 +295,7 @@ const uz: Dict = {
 
   "meta.home.title": "Hymebel — Oʻzbekiston va Markaziy Osiyo uchun premium mebel",
   "meta.home.desc":
-    "Mehmonxona, ofis, villa, tibbiyot va ta'lim loyihalari uchun mebel: 300 000 m² ishlab chiqarish, EAC muvofiqligi, 30-45 kun ishlab chiqarish. Bepul hisob-kitob oling.",
+    "Mehmonxona, ofis, villa, tibbiyot va ta'lim loyihalari uchun mebel: o'z ishlab chiqarishimiz, EAC TR CU 025/2011 muvofiqligi. Bepul hisob-kitob oling.",
 
   // ── 页头/页脚 ──
   "nav.products": "Mahsulotlar",
@@ -327,16 +319,16 @@ const uz: Dict = {
     "Hymebel — 1996-yilda tashkil etilgan Hongye Furniture Group kompaniyasining Markaziy Osiyoga ixtisoslashgan mebel brendi. Mehmonxona, ofis, villa, tibbiyot va ta'lim loyihalari uchun mebelni loyihalashdan ishlab chiqarish, yetkazib berish va o'rnatishgacha to'liq tsiklda yetkazib beramiz.",
   "cf.2.q": "Ishlab chiqarish bazasi qanday?",
   "cf.2.a":
-    "O'zimizning 300 000 m² ishlab chiqarish maydoni va 1000 dan ortiq ishchi. Barcha mahsulot o'z zavodimizda ishlab chiqariladi — vositachisiz narx va barqaror sifat.",
+    "O'zimizning ishlab chiqarish maydonimiz bor. Barcha mahsulot o'z zavodimizda ishlab chiqariladi — vositachisiz narx va barqaror sifat.",
   "cf.3.q": "EAC sertifikati bormi?",
   "cf.3.a":
-    "Ha — ishlab chiqarish EAC TR CU 025/2011 talablariga javob beradi, qo'shimcha 8 ta xalqaro sertifikatimiz bor. To'liq hujjatlar har bir loyiha bilan beriladi.",
+    "Ha — ishlab chiqarish EAC TR CU 025/2011 talablariga javob beradi. To'liq hujjatlar har bir loyiha bilan beriladi.",
   "cf.4.q": "Ishlab chiqarish va yetkazib berish muddati qanday?",
   "cf.4.a":
-    "Buyurtma hajmiga qarab ishlab chiqarish odatda 30-45 kun. Temiryo'l orqali Markaziy Osiyoga 9-10 kun, TIR transportida 5-7 kun.",
+    "Ishlab chiqarish muddati buyurtma hajmiga qarab belgilanadi. Yetkazib berish yo'li va muddati buyurtma tasdiqlanganda kelishiladi.",
   "cf.5.q": "Minimal buyurtma hajmi qancha?",
   "cf.5.a":
-    "Loyiha turiga bog'liq: mehmonxona loyihalari odatda 30-50 xonalik mebildan boshlanadi, villa loyihalari xona bo'yicha hisoblanadi.",
+    "Eng kam hajm loyiha turi va jadvaliga qarab belgilanadi; aniq shartlar buyurtma paytida kelishiladi.",
   "cf.6.q": "Loyihaviy buyurtma bo'yicha ishlaymisizmi?",
   "cf.6.a":
     "Ha — chizma, 3D model yoki havola rasmlar bo'yicha ishlab chiqaramiz. Har bir loyiha uchun foto-hisobot va material sertifikatlari beriladi.",
@@ -345,7 +337,7 @@ const uz: Dict = {
     "Har bir buyurtma ishlab chiqarish bosqichlarida sifat nazoratidan o'tadi, yuborishdan oldin to'liq foto-hisobot tayyorlanib, buyurtmachiga yuboriladi.",
   "cf.8.q": "Buyurtmani qanday berish mumkin?",
   "cf.8.a":
-    "WhatsApp, Telegram yoki saytdagi forma orqali reja, o'lchov yoki chizma yuboring — 48 soat ichida tijorat taklifini tayyorlaymiz.",
+    "WhatsApp, Telegram yoki saytdagi forma orqali reja, o'lchov yoki chizma yuboring — tijorat taklifini tayyorlaymiz.",
 
   // ── About 页 ──
   "about.story.h": "Kompaniya tarixi",
@@ -353,13 +345,13 @@ const uz: Dict = {
     "Hongye Furniture Group 1996-yilda Xitoyning Guandun provinsiyasida tashkil etilgan. 30 yilga yaqin ishlab chiqarish tajribasi asosida guruh Hymebel brendi orqali Markaziy Osiyo bozoriga zavod narxlarida to'g'ridan-to'g'ri yetkazib berishni taklif qiladi: loyihalash, ishlab chiqarish, logistika va o'rnatish bitta javobgarlikda.",
   "about.factory.h": "Ishlab chiqarish bazasi",
   "about.factory.lead":
-    "Bitta maydonda to'liq tsikl: 300 000 m² zavod, 1000 dan ortiq ishchi, avtomatlashtirilgan kesish va CNC liniyalari, plita, metall va tikuv sexlari, sifat nazorati va eksport qadoqlash. Bunday masshtab loyiha buyurtmalarini 30-45 kunda bajarish va har bir partiya sifatini bir xil darajada saqlash imkonini beradi.",
+    "Bitta maydonda to'liq tsikl: o'z zavodimiz, avtomatlashtirilgan kesish va CNC liniyalari, plita, metall va tikuv sexlari, sifat nazorati va eksport qadoqlash. Bitta maydondagi to'liq tsikl loyiha buyurtmalarini bir jadvalda bajarish va har bir partiya sifatini bir xil darajada saqlash imkonini beradi.",
   "about.certs.h": "Sertifikatlar va sifat",
   "about.certs.p":
-    "8 ta xalqaro sertifikat, EAC TR CU 025/2011 muvofiqligi. Har bir loyihaviy yuborish foto-hisobot va material sertifikatlari bilan to'ldiriladi.",
+    "EAC TR CU 025/2011 muvofiqligi. Har bir loyihaviy yuborish foto-hisobot va material sertifikatlari bilan to'ldiriladi.",
   "about.global.h": "Xalqaro loyihalar",
   "about.global.p":
-    "50 dan ortiq davlatda 1000 dan ortiq loyiha amalga oshirildi, jumladan Hilton Tashkent (Oʻzbekiston) mehmonxona loyihasi.",
+    "Xalqaro loyiha tajribamiz bor, jumladan Hilton Tashkent (Oʻzbekiston) mehmonxona loyihasi.",
   "about.gallery.h": "Zavod fotogalereyasi",
 
   // ── 产品板块 ──
@@ -397,25 +389,21 @@ const en: Dict = {
 
   "cases.h": "Selected projects",
   "cases.lead":
-    "1,000+ projects delivered across 50+ countries. Below is a selection of Central Asian projects: hotels, offices, educational institutions and residential developments.",
+    "We draw on international project experience. Below is a selection of Central Asian projects: hotels, offices, educational institutions and residential developments.",
   "cases.note":
     "Some projects are presented with generalized descriptions at the client's request. Full photo reports and material certificates are available upon request.",
-  "stat.leadtime": "days production (to dispatch)",
 
   "site.tagline": "Hongye Furniture Group · Central Asia",
   "hero.eyebrow": "Kazakhstan · Uzbekistan · Central Asia",
   "hero.title": "Premium furniture for Central Asia's hospitality, office and residential projects",
   "hero.subtitle":
-    "Since 1996 · 1,000+ projects · 300,000 m² factory · 50+ countries · 8 international certifications. Full-cycle FF&E — from design and production to delivery and installation.",
+    "Since 1996 · furniture for hotel, office, villa, healthcare and education projects. Full-cycle FF&E — from design and production to delivery and installation.",
   "hero.ctaPrimary": "Get a free quote",
   "hero.ctaSecondary": "Discuss your project",
 
-  "stat.projects": "projects",
-  "stat.factory": "m² factory area",
-  "stat.since": "years in the market",
-  "stat.workers": "workers in production",
-  "stat.countries": "countries",
-  "stat.certs": "international certifications",
+  "stat.since": "year founded",
+  "stat.lines": "product lines",
+  "stat.steps": "project steps",
 
   "definition":
     "Hymebel is the Central Asia brand of Hongye Furniture Group, founded in 1996. The company delivers full-cycle furniture for hotels, offices, villas, healthcare and education projects — from design and manufacturing to delivery and installation.",
@@ -424,9 +412,9 @@ const en: Dict = {
   "categories.subtitle": "Five core lines — from hospitality to education projects.",
 
   "why.title": "Why Hymebel",
-  "why.1": "300,000 m² own factory — direct pricing and consistent quality",
-  "why.2": "EAC TR CU 025/2011 compliance and 8 international certifications",
-  "why.3": "Production in 30-45 days, plus 9-10 days by rail to Central Asia",
+  "why.1": "Our own factory — direct pricing and consistent quality",
+  "why.2": "EAC TR CU 025/2011 compliance; documentation delivered with every project",
+  "why.3": "Production and transit schedules are agreed when the order is confirmed",
   "why.4": "Turnkey: survey, 3D design, production, delivery, installation",
 
   "process.title": "How we work",
@@ -437,7 +425,7 @@ const en: Dict = {
 
   "case.title": "International track record",
   "case.body":
-    "1,000+ projects delivered across 50+ countries, including the Hilton Tashkent hotel project in Uzbekistan. Every project comes with a photo report and material certificates.",
+    "We bring international project experience, including the Hilton Tashkent hotel project in Uzbekistan. Every project comes with a photo report and material certificates.",
   "case.cta": "View projects",
   "case.imgAlt": "Premium hotel guest room furnished by Hymebel",
 
@@ -445,19 +433,19 @@ const en: Dict = {
   "faq.1.q": "What furniture does Hymebel supply?",
   "faq.1.a":
     "We design, manufacture, deliver and install furniture for hotels, offices, villas, hospitals and schools.",
-  "faq.2.q": "What are your production and delivery lead times?",
+  "faq.2.q": "How are production and delivery schedules agreed?",
   "faq.2.a":
-    "Production takes 30-45 days, plus 9-10 days by rail to Central Asia (5-7 days by TIR truck).",
+    "The production schedule depends on order volume and project timeline; the shipping route and transit time are agreed when the order is confirmed.",
   "faq.3.q": "Are you EAC compliant?",
   "faq.3.a":
-    "Yes — our production meets EAC TR CU 025/2011 and we hold 8 international certifications. Documentation is delivered with the project.",
+    "Yes — our production meets EAC TR CU 025/2011. Documentation is delivered with the project.",
   "faq.4.q": "What is your minimum order quantity?",
   "faq.4.a":
-    "It depends on the project type: hotel projects usually start from furniture for 30-50 rooms, while villa projects are quoted room by room.",
+    "The minimum volume depends on the project type and timeline; the specific terms are agreed at the time of order.",
 
   "cta.title": "Let's discuss your project",
   "cta.body":
-    "Send your plans, measurements or drawings — we prepare a commercial proposal within 48 hours.",
+    "Send your plans, measurements or drawings — we prepare a commercial proposal.",
 
   "contact.title": "Contact us",
   "contact.subtitle": "Reach us on WhatsApp, Telegram or email — we reply within 24 hours.",
@@ -490,7 +478,7 @@ const en: Dict = {
 
   "meta.home.title": "Hymebel — Premium Furniture for Kazakhstan & Central Asia",
   "meta.home.desc":
-    "Furniture for hotel, office, villa, healthcare and education projects: 300,000 m² factory, EAC compliance, 30-45 day production. Request a free quote.",
+    "Furniture for hotel, office, villa, healthcare and education projects: our own factory, EAC TR CU 025/2011 compliance. Request a free quote.",
 
   // ── Header/Footer ──
   "nav.products": "Products",
@@ -514,16 +502,16 @@ const en: Dict = {
     "Hymebel is the Central Asia brand of Hongye Furniture Group, founded in 1996. We deliver furniture for hotel, office, villa, healthcare and education projects on a full-cycle basis — from design to production, delivery and installation.",
   "cf.2.q": "What is your production base like?",
   "cf.2.a":
-    "Our own 300,000 m² factory with 1,000+ workers. All products are manufactured in-house — direct pricing with no middlemen and consistent quality.",
+    "We operate our own factory. All products are manufactured in-house — direct pricing with no middlemen and consistent quality.",
   "cf.3.q": "Do you hold EAC certification?",
   "cf.3.a":
-    "Yes — production meets EAC TR CU 025/2011, and we hold 8 additional international certifications. Full documentation is delivered with every project.",
-  "cf.4.q": "What are your production and delivery lead times?",
+    "Yes — production meets EAC TR CU 025/2011. Full documentation is delivered with every project.",
+  "cf.4.q": "How are production and delivery schedules agreed?",
   "cf.4.a":
-    "Production typically takes 30-45 days depending on order size. Rail delivery to Central Asia takes 9-10 days, TIR trucking 5-7 days.",
+    "Production time depends on order size. The shipping route and transit time are agreed when the order is confirmed.",
   "cf.5.q": "What is your minimum order quantity?",
   "cf.5.a":
-    "It depends on the project type: hotel projects usually start from furniture for 30-50 rooms, while villa projects are quoted room by room.",
+    "The minimum volume depends on the project type and timeline; the specific terms are agreed at the time of order.",
   "cf.6.q": "Do you build custom project orders?",
   "cf.6.a":
     "Yes — we manufacture from drawings, 3D models or reference images. Every project comes with a photo report and material certificates.",
@@ -532,7 +520,7 @@ const en: Dict = {
     "Every order passes quality checks at each production stage, and a complete photo report is prepared and shared before shipment.",
   "cf.8.q": "How do I place an order?",
   "cf.8.a":
-    "Send your plan, measurements or drawings via WhatsApp, Telegram or the website form — we prepare a commercial proposal within 48 hours.",
+    "Send your plan, measurements or drawings via WhatsApp, Telegram or the website form — we prepare a commercial proposal.",
 
   // ── About page ──
   "about.story.h": "Company history",
@@ -540,13 +528,13 @@ const en: Dict = {
     "Hongye Furniture Group was founded in 1996 in Guangdong, China. Building on nearly 30 years of manufacturing experience, the group serves the Central Asia market under the Hymebel brand with direct factory pricing: design, production, logistics and installation under a single point of responsibility.",
   "about.factory.h": "Production base",
   "about.factory.lead":
-    "A full cycle on one site: a 300,000 m² factory with 1,000+ workers, automated cutting and CNC lines, panel, metal and upholstery shops, quality control and export packing. This scale is what allows project orders to be completed in 30-45 days with consistent quality across every batch.",
+    "A full cycle on one site: our own factory, automated cutting and CNC lines, panel, metal and upholstery shops, quality control and export packing. Keeping the full cycle on one site lets project orders run to a single schedule with consistent quality across every batch.",
   "about.certs.h": "Certifications & quality",
   "about.certs.p":
-    "8 international certifications and EAC TR CU 025/2011 compliance. Every project shipment is backed by a photo report and material certificates.",
+    "EAC TR CU 025/2011 compliance. Every project shipment is backed by a photo report and material certificates.",
   "about.global.h": "International projects",
   "about.global.p":
-    "1,000+ projects delivered across 50+ countries, including the Hilton Tashkent hotel project in Uzbekistan.",
+    "We bring international project experience, including the Hilton Tashkent hotel project in Uzbekistan.",
   "about.gallery.h": "Factory photo gallery",
 
   // ── Products ──
@@ -577,11 +565,9 @@ export const company = {
   legal: "Hongye Furniture Group",
   legalFull: "Hongye Furniture Group Co. Ltd",
   founded: "1996",
-  projects: "1,000+",
-  factory: "300,000",
-  workers: "1,000+",
-  countries: "50+",
-  certs: "8",
+  /** 产品方向数（hotel/office/villa/healthcare/education）与工作阶段数，均可在站内自证 */
+  productLines: "5",
+  processSteps: "4",
   /** 主渠道（2026-10-02 起主联系人为 Edward Tse；中亚三语站前期效果由其本人盯） */
   whatsapp: "+8613702279783",
   telegram: "hysdfurniture",

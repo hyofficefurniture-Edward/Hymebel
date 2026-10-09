@@ -15,7 +15,7 @@ export type CaseStudy = {
 
 /**
  * 精选案例（合规口径：仅 Hilton Tashkent 可具名，其余为画像式描述；
- * 数据只用 SSOT：1000+ 项目 / 50+ 国 / 交期 30-45 天 / 铁路 9-10 天）
+ * 口径收紧：不写产能规模、认证数量、固定交期与商业承诺；案例仅 Hilton Tashkent 可具名）
  */
 export const cases: CaseStudy[] = [
   {

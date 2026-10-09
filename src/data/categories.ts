@@ -37,9 +37,9 @@ export const categories: Category[] = [
       en: "Full FF&E supply",
     },
     intro: {
-      kk: "Нөмірлер, лобби, мейрамхана және конференц-залдарға арналған жиһаз. Жоба бойынша өндіріс, 30-45 күн, теміржолмен Орталық Азияға 9-10 күн.",
-      uz: "Xonalar, lobbi, restoran va konferents-zallar uchun mebel. Loyiha bo'yicha ishlab chiqarish: 30-45 kun, temiryo'l orqali Markaziy Osiyoga 9-10 kun.",
-      en: "Furniture for guest rooms, lobbies, restaurants and conference halls. Built to your drawings in 30-45 days, then 9-10 days by rail to Central Asia.",
+      kk: "Нөмірлер, лобби, мейрамхана және конференц-залдарға арналған жиһаз. Жоба сызбасы бойынша өндіріс; мерзім мен жеткізу жолы тапсырыс расталғанда келісіледі.",
+      uz: "Xonalar, lobbi, restoran va konferents-zallar uchun mebel. Loyiha chizmasi bo'yicha ishlab chiqarish; muddat va yetkazib berish yo'li buyurtma tasdiqlanganda kelishiladi.",
+      en: "Furniture for guest rooms, lobbies, restaurants and conference halls. Built to your drawings; the schedule and shipping route are agreed when the order is confirmed.",
     },
     bullets: {
       kk: ["Нөмір жиһазы (30-50 нөмір)", "Лобби және қабылдау аймағы", "Мейрамхана және конференц-зал"],
@@ -64,9 +64,9 @@ export const categories: Category[] = [
       en: "Ergonomics & workspace planning",
     },
     intro: {
-      kk: "Жұмыс орындары, жиналыс бөлмелері және қабылдау аймақтары. 300 000 м² өндіріс алаңы көлемді жобаларды қамтиды.",
-      uz: "Ish joylari, majlislar zallari va qabulxonalar. 300 000 m² ishlab chiqarish maydoni yirik loyihalarni qamrab oladi.",
-      en: "Workstations, meeting rooms and reception areas. Our 300,000 m² factory covers large-scale rollouts.",
+      kk: "Жұмыс орындары, жиналыс бөлмелері және қабылдау аймақтары. Ірі жобаларды кезең-кезеңімен жабдықтау тәжірибеміз бар.",
+      uz: "Ish joylari, majlislar zallari va qabulxonalar. Yirik loyihalarni bosqichma-bosqich jihozlash tajribamiz bor.",
+      en: "Workstations, meeting rooms and reception areas. We deliver large-scale rollouts in stages.",
     },
     bullets: {
       kk: ["Жұмыс орындары және бөлу панельдері", "Жиналыс бөлмесі жиһазы", "Қабылдау және күту аймағы"],
@@ -162,24 +162,24 @@ export const about = {
   navKey: "nav.about",
   name: { kk: "Біз туралы", uz: "Biz haqimizda", en: "About Hymebel" } as Localized,
   intro: {
-    kk: "Hymebel — Hongye Furniture Group (1996 жылдан бері) бренді. 1000+ жоба, 50+ ел, 300 000 м² өндіріс алаңы және 8 халықаралық сертификат.",
-    uz: "Hymebel — Hongye Furniture Group (1996-yildan beri) brendi. 1000+ loyiha, 50+ davlat, 300 000 m² ishlab chiqarish maydoni va 8 xalqaro sertifikat.",
-    en: "Hymebel is the Central Asia brand of Hongye Furniture Group (founded 1996): 1,000+ projects, 50+ countries, a 300,000 m² factory and 8 international certifications.",
+    kk: "Hymebel — Hongye Furniture Group (1996 жылдан бері) бренді. Қонақүй, кеңсе, вилла, медициналық және білім беру жобаларына арналған жиһазды жобалаудан монтажға дейін толық циклмен жеткіземіз.",
+    uz: "Hymebel — Hongye Furniture Group (1996-yildan beri) brendi. Mehmonxona, ofis, villa, tibbiyot va ta'lim loyihalari uchun mebelni loyihalashdan o'rnatishgacha to'liq tsiklda yetkazib beramiz.",
+    en: "Hymebel is the Central Asia brand of Hongye Furniture Group (founded 1996), delivering furniture for hotel, office, villa, healthcare and education projects on a full-cycle basis.",
   } as Localized,
   bullets: {
     kk: [
       "1996 жылдан бері жиһаз өндірісі және экспорт",
-      "8 халықаралық сертификат және EAC TR CU 025/2011 сәйкестігі",
+      "EAC TR CU 025/2011 сәйкестігі және толық құжаттама",
       "Халықаралық жобалар: Hilton Tashkent (Өзбекстан)",
     ],
     uz: [
       "1996-yildan beri mebel ishlab chiqarish va eksport",
-      "8 xalqaro sertifikat va EAC TR CU 025/2011 muvofiqligi",
+      "EAC TR CU 025/2011 muvofiqligi va to'liq hujjatlar",
       "Xalqaro loyihalar: Hilton Tashkent (Oʻzbekiston)",
     ],
     en: [
       "Furniture manufacturing and export since 1996",
-      "8 international certifications and EAC TR CU 025/2011 compliance",
+      "EAC TR CU 025/2011 compliance and full documentation",
       "International references including Hilton Tashkent, Uzbekistan",
     ],
   },

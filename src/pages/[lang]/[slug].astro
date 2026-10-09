@@ -75,7 +75,7 @@ const crumb = [{ name: pageName, href: localePath(lang, slug) }];
         <div class="wrap">
           <img
             src="/images/fabrica/aerial-campus.webp"
-            alt={lang === "kk" ? "Hongye Furniture Group зауытының әуе көрінісі — 300 000 м² өндіріс алаңы" : lang === "uz" ? "Hongye Furniture Group zavodining havo ko'rinishi — 300 000 m2 ishlab chiqarish maydoni" : "Aerial view of the Hongye Furniture Group factory campus — 300,000 m² of production space"}
+            alt={lang === "kk" ? "Hongye Furniture Group зауытының әуе көрінісі" : lang === "uz" ? "Hongye Furniture Group zavodining havo ko'rinishi" : "Aerial view of the Hongye Furniture Group factory campus"}
             loading="eager"
             width="800"
             height="600"
@@ -101,15 +101,12 @@ const crumb = [{ name: pageName, href: localePath(lang, slug) }];
           <p class="section__lead" style="max-width:820px">{t("about.factory.lead")}</p>
           <div class="stats" style="margin-top:30px">
             <div class="stat"><div class="stat__value">1996</div><div class="stat__label">{t("stat.since")}</div></div>
-            <div class="stat"><div class="stat__value">300 000 m²</div><div class="stat__label">{t("stat.factory")}</div></div>
-            <div class="stat"><div class="stat__value">1000+</div><div class="stat__label">{t("stat.workers")}</div></div>
-            <div class="stat"><div class="stat__value">1000+</div><div class="stat__label">{t("stat.projects")}</div></div>
-            <div class="stat"><div class="stat__value">50+</div><div class="stat__label">{t("stat.countries")}</div></div>
-            <div class="stat"><div class="stat__value">30-45</div><div class="stat__label">{t("stat.leadtime")}</div></div>
+            <div class="stat"><div class="stat__value">5</div><div class="stat__label">{t("stat.lines")}</div></div>
+            <div class="stat"><div class="stat__value">4</div><div class="stat__label">{t("stat.steps")}</div></div>
           </div>
           <div class="gallery-grid" style="margin-top:34px">
             {[
-              { src: "/images/fabrica/aerial-campus.webp", kk: "Зауыт алаңы — 300 000 м² (әуеден түсірілген)", uz: "Zavod maydoni — 300 000 m2 (havodan suratga olingan)", en: "Factory campus — 300,000 m² (aerial view)" },
+              { src: "/images/fabrica/aerial-campus.webp", kk: "Зауыт алаңы (әуеден түсірілген)", uz: "Zavod maydoni (havodan suratga olingan)", en: "Factory campus (aerial view)" },
               { src: "/images/fabrica/hq-building.webp", kk: "Hongye Group бас кеңсесі мен R&D орталығы", uz: "Hongye Group bosh ofisi va R&D markazi", en: "Hongye Group headquarters and R&D centre" },
               { src: "/images/fabrica/production-line-hall.webp", kk: "Автоматтандырылған өндіріс цехы", uz: "Avtomatlashtirilgan ishlab chiqarish sexi", en: "Automated production hall" },
               { src: "/images/fabrica/assembly.webp", kk: "Монтаждау желісі", uz: "Yig'ish liniyasi", en: "Assembly line" },

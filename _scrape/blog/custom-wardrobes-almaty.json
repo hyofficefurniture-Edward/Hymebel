@@ -28,21 +28,21 @@
    "Сапаны үш нәрсе анықтайды: панель материалы, фурнитура сапасы және кәсіби өлшем қызметі",
    "Ылғалға төзімді MDF, фанера және табиғи ағаш қабығы – ең тұрақты нұсқалар",
    "EAC TR CU 025/2011 сертификаты Қазақстан нарығына кірудің міндетті шарты",
-   "Өндіріс 30-45 күн, теміржол арқылы тасымалдау Қазақстанға тұрақты жеткізу береді"
+   "Өндіріс кестесі тапсырыспен бекітіледі, теміржол арқылы тасымалдау Қазақстанға тұрақты жеткізу береді"
   ],
   "uz": [
    "Buyurtma shkafining narxi asosan proyeksiya maydoni (eni × balandligi) bo'yicha hisoblanadi",
    "Sifatni uch omil belgilaydi: plita materiali, armatura sifati va professional o'lchov xizmati",
    "Namlikka chidamli MDF, fanera va tabiiy yog'och qoplama — eng barqaror variantlar",
    "EAC TR CU 025/2011 sertifikati Qozog'iston bozoriga kirish uchun majburiy shart",
-   "Ishlab chiqarish 30-45 kun, temir yo'l orqali yetkazib berish Qozog'istonga barqaror xizmat ko'rsatadi"
+   "Ishlab chiqarish jadvali buyurtma bilan tasdiqlanadi, temir yo'l orqali yetkazib berish Qozog'istonga barqaror xizmat ko'rsatadi"
   ],
   "en": [
    "Custom wardrobe pricing is based mainly on projection area (width × height)",
    "Quality rests on three pillars: panel material, hardware quality and professional measuring",
    "Moisture-resistant MDF, plywood and natural wood veneer are the most stable options",
    "EAC TR CU 025/2011 certification is mandatory for entering the Kazakhstan market",
-   "Production takes 30-45 days; rail freight offers a reliable route into Kazakhstan"
+   "The production schedule is confirmed with the order; rail freight offers a reliable route into Kazakhstan"
   ]
  },
  "sections": [
@@ -121,23 +121,23 @@
   },
   {
    "h": {
-    "kk": "Өндірістен Алматыға дейін: мерзімдер мен EAC талаптары",
+    "kk": "Өндірістен Алматыға дейін: кесте мен EAC талаптары",
     "uz": "Ishlab chiqarishdan Almatygacha: muddatlar va EAC talablari",
-    "en": "From Factory to Almaty: Lead Times and EAC Compliance"
+    "en": "From Factory to Almaty: Production Schedule and EAC Compliance"
    },
    "paras": {
     "kk": [
-     "Тапсырыстық шкафтың типтік өндірістік циклі жобаны бекіткеннен кейін 30-45 күнді құрайды. Бұл мерзімге панельдерді кесу, қабырғаны желімдеу, лактау және фурнитураны орнату кіреді. Тапсырысты жоспарлаған кезде жөнелтудің теміржол арқылы жүретінін ескеріп, күнтізбеге қосу қажет. Нәтижесінде тапсырыстан орнатуға дейінгі толық цикл алдын ала дәл жоспарланады. Жеткізуді жоспарлағанда маусымдық факторды да ескеріңіз: теміржол мен TIR көлігінің қарқыны жыл мезгіліне байланысты өзгереді, ал Хоргос арқылы өтетін кеден рәсімдері алдын ала дайындықты талап етеді. Сондықтан бөлме өлшемдері бекітілгеннен кейін бірден өндіріс терезесін брондау ұтымды.",
+     "Тапсырыстық шкафтың өндірістік кестесі жобаны бекіткеннен кейін тапсырыспен бірге нақтыланады. Бұл кезеңге панельдерді кесу, қабырғаны желімдеу, лактау және фурнитураны орнату кіреді. Тапсырысты жоспарлаған кезде жөнелтудің теміржол арқылы жүретінін ескеріп, күнтізбеге қосу қажет. Нәтижесінде тапсырыстан орнатуға дейінгі толық цикл алдын ала дәл жоспарланады. Жеткізуді жоспарлағанда маусымдық факторды да ескеріңіз: теміржол мен TIR көлігінің қарқыны жыл мезгіліне байланысты өзгереді, ал Хоргос арқылы өтетін кеден рәсімдері алдын ала дайындықты талап етеді. Сондықтан бөлме өлшемдері бекітілгеннен кейін бірден өндіріс терезесін брондау ұтымды.",
      "Қазақстанға кіру үшін жиһаз EAC TR CU 025/2011 техникалық регламентіне сәйкес болуы міндетті. Бұл құжат материалдардың қауіпсіздігі мен формальдегид шығарындысының шегін растайды. Тәжірибелі экспорттық өндіруші EAC құжаттарын жүкпен бірге ұсынады. Бұл кеденде кідірісті және жоба кестесінің бұзылуын болдырмайды.",
      "Теміржол желісі Хоргос пен Қазақстан кесіп өтетін магистраль арқылы өтеді және Орталық Азияға тұрақты, болжамды жеткізу береді. Ірі емес, шұғыл тапсырыстар үшін Хоргос арқылы TIR автокөлігімен тасымалдау жылдам альтернатива болып табылады. Өндірушімен жұмыс істегенде логистикалық сұлбаны сметаның бір бөлігі ретінде талқылаңыз. Осылайша бюджетте жасырын шығындар қалмайды."
     ],
     "uz": [
-     "Buyurtma shkafning odatiy ishlab chiqarish sikli loyiha tasdiqlangandan keyin 30-45 kunni tashkil etadi. Bu muddatga plitalarni kesish, qoplamani yopishtirish, lak qilish va armaturani o'rnatish kiradi. Buyurtmani rejalashtirganda yuk temir yo'l orqali borishini hisobga olib, kalendarga qo'shish kerak. Natijada buyurtmadan o'rnatishgacha bo'lgan to'liq sikl oldindan aniq rejalashtiriladi.",
+     "Buyurtma shkafning ishlab chiqarish jadvali loyiha tasdiqlangandan keyin buyurtma bilan birga belgilanadi. Bu muddatga plitalarni kesish, qoplamani yopishtirish, lak qilish va armaturani o'rnatish kiradi. Buyurtmani rejalashtirganda yuk temir yo'l orqali borishini hisobga olib, kalendarga qo'shish kerak. Natijada buyurtmadan o'rnatishgacha bo'lgan to'liq sikl oldindan aniq rejalashtiriladi.",
      "Qozog'istonga kirish uchun mebel EAC TR CU 025/2011 texnik reglamentiga mos bo'lishi majburiy. Bu hujjat materiallar xavfsizligi va formaldegid chiqishining chegarasini tasdiqlaydi. Tajribali eksport ishlab chiqaruvchisi EAC hujjatlarini yuk bilan birga taqdim etadi. Bu bojxonasida kechikishni va loyiha jadvalidagi buzilishni oldini oladi.",
      "Temir yo'l liniyasi Xorg'os va Qozog'iston orqali o'tuvchi magistral bo'ylab boradi va Markaziy Osiyoga barqaror, bashoratlanadigan yetkazib berish ta'minlaydi. Kichikroq, lekin shoshilinch buyurtmalar uchun Xorg'os orqali TIR yuk mashinasi bilan tashish tez alternativa hisoblanadi. Ishlab chiqaruvchi bilan ishlaganda logistika sxemasini smetaning bir qismi sifatida muhokama qiling. Shu tarzda byudjetda yashirin xarajatlar qolmaydi."
     ],
     "en": [
-     "The typical production cycle for a custom wardrobe runs 30-45 days from approved drawings. This window covers panel cutting, veneer pressing, lacquering and hardware fitting. When planning an order, add the freight leg to your calendar, knowing that rail transport carries most volumes. As a result, the full cycle from order to installation can be scheduled precisely in advance.",
+     "The production schedule for a custom wardrobe is confirmed with the order, counted from approved drawings. This window covers panel cutting, veneer pressing, lacquering and hardware fitting. When planning an order, add the freight leg to your calendar, knowing that rail transport carries most volumes. As a result, the full cycle from order to installation can be scheduled precisely in advance.",
      "Entry into Kazakhstan requires furniture to comply with the EAC TR CU 025/2011 technical regulation. This document confirms the safety of materials and the limits of formaldehyde emissions. An experienced export manufacturer ships EAC documents together with the cargo. That prevents customs delays and keeps the project schedule intact.",
      "The rail corridor runs via Khorgos and the Kazakh trunk line, offering a predictable, stable route into Central Asia. For smaller urgent orders, TIR trucking through Khorgos is the faster alternative. Discuss the logistics scheme with your manufacturer as part of the quotation. This way no hidden costs remain in the budget."
     ]
@@ -151,17 +151,17 @@
    },
    "paras": {
     "kk": [
-     "Hymebel – 1996 жылы құрылған Hongye Furniture Group компаниясының экспорттық бренді. Компанияның өз 300 000 м² зауыты, 1000-нан астам жұмысшысы және 50-нен астам елге жеткізілген 1000-нан астам жобасы бар. 8 халықаралық сертификат өндіріс процедураларының тұрақтылығын растайды. Мұндай ауқым тапсырыстық жобаларды да, көлемді тапсырыстарды да бір сапа деңгейінде орындауға мүмкіндік береді.",
+     "Hymebel – 1996 жылы құрылған Hongye Furniture Group компаниясының экспорттық бренді. Компания өз зауытында жұмыс істейді және тапсырыстық жобаларды бөлме бойынша партиялап өндіреді. Бұл тәсіл тапсырыстық жобаларды да, көлемді тапсырыстарды да бір сапа деңгейінде орындауға мүмкіндік береді.",
      "Біздің портфельде Ташкенттегі Hilton қонақ үйіне жасалған жиһаз жеткізілімі бар – бұл қатаң қонақ үй стандарттарына сәйкес орындалған жұмыстың нақты мысалы. Сонымен қатар, әртүрлі елдердегі вилла және пәтер жобаларында ұқсас тәсілдерді қолданамыз. Әр жобаның сипаттамасы, сызбалары мен материалдары тапсырыс берушімен алдын ала келісіледі. Толық ассортиментімізбен custom furniture бетінде танысуға болады.",
      "Өндірушімен тікелей жұмыс делдал буындарын алып тастайды: сызба түзетуі, материалды ауыстыру және мерзімді өзгерту бір күнде шешіледі. Қазақстандағы жобаларыңыз үшін [жобалық командамызға](contact) WhatsApp +86 18038813653 немесе z@hysdfurniture.com арқылы хабарласыңыз. Біздің инженерлер сіздің өлшемдеріңіз бойынша технологиялық суреттер дайындайды және EAC құжаттарымен жөнелтуді ұйымдастырады."
     ],
     "uz": [
-     "Hymebel — 1996-yilda tashkil etilgan Hongye Furniture Group kompaniyasining eksport brendi. Kompaniyaning o'z 300 000 m² zavodi, 1000 dan ortiq ishchisi va 50 dan ortiq mamlakatga yetkazilgan 1000 dan ortiq loyihasi bor. 8 xalqaro sertifikat ishlab chiqarish protseduralarining barqarorligini tasdiqlaydi. Bunday miqyos buyurtma loyihalarni ham, hajmli buyurtmalarni ham bir xil sifat darajasida bajarish imkonini beradi.",
+     "Hymebel — 1996-yilda tashkil etilgan Hongye Furniture Group kompaniyasining eksport brendi. Kompaniya o'z zavodida ishlaydi va buyurtma loyihalarni xona bo'yicha partiyalab ishlab chiqaradi. Bu yondashuv buyurtma loyihalarni ham, hajmli buyurtmalarni ham bir xil sifat darajasida bajarish imkonini beradi.",
      "Bizning portfelimizda Toshkentdagi Hilton mehmonxonasiga tayyorlangan mebel yetkazib berish bor — bu qattiq mehmonxona standartlariga mos bajarilgan ishning aniq namunasi. Bundan tashqari, turli mamlakatlardagi villa va kvartira loyihalarida shunga o'xshash yondashuvlarni qo'llaymiz. Har bir loyihaning spetsifikatsiyasi, chizmalari va materiallari buyurtmachi bilan oldindan kelishiladi. To'liq assortimentimiz bilan custom furniture bo'limida tanishish mumkin.",
      "Ishlab chiqaruvchi bilan to'g'ridan-to'g'ri ishlash vositachilarni chiqarib tashlaydi: chizmani tuzatish, materialni almashtirish va muddatni o'zgartirish bir kunda hal qilinadi. Qozog'istondagi loyihalaringiz uchun [loyiha jamoamizga](contact) WhatsApp +86 18038813653 yoki z@hysdfurniture.com orqali murojaat qiling. Mutaxassislarimiz o'lchamlaringiz asosida texnik chizmalar tayyorlaydi va EAC hujjatlari bilan yuk jo'natishni tashkil etadi."
     ],
     "en": [
-     "Hymebel is the export brand of Hongye Furniture Group, founded in 1996 in Guangdong, China. The group operates its own 300,000 m² factory with more than 1,000 workers and has delivered over 1,000 projects to 50+ countries. Eight international certifications confirm the consistency of production processes. This scale allows both bespoke projects and volume orders to be executed to the same quality standard.",
+     "Hymebel is the export brand of Hongye Furniture Group, founded in 1996 in Guangdong, China. The group works from its own factory and produces project orders in room-by-room batches. This approach lets both bespoke projects and volume orders be executed to the same quality standard.",
      "Our portfolio includes the furniture delivery for the Hilton Tashkent in Uzbekistan, a concrete example of work executed to strict hospitality standards. Villa and apartment projects in various countries follow the same approach. Every specification, drawing and material is agreed with the client before production starts. You can explore our full range of custom furniture on the dedicated page.",
      "Working directly with the manufacturer removes middle layers: drawing revisions, material substitutions and schedule changes are resolved within a day. For your project in Kazakhstan, contact our [project team](contact) via WhatsApp +86 18038813653 or z@hysdfurniture.com. Our engineers will prepare technical drawings from your dimensions and arrange shipping with full EAC documentation."
     ]
@@ -292,9 +292,9 @@
     "en": "How long do production and delivery take?"
    },
    "a": {
-    "kk": "Өндіріс 30-45 күнді құрайды. Орталық Азияға теміржол арқылы жеткізу 9-10 күн, ал Хоргос арқылы TIR автокөлігімен 5-7 күн жүреді. Толық кестені өндіруші тапсырысты бекіткен кезде құрастырады.",
-    "uz": "Ishlab chiqarish 30-45 kunni tashkil etadi. Markaziy Osiyoga temir yo'l orqali yetkazish 9-10 kun, Xorg'os orqali TIR mashinasi bilan 5-7 kun ketadi. To'liq jadvalni ishlab chiqaruvchi buyurtma tasdiqlanganda tuzadi.",
-    "en": "Production takes 30-45 days. Rail delivery to Central Asia runs 9-10 days, while TIR trucking via Khorgos takes 5-7 days. The manufacturer compiles the full schedule once the order is confirmed."
+    "kk": "Өндіріс кестесі тапсырыспен бірге бекітіледі; Орталық Азияға теміржол арқылы жеткізу уақыты маршрут пен кеденге қарай нақтыланады. Толық кестені өндіруші тапсырысты бекіткен кезде құрастырады.",
+    "uz": "Ishlab chiqarish jadvali buyurtma bilan birga tasdiqlanadi. Markaziy Osiyoga temir yo'l yoki Xorg'os orqali TIR mashinasi bilan yetkaziladi; muddat marshrut va bojxonaga bog'liq. To'liq jadvalni ishlab chiqaruvchi buyurtma tasdiqlanganda tuzadi.",
+    "en": "The production schedule is confirmed with the order. Rail and TIR trucking via Khorgos both serve Central Asia; transit time depends on the route and the customs queue. The manufacturer compiles the full schedule once the order is confirmed."
    }
   },
   {
@@ -316,9 +316,9 @@
     "en": "What certifications are required and which do you hold?"
    },
    "a": {
-    "kk": "Қазақстанға кіру үшін EAC TR CU 025/2011 талап етіледі – біздің өнімдер оған сәйкес. Hongye Furniture Group сондай-ақ 8 халықаралық сертификатқа ие. Барлық құжаттар жүкпен бірге ұсынылады.",
-    "uz": "Qozog'istonga kirish uchun EAC TR CU 025/2011 talab qilinadi — mahsulotlarimiz unga mos. Hongye Furniture Group, shuningdek, 8 xalqaro sertifikatga ega. Barcha hujjatlar yuk bilan birga taqdim etiladi.",
-    "en": "Entry into Kazakhstan requires EAC TR CU 025/2011, which our products meet. Hongye Furniture Group also holds eight international certifications. All documents are shipped together with the cargo."
+    "kk": "Қазақстанға кіру үшін EAC TR CU 025/2011 талап етіледі – өнім осы талапқа сай өндіріледі. Қажет құжаттар тапсырыс бойынша нақтыланып, жүкпен бірге ұсынылады.",
+    "uz": "Qozog'istonga kirish uchun EAC TR CU 025/2011 talab qilinadi — mahsulot shu talab asosida ishlab chiqariladi. Zarur hujjatlar buyurtma bo'yicha aniqlanib, yuk bilan birga taqdim etiladi.",
+    "en": "Entry into Kazakhstan requires EAC TR CU 025/2011, and production follows those requirements. The documents needed are confirmed per order and shipped together with the cargo."
    }
   }
  ],

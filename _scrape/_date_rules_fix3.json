@@ -1,0 +1,16 @@
+[
+ {"pat":"зауыт ауданы 300 мың шаршы метр және онда 1 000-нан астам жұмысшы бар\\.","rep":"зауыт өз өндіріс алаңында жұмыс істейді."},
+ {"pat":"zavod maydoni 300 ming kvadrat metr va unda 1 000 dan ortiq ishchi bor\\.","rep":"zavod o'z ishlab chiqarish maydonida ishlaydi."},
+ {"pat":"Shunday tashriflar tufayli biz 50 dan ortiq mamlakatda 1 000 dan ortiq loyihani bajardik\\.","rep":"Shunday tashriflar tufayli xalqaro bozorlarda loyihalar tajribasi shakllandi."},
+ {"pat":"with more than 300,000 square metres of production space, more than 1,000 workers, more than 1,000 projects and experience in more than 50 countries, plus 8 international certifications\\.","rep":"and produces furniture at its own factory."},
+ {"pat":"EAC bozorlariga muntazam yuboradigan zavod[ —–-]*Hymebel 8 xalqaro sertifikatga ega va 50 dan ortiq mamlakatda 1 000 dan ortiq loyihani yakunlagan[ —–-]*hujjatlarni","rep":"EAC bozorlariga muntazam yuboradigan zavod hujjatlarni"},
+ {"pat":"Hymebel[ —–-]*Hongye Furniture Group tarkibidagi zavod, 1996-yildan beri 50 dan ortiq mamlakatda 1 000 dan ortiq loyihani yakunlagan, jumladan Hilton Tashkent","rep":"Hymebel — Hongye Furniture Group tarkibidagi zavod; portfelida Hilton Tashkent"},
+ {"pat":"Hymebel 1996 жылдан бері 50-ден астам елге 1 000-нан астам жоба жөнелтуде\\.","rep":"Hymebel 1996 жылдан бері халықаралық нарықтарға жиһаз жөнелтеді."},
+ {"pat":"Hymebel 1996-yildan beri 50 dan ortiq mamlakatga 1 000 dan ortiq loyiha yubormoqda\\.","rep":"Hymebel 1996-yildan beri xalqaro bozorlarga mebel yuboradi."},
+ {"pat":"50-ден астам елде орындалған 1 000-нан астам жобаның тәжірибесі","rep":"халықаралық жобалардан жинақталған тәжірибе"},
+ {"pat":"50 dan ortiq mamlakatda bajarilgan 1 000 dan ortiq loyiha tajribasi","rep":"xalqaro loyihalardan to'plangan tajriba"},
+ {"pat":"Hymebel 1996 жылдан бері өз зауытынан әртүрлі халықаралық нарықтарға жиһаз жөнелтеді\\.","rep":"Hymebel 1996 жылдан бері өз зауытынан әртүрлі халықаралық нарықтарға жиһаз жөнелтеді."},
+ {"pat":"Asia rail is the primary option: cargo reaches Tashkent from China in 9[–-]10 days, which makes it easier to sync freight rhythm with project schedules\\.","rep":"For Central Asia rail is the primary option: transit time depends on the route and the customs queue, which makes it easier to sync freight rhythm with project schedules."},
+ {"pat":"yoki TIR \\(5[–-]7 kun\\) yuk variantlarini tasdiqlaymiz","rep":"yoki TIR yuk variantlarini tasdiqlaymiz"},
+ {"pat":"yoki avto \\(5[–-]7 kun\\) yuk variantini qaytaramiz","rep":"yoki avto yuk variantini qaytaramiz"}
+]

@@ -1,0 +1,1533 @@
+
+### canton-fair-2026-hotels-transport   (1 hits)
+  [commercial][uz] faqs[2].a.uz
+      MATCH: moq
+      CTX  : uchinchi bosqichda (31-oktabr – 4-noyabr) bo'lgani uchun, uni ham ko'rmoqchi bo'lsangiz, tunlarni uzaytiring.
+
+### canton-fair-2026-registration-travel   (10 hits)
+  [commercial][uz] faqs[4].a.uz
+      MATCH: moq
+      CTX  : kun muzokara va yakunga. Uchinchi bosqichdagi tibbiy bo'limni ham ko'rmoqchi bo'lsangiz, safarni yetti-o'n kunga cho'zing.
+  [named     ][en] sections[2].paras.en[3]
+      MATCH: Hilton
+      CTX  : we delivered more than 1,770 furniture pieces across 295 rooms to the Hilton City hotel in Tashkent; that experience shows that handling a sample 
+  [named     ][kk] sections[2].paras.kk[3]
+      MATCH: Hilton
+      CTX  : е соңында зауытқа баруды жоспарлайды. Өткен жобаларда біз Ташкенттегі Hilton City қонақүйіне 295 нөмірге арналған 1 770-ден астам жиһаз бұйымын же
+  [named     ][uz] sections[2].paras.uz[3]
+      MATCH: Hilton
+      CTX  : zavodga tashrifni rejalashtiradi. O'tgan loyihalarda biz Toshkentdagi Hilton City mehmonxonasiga 295 xona uchun 1 770 dan ortiq mebel buyumini yet
+  [cert      ][en] sections[4].paras.en[1]
+      MATCH: certificat
+      CTX  : arance will ask for a commercial invoice, a packing list, HS codes, a certificate of origin and the conformity documents required by the destination c
+  [cert      ][kk] sections[4].paras.kk[1]
+      MATCH: сертификат
+      CTX  :  үшін коммерциялық шот-фактура, қаптама парағы, тауар коды (HS), шығу сертификаты және тағайындалған елдің сәйкестік құжаттары қажет болады.
+  [cert      ][uz] sections[4].paras.uz[1]
+      MATCH: sertifikat
+      CTX  : t hisob-fakturasi, qadoqlash varaqasi, tovar kodi (HS), kelib chiqish sertifikati va manzil davlatning muvofiqlik hujjatlari kerak bo'ladi.
+  [named     ][en] sections[5].paras.en[2]
+      MATCH: Hilton
+      CTX  : oss international markets. It includes the furniture delivery for the Hilton City hotel in Tashkent (295 rooms); projects such as an office headqu
+  [named     ][kk] sections[5].paras.kk[2]
+      MATCH: Hilton
+      CTX  : нда халықаралық нарықтарда жобалар жинақталды. Портфельде Ташкенттегі Hilton City қонақүйіне арналған жеткізілім (295 нөмір) бар; Сауд Арабиясының
+  [named     ][uz] sections[5].paras.uz[2]
+      MATCH: Hilton
+      CTX  : aro bozorlarda loyihalar tajribasi shakllandi. Portfelda Toshkentdagi Hilton City mehmonxonasiga yetkazib berilgan mebel (295 xona) bor; Saudiya A
+
+### canton-fair-2026-visa-travel-planning   (4 hits)
+  [cert      ][en] faqs[2].a.en
+      MATCH: certificat
+      CTX  : rt, an invitation letter, proof of itinerary and accommodation, and a certificate from your employer. Processing takes several working days to a few w
+  [cert      ][en] sections[2].paras.en[1]
+      MATCH: certificat
+      CTX  : lidity, an invitation letter, proof of itinerary and accommodation, a certificate from your employer, and sometimes proof of funds. Check the exact pa
+  [commercial][uz] sections[3].paras.uz[2]
+      MATCH: moq
+      CTX  : imcha jihozlarga (masalan, asbob, yorug'lik, elektr) ham ko'z yugurtirmoqchi bo'lsangiz, birinchi bosqich 15–19-oktabr, tibbiy mebelga qiziqish
+  [cert      ][en] tables[0].rows.en[3][0]
+      MATCH: Certificat
+      CTX  : Certificate from your employer
+
+### custom-wardrobes-almaty   (32 hits)
+  [commercial][uz] definition.uz
+      MATCH: moq
+      CTX  : -joy loyihalarida bunday yechimga bo'lgan talab yildan-yilga o'sib bormoqda. Narx odatda proyeksiya maydoni, ya'ni kenglik va balandlik ko'payt
+  [cert      ][en] faqs[3].a.en
+      MATCH: EAC
+      CTX  : Entry into Kazakhstan requires EAC TR CU 025/2011, and production follows those requirements. The docume
+  [cert      ][kk] faqs[3].a.kk
+      MATCH: EAC
+      CTX  : Қазақстанға кіру үшін EAC TR CU 025/2011 талап етіледі – өнім осы талапқа сай өндіріледі. Қажет
+  [cert      ][uz] faqs[3].a.uz
+      MATCH: EAC
+      CTX  : Qozog'istonga kirish uchun EAC TR CU 025/2011 talab qilinadi — mahsulot shu talab asosida ishlab chi
+  [cert      ][en] faqs[3].q.en
+      MATCH: certificat
+      CTX  : What certifications are required and which do you hold?
+  [cert      ][kk] faqs[3].q.kk
+      MATCH: сертификат
+      CTX  : Қандай сертификаттар қажет және қайсысы бар?
+  [cert      ][uz] faqs[3].q.uz
+      MATCH: sertifikat
+      CTX  : Qanday sertifikatlar kerak va qaysilari bor?
+  [commercial][uz] sections[0].paras.uz[1]
+      MATCH: moq
+      CTX  : 2026-yilgi tarmoq tadqiqotlariga ko'ra, Almaty va Astanadagi yuqori darajadagi turar-jo
+  [commercial][uz] sections[0].paras.uz[1]
+      MATCH: moq
+      CTX  : gmentida devor bo'ylab saqlash tizimlariga qiziqish barqaror o'sib bormoqda. Shu sababli bir necha ishlab chiqaruvchidan bir xil maydon asosida
+  [cert      ][en] sections[1].paras.en[0]
+      MATCH: compliance
+      CTX  : and plywood are the most dimensionally stable choices. Always request compliance with E1 or E0 formaldehyde emission classes. A carcass made of cheap 
+  [cert      ][en] sections[3].h.en
+      MATCH: EAC
+      CTX  : From Factory to Almaty: Production Schedule and EAC Compliance
+  [cert      ][en] sections[3].h.en
+      MATCH: Compliance
+      CTX  : From Factory to Almaty: Production Schedule and EAC Compliance
+  [cert      ][kk] sections[3].h.kk
+      MATCH: EAC
+      CTX  : Өндірістен Алматыға дейін: кесте мен EAC талаптары
+  [cert      ][uz] sections[3].h.uz
+      MATCH: EAC
+      CTX  : Ishlab chiqarishdan Almatygacha: muddatlar va EAC talablari
+  [cert      ][en] sections[3].paras.en[1]
+      MATCH: EAC
+      CTX  : Entry into Kazakhstan requires furniture to comply with the EAC TR CU 025/2011 technical regulation. This document confirms the safet
+  [cert      ][en] sections[3].paras.en[1]
+      MATCH: EAC
+      CTX  : s of formaldehyde emissions. An experienced export manufacturer ships EAC documents together with the cargo. That prevents customs delays and k
+  [cert      ][kk] sections[3].paras.kk[1]
+      MATCH: EAC
+      CTX  : Қазақстанға кіру үшін жиһаз EAC TR CU 025/2011 техникалық регламентіне сәйкес болуы міндетті. Бұл құж
+  [cert      ][kk] sections[3].paras.kk[1]
+      MATCH: EAC
+      CTX  : льдегид шығарындысының шегін растайды. Тәжірибелі экспорттық өндіруші EAC құжаттарын жүкпен бірге ұсынады. Бұл кеденде кідірісті және жоба кест
+  [cert      ][uz] sections[3].paras.uz[1]
+      MATCH: EAC
+      CTX  : Qozog'istonga kirish uchun mebel EAC TR CU 025/2011 texnik reglamentiga mos bo'lishi majburiy. Bu hujjat m
+  [cert      ][uz] sections[3].paras.uz[1]
+      MATCH: EAC
+      CTX  : ining chegarasini tasdiqlaydi. Tajribali eksport ishlab chiqaruvchisi EAC hujjatlarini yuk bilan birga taqdim etadi. Bu bojxonasida kechikishni
+  [named     ][en] sections[4].paras.en[1]
+      MATCH: Hilton
+      CTX  : Our portfolio includes the furniture delivery for the Hilton Tashkent in Uzbekistan, a concrete example of work executed to strict
+  [cert      ][en] sections[4].paras.en[2]
+      MATCH: EAC
+      CTX  : echnical drawings from your dimensions and arrange shipping with full EAC documentation.
+  [named     ][kk] sections[4].paras.kk[1]
+      MATCH: Hilton
+      CTX  : Біздің портфельде Ташкенттегі Hilton қонақ үйіне жасалған жиһаз жеткізілімі бар – бұл қатаң қонақ үй станд
+  [cert      ][kk] sections[4].paras.kk[2]
+      MATCH: EAC
+      CTX  : ер сіздің өлшемдеріңіз бойынша технологиялық суреттер дайындайды және EAC құжаттарымен жөнелтуді ұйымдастырады.
+  [named     ][uz] sections[4].paras.uz[1]
+      MATCH: Hilton
+      CTX  : Bizning portfelimizda Toshkentdagi Hilton mehmonxonasiga tayyorlangan mebel yetkazib berish bor — bu qattiq meh
+  [cert      ][uz] sections[4].paras.uz[2]
+      MATCH: EAC
+      CTX  : xassislarimiz o'lchamlaringiz asosida texnik chizmalar tayyorlaydi va EAC hujjatlari bilan yuk jo'natishni tashkil etadi.
+  [cert      ][en] takeaways.en[3]
+      MATCH: EAC
+      CTX  : EAC TR CU 025/2011 certification is mandatory for entering the Kazakhstan
+  [cert      ][en] takeaways.en[3]
+      MATCH: certificat
+      CTX  : EAC TR CU 025/2011 certification is mandatory for entering the Kazakhstan market
+  [cert      ][kk] takeaways.kk[3]
+      MATCH: EAC
+      CTX  : EAC TR CU 025/2011 сертификаты Қазақстан нарығына кірудің міндетті шарты
+  [cert      ][kk] takeaways.kk[3]
+      MATCH: сертификат
+      CTX  : EAC TR CU 025/2011 сертификаты Қазақстан нарығына кірудің міндетті шарты
+  [cert      ][uz] takeaways.uz[3]
+      MATCH: EAC
+      CTX  : EAC TR CU 025/2011 sertifikati Qozog'iston bozoriga kirish uchun majburiy
+  [cert      ][uz] takeaways.uz[3]
+      MATCH: sertifikat
+      CTX  : EAC TR CU 025/2011 sertifikati Qozog'iston bozoriga kirish uchun majburiy shart
+
+### eac-guide   (153 hits)
+  [cert      ][en] definition.en
+      MATCH: EAC
+      CTX  : EAC TR CU 025/2011 is the mandatory technical regulation of the Eurasian 
+  [cert      ][en] definition.en
+      MATCH: EAC
+      CTX  : Kyrgyzstan. Furniture imported into these member states must carry an EAC certificate or declaration of conformity before customs clearance.
+  [cert      ][en] definition.en
+      MATCH: certificat
+      CTX  : yzstan. Furniture imported into these member states must carry an EAC certificate or declaration of conformity before customs clearance.
+  [cert      ][kk] definition.kk
+      MATCH: EAC
+      CTX  : EAC TR CU 025/2011 — Қазақстан, Ресей, Беларусь, Армения мен Қырғызстанны
+  [cert      ][kk] definition.kk
+      MATCH: EAC
+      CTX  : егламенті. Осы мүше-елдерге әкелінетін жиһаз кеден тазартылуына дейін EAC сертификаты немесе сәйкестік декларациясына ие болуы керек.
+  [cert      ][kk] definition.kk
+      MATCH: сертификат
+      CTX  : менті. Осы мүше-елдерге әкелінетін жиһаз кеден тазартылуына дейін EAC сертификаты немесе сәйкестік декларациясына ие болуы керек.
+  [cert      ][uz] definition.uz
+      MATCH: EAC
+      CTX  : EAC TR CU 025/2011 — Qozog'iston, Rossiya, Belarus, Armaniston va Qirg'iz
+  [cert      ][uz] definition.uz
+      MATCH: EAC
+      CTX  : davlatlarga olib kiriladigan mebel bojxona rasmiylashtirishidan oldin EAC sertifikati yoki moslik deklaratsiyasiga ega bo'lishi shart.
+  [cert      ][uz] definition.uz
+      MATCH: sertifikat
+      CTX  : atlarga olib kiriladigan mebel bojxona rasmiylashtirishidan oldin EAC sertifikati yoki moslik deklaratsiyasiga ega bo'lishi shart.
+  [cert      ][en] excerpt.en
+      MATCH: EAC
+      CTX  : What EAC TR CU 025/2011 is, who needs it, which documents are required and wha
+  [cert      ][kk] excerpt.kk
+      MATCH: EAC
+      CTX  : EAC TR CU 025/2011 дегеніміз не, кімге қажет, қандай құжаттар керек және 
+  [cert      ][kk] excerpt.kk
+      MATCH: EAC
+      CTX  : нің кешігуіне жиі себеп болады — Hymebel сатып алушыға арналған толық EAC нұсқаулығы.
+  [cert      ][uz] excerpt.uz
+      MATCH: EAC
+      CTX  : EAC TR CU 025/2011 nima, kimga kerak, qanday hujjatlar lozim va bojxonada
+  [cert      ][uz] excerpt.uz
+      MATCH: EAC
+      CTX  : xonada nima kechikishiga sabab bo'ladi — Hymebel xaridor uchun to'liq EAC qo'llanmasi.
+  [cert      ][en] faqs[0].a.en
+      MATCH: EAC
+      CTX  : It sets requirements for materials, strength and emissions, and makes EAC conformity documents a precondition for customs clearance.
+  [cert      ][kk] faqs[0].a.kk
+      MATCH: EAC
+      CTX  :  беріктік және шығарындылар талаптарын белгілейді және кеденнен өтуге EAC құжаттарын міндеттейді.
+  [cert      ][uz] faqs[0].a.uz
+      MATCH: EAC
+      CTX  : k va chiqindilar talablarini belgilaydi hamda bojxonadan o'tish uchun EAC hujjatlarini shart qiladi.
+  [cert      ][en] faqs[1].a.en
+      MATCH: EAC
+      CTX  : khstan is a Customs Union member, so imported furniture must carry an EAC certificate or declaration of conformity before customs clearance, su
+  [cert      ][en] faqs[1].a.en
+      MATCH: certificat
+      CTX  : an is a Customs Union member, so imported furniture must carry an EAC certificate or declaration of conformity before customs clearance, supported by 
+  [cert      ][kk] faqs[1].a.kk
+      MATCH: EAC
+      CTX  :  одағының мүшесі, сондықтан әкелінетін жиһаз кеден тазартылуына дейін EAC сертификаты немесе сәйкестік декларациясына ие болуы керек; аккредитт
+  [cert      ][kk] faqs[1].a.kk
+      MATCH: сертификат
+      CTX  : ғының мүшесі, сондықтан әкелінетін жиһаз кеден тазартылуына дейін EAC сертификаты немесе сәйкестік декларациясына ие болуы керек; аккредиттелген зертх
+  [cert      ][uz] faqs[1].a.uz
+      MATCH: EAC
+      CTX  : i, shu bois olib kiriladigan mebel bojxona rasmiylashtirishidan oldin EAC sertifikati yoki moslik deklaratsiyasiga ega bo'lishi kerak; akkredit
+  [cert      ][uz] faqs[1].a.uz
+      MATCH: sertifikat
+      CTX  : hu bois olib kiriladigan mebel bojxona rasmiylashtirishidan oldin EAC sertifikati yoki moslik deklaratsiyasiga ega bo'lishi kerak; akkreditlangan labo
+  [cert      ][en] faqs[1].q.en
+      MATCH: EAC
+      CTX  : Does furniture imported to Kazakhstan need an EAC certificate?
+  [cert      ][en] faqs[1].q.en
+      MATCH: certificat
+      CTX  : Does furniture imported to Kazakhstan need an EAC certificate?
+  [cert      ][kk] faqs[1].q.kk
+      MATCH: EAC
+      CTX  : Қазақстанға әкелінетін жиһазға EAC сертификаты керек пе?
+  [cert      ][kk] faqs[1].q.kk
+      MATCH: сертификат
+      CTX  : Қазақстанға әкелінетін жиһазға EAC сертификаты керек пе?
+  [cert      ][uz] faqs[1].q.uz
+      MATCH: EAC
+      CTX  : Qozog'istonga olib kiriladigan mebelga EAC sertifikati kerakmi?
+  [cert      ][uz] faqs[1].q.uz
+      MATCH: sertifikat
+      CTX  : Qozog'istonga olib kiriladigan mebelga EAC sertifikati kerakmi?
+  [cert      ][en] faqs[2].a.en
+      MATCH: EAC
+      CTX  : No — Uzbekistan is not an EAC member, and national import rules apply there. EAC documents are requ
+  [cert      ][en] faqs[2].a.en
+      MATCH: EAC
+      CTX  : bekistan is not an EAC member, and national import rules apply there. EAC documents are required for shipments to Customs Union members such as
+  [cert      ][kk] faqs[2].a.kk
+      MATCH: EAC
+      CTX  : Жоқ — Өзбекстан EAC мүшесі емес, сол жерде ұлттық импорт ережелері қолданылады. EAC құжат
+  [cert      ][kk] faqs[2].a.kk
+      MATCH: EAC
+      CTX  : кстан EAC мүшесі емес, сол жерде ұлттық импорт ережелері қолданылады. EAC құжаттары Қазақстан сияқты Кеден одағы мүшелеріне жөнелтулер үшін мін
+  [cert      ][uz] faqs[2].a.uz
+      MATCH: EAC
+      CTX  : Yo'q — O'zbekiston EAC a'zosi emas, u yerda milliy import qoidalari qo'llaniladi. EAC hujjat
+  [cert      ][uz] faqs[2].a.uz
+      MATCH: EAC
+      CTX  : kiston EAC a'zosi emas, u yerda milliy import qoidalari qo'llaniladi. EAC hujjatlari Qozog'iston kabi Bojxona ittifoqi a'zolariga yuboriladigan
+  [cert      ][en] faqs[2].q.en
+      MATCH: EAC
+      CTX  : Does furniture shipped to Uzbekistan need EAC?
+  [cert      ][kk] faqs[2].q.kk
+      MATCH: EAC
+      CTX  : Өзбекстанға жөнелтілетін жиһазға EAC керек пе?
+  [cert      ][uz] faqs[2].q.uz
+      MATCH: EAC
+      CTX  : O'zbekistonga yuboriladigan mebelga EAC kerakmi?
+  [cert      ][en] faqs[3].a.en
+      MATCH: certificat
+      CTX  : tential fines and a slipping opening schedule follow. That is why the certification plan must be completed before containers are loaded, not negotiate
+  [cert      ][uz] faqs[3].a.uz
+      MATCH: sertifikat
+      CTX  : rima xavfi va ochilish jadvalining kechikishi yuzaga keladi. Shu bois sertifikatlash rejasi yuk yuklashdan oldin yakunlanishi kerak.
+  [cert      ][shared] id
+      MATCH: eac
+      CTX  : eac-guide
+  [cert      ][shared] image
+      MATCH: eac
+      CTX  : /images/blog/eac-guide.webp
+  [cert      ][en] imageAlt.en
+      MATCH: EAC
+      CTX  : Worker performing furniture quality control for EAC compliance
+  [cert      ][en] imageAlt.en
+      MATCH: compliance
+      CTX  : Worker performing furniture quality control for EAC compliance
+  [cert      ][kk] imageAlt.kk
+      MATCH: EAC
+      CTX  : EAC сапа бақылауы бойынша жиһаз өндірісіндегі жұмысшы
+  [cert      ][uz] imageAlt.uz
+      MATCH: EAC
+      CTX  : EAC sifat nazorati bo'yicha mebel ishlab chiqarishdagi ishchi
+  [cert      ][en] sections[0].h.en
+      MATCH: EAC
+      CTX  : What is EAC TR CU 025/2011?
+  [cert      ][kk] sections[0].h.kk
+      MATCH: EAC
+      CTX  : EAC TR CU 025/2011 дегеніміз не?
+  [cert      ][uz] sections[0].h.uz
+      MATCH: EAC
+      CTX  : EAC TR CU 025/2011 nima?
+  [cert      ][en] sections[0].paras.en[1]
+      MATCH: EAC
+      CTX  : The visible result is the EAC mark on the product and its documentation. Behind it stands either a 
+  [cert      ][en] sections[0].paras.en[1]
+      MATCH: certificat
+      CTX  :  mark on the product and its documentation. Behind it stands either a certificate of conformity (for serial production) or a declaration of conformity
+  [cert      ][en] sections[0].paras.en[2]
+      MATCH: certificat
+      CTX  : nside the union. For a furniture buyer this matters practically — the certificate must reference the correct regulation and product group, and test re
+  [cert      ][en] sections[0].paras.en[2]
+      MATCH: certificat
+      CTX  : oup, and test reports must map to its safety clauses. Generic quality certificates carry no weight at the border.
+  [cert      ][en] sections[0].paras.en[3]
+      MATCH: EAC
+      CTX  : l has produced furniture on its own factory since 1996 and ships into EAC markets, which is why this guide reads the regulation the way a manuf
+  [cert      ][kk] sections[0].paras.kk[1]
+      MATCH: EAC
+      CTX  : Көрінген нәтиже — тауарда және оның құжаттамасындағы EAC көрсеткіші. Оның артында аккредиттелген зертханалардың тексеру есепте
+  [cert      ][kk] sections[0].paras.kk[1]
+      MATCH: сертификат
+      CTX  : ның артында аккредиттелген зертханалардың тексеру есептеріне сүйенген сертификат (сериялық өндіріс үшін) немесе сәйкестік декларациясы тұрады.
+  [cert      ][kk] sections[0].paras.kk[2]
+      MATCH: сертификат
+      CTX  : ламенттердің қатарында. Жиһаз сатып алушыға бұл практикалық маңызды — сертификат дұрыс регламент пен тауар тобына сілтеме жасауы, тексеру есептері оны
+  [cert      ][kk] sections[0].paras.kk[2]
+      MATCH: сертификат
+      CTX  : есептері оның қауіпсіздік тармақтарына сәйкес келуі керек. Жалпы сапа сертификаттары шекарада еш салмақ тартпайды.
+  [cert      ][kk] sections[0].paras.kk[3]
+      MATCH: EAC
+      CTX  : Hymebel 1996 жылдан бері өз зауытында жиһаз шығарады және EAC нарықтарына жөнелту жұмысын жүргізеді — сондықтан бұл нұсқаулық регла
+  [cert      ][uz] sections[0].paras.uz[1]
+      MATCH: EAC
+      CTX  : Ko'rinadigan natija — tovarda va uning hujjatlaridagi EAC belgisidir. Uning ortida akkreditlangan laboratoriyalarning sinov his
+  [cert      ][uz] sections[0].paras.uz[1]
+      MATCH: sertifikat
+      CTX  : da akkreditlangan laboratoriyalarning sinov hisobotlariga tayanadigan sertifikat (seriyali ishlab chiqarish uchun) yoki moslik deklaratsiyasi turadi. 
+  [cert      ][uz] sections[0].paras.uz[2]
+      MATCH: sertifikat
+      CTX  : tlar qatorida turadi. Mebel xaridori uchun bu amaliy ahamiyatga ega — sertifikat to'g'ri reglament va tovar guruhiga havola qilishi, sinov hisobotlari
+  [cert      ][uz] sections[0].paras.uz[2]
+      MATCH: sertifikat
+      CTX  : obotlari uning xavfsizlik moddalariga mos kelishi kerak. Umumiy sifat sertifikatlari chegarada hech qanday vazn bermaydi.
+  [cert      ][uz] sections[0].paras.uz[3]
+      MATCH: EAC
+      CTX  : Hymebel 1996-yildan beri o'z zavodida mebel ishlab chiqaradi va EAC bozorlariga jo'natish ishlarini yuritadi — shu bois bu qo'llanma regl
+  [cert      ][en] sections[1].h.en
+      MATCH: EAC
+      CTX  : Who needs the EAC mark — and when?
+  [cert      ][kk] sections[1].h.kk
+      MATCH: EAC
+      CTX  : EAC көрсеткіші кімге және қашан қажет?
+  [cert      ][uz] sections[1].h.uz
+      MATCH: EAC
+      CTX  : EAC belgisi kimga va qachon kerak?
+  [cert      ][en] sections[1].paras.en[0]
+      MATCH: EAC
+      CTX  : Any manufacturer or importer bringing furniture into an EAC member state needs it: hotel FF&E batches bound for Kazakhstan fall s
+  [cert      ][en] sections[1].paras.en[0]
+      MATCH: certificat
+      CTX  : ause a shipment stopped at the border costs the project far more than certification itself.
+  [cert      ][en] sections[1].paras.en[1]
+      MATCH: EAC
+      CTX  : Note the geography: EAC applies to Customs Union members such as Kazakhstan. Shipments to Uzb
+  [cert      ][en] sections[1].paras.en[1]
+      MATCH: EAC
+      CTX  : ers such as Kazakhstan. Shipments to Uzbekistan, which is outside the EAC, follow national import rules instead — one more reason to confirm re
+  [cert      ][en] sections[1].paras.en[2]
+      MATCH: certificat
+      CTX  : Timing matters as much as scope. Serial-production certificates are the efficient route for factories that ship repeatedly, while o
+  [cert      ][en] sections[1].paras.en[2]
+      MATCH: EAC
+      CTX  : y before the production window opens, not after samples are approved. EAC paperwork is what lets a [hotel furniture](hotel-furniture) batch cro
+  [cert      ][kk] sections[1].paras.kk[1]
+      MATCH: EAC
+      CTX  : Географияны ескеріңіз: EAC — Қазақстан сияқты Кеден одағы мүшелеріне қатысты. EAC мүшесі емес Өз
+  [cert      ][kk] sections[1].paras.kk[1]
+      MATCH: EAC
+      CTX  : яны ескеріңіз: EAC — Қазақстан сияқты Кеден одағы мүшелеріне қатысты. EAC мүшесі емес Өзбекстанға жөнелтілу ұлттық импорт ережелері бойынша жүр
+  [cert      ][kk] sections[1].paras.kk[2]
+      MATCH: сертификат
+      CTX  : өлеміндей маңызды. Қайталап жөнелтетін зауыттар үшін сериялық өндіріс сертификаты тиімді бағыт, ал бір реттік жобалық партиялар келісімшартқа байланға
+  [cert      ][uz] sections[1].paras.uz[1]
+      MATCH: EAC
+      CTX  : Geografiyaga e'tibor bering: EAC Qozog'iston kabi Bojxona ittifoqi a'zolariga taalluqli. EACga a'zo bo
+  [cert      ][uz] sections[1].paras.uz[2]
+      MATCH: sertifikat
+      CTX  :  muhim. Takroran yuboradigan zavodlar uchun seriyali ishlab chiqarish sertifikati samarali yo'l, bir martalik loyiha partiyalari esa shartnomaga bog'l
+  [cert      ][uz] sections[1].paras.uz[2]
+      MATCH: Sertifikat
+      CTX  : shlab chiqarish oynasi ochilishidan oldin zavod bilan kelishib oling. Sertifikatlash hujjatlari [mehmonxona mebeli](hotel-furniture) partiyalariga che
+  [cert      ][en] sections[2].paras.en[0]
+      MATCH: Certificat
+      CTX  : Certification is document work. The set below is what buyers should expect a com
+  [cert      ][en] sections[2].paras.en[1]
+      MATCH: certificat
+      CTX  : orrect product group, that labeling languages are ready, and that the certificate remains valid through the expected arrival date. Each line item in t
+  [cert      ][en] sections[2].paras.en[2]
+      MATCH: certificat
+      CTX  : Two notes on this table. First, schemes differ: a serial certificate covers a product line for its validity period, while batch certifica
+  [cert      ][en] sections[2].paras.en[2]
+      MATCH: certificat
+      CTX  : ertificate covers a product line for its validity period, while batch certification ties documents to a single shipment and contract — your freight ca
+  [cert      ][kk] sections[2].paras.kk[1]
+      MATCH: сертификат
+      CTX  :  есептері дұрыс тауар тобына тиесілі ме, маркировка тілдері дайын ба, сертификат мерзімі жүк келуіне дейін жарамды ма. Әр позиция бір күндік кеден кеш
+  [cert      ][kk] sections[2].paras.kk[1]
+      MATCH: сертификат
+      CTX  : н инспекторы ең алдымен осы байланысты тексереді. Тағы бір жиі қате — сертификаттағы заңды тұлға атауының нақты импортерге сәйкеспеуі. Сондықтан құжат
+  [cert      ][kk] sections[2].paras.kk[2]
+      MATCH: сертификат
+      CTX  : Бұл кестеге ескертпе. Біріншіден, схемалар әртүрлі: сериялық сертификат өнім желісін жарамдылық мерзімі бойынша қамтиды, партиялық сертификац
+  [cert      ][kk] sections[2].paras.kk[3]
+      MATCH: сертификат
+      CTX  : практикалық кеңес: құжаттарды жобаның бір файлдық архивінде ұстаңыз — сертификат, тексеру есептері, маркировка макеті мен келісімшарт бірге. Кеденде қ
+  [cert      ][uz] sections[2].paras.uz[0]
+      MATCH: Sertifikat
+      CTX  : Sertifikatlash hujjat ishi. Quyidagi to'plam — mos mebel yetkazib beruvchisi ser
+  [cert      ][uz] sections[2].paras.uz[1]
+      MATCH: sertifikat
+      CTX  : tlari to'g'ri tovar guruhiga tegishlimi, markirovka tillari tayyormi, sertifikat muddati yuk kelgunicha amal qiladimi. Har bir qator bir kunlik bojxon
+  [cert      ][uz] sections[2].paras.uz[2]
+      MATCH: sertifikat
+      CTX  : Ushbu jadvalga ikki izoh. Birinchidan, sxemalar har xil: seriyali sertifikat mahsulot liniyasini amal qilish muddati bo'yicha qamrab oladi, partiy
+  [cert      ][uz] sections[2].paras.uz[2]
+      MATCH: sertifikat
+      CTX  : ahsulot liniyasini amal qilish muddati bo'yicha qamrab oladi, partiya sertifikatlashi esa hujjatlarni bitta yuborish va shartnomaga bog'laydi — yuk ri
+  [cert      ][en] sections[3].paras.en[0]
+      MATCH: certificat
+      CTX  : for the wrong product group, labeling missing in Russian or Kazakh, a certificate that expired before the shipment arrived, or documents naming a lega
+  [cert      ][en] sections[3].paras.en[1]
+      MATCH: certificat
+      CTX  : All of these are avoided with one habit: agree the certification plan at contract stage. A factory that ships regularly to EAC mark
+  [cert      ][en] sections[3].paras.en[1]
+      MATCH: EAC
+      CTX  : rtification plan at contract stage. A factory that ships regularly to EAC markets builds the paperwork into the production schedule, so documen
+  [cert      ][en] sections[3].paras.en[2]
+      MATCH: certificat
+      CTX  : y, the importer and a third-party agent each assume another holds the certificate, the shipment discovers the gap at the border. Assign the certificat
+  [cert      ][en] sections[3].paras.en[2]
+      MATCH: certificat
+      CTX  : certificate, the shipment discovers the gap at the border. Assign the certification file to a named owner on both sides, review it at the same milesto
+  [cert      ][en] sections[3].paras.en[3]
+      MATCH: EAC
+      CTX  : gainst a documented packing list — a habit that transfers directly to EAC markets, where documents and cargo are checked with equal attention. 
+  [named     ][en] sections[3].paras.en[3]
+      MATCH: Hilton
+      CTX  : The same discipline carried our Hilton Tashkent delivery, where every carton arrived against a documented pa
+  [cert      ][kk] sections[3].paras.kk[0]
+      MATCH: сертификат
+      CTX  : емесе қазақша маркировканың болмауы, жүк келуіне дейін мерзімі біткен сертификат немесе құжаттардағы заңды тұлғаның файлдағы импортерге сәйкес келмеуі
+  [cert      ][kk] sections[3].paras.kk[0]
+      MATCH: EAC
+      CTX  :  орыс және қазақ тілінде болуы міндетті. Өзбекстанға жөнелтілетін жүк EAC режиміне кірмейді, бірақ ол жақта ұлттық талаптарды алдын ала растау 
+  [cert      ][kk] sections[3].paras.kk[1]
+      MATCH: EAC
+      CTX  : әдет сақтайды: сертификациялау жоспарын келісімшарт кезеңінде келісу. EAC нарықтарына тұрақты жөнелтіп отыратын зауыт құжаттаманы өндіріс кесте
+  [cert      ][kk] sections[3].paras.kk[2]
+      MATCH: сертификат
+      CTX  : роцестің иелігі. Зауыт, импортер мен үшінші тарап агентінің әрқайсысы сертификатты біреуі ұстайды деп есептесе, жүк осы алшақтықты шекарада біледі. Се
+  [cert      ][kk] sections[3].paras.kk[3]
+      MATCH: EAC
+      CTX  : ізімімен келді — бұл әдет құжаттар мен жүк бірдей мұқият тексерілетін EAC нарықтарына тікелей ауыседі. Өңір сатып алушысы сілтемені уәде емес, 
+  [named     ][kk] sections[3].paras.kk[3]
+      MATCH: Hilton
+      CTX  : Осындай тәртіп Hilton Tashkent жеткізуімізде де сақталды: әр қорап құжатталған орау тізімім
+  [cert      ][uz] sections[3].paras.uz[0]
+      MATCH: sertifikat
+      CTX  : ilidagi markirovkaning yo'qligi, yuk kelishidan oldin muddati tugagan sertifikat yoki hujjatlarda ko'rsatilgan yuridik shaxsning ro'yxatdagi importchi
+  [cert      ][uz] sections[3].paras.uz[1]
+      MATCH: sertifikat
+      CTX  : Buning barchasidan bitta odat saqlaydi: sertifikatlash rejasini shartnoma bosqichida kelishish. EAC bozorlariga muntazam
+  [cert      ][uz] sections[3].paras.uz[1]
+      MATCH: EAC
+      CTX  : dat saqlaydi: sertifikatlash rejasini shartnoma bosqichida kelishish. EAC bozorlariga muntazam yuboradigan zavod hujjatlarni ishlab chiqarish j
+  [cert      ][uz] sections[3].paras.uz[2]
+      MATCH: sertifikat
+      CTX  : rayon egaligi. Zavod, importchi va uchinchi tomon agentining har biri sertifikatni boshqasi saqlaydi deb hisoblasa, yuk bu bo'shliqni chegarada biladi
+  [cert      ][uz] sections[3].paras.uz[2]
+      MATCH: Sertifikat
+      CTX  :  boshqasi saqlaydi deb hisoblasa, yuk bu bo'shliqni chegarada biladi. Sertifikatlash faylini ikkala tomonda ham nomlangan mas'ulga biriktiring, uni is
+  [cert      ][uz] sections[3].paras.uz[3]
+      MATCH: EAC
+      CTX  :  odat hujjatlar ham, yuk ham bir xil sinchiklik bilan tekshiriladigan EAC bozorlariga bevosita o'tadi. Mintaqa xaridori havolani va'da emas, no
+  [named     ][uz] sections[3].paras.uz[3]
+      MATCH: Hilton
+      CTX  : Xuddi shu tartib Hilton Tashkent yetkazishimizda ham saqlandi: har bir quti hujjatlashtirilga
+  [cert      ][en] sections[4].paras.en[0]
+      MATCH: certificat
+      CTX  : nd delivery city to our [project team](contact) — we will confirm the certification route for your market, the production schedule, and freight option
+  [cert      ][en] sections[4].paras.en[1]
+      MATCH: certificat
+      CTX  : A certification conversation is quick when both sides know the corridor: send the 
+  [cert      ][en] sections[4].paras.en[1]
+      MATCH: certificat
+      CTX  : he room list, destination city and delivery window, and we return the certification route, container plan and freight options in one response. Most pr
+  [cert      ][kk] sections[4].paras.kk[0]
+      MATCH: сертификат
+      CTX  : жобалық командамызға](contact) жіберіңіз — біз мақсатты нарыққа қажет сертификаттау бағытын, өндіріс кестесін және теміржол немесе автокөлік бағыттары
+  [cert      ][uz] sections[4].paras.uz[0]
+      MATCH: sertifikat
+      CTX  : iy Osiyo bo'lsa, xonalar ro'yxatini va yetkazish shaharini yuboring — sertifikatlash yo'nalishini, ishlab chiqarish jadvalini hamda temir yo'l (yetkaz
+  [cert      ][uz] sections[4].paras.uz[1]
+      MATCH: Sertifikat
+      CTX  : Sertifikatlash suhbati ikkala tomon yo'nalishni bilganda tez o'tadi: xonalar ro'
+  [cert      ][uz] sections[4].paras.uz[1]
+      MATCH: sertifikat
+      CTX  : aharini va yetkazish oynasini [loyiha jamoamizga](contact) yuboring — sertifikatlash yo'nalishini, konteyner rejasini va yuk variantlarini bitta javob
+  [cert      ][en] tables[0].rows.en[1][1]
+      MATCH: Compliance
+      CTX  : Compliance with TR CU 025 safety values
+  [cert      ][en] tables[0].rows.en[1][2]
+      MATCH: EAC
+      CTX  : Accredited EAC laboratory
+  [cert      ][en] tables[0].rows.en[2][0]
+      MATCH: Certificat
+      CTX  : Certificate or declaration of conformity
+  [cert      ][en] tables[0].rows.en[2][1]
+      MATCH: EAC
+      CTX  : Right to affix the EAC mark
+  [cert      ][en] tables[0].rows.en[2][2]
+      MATCH: Certificat
+      CTX  : Certification body
+  [cert      ][en] tables[0].rows.en[4][1]
+      MATCH: compliance
+      CTX  : Market-place compliance
+  [cert      ][en] tables[0].rows.en[5][1]
+      MATCH: certificat
+      CTX  : Basis of certification
+  [cert      ][kk] tables[0].rows.kk[1][2]
+      MATCH: EAC
+      CTX  : Аккредиттелген EAC зертханасы
+  [cert      ][kk] tables[0].rows.kk[2][0]
+      MATCH: сертификат
+      CTX  : Сәйкестік сертификаты немесе декларациясы
+  [cert      ][kk] tables[0].rows.kk[2][1]
+      MATCH: EAC
+      CTX  : EAC көрсеткішін қою құқығы
+  [cert      ][uz] tables[0].rows.uz[1][2]
+      MATCH: EAC
+      CTX  : Akkreditlangan EAC laboratoriyasi
+  [cert      ][uz] tables[0].rows.uz[2][0]
+      MATCH: sertifikat
+      CTX  : Moslik sertifikati yoki deklaratsiyasi
+  [cert      ][uz] tables[0].rows.uz[2][1]
+      MATCH: EAC
+      CTX  : EAC belgisini qo'yish huquqi
+  [cert      ][uz] tables[0].rows.uz[2][2]
+      MATCH: Sertifikat
+      CTX  : Sertifikatlash organi
+  [cert      ][uz] tables[0].rows.uz[5][1]
+      MATCH: Sertifikat
+      CTX  : Sertifikatlash asosi
+  [cert      ][en] tag.en
+      MATCH: Compliance
+      CTX  : Compliance guide
+  [cert      ][en] takeaways.en[1]
+      MATCH: EAC
+      CTX  : The EAC mark is supported either by a certificate (serial production) or a de
+  [cert      ][en] takeaways.en[1]
+      MATCH: certificat
+      CTX  : The EAC mark is supported either by a certificate (serial production) or a declaration of conformity.
+  [cert      ][en] takeaways.en[2]
+      MATCH: certificat
+      CTX  : Test reports come from accredited laboratories; the certificate or declaration itself is issued by a certification body.
+  [cert      ][en] takeaways.en[2]
+      MATCH: certificat
+      CTX  : ed laboratories; the certificate or declaration itself is issued by a certification body.
+  [cert      ][en] takeaways.en[4]
+      MATCH: EAC
+      CTX  : The documents required for a shipment into EAC markets are confirmed per order, against the destination market's rul
+  [cert      ][kk] takeaways.kk[1]
+      MATCH: EAC
+      CTX  : EAC көрсеткіші сертификат (сериялық өндіріс) немесе сәйкестік декларацияс
+  [cert      ][kk] takeaways.kk[1]
+      MATCH: сертификат
+      CTX  : EAC көрсеткіші сертификат (сериялық өндіріс) немесе сәйкестік декларациясы арқылы бекітіледі.
+  [cert      ][kk] takeaways.kk[2]
+      MATCH: сертификат
+      CTX  : Тексеру есептері аккредиттелген зертханадан, сертификат — сертификациялау органынан шығады.
+  [cert      ][kk] takeaways.kk[4]
+      MATCH: EAC
+      CTX  : EAC нарықтарына жөнелту үшін қажет құжаттар тапсырыс бойынша, мақсатты на
+  [cert      ][uz] takeaways.uz[1]
+      MATCH: EAC
+      CTX  : EAC belgisi sertifikat (seriyali ishlab chiqarish) yoki moslik deklaratsi
+  [cert      ][uz] takeaways.uz[1]
+      MATCH: sertifikat
+      CTX  : EAC belgisi sertifikat (seriyali ishlab chiqarish) yoki moslik deklaratsiyasi orqali berilad
+  [cert      ][uz] takeaways.uz[2]
+      MATCH: sertifikat
+      CTX  : Sinov hisobotlari akkreditlangan laboratoriyadan, sertifikat sertifikatlash organidan chiqadi.
+  [cert      ][uz] takeaways.uz[2]
+      MATCH: sertifikat
+      CTX  : Sinov hisobotlari akkreditlangan laboratoriyadan, sertifikat sertifikatlash organidan chiqadi.
+  [cert      ][uz] takeaways.uz[4]
+      MATCH: EAC
+      CTX  : EAC bozorlariga jo'natish uchun zarur hujjatlar buyurtma bo'yicha, maqsad
+  [cert      ][en] title.en
+      MATCH: EAC
+      CTX  : EAC TR CU 025/2011 Furniture Certification: Buyer's Guide
+  [cert      ][en] title.en
+      MATCH: Certificat
+      CTX  : EAC TR CU 025/2011 Furniture Certification: Buyer's Guide
+  [cert      ][kk] title.kk
+      MATCH: EAC
+      CTX  : EAC TR CU 025/2011 жиһаз сертификациясы: сатып алушыға арналған нұсқаулық
+  [cert      ][uz] title.uz
+      MATCH: EAC
+      CTX  : EAC TR CU 025/2011 mebel sertifikatsiyasi: xaridor uchun qo'llanma
+  [cert      ][uz] title.uz
+      MATCH: sertifikat
+      CTX  : EAC TR CU 025/2011 mebel sertifikatsiyasi: xaridor uchun qo'llanma
+
+### ffe-timeline   (15 hits)
+  [cert      ][en] faqs[2].a.en
+      MATCH: EAC
+      CTX  : s on the route and the customs queue. Kazakhstan-bound shipments need EAC conformity documents cleared before customs — the paperwork should ar
+  [cert      ][kk] faqs[2].a.kk
+      MATCH: EAC
+      CTX  : е TIR автокөлігімен жеткізіледі. Қазақстанға жөнелтулер кеденге дейін EAC сәйкестік құжаттарын талап етеді — құжаттар жүкпен бірге келуі керек.
+  [cert      ][uz] faqs[2].a.uz
+      MATCH: EAC
+      CTX  :  yo'l yoki TIR bilan. Qozog'istonga yuboriladigan yuklar bojxonagacha EAC moslik hujjatlarini talab qiladi — hujjatlar yuk bilan birga yetib bo
+  [named     ][en] faqs[3].a.en
+      MATCH: Hilton
+      CTX  : ed. This reduces pressure on site and is exactly how we delivered the Hilton Tashkent project.
+  [named     ][kk] faqs[3].a.kk
+      MATCH: Hilton
+      CTX  :  дайын болған сайын жетеді. Бұл орнату алаңдағы қысымды азайтады және Hilton Tashkent жобасында қолданылған тәсіл.
+  [named     ][uz] faqs[3].a.uz
+      MATCH: Hilton
+      CTX  :  bo'lgan sari yetadi. Bu o'rnatish maydonidagi bosimni kamaytiradi va Hilton Tashkent loyihasida qo'llangan yondashuvimiz.
+  [named     ][en] sections[3].paras.en[1]
+      MATCH: Hilton
+      CTX  :  arrives as rooms are prepared. This is exactly how we structured the Hilton Tashkent delivery, where installation windows were fixed by the opera
+  [named     ][en] sections[3].paras.en[2]
+      MATCH: Hilton
+      CTX  : uyer's team informed without slowing the line. This rhythm is how the Hilton Tashkent delivery ran, and it scales from 100 rooms to 500. A finishe
+  [named     ][kk] sections[3].paras.kk[1]
+      MATCH: Hilton
+      CTX  : ияларға бөлінеді, сондықтан жиһаз бөлмелер дайын болған сайын жетеді. Hilton Tashkent жеткізуін дәл осылай ұйымдастырдық, онда орнату терезелерін 
+  [named     ][kk] sections[3].paras.kk[2]
+      MATCH: Hilton
+      CTX  : қ фото есеп сатып алушы командасын сызықты баяндатпай хабардар етеді. Hilton Tashkent жеткізуі дәл осы ырғақпен жүрді және ол 100 бөлмеден 500 бөл
+  [named     ][uz] sections[3].paras.uz[1]
+      MATCH: Hilton
+      CTX  : a bo'linadi, shu bois mebel xonalar tayyor bo'lgan sari yetib boradi. Hilton Tashkent yetkazishini aynan shu tartibda tashkil qildik — u yerda o'r
+  [named     ][uz] sections[3].paras.uz[2]
+      MATCH: Hilton
+      CTX  : isobot xaridor jamoasini liniyani sekinlashtirmasdan xabardor qiladi. Hilton Tashkent yetkazishi aynan shu ritm bilan yuritildi va u 100 xonadan 5
+  [cert      ][en] sections[4].paras.en[0]
+      MATCH: EAC
+      CTX  : ends on the route and the customs queue. Customs paperwork, including EAC conformity for Kazakhstan-bound goods, should be prepared before load
+  [cert      ][kk] sections[4].paras.kk[0]
+      MATCH: EAC
+      CTX  : зіледі. Кеден құжаттары, оның ішінде Қазақстанға жөнелтілетін тауарға EAC сәйкестігі, тиектеу алдында, келуінен кейін емес, дайындалуы керек.
+  [cert      ][uz] sections[4].paras.uz[0]
+      MATCH: EAC
+      CTX  : an. Bojxona hujjatlari, jumladan Qozog'istonga ketayotgan tovar uchun EAC mosligi, yuklashdan oldin — kelgandan keyin emas — tayyorlanishi kera
+
+### guestroom-checklist   (46 hits)
+  [named     ][en] definition.en
+      MATCH: five-star
+      CTX  : A five-star guestroom needs a defined FF&E set: bed and headboard, two nightstand
+  [named     ][kk] definition.kk
+      MATCH: Бес жұлдыз
+      CTX  : Бес жұлдызды қонақбөлме белгіленген FF&E жиынтығын қажет етеді: төсек және төсек
+  [named     ][uz] definition.uz
+      MATCH: Besh yulduz
+      CTX  : Besh yulduzli mehmon xonasi aniq belgilangan FF&E to'plamini talab qiladi: krovat
+  [named     ][en] excerpt.en
+      MATCH: five-star
+      CTX  : The complete five-star guestroom FF&E checklist: bed, headboard, desk, wardrobe, luggage rac
+  [named     ][kk] excerpt.kk
+      MATCH: Бес жұлдыз
+      CTX  : Бес жұлдызды қонақбөлменің толық FF&E тізімі: төсек, төсек басы, үстел, киім шка
+  [named     ][uz] excerpt.uz
+      MATCH: Besh yulduz
+      CTX  : Besh yulduzli mehmon xonasining to'liq FF&E ro'yxati: krovat, krovat etagi, stol,
+  [named     ][en] faqs[0].q.en
+      MATCH: five-star
+      CTX  : What furniture does a five-star hotel room need?
+  [named     ][kk] faqs[0].q.kk
+      MATCH: Бес жұлдыз
+      CTX  : Бес жұлдызды қонақүй бөлмесіне қандай жиһаз керек?
+  [named     ][uz] faqs[0].q.uz
+      MATCH: Besh yulduz
+      CTX  : Besh yulduzli mehmonxona xonasiga qanday mebel kerak?
+  [named     ][en] faqs[1].q.en
+      MATCH: five-star
+      CTX  : What bed size fits a five-star room?
+  [named     ][kk] faqs[1].q.kk
+      MATCH: Бес жұлдыз
+      CTX  : Бес жұлдызды бөлмеге төсек өлшемі қандай?
+  [named     ][uz] faqs[1].q.uz
+      MATCH: Besh yulduz
+      CTX  : Besh yulduzli xona uchun krovat o'lchami qanday?
+  [commercial][kk] faqs[2].a.kk
+      MATCH: 48 сағат
+      CTX  : қтан нақты бағаны бөлме тізімі негізінде ұсынамыз: тізімді жіберіңіз, 48 сағат ішінде баға аласыз.
+  [commercial][uz] faqs[2].a.uz
+      MATCH: 48 soat
+      CTX  : i aniq taklifni xonalar ro'yxati asosida beramiz: ro'yxatni yuboring, 48 soat ichida javob olasiz.
+  [named     ][en] faqs[2].q.en
+      MATCH: five-star
+      CTX  : How much does a five-star guestroom FF&E package cost?
+  [named     ][kk] faqs[2].q.kk
+      MATCH: Бес жұлдыз
+      CTX  : Бес жұлдызды бөлменің FF&E жиынтығы қанша тұрады?
+  [named     ][uz] faqs[2].q.uz
+      MATCH: Besh yulduz
+      CTX  : Besh yulduzli xonaning FF&E to'plami qancha turadi?
+  [named     ][en] imageAlt.en
+      MATCH: Five-star
+      CTX  : Five-star hotel guestroom interior with panoramic window
+  [named     ][kk] imageAlt.kk
+      MATCH: бес жұлдыз
+      CTX  : Панорамалық терезесі бар бес жұлдызды қонақүй бөлмесінің интерьері
+  [named     ][uz] imageAlt.uz
+      MATCH: besh yulduz
+      CTX  : Panoramik oynali besh yulduzli mehmonxona xonasi interyeri
+  [named     ][en] sections[0].paras.en[0]
+      MATCH: Five-star
+      CTX  : bed is the largest object in the room and the one guests judge first. Five-star specifications typically call for a king bed or twin splits with a fu
+  [named     ][en] sections[0].paras.en[1]
+      MATCH: Hilton
+      CTX  : ring to the room's electrical layout, which is one of the details our Hilton Tashkent delivery had to satisfy at operator inspection.
+  [named     ][kk] sections[0].paras.kk[0]
+      MATCH: Бес жұлдыз
+      CTX  : Төсек — бөлмедегі ең үлкен зат және қонақ бірінші бағалайтын нәрсе. Бес жұлдызды спецификацияда әдетте толық қапталған төсек басы бар король төсегі 
+  [named     ][kk] sections[0].paras.kk[1]
+      MATCH: Hilton
+      CTX  : бүйірінің электр сымдарын бөлменің электр жоспарына сәйкес жасаймыз — Hilton Tashkent жеткізуінде инспекция дәл осыны талап еткен түйіндер.
+  [named     ][uz] sections[0].paras.uz[0]
+      MATCH: Besh yulduz
+      CTX  : dagi eng katta buyum va mehmon birinchi bo'lib aynan shuni baholaydi. Besh yulduzli spetsifikatsiyada odatda to'liq mato bilan qoplangan krovat etagi b
+  [named     ][uz] sections[0].paras.uz[1]
+      MATCH: Hilton
+      CTX  : a tunda stolining simlari xonaning elektr rejasiga moslab chiqiladi — Hilton Tashkent yetkazishida tekshiruv aynan shu detallarga qat'iy e'tibor b
+  [named     ][en] sections[1].paras.en[0]
+      MATCH: five-star
+      CTX  : A five-star wardrobe is usually a 180–240 cm run combining a hanging section with
+  [named     ][kk] sections[1].paras.kk[0]
+      MATCH: Бес жұлдыз
+      CTX  : Бес жұлдызды киім шкафы — әдетте ішкі жарығы бар ілгіш бөлім, сөрелер, аяқкиім с
+  [named     ][en] sections[2].paras.en[0]
+      MATCH: five-star
+      CTX  : an upholstered chair with non-marking glides, remains the standard in five-star rooms. Business travelers use it daily, and a wobbly desk generates g
+  [named     ][en] sections[2].paras.en[1]
+      MATCH: five-star
+      CTX  : e room quiet in both sound and appearance — a signature of restrained five-star interiors where nothing announces itself unnecessarily.
+  [named     ][en] sections[2].paras.en[2]
+      MATCH: five-star
+      CTX  : he guest a second place to sit that is not the bed — a marker of true five-star planning. Fabric selection is practical here: stain-resistant, high-r
+  [named     ][kk] sections[2].paras.kk[0]
+      MATCH: бес жұлдыз
+      CTX  :  жұмыс үстелі және еденге ізді қалдырмайтын төгіші бар жұмсақ орындық бес жұлдызды бөлмелерде стандарт болып қала береді. Іссапармен келгендер оны күн
+  [named     ][kk] sections[2].paras.kk[1]
+      MATCH: бес жұлдыз
+      CTX  : ыста да, көріністіде тыныш етеді — мұнымен шектен тыс безендірілмеген бес жұлдызды интерьердің қолтаңбасы.
+  [named     ][kk] sections[2].paras.kk[2]
+      MATCH: бес жұлдыз
+      CTX  : үстел қонаққа төсектен басқа екінші отыратын орын береді — бұл шынайы бес жұлдызды жоспарлаудың белгісі. Мата таңдау мұнда практикалық: даққа төзімді,
+  [named     ][uz] sections[2].paras.uz[0]
+      MATCH: besh yulduz
+      CTX  : n ish stoli hamda polga iz qoldirmaydigan g'ildirakchili yumshoq stul besh yulduzli xonalarda hozir ham standart hisoblanadi. Biznes safaridan kelgan m
+  [named     ][uz] sections[2].paras.uz[1]
+      MATCH: besh yulduz
+      CTX  : ham ko'rinishda sokin qiladi — dabdabasiz, lekin bebaholab qo'shilgan besh yulduzli interierning imzosi shu detallarda yashirin.
+  [named     ][uz] sections[2].paras.uz[2]
+      MATCH: besh yulduz
+      CTX  : monga krovatdan tashqari ikkinchi o'tirish joyini beradi — bu haqiqiy besh yulduzli rejalashtirish belgisidir. Mato tanlovi bu yerda amaliy: dog'ga chi
+  [named     ][en] sections[3].h.en
+      MATCH: five-star
+      CTX  : Which details do five-star inspections always check?
+  [named     ][kk] sections[3].h.kk
+      MATCH: Бес жұлдыз
+      CTX  : Бес жұлдызды инспекция әрдайым қандай егжей-тегжейді тексереді?
+  [named     ][uz] sections[3].h.uz
+      MATCH: Besh yulduz
+      CTX  : Besh yulduzli tekshiruv doim qanday detallarni ko'radi?
+  [named     ][en] takeaways.en[0]
+      MATCH: five-star
+      CTX  : The core of a five-star room is the bed block: a reinforced platform base and fully upholster
+  [named     ][kk] takeaways.kk[0]
+      MATCH: Бес жұлдыз
+      CTX  : Бес жұлдызды бөлменің негізі — төсек блогы: күнделікті жүктемеге арналған бекіті
+  [named     ][uz] takeaways.uz[0]
+      MATCH: Besh yulduz
+      CTX  : Besh yulduzli xonaning asosi krovat bloki: kundalik yuklamaga mo'ljallangan musta
+  [named     ][en] title.en
+      MATCH: Five-Star
+      CTX  : Five-Star Hotel Guestroom FF&E Checklist: 2026 Guide
+  [named     ][kk] title.kk
+      MATCH: Бес жұлдыз
+      CTX  : Бес жұлдызды қонақүй бөлмесінің FF&E тізімі: 2026 нұсқаулығы
+  [named     ][uz] title.uz
+      MATCH: Besh yulduz
+      CTX  : Besh yulduzli mehmonxona xonasi FF&E ro'yxati: 2026 qo'llanma
+
+### hotel-lobby-trends-2026   (14 hits)
+  [named     ][en] faqs[2].a.en
+      MATCH: Hilton
+      CTX  : re production starts. International-brand hotel projects, such as our Hilton Tashkent delivery, were executed exactly this way.
+  [named     ][kk] faqs[2].a.kk
+      MATCH: Hilton
+      CTX  : ар нақты үлгіде бекітіліп, ол келісімшарттық сапа эталонына айналады. Hilton Tashkent жеткізуіміз сияқты халықаралық деңгейдегі қонақүй жобалары д
+  [named     ][uz] faqs[2].a.uz
+      MATCH: Hilton
+      CTX  : qiqiy namunada biriktirilib, u shartnomaviy sifat etaloniga aylanadi. Hilton Tashkent yetkazishimiz kabi xalqaro darajadagi mehmonxona loyihalari 
+  [commercial][en] faqs[3].q.en
+      MATCH: minimum order
+      CTX  : Is there a minimum order for hotel furniture?
+  [named     ][en] sections[0].paras.en[2]
+      MATCH: Hilton
+      CTX  : Hymebel has manufactured on its own factory since 1996, with the Hilton Tashkent delivery in its portfolio. This review reads 2026 trends thr
+  [named     ][kk] sections[0].paras.kk[2]
+      MATCH: Hilton
+      CTX  : mebel 1996 жылдан бері өз зауытында өндіріс жүргізеді; портфолиосында Hilton Tashkent жеткізуі бар. Бұл шолу 2026 трендтерін өндіріс тұрғысынан оқ
+  [named     ][uz] sections[0].paras.uz[2]
+      MATCH: Hilton
+      CTX  : Hymebel 1996-yildan beri o'z zavodida ishlab chiqaradi; portfelida Hilton Tashkent yetkazib berishi bor. Bu sharh 2026 trendlarini ishlab chiqa
+  [commercial][uz] sections[1].paras.uz[2]
+      MATCH: moq
+      CTX  : o'rt ko'rinishdan og'irlik, iliq va abadiylik bildiradigan mebelga o'tmoqda.
+  [named     ][en] sections[3].paras.en[2]
+      MATCH: Hilton
+      CTX  : ction. Projects benchmarked against international brands, such as our Hilton Tashkent delivery, follow exactly this balance.
+  [named     ][kk] sections[3].paras.kk[2]
+      MATCH: Hilton
+      CTX  : ы; өңірлік талғам — көрнекі салмағы мен адал конструкциясы бар жиһаз. Hilton Tashkent жеткізуіміз сияқты халықаралық деңгейдегі жобалар дәл осы те
+  [named     ][uz] sections[3].paras.uz[2]
+      MATCH: Hilton
+      CTX  : ydi; hududiy did — vizual og'irlik va halol konstruksiyaga ega mebel. Hilton Tashkent yetkazishimiz kabi xalqaro darajadagi loyihalar aynan shu mu
+  [named     ][en] sections[4].paras.en[1]
+      MATCH: Hilton
+      CTX  : t of Hongye Furniture Group, has worked on hotel FF&E at the level of Hilton Tashkent since 1996. Tell us the concept; we will tell you honestly w
+  [named     ][kk] sections[4].paras.kk[1]
+      MATCH: Hilton
+      CTX  : mebel — Hongye Furniture Group құрамындағы зауыт, оның портфолиосында Hilton Tashkent деңгейіндегі қонақүй FF&E бар. Тұжырымдамаңызды айтыңыз — бі
+  [named     ][uz] sections[4].paras.uz[1]
+      MATCH: Hilton
+      CTX  : Hymebel — Hongye Furniture Group tarkibidagi zavod; portfelida Hilton Tashkent darajasidagi mehmonxona FF&E. Konsepsiyangizni ayting — lobb
+
+### logistics-tashkent-9days   (31 hits)
+  [cert      ][kk] excerpt.kk
+      MATCH: EAC
+      CTX  :  және құрлық бағыттары. Мерзім маршрут пен кеденге қарай нақтыланады. EAC құжаттарымен тапсырыс беру үшін бізге жазыңыз.
+  [cert      ][uz] excerpt.uz
+      MATCH: EAC
+      CTX  : yo'llarini solishtirish: temir yo'l, TIR mashina, dengiz va quruqlik. EAC hujjatlari bilan buyurtma uchun yozing.
+  [cert      ][en] faqs[1].a.en
+      MATCH: EAC
+      CTX  : Yes, EAC TR CU 025/2011 documents travel with every consignment. Invoice, pack
+  [cert      ][en] faqs[1].a.en
+      MATCH: certificat
+      CTX  : 11 documents travel with every consignment. Invoice, packing list and certificates are aligned with each other. This keeps customs delays to a minimum
+  [cert      ][kk] faqs[1].a.kk
+      MATCH: EAC
+      CTX  : Иә, EAC TR CU 025/2011 құжаттары әр жөнелтумен бірге жүреді. Инвойс, упаковка
+  [cert      ][kk] faqs[1].a.kk
+      MATCH: сертификат
+      CTX  : 011 құжаттары әр жөнелтумен бірге жүреді. Инвойс, упаковка парағы мен сертификаттар өзара сәйкестендірілген. Бұл кеденде кідірісті азайтады.
+  [cert      ][uz] faqs[1].a.uz
+      MATCH: EAC
+      CTX  : Ha, EAC TR CU 025/2011 hujjatlari har bir jo'natma bilan birga yuradi. Invoic
+  [cert      ][uz] faqs[1].a.uz
+      MATCH: sertifikat
+      CTX  : ari har bir jo'natma bilan birga yuradi. Invoice, upakovka varag'i va sertifikatlar bir-biri bilan moslashtirilgan. Bu bojxonada kechikishni kamaytira
+  [cert      ][en] faqs[1].q.en
+      MATCH: EAC
+      CTX  : Are EAC documents provided with the shipment?
+  [cert      ][kk] faqs[1].q.kk
+      MATCH: EAC
+      CTX  : Жүкпен бірге EAC құжаттары беріле ме?
+  [cert      ][uz] faqs[1].q.uz
+      MATCH: EAC
+      CTX  : Yuk bilan birga EAC hujjatlari beriladimi?
+  [commercial][uz] sections[0].paras.uz[2]
+      MATCH: moq
+      CTX  : natish kunidan orqaga qarab tuzilishi maqsadga muvofiq. 2026-yilgi tarmoq tadqiqotlariga ko'ra, Markaziy Osiyoga yo'naltirilgan Xitoy eksportid
+  [commercial][uz] sections[0].paras.uz[2]
+      MATCH: moq
+      CTX  : Xitoy eksportida temir yo'l sxemalari yetakchi tashish turi bo'lib bormoqda. Ishlab chiqaruvchi va logistika bir qo'lda bo'lganda, jadvaldagi y
+  [cert      ][en] sections[2].h.en
+      MATCH: EAC
+      CTX  : How EAC Documentation and Customs Actually Work
+  [cert      ][kk] sections[2].h.kk
+      MATCH: EAC
+      CTX  : EAC құжаттары және кеден процедуралары қалай жүреді
+  [cert      ][uz] sections[2].h.uz
+      MATCH: EAC
+      CTX  : EAC hujjatlari va bojxona protseduralari qanday kechadi
+  [cert      ][en] sections[2].paras.en[0]
+      MATCH: EAC
+      CTX  : Furniture entering Uzbekistan and Kazakhstan must comply with the EAC TR CU 025/2011 technical regulation. The document confirms material s
+  [cert      ][en] sections[2].paras.en[1]
+      MATCH: certificat
+      CTX  : rgo papers and the declaration is decisive. Invoice, packing list and certificate of origin must align item by item. Mismatches mean not only schedule
+  [cert      ][en] sections[2].paras.en[2]
+      MATCH: certificat
+      CTX  : The certification documents required for the order are agreed and travel with the ca
+  [cert      ][kk] sections[2].paras.kk[0]
+      MATCH: EAC
+      CTX  : Үзбекістан мен Қазақстанға кіретін жиһаз EAC TR CU 025/2011 техникалық регламентінің талаптарына сәйкес келуі кере
+  [cert      ][kk] sections[2].paras.kk[1]
+      MATCH: сертификат
+      CTX  : сәйкестігі шешуші болып табылады. Инвойс, упаковка парағы және өндіру сертификаты әр позиция бойынша сәйкес келуі қажет. Сәйкессіздік – тек мерзімнің 
+  [cert      ][kk] sections[2].paras.kk[2]
+      MATCH: сертификат
+      CTX  : Тапсырыс бойынша қажет сертификаттау құжаттары келісіліп, жүкпен бірге жүреді. Сонымен қатар, әр жөнелт
+  [cert      ][uz] sections[2].paras.uz[0]
+      MATCH: EAC
+      CTX  : O'zbekiston va Qozog'istonga kiradigan mebel EAC TR CU 025/2011 texnik reglamentining talablariga mos kelishi kerak. H
+  [cert      ][uz] sections[2].paras.uz[1]
+      MATCH: sertifikat
+      CTX  : l qiluvchi ahamiyatga ega. Invoice, upakovka varag'i va kelib chiqish sertifikati har bir pozitsiya bo'yicha mos kelishi lozim. Mos kelmaslik — nafaqa
+  [cert      ][uz] sections[2].paras.uz[2]
+      MATCH: sertifikat
+      CTX  : Buyurtma uchun zarur sertifikatlash hujjatlari kelishilib, yuk bilan birga yuradi. Bundan tashqari, h
+  [named     ][en] sections[4].paras.en[1]
+      MATCH: Hilton
+      CTX  : to review materials and execution level. The delivery planned for the Hilton Tashkent followed exactly this phased logic. The remaining volume the
+  [named     ][kk] sections[4].paras.kk[1]
+      MATCH: Hilton
+      CTX  : елтуді жүргізіп, материалдар мен орындалу дәрежесін көру. Ташкенттегі Hilton қонақ үйіне жасалған жеткізілімнің жоспарлануы дәл осындай фазалық ло
+  [named     ][uz] sections[4].paras.uz[1]
+      MATCH: Hilton
+      CTX  :  o'tkazib, materiallar va bajarilish darajasini ko'rish. Toshkentdagi Hilton mehmonxonasiga bajarilgan yetkazib berish rejasi aynan shunday fazavi
+  [cert      ][en] takeaways.en[3]
+      MATCH: EAC
+      CTX  : EAC TR CU 025/2011 documents travelling with the cargo prevent customs de
+  [cert      ][kk] takeaways.kk[3]
+      MATCH: EAC
+      CTX  : EAC TR CU 025/2011 құжаттары жүкпен бірге жүруі кеденде кідірісті болдырм
+  [cert      ][uz] takeaways.uz[3]
+      MATCH: EAC
+      CTX  : EAC TR CU 025/2011 hujjatlarining yuk bilan yurishi bojxona kechikishini 
+
+### marble-dining-tables-tashkent   (12 hits)
+  [commercial][uz] definition.uz
+      MATCH: moq
+      CTX  : , bayram va haftalik yig'ilishlar uchun uynining asosiy mebeliga aylanmoqda. Tanlashda tabiiy marmar va sintered toshni solishtirish, o'lchamni
+  [cert      ][en] faqs[2].a.en
+      MATCH: EAC
+      CTX  : he production schedule and transit time are confirmed with the order. EAC documents travel with the cargo, which reduces customs delays. The fu
+  [cert      ][uz] faqs[2].a.uz
+      MATCH: EAC
+      CTX  :  yo'l orqali Toshkentga yetkazish muddati buyurtma bilan belgilanadi. EAC hujjatlari yuk bilan birga beriladi, bojxona kechikishi kamayadi. To'
+  [commercial][uz] sections[0].paras.uz[2]
+      MATCH: moq
+      CTX  : a osh bilan ishlasa, sintered tosh kayfiyatni saqlaydi. 2026-yilgi tarmoq tadqiqotlariga ko'ra, Markaziy Osiyoda ikkala materialga bo'lgan tala
+  [commercial][uz] sections[0].paras.uz[2]
+      MATCH: moq
+      CTX  :  ko'ra, Markaziy Osiyoda ikkala materialga bo'lgan talab ham o'sib bormoqda.
+  [commercial][uz] sections[2].paras.uz[2]
+      MATCH: moq
+      CTX  : 2026-yilgi tarmoq tadqiqotlariga ko'ra, O'zbekistondagi yangi uylarning maydoni o'sib b
+  [commercial][uz] sections[2].paras.uz[2]
+      MATCH: moq
+      CTX  : adqiqotlariga ko'ra, O'zbekistondagi yangi uylarning maydoni o'sib bormoqda va oilaviy yig'ilishlarga mo'ljallangan keng oshxona makonlari ko'p
+  [commercial][uz] sections[2].paras.uz[2]
+      MATCH: moq
+      CTX  :  va oilaviy yig'ilishlarga mo'ljallangan keng oshxona makonlari ko'paymoqda. Bu aynan 8-10 o'rinli stollarga bo'lgan talabni tushuntiradi. Tant
+  [named     ][en] sections[4].paras.en[0]
+      MATCH: Hilton
+      CTX  : livers projects to several markets. The furniture we delivered to the Hilton Tashkent is concrete proof that we work to hospitality standards.
+  [named     ][kk] sections[4].paras.kk[0]
+      MATCH: Hilton
+      CTX  : рлі нарықтарға жобалар жеткізеді. Тәжірибеміздің дәлелі — Ташкенттегі Hilton қонақ үйіне орындаған жиһаз жобамыз: ол мейрамхана стандарттарында жұ
+  [named     ][uz] sections[4].paras.uz[0]
+      MATCH: Hilton
+      CTX  : urli bozorlarga loyihalar yetkazadi. Tajribamiz dalili — Toshkentdagi Hilton mehmonxonasi uchun bajarilgan mebel loyihasi: u mehmonxona standartla
+  [cert      ][uz] sections[4].paras.uz[1]
+      MATCH: EAC
+      CTX  : hkentga yetkazish muddati buyurtma bilan belgilanadi. Yuk bilan birga EAC TR CU 025/2011 hujjatlari beriladi. Ovqat stolidan tashqari butun int
+
+### moq-pricing-guide   (62 hits)
+  [commercial][en] definition.en
+      MATCH: MOQ
+      CTX  : MOQ (minimum order quantity) is the smallest volume a factory will accept
+  [commercial][en] definition.en
+      MATCH: minimum order
+      CTX  : MOQ (minimum order quantity) is the smallest volume a factory will accept in one order —
+  [commercial][en] definition.en
+      MATCH: MOQ
+      CTX  : n of production batching and container economics. This guide explains MOQ logic, price structure, freight costs, payment terms and pre-shipment
+  [commercial][kk] definition.kk
+      MATCH: MOQ
+      CTX  : MOQ (ең аз тапсырыс көлемі) — зауыттың бір тапсырыста қабылдайтын ең аз с
+  [commercial][kk] definition.kk
+      MATCH: MOQ
+      CTX  : тің партиялау және контейнер экономикасымен анықталады. Бұл нұсқаулық MOQ логикасын, бағаның құрылымын, жүк шығындарын, төлем шарттарын және жө
+  [commercial][uz] definition.uz
+      MATCH: MOQ
+      CTX  : MOQ (eng kam buyurtma hajmi) — zavodning bitta buyurtmada qabul qiladigan
+  [commercial][uz] definition.uz
+      MATCH: MOQ
+      CTX  : yalashuvi va konteyner ekonomikasi bilan belgilanadi. Ushbu qo'llanma MOQ mantiqini, narx tuzilmasini, yuk xarajatlarini, to'lov shartlari va y
+  [commercial][en] excerpt.en
+      MATCH: MOQ
+      CTX  : How MOQ forms at a Chinese furniture factory, what drives the unit price, and
+  [commercial][kk] excerpt.kk
+      MATCH: MOQ
+      CTX  : MOQ зауытта қалай қалыптасады, бірлік бағаны не анықтайды, жүк түпкі құнд
+  [commercial][uz] excerpt.uz
+      MATCH: MOQ
+      CTX  : MOQ zavodda qanday shakllanadi, birlik narxni nima belgilaydi, temir yo'l
+  [commercial][en] faqs[0].a.en
+      MATCH: MOQ
+      CTX  : oot container (about 50–60 m³ of packed furniture), with single-model MOQs of 10–50 pieces. On repeat orders, where packaging and tooling alrea
+  [commercial][kk] faqs[0].a.kk
+      MATCH: MOQ
+      CTX  : нерден (шамамен 50–60 м³ қапталған жиһаз) басталады, бір үлгі бойынша MOQ 10–50 дана аралығында. Қайталанған тапсырыстарда, қаптама мен техноло
+  [commercial][uz] faqs[0].a.uz
+      MATCH: MOQ
+      CTX  : taxminan 50–60 m³ qadoqlangan mebel) boshlanadi, bitta model bo'yicha MOQ 10–50 dona oralig'ida. Qayta buyurtmalarda qadoq va texnologik tayyor
+  [commercial][en] faqs[0].q.en
+      MATCH: MOQ
+      CTX  : What is a typical MOQ at a Chinese furniture factory?
+  [commercial][kk] faqs[0].q.kk
+      MATCH: MOQ
+      CTX  : Қытай жиһаз зауытына тән MOQ қандай?
+  [commercial][uz] faqs[0].q.uz
+      MATCH: MOQ
+      CTX  : Xitoy mebel zavodiga xos MOQ qanday?
+  [commercial][shared] id
+      MATCH: moq
+      CTX  : moq-pricing-guide
+  [commercial][shared] image
+      MATCH: moq
+      CTX  : /images/blog/moq-pricing-guide.webp
+  [commercial][en] sections[0].h.en
+      MATCH: MOQ
+      CTX  : Short answer: MOQ follows container economics, not policy
+  [commercial][kk] sections[0].h.kk
+      MATCH: MOQ
+      CTX  : Қысқа жауап: MOQ контейнер экономикасымен анықталады, ережемен емес
+  [commercial][uz] sections[0].h.uz
+      MATCH: MOQ
+      CTX  : Qisqa javob: MOQ konteyner ekonomikasi bilan belgilanadi, qoida bilan emas
+  [commercial][en] sections[0].paras.en[0]
+      MATCH: MOQ
+      CTX  : For Central Asian buyers, MOQ at a Chinese furniture factory is set by container economics and prod
+  [commercial][en] sections[0].paras.en[0]
+      MATCH: MOQ
+      CTX  : high-cube container (roughly 50–60 m³ of packed furniture), while the MOQ for a single model typically ranges from 10 to 50 pieces depending on
+  [commercial][en] sections[0].paras.en[1]
+      MATCH: MOQ
+      CTX  : an both be viable. Distributors, hotels and contractors each meet the MOQ differently, and the difference is mostly container arithmetic: the b
+  [commercial][en] sections[0].paras.en[2]
+      MATCH: MOQ
+      CTX  :  factory to international markets since 1996. This guide explains how MOQ and pricing actually form, what moves the unit price, and how freight
+  [commercial][kk] sections[0].paras.kk[0]
+      MATCH: MOQ
+      CTX  : Орталық Азия сатып алушылары үшін қытайлық жиһаз зауытындағы MOQ еркін қойылған ереже емес, контейнер экономикасы мен өндірістің парти
+  [commercial][kk] sections[0].paras.kk[0]
+      MATCH: MOQ
+      CTX  :  (қапталған жиһаздың шамамен 50–60 м³) басталады, ал бір үлгі бойынша MOQ өлшемі мен жабын күрделілігіне қарай әдетте 10-нан 50 данаға дейінгі 
+  [commercial][kk] sections[0].paras.kk[1]
+      MATCH: MOQ
+      CTX  : ы да мағыналы бола алады. Дистрибьюторлар, қонақүйлер мен мердігерлер MOQ-мен әртүрлі кездеседі, ал айырма негізінен контейнер арифметикасында:
+  [commercial][kk] sections[0].paras.kk[2]
+      MATCH: MOQ
+      CTX  : уытынан әртүрлі халықаралық нарықтарға жиһаз жөнелтеді. Бұл нұсқаулық MOQ мен бағаның нақты қалай қалыптасатынын, бірлік бағасын не жылжытатыны
+  [commercial][uz] sections[0].paras.uz[0]
+      MATCH: MOQ
+      CTX  : Markaziy Osiyo xaridorlari uchun Xitoy mebel zavodidagi MOQ ixtiyoriy qoida emas, konteyner ekonomikasi va ishlab chiqarish parti
+  [commercial][uz] sections[0].paras.uz[0]
+      MATCH: MOQ
+      CTX  : qlangan mebelning taxminan 50–60 m³) boshlanadi, bitta model bo'yicha MOQ esa o'lcham va qoplama murakkabligiga qarab odatda 10 dan 50 donagach
+  [commercial][uz] sections[0].paras.uz[1]
+      MATCH: MOQ
+      CTX  : mazmunli bo'lishi mumkin. Distribyutorlar, mehxonalar va pudratchilar MOQ bilan har xil uchrashadi, farq esa asosan konteyner arifmetikasida: k
+  [commercial][uz] sections[0].paras.uz[2]
+      MATCH: MOQ
+      CTX  : 'z zavodidan turli xalqaro bozorlarga mebel yuboradi. Ushbu qo'llanma MOQ va narxning aslida qanday shakllanishini, birlik narxni nima harakatg
+  [commercial][en] sections[1].h.en
+      MATCH: MOQ
+      CTX  : How MOQ actually works in production
+  [commercial][kk] sections[1].h.kk
+      MATCH: MOQ
+      CTX  : MOQ өндірісте шынымен қалай жұмыс істейді
+  [commercial][uz] sections[1].h.uz
+      MATCH: MOQ
+      CTX  : MOQ ishlab chiqarishda aslida qanday ishlaydi
+  [commercial][en] sections[1].paras.en[1]
+      MATCH: MOQ
+      CTX  : assortment of several models per container. Repeat orders carry lower MOQs because packaging and tooling already exist: known models can run fr
+  [commercial][en] sections[1].paras.en[2]
+      MATCH: MOQ
+      CTX  : s and scheduled into the production schedule. Do not ask for per-item MOQs here — the questions that matter are the value threshold and schedul
+  [commercial][kk] sections[1].paras.kk[0]
+      MATCH: MOQ
+      CTX  : 30 позицияны араластыру — арзан әрі ықшам жеткізудің негізгі жолы, ол MOQ шектеуін де әлсіретеді.
+  [commercial][kk] sections[1].paras.kk[1]
+      MATCH: MOQ
+      CTX  : е бірнеше үлгіден аралас ассортимент жинау. Қайталанған тапсырыстарда MOQ төмендейді, себебі қаптама мен технологиялық дайындық бар: таныс үлгі
+  [commercial][kk] sections[1].paras.kk[2]
+      MATCH: MOQ
+      CTX  : рмен бекітіліп, өндіріс кестесіне орналастырылады. Мұнда әр позицияға MOQ сұрамаңыз — басты сұрақ құн шегі мен кесте сәйкестігі. Үлгілер мақұлд
+  [commercial][uz] sections[1].paras.uz[0]
+      MATCH: MOQ
+      CTX  :  aralashtirish tejamli va tartibli yetkazishning asosiy yo'li bo'lib, MOQ cheklovini ham yumshatadi.
+  [commercial][uz] sections[1].paras.uz[1]
+      MATCH: MOQ
+      CTX  : a bir necha modeldan aralash assortiment yig'ish. Qayta buyurtmalarda MOQ pasayadi, chunki qadoq va texnologik tayyorgarlik mavjud: tanish mode
+  [commercial][uz] sections[1].paras.uz[2]
+      MATCH: MOQ
+      CTX  : hiqarish jadvaliga rejalashtiriladi. Bunda har bir pozitsiya bo'yicha MOQ so'ramang — asosiy savol qiymat chegari va jadval mosligi. Namunalar 
+  [cert      ][en] sections[2].paras.en[1]
+      MATCH: compliance
+      CTX  : y typically reduces unit price by 10–25 percent. The second factor is compliance: shipments to Kazakhstan require EAC TR CU 025/2011 documentation, wh
+  [cert      ][en] sections[2].paras.en[1]
+      MATCH: EAC
+      CTX  : ent. The second factor is compliance: shipments to Kazakhstan require EAC TR CU 025/2011 documentation, whose cost is marginal per unit at cont
+  [cert      ][kk] sections[2].paras.kk[1]
+      MATCH: EAC
+      CTX  : пайызға түсіреді. Екінші фактор — сәйкестік: Қазақстанға жөнелтулерде EAC TR CU 025/2011 құжаттамасы қажет, оның құны контейнер көлемдерінде бі
+  [cert      ][uz] sections[2].paras.uz[1]
+      MATCH: EAC
+      CTX  : ytiradi. Ikkinchi omil — moslik: Qozog'istonga yuboriladigan yuklarda EAC TR CU 025/2011 hujjatlari talab qilinadi, uning xarajati konteyner ha
+  [cert      ][en] sections[3].paras.en[1]
+      MATCH: EAC
+      CTX  : r cubic metre on some lanes but significantly slower. For Kazakhstan, EAC documents must be ready before the container is loaded. For a full re
+  [cert      ][kk] sections[3].paras.kk[1]
+      MATCH: EAC
+      CTX  : шаққанда күрт өсіреді. Қазақстан бағытында контейнер тиектелмей тұрып EAC құжаттары дайын болуы керек. Маршрут таңдауын [Ташкентке теміржол жет
+  [cert      ][uz] sections[3].paras.uz[1]
+      MATCH: EAC
+      CTX  : skin oshiradi. Qozog'iston yo'nalishida konteyner yuklanishidan oldin EAC hujjatlari tayyor bo'lishi shart. Marshrut tanlovini [Toshkentga temi
+  [named     ][en] sections[4].paras.en[1]
+      MATCH: Hilton
+      CTX  : checked against the packing list. Exactly this discipline carried our Hilton Tashkent delivery. Start by sending your bill of quantities or room l
+  [commercial][kk] sections[4].paras.kk[1]
+      MATCH: MOQ
+      CTX  : сырысты [жобалық командамызға](contact) жіберуден бастаңыз — сметаны, MOQ құрылымын және жүк жоспарын бір жауапта қайтарамыз. Мақұлдау этабында
+  [named     ][kk] sections[4].paras.kk[1]
+      MATCH: Hilton
+      CTX  : ен жүргізіледі, әр қорап орау тізімімен салыстырылады. Дәл осы тәртіп Hilton Tashkent жеткізуімізде сақталды. Тапсырысты [жобалық командамызға](co
+  [commercial][uz] sections[4].paras.uz[1]
+      MATCH: MOQ
+      CTX  : yurtmani [loyiha jamoamizga](contact) yuborishdan boshlang — smetani, MOQ tuzilmasini va yuk rejasini bitta javobda qaytaramiz. Tasdiqlash bosq
+  [named     ][uz] sections[4].paras.uz[1]
+      MATCH: Hilton
+      CTX  :  har bir quti yuklama ro'yxati bilan solishtiriladi. Aynan shu tartib Hilton Tashkent yetkazishimizda saqlandi. Buyurtmani [loyiha jamoamizga](con
+  [commercial][en] takeaways.en[0]
+      MATCH: MOQ
+      CTX  : MOQ follows production batching: mixed orders start from one 40-foot cont
+  [commercial][kk] takeaways.kk[0]
+      MATCH: MOQ
+      CTX  : MOQ өндірістің партиялауымен анықталады: аралас тапсырыс бір 40 футтық ко
+  [commercial][uz] takeaways.uz[0]
+      MATCH: MOQ
+      CTX  : MOQ ishlab chiqarish partiyalashuviga bog'liq: aralash buyurtma bitta 40 
+  [commercial][en] title.en
+      MATCH: MOQ
+      CTX  : Importing Furniture from China: MOQ and Price Guide for Importers
+  [commercial][kk] title.kk
+      MATCH: MOQ
+      CTX  : Қытайдан жиһаз импорты: MOQ және баға бойынша нұсқаулық
+  [commercial][uz] title.uz
+      MATCH: MOQ
+      CTX  : Xitoydan mebel importi: MOQ va narx bo'yicha qo'llanma
+
+### office-furniture-astana   (31 hits)
+  [cert      ][en] definition.en
+      MATCH: EAC
+      CTX  : porate supply process built on a fixed cost per workstation, verified EAC TR CU 025/2011 conformity and the agreed production schedule.
+  [cert      ][kk] definition.kk
+      MATCH: EAC
+      CTX  : Астана офис жиһазын сатып алу — жұмыс орнына шығынды белгілеу, EAC TR CU 025/2011 сәйкестігін тексеру және өндіріс кестесін келісу арқыл
+  [cert      ][uz] definition.uz
+      MATCH: EAC
+      CTX  : Astana ofis mebeli xaridi — ish o'rniga xarajatni belgilash, EAC TR CU 025/2011 mosligini tekshirish va ishlab chiqarish jadvalini kel
+  [cert      ][en] excerpt.en
+      MATCH: EAC
+      CTX  : How to buy office furniture in Astana: cost per workstation, EAC documents, a production schedule confirmed with the order and deliver
+  [cert      ][kk] excerpt.kk
+      MATCH: EAC
+      CTX  : Астанада офис жиһазын қалай сатып алу керек: жұмыс орнына шығын, EAC құжаттары, өндіріс кестесі және жеткізу — Hymebel зауыттық тәжірибесі
+  [cert      ][uz] excerpt.uz
+      MATCH: EAC
+      CTX  : stanada ofis mebelini qanday xarid qilish kerak: ish o'rniga xarajat, EAC hujjatlari, ishlab chiqarish jadvali va yetkazish — Hymebel zavod taj
+  [cert      ][en] faqs[1].a.en
+      MATCH: EAC
+      CTX  : EAC TR CU 025/2011 conformity documents are mandatory: Kazakhstan is a Cu
+  [cert      ][en] faqs[1].a.en
+      MATCH: certificat
+      CTX  :  a Customs Union member, and furniture cannot clear customs without a certificate or declaration supported by accredited laboratory test reports. Requ
+  [cert      ][en] faqs[1].a.en
+      MATCH: certificat
+      CTX  : test reports. Require them in writing at contract stage and check the certificate remains valid through your delivery date.
+  [cert      ][kk] faqs[1].a.kk
+      MATCH: EAC
+      CTX  : EAC TR CU 025/2011 сәйкестік құжаттары міндетті: Қазақстан — Кеден одағын
+  [cert      ][kk] faqs[1].a.kk
+      MATCH: сертификат
+      CTX  : есі және жиһаз аккредиттелген зертхананың тексеру есептеріне сүйенген сертификат немесе декларациясыз кеденнен өтпейді. Оларды келісімшарт кезеңінде ж
+  [cert      ][kk] faqs[1].a.kk
+      MATCH: сертификат
+      CTX  : ыз кеденнен өтпейді. Оларды келісімшарт кезеңінде жазбаша талап етіп, сертификаттың мерзімі жеткізу күніне дейін жарамды екенін тексеріңіз.
+  [cert      ][uz] faqs[1].a.uz
+      MATCH: EAC
+      CTX  : EAC TR CU 025/2011 moslik hujjatlari majburiy: Qozog'iston Bojxona ittifo
+  [cert      ][uz] faqs[1].a.uz
+      MATCH: sertifikat
+      CTX  :  va mebel akkreditlangan laboratoriya sinov hisobotlariga tayanadigan sertifikat yoki deklaratsiyasiz bojxonadan o'tmaydi. Ularni shartnoma bosqichida
+  [cert      ][uz] faqs[1].a.uz
+      MATCH: sertifikat
+      CTX  : dan o'tmaydi. Ularni shartnoma bosqichida yozma ravishda talab qilib, sertifikat muddati yetkazish sanasigacha amal qilishini tekshiring.
+  [cert      ][en] sections[0].paras.en[0]
+      MATCH: EAC
+      CTX  : ciplined three-step process: fixing a cost per workstation, verifying EAC TR CU 025/2011 compliance before signing, and locking the production 
+  [cert      ][en] sections[0].paras.en[0]
+      MATCH: compliance
+      CTX  :  process: fixing a cost per workstation, verifying EAC TR CU 025/2011 compliance before signing, and locking the production schedule that fits your fi
+  [cert      ][en] sections[0].paras.en[3]
+      MATCH: certificat
+      CTX  : s remain — a cost that reaches the project schedule far more than the certification itself.
+  [cert      ][kk] sections[0].paras.kk[0]
+      MATCH: EAC
+      CTX  : роцесс: жұмыс орнына шығынды белгілеу, келісімшартқа қол қоймай тұрып EAC TR CU 025/2011 сәйкестігін тексеру және әрлеу кестесіне сай өндіріс к
+  [cert      ][kk] sections[0].paras.kk[3]
+      MATCH: сертификат
+      CTX  : нен ғана таңдауға мәжбүр болады — бұл жоба кестесіне тигізетін шығыны сертификаттан да үлкен.
+  [cert      ][uz] sections[0].paras.uz[0]
+      MATCH: EAC
+      CTX  : r: ish o'rniga xarajatni belgilash, shartnomaga qo'l qo'ymasdan turib EAC TR CU 025/2011 mosligini tekshirish va ta'minot jadvaliga mos ishlab 
+  [commercial][uz] sections[0].paras.uz[1]
+      MATCH: moq
+      CTX  : Poytaxt ofis bozori kengayib bormoqda: yangi ofislar ko'pincha to'liq tayyorlanmagan qavatlar topshiradi 
+  [cert      ][uz] sections[0].paras.uz[3]
+      MATCH: sertifikat
+      CTX  : an tanlashga majbur bo'ladi — bu loyiha jadvaliga yetkazadigan zarari sertifikatlashdan ham katta.
+  [cert      ][en] sections[2].paras.en[2]
+      MATCH: certificat
+      CTX  : Insist that quotes break down production, packaging, freight and certification separately. A merged all-in number makes it impossible to compare 
+  [cert      ][uz] sections[2].paras.uz[2]
+      MATCH: sertifikat
+      CTX  : Taklifdan ishlab chiqarish, qadoqlash, tashish va sertifikatlash xarajatlarini alohida so'rang. Hammasi birga yozilgan taklif bila
+  [cert      ][en] sections[3].paras.en[1]
+      MATCH: EAC
+      CTX  : At specification stage, require EAC TR CU 025/2011 conformity documents in writing: Kazakhstan is a Custo
+  [cert      ][kk] sections[3].paras.kk[1]
+      MATCH: EAC
+      CTX  : Сипаттама кезеңінде EAC TR CU 025/2011 сәйкестік құжаттарын жазбаша талап етіңіз: Қазақстан —
+  [cert      ][uz] sections[3].paras.uz[1]
+      MATCH: EAC
+      CTX  : Talabnoma bosqichida EAC TR CU 025/2011 moslik hujjatlarini yozma ravishda talab qiling: Qozog
+  [cert      ][en] takeaways.en[1]
+      MATCH: EAC
+      CTX  : Require EAC TR CU 025/2011 documents in writing before contract — without them ca
+  [cert      ][kk] takeaways.kk[1]
+      MATCH: EAC
+      CTX  : EAC TR CU 025/2011 құжаттарын келісімшартқа дейін жазбаша талап етіңіз — 
+  [cert      ][uz] takeaways.uz[1]
+      MATCH: EAC
+      CTX  : EAC TR CU 025/2011 hujjatlarini shartnomadan oldin yozma ravishda talab q
+
+### school-furniture-standards-kz   (40 hits)
+  [cert      ][en] definition.en
+      MATCH: EAC
+      CTX  : School furniture in Kazakhstan is a product category regulated by the EAC TR CU 025/2011 safety regulation and child-specific sanitary-ergonomi
+  [cert      ][kk] definition.kk
+      MATCH: EAC
+      CTX  : Қазақстандағы мектеп жиһазы — EAC TR CU 025/2011 қауіпсіздік регламенті және балаларға арналған санитар
+  [cert      ][uz] definition.uz
+      MATCH: EAC
+      CTX  : Qozog'istonda maktab mebeli — EAC TR CU 025/2011 xavfsizlik reglamenti va bolalarga mo'ljallangan sanit
+  [cert      ][en] excerpt.en
+      MATCH: EAC
+      CTX  : Furniture standards for Kazakh schools: EAC TR CU 025/2011, ergonomic height norms, bulk buying by classroom set 
+  [cert      ][kk] excerpt.kk
+      MATCH: EAC
+      CTX  : Қазақстан мектептері үшін жиһаз стандарттары: EAC TR CU 025/2011, эргономикалық биіктік нормалары, сынып жиынтықтары бо
+  [cert      ][uz] excerpt.uz
+      MATCH: EAC
+      CTX  : Qozog'iston maktablari uchun mebel standartlari: EAC TR CU 025/2011, ergonomik balandlik normalari, sinfxon to'plamlari bo
+  [cert      ][en] faqs[0].a.en
+      MATCH: EAC
+      CTX  : Yes. School furniture is furniture, so EAC TR CU 025/2011 conformity documents are mandatory before customs clea
+  [cert      ][en] faqs[0].a.en
+      MATCH: certificat
+      CTX  : 5/2011 conformity documents are mandatory before customs clearance: a certificate or declaration supported by accredited laboratory test reports. Chec
+  [cert      ][kk] faqs[0].a.kk
+      MATCH: EAC
+      CTX  : Иә. Мектеп жиһазы — жиһаз, сондықтан кеден тазартылуына дейін EAC TR CU 025/2011 сәйкестік құжаттары міндетті: аккредиттелген зертханан
+  [cert      ][kk] faqs[0].a.kk
+      MATCH: сертификат
+      CTX  : тары міндетті: аккредиттелген зертхананың тексеру есептеріне сүйенген сертификат немесе декларация. Есептердің балалар өнім тобын қамтығанын және марк
+  [cert      ][uz] faqs[0].a.uz
+      MATCH: EAC
+      CTX  : a. Maktab mebeli — mebel, shu bois bojxona rasmiylashtirishidan oldin EAC TR CU 025/2011 moslik hujjatlari majburiy: akkreditlangan laboratoriy
+  [cert      ][uz] faqs[0].a.uz
+      MATCH: sertifikat
+      CTX  : majburiy: akkreditlangan laboratoriya sinov hisobotlariga tayanadigan sertifikat yoki deklaratsiya. Hisobotlar bolalar mahsulot guruhini qamrab olishi
+  [cert      ][en] faqs[0].q.en
+      MATCH: EAC
+      CTX  : Is EAC certification mandatory for school furniture in Kazakhstan?
+  [cert      ][en] faqs[0].q.en
+      MATCH: certificat
+      CTX  : Is EAC certification mandatory for school furniture in Kazakhstan?
+  [cert      ][kk] faqs[0].q.kk
+      MATCH: EAC
+      CTX  : Қазақстандағы мектеп жиһазына EAC сертификаты міндетті ме?
+  [cert      ][kk] faqs[0].q.kk
+      MATCH: сертификат
+      CTX  : Қазақстандағы мектеп жиһазына EAC сертификаты міндетті ме?
+  [cert      ][uz] faqs[0].q.uz
+      MATCH: EAC
+      CTX  : Qozog'istondagi maktab mebeliga EAC sertifikati majburiymi?
+  [cert      ][uz] faqs[0].q.uz
+      MATCH: sertifikat
+      CTX  : Qozog'istondagi maktab mebeliga EAC sertifikati majburiymi?
+  [cert      ][en] sections[0].paras.en[0]
+      MATCH: EAC
+      CTX  : School furniture supplied in Kazakhstan must comply with EAC TR CU 025/2011, the mandatory Customs Union technical regulation on f
+  [cert      ][en] sections[0].paras.en[1]
+      MATCH: certificat
+      CTX  : actice this means three layers of verification: conformity documents (certificate or declaration under TR CU 025/2011), laboratory test reports coveri
+  [cert      ][en] sections[0].paras.en[2]
+      MATCH: EAC
+      CTX  : el has produced furniture on its own factory since 1996, works to the EAC TR CU 025/2011 requirements, and supplies schools alongside offices a
+  [cert      ][en] sections[0].paras.en[3]
+      MATCH: certificat
+      CTX  : importer correctly and match the invoice wording exactly, and a batch certificate must still be valid on the expected arrival date. Schools receiving 
+  [cert      ][kk] sections[0].paras.kk[0]
+      MATCH: EAC
+      CTX  : н қатар, жиһаз қауіпсіздігі жөніндегі міндетті Кеден одағы регламенті EAC TR CU 025/2011 сақтауы керек. Сәйкестік құжаттары жоқ партия елге кір
+  [cert      ][kk] sections[0].paras.kk[1]
+      MATCH: сертификат
+      CTX  : дің үш қабатын білдіреді: сәйкестік құжаттары (TR CU 025/2011 бойынша сертификат немесе декларация), формальдегид шығарындылары мен механикалық қауіпс
+  [cert      ][kk] sections[0].paras.kk[2]
+      MATCH: EAC
+      CTX  : Hymebel 1996 жылдан бері өз зауытында өндіріс жүргізеді, EAC TR CU 025/2011 талаптарын негізге алады және әртүрлі нарықтардағы мек
+  [cert      ][kk] sections[0].paras.kk[3]
+      MATCH: сертификат
+      CTX  : тіп, инвойстағы формулировкалармен сөзбе-сөз сәйкес келуі және партия сертификаты күтілетін келу күнінде әлі жарамды болуы керек. Сыйлық ретінде алынғ
+  [cert      ][uz] sections[0].paras.uz[0]
+      MATCH: EAC
+      CTX  : irga, mebel xavfsizligi bo'yicha majburiy Bojxona ittifoqi reglamenti EAC TR CU 025/2011 ga muvofiq bo'lishi kerak. Moslik hujjatlari yo'q part
+  [cert      ][uz] sections[0].paras.uz[1]
+      MATCH: sertifikat
+      CTX  : g uch qatlamini anglatadi: moslik hujjatlari (TR CU 025/2011 bo'yicha sertifikat yoki deklaratsiya), formaldegid chiqindilari va mexanik xavfsizlikni 
+  [cert      ][uz] sections[0].paras.uz[2]
+      MATCH: EAC
+      CTX  : Hymebel 1996-yildan beri o'z zavodida ishlab chiqaradi, EAC TR CU 025/2011 talablarini asos qilib oladi va turli bozorlardagi mak
+  [cert      ][uz] sections[0].paras.uz[3]
+      MATCH: sertifikat
+      CTX  :  fakturadagi formulirovkalar bilan so'zma-so'z mos kelishi va partiya sertifikati kutilayotgan kelish sanasida ham amal qilishi kerak. Sovg'a sifatida
+  [cert      ][en] sections[1].paras.en[2]
+      MATCH: certificat
+      CTX  : Documentation matters as much as hardware. Keep the conformity certificate, test reports and operating manuals in a school file — inspectors an
+  [cert      ][kk] sections[1].paras.kk[2]
+      MATCH: сертификат
+      CTX  : Құжаттама техникамен бірдей маңызды: сәйкестік сертификатын, тексеру есептері мен пайдалану нұсқаулығын мектеп архивінде сақтаң
+  [commercial][uz] sections[1].paras.uz[1]
+      MATCH: moq
+      CTX  : chi, barcha stollardagi yumaloq burchaklar, qopqoq va eshiklardagi barmoq qisadigan ilgaklarning yo'qligi hamda yog'och qismlardagi silliq, yal
+  [cert      ][uz] sections[1].paras.uz[2]
+      MATCH: sertifikat
+      CTX  : Hujjatlash texnika qadar muhim: moslik sertifikati, sinov hisobotlari va foydalanish qo'llanmasini maktab arxivida saql
+  [cert      ][en] sections[3].paras.en[3]
+      MATCH: EAC
+      CTX  : For imported batches, EAC documents and the packing list should be agreed before production: sc
+  [cert      ][kk] sections[3].paras.kk[3]
+      MATCH: EAC
+      CTX  : Әкелінетін партиялар үшін EAC құжаттары мен орау тізімі өндірістен бұрын келісілуі керек: Қазақстан
+  [cert      ][uz] sections[3].paras.uz[3]
+      MATCH: EAC
+      CTX  : Import partiyalar uchun EAC hujjatlari va yuklama ro'yxati ishlab chiqarishdan oldin kelishilishi
+  [cert      ][en] takeaways.en[0]
+      MATCH: EAC
+      CTX  : EAC TR CU 025/2011 is the mandatory baseline: conformity documents, forma
+  [cert      ][kk] takeaways.kk[0]
+      MATCH: EAC
+      CTX  : EAC TR CU 025/2011 — міндетті негіз: сәйкестік құжаттары, формальдегид сы
+  [cert      ][uz] takeaways.uz[0]
+      MATCH: EAC
+      CTX  : EAC TR CU 025/2011 — majburiy asos: moslik hujjatlari, formaldegid sinovl
+
+### solid-wood-vs-veneer   (7 hits)
+  [cert      ][en] sections[4].paras.en[1]
+      MATCH: EAC
+      CTX  : Every shipment to Kazakhstan is produced against EAC TR CU 025/2011 requirements, and our references include the Hilton Ta
+  [named     ][en] sections[4].paras.en[1]
+      MATCH: Hilton
+      CTX  : ainst EAC TR CU 025/2011 requirements, and our references include the Hilton Tashkent delivery. The material choices above are drawn from what has
+  [cert      ][kk] sections[4].paras.kk[1]
+      MATCH: EAC
+      CTX  : Қазақстанға әр жөнелту EAC TR CU 025/2011 талаптарына сай өндіріледі, ал сілтемелеріміздің ішінд
+  [named     ][kk] sections[4].paras.kk[1]
+      MATCH: Hilton
+      CTX  : R CU 025/2011 талаптарына сай өндіріледі, ал сілтемелеріміздің ішінде Hilton Tashkent жеткізуі бар. халықаралық жобалардан жинақталған тәжірибе ма
+  [cert      ][uz] sections[4].paras.uz[1]
+      MATCH: EAC
+      CTX  : Qozog'istonga har bir yuk EAC TR CU 025/2011 talablariga mos ishlab chiqariladi, havolalarimiz oras
+  [named     ][uz] sections[4].paras.uz[1]
+      MATCH: Hilton
+      CTX  : CU 025/2011 talablariga mos ishlab chiqariladi, havolalarimiz orasida Hilton Tashkent yetkazishi bor. xalqaro loyihalardan to'plangan tajriba mate
+  [commercial][uz] sections[4].paras.uz[2]
+      MATCH: moq
+      CTX  : Farqni o'z ko'zingiz bilan sinamoqchi bo'lsangiz, bitta dizaynni massiv va shpon variantlarida solishtir
+
+### uz-hotels-2026   (43 hits)
+  [commercial][uz] definition.uz
+      MATCH: moq
+      CTX  : 2026-yilgi tarmoq tadqiqotlariga ko'ra, O'zbekistonda taxminan 1 380 mehmonxona qurilmo
+  [commercial][uz] definition.uz
+      MATCH: moq
+      CTX  : oq tadqiqotlariga ko'ra, O'zbekistonda taxminan 1 380 mehmonxona qurilmoqda yoki loyihalanmoqda. Bu katta mehmondo'stlik imkoniyati: FF&E mebel
+  [commercial][uz] definition.uz
+      MATCH: moq
+      CTX  : 'ra, O'zbekistonda taxminan 1 380 mehmonxona qurilmoqda yoki loyihalanmoqda. Bu katta mehmondo'stlik imkoniyati: FF&E mebelga bo'lgan talab ert
+  [commercial][uz] excerpt.uz
+      MATCH: moq
+      CTX  : 2026-yilgi tarmoq tadqiqotiga ko'ra O'zbekistonda qariyb 1 380 mehmonxona qurilmoqda yo
+  [commercial][uz] excerpt.uz
+      MATCH: moq
+      CTX  : i tarmoq tadqiqotiga ko'ra O'zbekistonda qariyb 1 380 mehmonxona qurilmoqda yoki loyihalanmoqda. FF&E mebel bozoridagi bu imkoniyatni erta bosh
+  [commercial][uz] excerpt.uz
+      MATCH: moq
+      CTX  :  ko'ra O'zbekistonda qariyb 1 380 mehmonxona qurilmoqda yoki loyihalanmoqda. FF&E mebel bozoridagi bu imkoniyatni erta boshlaganlar yutadi — Hy
+  [commercial][uz] faqs[0].a.uz
+      MATCH: moq
+      CTX  : 2026-yilgi tarmoq tadqiqotiga ko'ra, mamlakat bo'ylab taxminan 1 380 mehmonxona qurilmo
+  [commercial][uz] faqs[0].a.uz
+      MATCH: moq
+      CTX  : oq tadqiqotiga ko'ra, mamlakat bo'ylab taxminan 1 380 mehmonxona qurilmoqda yoki loyihalanmoqda — bu FF&E mebelga misli ko'rilmagan talab yarat
+  [commercial][uz] faqs[0].a.uz
+      MATCH: moq
+      CTX  : , mamlakat bo'ylab taxminan 1 380 mehmonxona qurilmoqda yoki loyihalanmoqda — bu FF&E mebelga misli ko'rilmagan talab yaratmoqda.
+  [commercial][uz] faqs[0].a.uz
+      MATCH: moq
+      CTX  : da yoki loyihalanmoqda — bu FF&E mebelga misli ko'rilmagan talab yaratmoqda.
+  [commercial][uz] faqs[0].q.uz
+      MATCH: moq
+      CTX  : O'zbekistonda nechta mehmonxona qurilmoqda?
+  [named     ][en] faqs[3].a.en
+      MATCH: Hilton
+      CTX  : Yes — Hilton Tashkent was furnished by Hymebel, alongside other international-stan
+  [named     ][kk] faqs[3].a.kk
+      MATCH: Hilton
+      CTX  : Иә — Hilton Tashkent қонақүйін Hymebel жабдықтады, сонымен қатар басқа да халықар
+  [named     ][uz] faqs[3].a.uz
+      MATCH: Hilton
+      CTX  : Ha — Hilton Tashkent mehmonxonasini Hymebel jihozlagan, shuningdek boshqa xalqaro
+  [commercial][uz] sections[0].h.uz
+      MATCH: moq
+      CTX  : O'zbekiston nega shunchalik ko'p mehmonxona qurmoqda?
+  [cert      ][kk] sections[0].paras.kk[1]
+      MATCH: сертификат
+      CTX  : Бұл сұраныс біркелкі таралмайды. Астанадағы желілік қонақүйлер сертификатталған, бренд талабына сай жиһазды іздесе, өңірлік және тарихи нысанда
+  [commercial][uz] sections[0].paras.uz[0]
+      MATCH: moq
+      CTX  : 2026-yilgi tarmoq tadqiqotlariga ko'ra, O'zbekistonda taxminan 1 380 mehmonxona qurilmo
+  [commercial][uz] sections[0].paras.uz[0]
+      MATCH: moq
+      CTX  : oq tadqiqotlariga ko'ra, O'zbekistonda taxminan 1 380 mehmonxona qurilmoqda yoki loyihalanmoqda — poytaxtdagi xalqaro tarmoq loyihalaridan tort
+  [commercial][uz] sections[0].paras.uz[0]
+      MATCH: moq
+      CTX  : 'ra, O'zbekistonda taxminan 1 380 mehmonxona qurilmoqda yoki loyihalanmoqda — poytaxtdagi xalqaro tarmoq loyihalaridan tortib Samarqand va Buxo
+  [commercial][uz] sections[0].paras.uz[0]
+      MATCH: moq
+      CTX  : 80 mehmonxona qurilmoqda yoki loyihalanmoqda — poytaxtdagi xalqaro tarmoq loyihalaridan tortib Samarqand va Buxorodagi butik mehmonxonalargacha
+  [cert      ][uz] sections[0].paras.uz[1]
+      MATCH: sertifikat
+      CTX  : Bu talab bir xil taqsimlanmaydi. Poytaxtdagi tarmoq mehmonxonalari sertifikatlangan, brend standartlariga mos mebelni xohlasa, mintaqaviy va tarixi
+  [commercial][uz] sections[0].paras.uz[1]
+      MATCH: moq
+      CTX  : Bu talab bir xil taqsimlanmaydi. Poytaxtdagi tarmoq mehmonxonalari sertifikatlangan, brend standartlariga mos mebelni xoh
+  [commercial][uz] sections[0].paras.uz[1]
+      MATCH: moq
+      CTX  : jadvali birinchi bo'lib to'ladi — mehmondo'stlikka katta sarmoya kiritmoqchi bo'lgan oilaviy bizneslar uchun ham bugungi qaror ertangi ochilish
+  [named     ][en] sections[3].paras.en[0]
+      MATCH: Hilton
+      CTX  : el delivered the full guestroom and public-area furniture package for Hilton Tashkent, an international-brand project where specification, inspect
+  [named     ][en] sections[3].paras.en[0]
+      MATCH: 5-star
+      CTX  : ry step. Beyond Central Asia, our portfolio includes, among others, a 5-star hotel project in the Gulf, where the same full-case delivery standard
+  [cert      ][en] sections[3].paras.en[1]
+      MATCH: certificat
+      CTX  : For developers building in several countries at once, certification is part of the track record. Goods bound for Kazakhstan and other 
+  [cert      ][en] sections[3].paras.en[1]
+      MATCH: EAC
+      CTX  : bound for Kazakhstan and other Customs Union members must comply with EAC TR CU 025/2011, the mandatory furniture regulation of the Customs Uni
+  [cert      ][en] sections[3].paras.en[1]
+      MATCH: EAC
+      CTX  : s to this standard removes an entire category of border risk. See our EAC compliance guide for details.
+  [cert      ][en] sections[3].paras.en[1]
+      MATCH: compliance
+      CTX  :  this standard removes an entire category of border risk. See our EAC compliance guide for details.
+  [named     ][kk] sections[3].paras.kk[0]
+      MATCH: Hilton
+      CTX  : Сілтемелер уәдеден маңыздырақ. Hymebel Hilton Tashkent қонақүйінің қонақбөлме мен қоғамдық кеңістік жиһазын толық ж
+  [cert      ][kk] sections[3].paras.kk[1]
+      MATCH: сертификат
+      CTX  : Бір мезгілде бірнеше елде салынып жатқан әзірлеушілер үшін сертификаттау тәжірибенің бір бөлігі. Қазақстан және Кеден одағының басқа мүшеле
+  [cert      ][kk] sections[3].paras.kk[1]
+      MATCH: EAC
+      CTX  : ріне жөнелтілетін тауарлар Кеден одағының міндетті жиһаз регламенті — EAC TR CU 025/2011 талаптарына сай болуы керек. Бұл стандарт бойынша тұра
+  [cert      ][kk] sections[3].paras.kk[1]
+      MATCH: EAC
+      CTX  :  жұмыс шекара тәуекелдерінің тұтас санатын алып тастайды. Толығырақ — EAC сәйкестік нұсқаулығымызда.
+  [named     ][uz] sections[3].paras.uz[0]
+      MATCH: Hilton
+      CTX  : Reference'lar va'dadan muhimroq. Hymebel Hilton Tashkent mehmonxonasining mehmon xonasi va jamoat maydonlari mebelini
+  [cert      ][uz] sections[3].paras.uz[1]
+      MATCH: sertifikat
+      CTX  : Bir vaqtda bir nechta mamlakatda qurilayotgan investorlar uchun sertifikatlash ham tajribaning bir qismi. Qozog'iston va Bojxona ittifoqining bo
+  [cert      ][uz] sections[3].paras.uz[1]
+      MATCH: EAC
+      CTX  : ng boshqa a'zolariga ketadigan tovarlar majburiy mebel reglamentiga — EAC TR CU 025/2011 talablariga mos bo'lishi kerak. Bu standart bo'yicha m
+  [cert      ][uz] sections[3].paras.uz[1]
+      MATCH: EAC
+      CTX  : egara xavflarining butun bir toifasini yo'q qiladi. Batafsil ma'lumot EAC moslik qo'llanmamizda.
+  [commercial][uz] tables[0].rows.uz[0][0]
+      MATCH: moq
+      CTX  : Poytaxt va Samarqanddagi xalqaro tarmoq mehmonxonalari
+  [named     ][en] takeaways.en[3]
+      MATCH: Hilton
+      CTX  : Hymebel delivered the full furniture package for Hilton Tashkent — a reference that passed operator inspection.
+  [named     ][kk] takeaways.kk[3]
+      MATCH: Hilton
+      CTX  : Hymebel Hilton Tashkent жобасын толық жабдықтады — операторлық тексеруден өткен сілт
+  [commercial][uz] takeaways.uz[0]
+      MATCH: moq
+      CTX  : 6-yilgi tadqiqotga ko'ra O'zbekistonda taxminan 1 380 mehmonxona qurilmoqda yoki loyihalanmoqda.
+  [commercial][uz] takeaways.uz[0]
+      MATCH: moq
+      CTX  : o'ra O'zbekistonda taxminan 1 380 mehmonxona qurilmoqda yoki loyihalanmoqda.
+  [named     ][uz] takeaways.uz[3]
+      MATCH: Hilton
+      CTX  : Hymebel Hilton Tashkent loyihasini to'liq jihozlagan — operator tekshiruvidan o'tgan

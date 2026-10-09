@@ -11,9 +11,9 @@
     "en": "School Furniture Standards in Kazakhstan and Bulk Buying"
   },
   "excerpt": {
-    "kk": "Қазақстан мектептері үшін жиһаз стандарттары: EAC TR CU 025/2011, эргономикалық биіктік нормалары, сынып жиынтықтары бойынша топтап сатып алу және 30–45 күндік өндіріс — Hymebel нұсқаулығы.",
-    "uz": "Qozog'iston maktablari uchun mebel standartlari: EAC TR CU 025/2011, ergonomik balandlik normalari, sinfxon to'plamlari bo'yicha ulgurji xarid va 30–45 kunlik ishlab chiqarish — Hymebel qo'llanmasi.",
-    "en": "Furniture standards for Kazakh schools: EAC TR CU 025/2011, ergonomic height norms, bulk buying by classroom set and a 30–45 day production window — a guide by Hymebel."
+    "kk": "Қазақстан мектептері үшін жиһаз стандарттары: EAC TR CU 025/2011, эргономикалық биіктік нормалары, сынып жиынтықтары бойынша топтап сатып алу және өндіріс кестесі — Hymebel нұсқаулығы.",
+    "uz": "Qozog'iston maktablari uchun mebel standartlari: EAC TR CU 025/2011, ergonomik balandlik normalari, sinfxon to'plamlari bo'yicha ulgurji xarid va ishlab chiqarish jadvali — Hymebel qo'llanmasi.",
+    "en": "Furniture standards for Kazakh schools: EAC TR CU 025/2011, ergonomic height norms, bulk buying by classroom set and a production schedule confirmed with the order — a guide by Hymebel."
   },
   "date": "2026-10-01",
   "readingMin": 7,
@@ -26,17 +26,17 @@
     "kk": [
       "EAC TR CU 025/2011 — міндетті негіз: сәйкестік құжаттары, формальдегид сынақтары және қазақша-орысша маркировка талап етіледі.",
       "Үстел мен орындық биіктігі жасқа емес, оқушы бойы тобына сай таңдалады — 52–76 см ауқымындағы нормаларды кестеден қараңыз.",
-      "Тендерді сынып жиынтығымен есептеңіз және жеткізуді оқу жылына дейін 3–4 апта қалғанда аяқтаңыз: өндіріс 30–45 күн."
+      "Тендерді сынып жиынтығымен есептеңіз және жеткізуді оқу жылына дейін 3–4 апта қалғанда аяқтаңыз: өндіріс кестесі тапсырыспен бірге бекітіледі."
     ],
     "uz": [
       "EAC TR CU 025/2011 — majburiy asos: moslik hujjatlari, formaldegid sinovlari va qozog-rus tilidagi markirovka talab qilinadi.",
       "Stol va stul balandligi yoshga emas, o'quvchi bo'y guruhiga qarab tanlanadi — 52–76 sm oralig'idagi normalarni jadvaldan ko'ring.",
-      "Tenderni sinfxon to'plami bilan hisoblang va yetkazishni o'quv yiliga 3–4 hafta qolganda yakunlang: ishlab chiqarish 30–45 kun."
+      "Tenderni sinfxon to'plami bilan hisoblang va yetkazishni o'quv yiliga 3–4 hafta qolganda yakunlang: ishlab chiqarish jadvali buyurtma bilan tasdiqlanadi."
     ],
     "en": [
       "EAC TR CU 025/2011 is the mandatory baseline: conformity documents, formaldehyde testing and Kazakh-Russian labeling are all required.",
       "Desk and chair heights follow pupil height groups, not age — see the table for the 52–76 cm norms.",
-      "Structure tenders by classroom set and finish delivery 3–4 weeks before the school year: production takes 30–45 days."
+      "Structure tenders by classroom set and finish delivery 3-4 weeks before the school year, with the production schedule confirmed with the order."
     ]
   },
   "sections": [
@@ -50,19 +50,19 @@
         "kk": [
           "Қазақстанға жеткізілетін мектеп жиһазы балалар жиһазына қойылатын ұлттық санитарлық және эргономикалық талаптармен қатар, жиһаз қауіпсіздігі жөніндегі міндетті Кеден одағы регламенті EAC TR CU 025/2011 сақтауы керек. Сәйкестік құжаттары жоқ партия елге кірмейді, ал мектеп олардың болмауын еш жағдайда қабылдамауы керек.",
           "Практикада бұл тексерудің үш қабатын білдіреді: сәйкестік құжаттары (TR CU 025/2011 бойынша сертификат немесе декларация), формальдегид шығарындылары мен механикалық қауіпсіздікті қамтитын зертханалық тексеру есептері және қазақша-орысша маркировка. Мемлекеттік тендерлер үшеуін де талап етеді; жекемектептер де сол стандартты ұстануы тиіс.",
-          "Hymebel 1996 жылдан бері 300 000 м² меншікті зауытта өндіріс жүргізеді, EAC TR CU 025/2011 сертификатына ие және 50-ден астам елдегі мектептерге, кеңселерге мен қонақүйлерге жиһаз жеткізеді. Біздің [білім беру жиһазы](education-furniture) бағдарламасы сыныптарды, зертханаларды, кітапханалар мен асханаларды қамтиды.",
+          "Hymebel 1996 жылдан бері өз зауытында өндіріс жүргізеді, EAC TR CU 025/2011 талаптарын негізге алады және әртүрлі нарықтардағы мектептерге, кеңселерге мен қонақүйлерге жиһаз жеткізеді. Біздің [білім беру жиһазы](education-furniture) бағдарламасы сыныптарды, зертханаларды, кітапханалар мен асханаларды қамтиды.",
           "Бірінші рет сатып алушылар жіберіп алатын жайт: сәйкестік құжаттары импортер атауын дұрыс көрсетіп, инвойстағы формулировкалармен сөзбе-сөз сәйкес келуі және партия сертификаты күтілетін келу күнінде әлі жарамды болуы керек. Сыйлық ретінде алынған жиһазға да сол шекара ережелері қолданылады — сыйлық ешкімді сәйкестіктен босатпайды, ал қабылдаушы ұйым құжаттарды ақылы тендердегідей қатаң тексеруі тиіс. Тексерудің осы қабатын сатып алу бөлімі ғана емес, қаржы бөлімі де бақылауы керек — кеденде тоқтаған партия мектепке жетпей тұрып-ақ бюджетті жей бастайды."
         ],
         "uz": [
           "Qozog'istonga yetkaziladigan maktab mebeli bolalar mebeliga qo'yiladigan milliy sanitariya va ergonomik talablar bilan birga, mebel xavfsizligi bo'yicha majburiy Bojxona ittifoqi reglamenti EAC TR CU 025/2011 ga muvofiq bo'lishi kerak. Moslik hujjatlari yo'q partiya mamlakatga kirmaydi, maktab esa ularni hech qanday holatda qabul qilmasligi lozim.",
           "Amalda bu tekshiruvning uch qatlamini anglatadi: moslik hujjatlari (TR CU 025/2011 bo'yicha sertifikat yoki deklaratsiya), formaldegid chiqindilari va mexanik xavfsizlikni qamrab oluvchi laboratoriya sinov hisobotlari hamda qozog va rus tilidagi markirovka. Davlat tenderlari uchalasini ham talab qiladi; xususiy maktablar ham xuddi shu standartga amal qilishi darkor.",
-          "Hymebel 1996-yildan beri 300 000 m² lik o'z zavodida ishlab chiqaradi, EAC TR CU 025/2011 sertifikatiga ega va 50 dan ortiq mamlakatdagi maktablar, ofislar va mehmonxonalarga mebel yetkazadi. Bizning [ta'lim mebeli](education-furniture) dasturimiz sinfxonalar, laboratoriyalar, kutubxonalar va oshxonalarni qamrab oladi.",
+          "Hymebel 1996-yildan beri o'z zavodida ishlab chiqaradi, EAC TR CU 025/2011 talablarini asos qilib oladi va turli bozorlardagi maktablar, ofislar va mehmonxonalarga mebel yetkazadi. Bizning [ta'lim mebeli](education-furniture) dasturimiz sinfxonalar, laboratoriyalar, kutubxonalar va oshxonalarni qamrab oladi.",
           "Birinchi martta xarid qilganlar o'tkazib yuboradigan nozik jihat: moslik hujjatlari importchi nomini to'g'ri ko'rsatib, fakturadagi formulirovkalar bilan so'zma-so'z mos kelishi va partiya sertifikati kutilayotgan kelish sanasida ham amal qilishi kerak. Sovg'a sifatida olingan mebelga ham xuddi shu chegara qoidalari taalluqli — sovg'a hech kimga moslikdan imtiyoz bermaydi va qabul qiluvchi tashkilot hujjatlarni pullik tenderdagidek qattiq tekshirishi lozim. Bu tekshiruv qatlamini xarid bo'limiagina emas, moliya bo'limi ham nazorat qilishi kerak — bojxonada to'xtagan partiya maktabga yetib bormasidan avval byudjetni yeyishni boshlaydi."
         ],
         "en": [
           "School furniture supplied in Kazakhstan must comply with EAC TR CU 025/2011, the mandatory Customs Union technical regulation on furniture safety, together with national sanitary and ergonomic requirements for children's furniture. A batch without conformity documents cannot enter the country, and a school should never accept furniture without them regardless.",
           "In practice this means three layers of verification: conformity documents (certificate or declaration under TR CU 025/2011), laboratory test reports covering formaldehyde emissions and mechanical safety, and labeling in Kazakh and Russian. Public tenders already require all three; private schools should mirror the same standard.",
-          "Hymebel has produced furniture on its 300,000 m² own factory since 1996 and holds EAC TR CU 025/2011 certification, supplying schools alongside offices and hotels across 50+ countries. Our [education furniture](education-furniture) programme covers classrooms, laboratories, libraries and canteens.",
+          "Hymebel has produced furniture on its own factory since 1996, works to the EAC TR CU 025/2011 requirements, and supplies schools alongside offices and hotels in several markets. Our [education furniture](education-furniture) programme covers classrooms, laboratories, libraries and canteens.",
           "One subtlety that first-time buyers miss: conformity documents must name the importer correctly and match the invoice wording exactly, and a batch certificate must still be valid on the expected arrival date. Schools receiving furniture as a donation face the same border rules — a gift does not exempt anyone from conformity, and the receiving organisation should check documents with the same rigour as a paid tender."
         ]
       }
@@ -130,19 +130,19 @@
       "paras": {
         "kk": [
           "Мектеп жабдықтауы кеңседен басқаша өлшенеді: өлшем бірлігі — сынып жиынтығы, яғни үстелдер, орындықтар, мұғалім үстелі және тақта маңындағы сақтау — және тендерлер жүздеген жиынтыққа есептеледі. Бағаны бұйыммен емес, сынып жиынтығымен сұрату жабдықтаушыларды салыстыруды едәуір жеңілдетеді.",
-          "Мерзім шешуші шектеу: жеткізу мектеп демалысына сыйуы керек, сондықтан тапсырысты 30–45 күндік өндіріс терезесі мен жүк жолын есепке алып, оқу жылы басталмай 3–4 апта бұрын аяқталатындай жоспарлаңыз. Тамыздағы кешігу қыркүйекте өтелмейді.",
+          "Мерзім шешуші шектеу: жеткізу мектеп демалысына сыйуы керек, сондықтан тапсырысты өндіріс кестесі мен жүк жолын есепке алып, оқу жылы басталмай 3–4 апта бұрын аяқталатындай жоспарлаңыз. Тамыздағы кешігу қыркүйекте өтелмейді.",
           "Келісімшартта тауармен қатар қызметті де бекітіңіз: конструкцияларға 24–36 айлық жазбаша кепілдік, газ-лифт пен дөңгелектерге қораланған бөлшектер және сынып өлшемді партиялармен орау — қондыру бригадасы жиһазды қайта сұрыптаусыз қабат-қабат таратады.",
           "Әкелінетін партиялар үшін EAC құжаттары мен орау тізімі өндірістен бұрын келісілуі керек: Қазақстандағы мектептер Кеден одағы аумағында, сондықтан кез келген коммерциялық импорттағыдай құжат тәртібі толық қолданылады."
         ],
         "uz": [
           "Maktab ta'minoti ofisdan boshqacha o'lchanadi: o'lchov birligi — sinfxon to'plami, ya'ni stollar, stullar, o'qituvchi stoli va doska yonidagi saqlash — va tenderlar yuzlab to'plamga hisoblanadi. Narxni buyum bilan emas, sinfxon to'plami bilan so'rash yetkazib beruvchilarni solishtirishni ancha osonlashtiradi.",
-          "Muddat cheklovchi omil: yetkazish maktab ta'tiliga sig'ishi kerak, shu bois buyurtmani 30–45 kunlik ishlab chiqarish oynasi va yuk yo'lini hisobga olib, o'quv yili boshlanishidan 3–4 hafta oldin yakunlanadigan qilib rejalashtiring. Avgustdagi kechikish sentyabrda to'lanmaydi.",
+          "Muddat cheklovchi omil: yetkazish maktab ta'tiliga sig'ishi kerak, shu bois buyurtmani ishlab chiqarish jadvali va yuk yo'lini hisobga olib, o'quv yili boshlanishidan 3–4 hafta oldin yakunlanadigan qilib rejalashtiring. Avgustdagi kechikish sentyabrda to'lanmaydi.",
           "Shartnomada tovar bilan birga xizmatni ham belgilang: konstruktsiyalarga 24–36 oylik yozma kafolat, gaz-lift va g'ildiraklarga zaxira qismlar hamda sinfxon o'lchamli partiyalar bilan qadoqlash — o'rnatish brigadasi mebelni qayta saralamsiz qavat-qavat taqsimlaydi.",
           "Import partiyalar uchun EAC hujjatlari va yuklama ro'yxati ishlab chiqarishdan oldin kelishilishi lozim: Qozog'istondagi maktablar Bojxona ittifoqi hududida, shu sababli har qanday tijoriy importdagi kabi hujjat tartibi to'liq qo'llaniladi."
         ],
         "en": [
           "School procurement is quantified differently from office work: the unit is the classroom set — desks, chairs, a teacher's desk and board-adjacent storage — and tenders are sized in hundreds of sets. Quoting per classroom set rather than per item makes supplier comparison far easier.",
-          "Timing is the binding constraint. Delivery must fit school holidays, so plan the cycle to finish 3–4 weeks before the school year starts, counting a 30–45 day production window plus freight. Late deliveries in August cannot be compensated in September.",
+          "Timing is the binding constraint. Delivery must fit school holidays, so plan the cycle to finish 3–4 weeks before the school year starts, counting the production schedule plus freight. Late deliveries in August cannot be compensated in September.",
           "Contract for service, not just goods. Specify a written warranty of 24–36 months on structures, spare parts availability for gas lifts and casters, and packaging in classroom-sized lots so installation crews can distribute furniture floor by floor without re-sorting.",
           "For imported batches, EAC documents and the packing list should be agreed before production: schools in Kazakhstan sit on Customs Union territory, so the same documentation discipline applies in full as for any commercial import."
         ]
@@ -156,18 +156,18 @@
       },
       "paras": {
         "kk": [
-          "Сыныптар санын, сынып ауқымын және тапсыру күнін [жобалық командаға](contact) жіберіңіз — біз әр сынып жиынтығына баға ұсынысын, 30–45 күндік өндіріс терезесін және демалыс кестеңізге сай жеткізу жоспарын қайтарамыз. WhatsApp +86 18038813653 · z@hysdfurniture.com.",
-          "Hymebel 1996 жылдан бері 300 000 м² зауытынан білім беру жобаларына жиһаз шығарады: EAC TR CU 025/2011 сертификаты және 50-ден астам елге жеткізу. Баға ұсынысы тегін және тендер комитетіңізге нақты сандар береді.",
+          "Сыныптар санын, сынып ауқымын және тапсыру күнін [жобалық командаға](contact) жіберіңіз — біз әр сынып жиынтығына баға ұсынысын, өндіріс кестесін және демалыс кестеңізге сай жеткізу жоспарын қайтарамыз. WhatsApp +86 18038813653 · z@hysdfurniture.com.",
+          "Hymebel 1996 жылдан бері өз зауытынан білім беру жобаларына жиһаз шығарады. Баға ұсынысы тегін және тендер комитетіңізге нақты сандар береді.",
           "Тендер құжаттарына тағы бір кеңес: үлгіні мақұлдауды келісімшарт қосымшасы етіп талап етіңіз. Екі жақ мөр басқан нақты үстел мен орындық жиынтығы келісімшарт пен жеткізу арасында кейде болып тұратын жұқа тақтаға немесе жеңіл каркаска тыныш ауыстырудың алдын алады. Сонымен қатар ол қабылдау күні тексерушілерге салыстыру үшін объективті стандарт береді."
         ],
         "uz": [
-          "Sinfxonalar sonini, sinf oralig'ini va topshirish sanasini [loyiha jamoamizga](contact) yuboring — har sinfxon to'plami uchun taklifni, 30–45 kunlik ishlab chiqarish oynasini va ta'til jadvalingizga mos yetkazish rejasini qaytaramiz. WhatsApp +86 18038813653 · z@hysdfurniture.com.",
-          "Hymebel 1996-yildan beri 300 000 m² zavodidan ta'lim loyihalariga mebel chiqaradi: EAC TR CU 025/2011 sertifikati va 50 dan ortiq mamlakatga yetkazish. Taklif bepul va tender qo'mitangizga aniq raqamlar beradi.",
+          "Sinfxonalar sonini, sinf oralig'ini va topshirish sanasini [loyiha jamoamizga](contact) yuboring — har sinfxon to'plami uchun taklifni, ishlab chiqarish jadvalini va ta'til jadvalingizga mos yetkazish rejasini qaytaramiz. WhatsApp +86 18038813653 · z@hysdfurniture.com.",
+          "Hymebel 1996-yildan beri o'z zavodidan ta'lim loyihalariga mebel chiqaradi. Taklif bepul va tender qo'mitangizga aniq raqamlar beradi.",
           "Tender hujjatlariga yana bir maslahat: namunani tasdiqlashni shartnoma ilovasi qilib talab qiling. Ikkala tomon muhr bosgan haqiqiy stol va stul to'plami shartnoma bilan yetkazish oralig'ida ba'zan ro'y beradigan ingichka plitaga yoki yengil karkasga jim almashtirishning oldini oladi. Shuningdek, u qabul kunida tekshiruvchilarga solishtirish uchun obyektiv standart beradi."
         ],
         "en": [
-          "Send the number of classrooms, the grade range and the target handover date to our [project team](contact) — we return a per-classroom-set quotation, the 30–45 day production window and a delivery plan matched to your holiday schedule. WhatsApp +86 18038813653 · z@hysdfurniture.com.",
-          "Hymebel has supplied education projects since 1996 from its 300,000 m² factory, with EAC TR CU 025/2011 certification and delivery across 50+ countries. A quotation costs nothing and gives your tender committee real numbers to work with.",
+          "Send the number of classrooms, the grade range and the target handover date to our [project team](contact) — we return a per-classroom-set quotation, the production schedule and a delivery plan matched to your holiday schedule. WhatsApp +86 18038813653 · z@hysdfurniture.com.",
+          "Hymebel has supplied education projects since 1996 from its own factory. A quotation costs nothing and gives your tender committee real numbers to work with.",
           "One more tip for tender documents: require sample approval as a contract annex. A physical desk and chair set, sealed and signed by both sides, prevents the quiet substitution of thinner boards or lighter frames that occasionally happens between contract and delivery."
         ]
       }
@@ -327,9 +327,9 @@
         "en": "How long does a bulk school order take?"
       },
       "a": {
-        "kk": "Өндіріс сызба мақұлданғаннан кейін 30–45 күн жүреді, одан кейін Қазақстанға жүк жолы шамамен 5–7 күн. Толық циклді оқу жылы басталмай 3–4 апта бұрын аяқталуға жоспарлап, тапсырысты демалыс терезесіне сыйғызыңыз — көбіне тапсырысты жаз ортасына дейін берісіңіз.",
-        "uz": "Ishlab chiqarish chizma tasdiqlangandan keyin 30–45 kun yuradi, undan keyin Qozog'istonga yuk yo'li taxminan 5–7 kun. To'liq siklni o'quv yili boshlanishidan 3–4 hafta oldin yakunlanadigan qilib rejalashtiring va buyurtmani ta'til oynasiga sig'iring — ko'pincha yoz o'rtasigacha bering.",
-        "en": "Production runs 30–45 days from drawing approval, plus freight to Kazakhstan of roughly 5–7 days by road. Plan the whole cycle to finish 3–4 weeks before the school year starts, and place the order early enough to stay inside the holiday window — in most cases by mid-summer."
+        "kk": "Өндіріс кестесі сызба мақұлданғаннан кейін, тапсырыспен бірге бекітіледі; жүк жолының ұзақтығы маршрут пен кеденге қарай нақтыланады. Толық циклді оқу жылы басталмай 3–4 апта бұрын аяқталуға жоспарлап, тапсырысты демалыс терезесіне сыйғызыңыз — көбіне тапсырысты жаз ортасына дейін берісіңіз.",
+        "uz": "Ishlab chiqarish jadvali chizma tasdiqlangandan keyin buyurtma bilan belgilanadi, undan keyin Qozog'istonga yuk yo'li boshlanadi. To'liq siklni o'quv yili boshlanishidan 3–4 hafta oldin yakunlanadigan qilib rejalashtiring va buyurtmani ta'til oynasiga sig'iring — ko'pincha yoz o'rtasigacha bering.",
+        "en": "The production schedule is confirmed with the order once the drawings are approved, and transit time depends on the route and customs queue. Plan the full cycle to finish three to four weeks before the school year starts and fit the order into the holiday window — which usually means ordering by mid-summer."
       }
     },
     {

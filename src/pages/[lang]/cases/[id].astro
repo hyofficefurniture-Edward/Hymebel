@@ -1,0 +1,10 @@
+---
+import Layout from '../../../layouts/BaseLayout.astro';
+import Library from '../../../components/ProjectLibrary.astro';
+import projects from '../../../data/project-library.json';
+import copies from '../../../data/project-library-copy.json';
+import {locales,type Lang} from '../../../i18n/ui';
+export function getStaticPaths(){return locales.flatMap(lang=>projects.map(c=>({params:{lang,id:c.id},props:{c}})));}
+const {lang}=Astro.params as {lang:Lang};const {c}=Astro.props;
+---
+<Layout lang={lang} title={c.name} description={c.name+" — "+c.country+". "+copies[lang][11]} slug={'cases/'+c.id}><Library lang={lang} base={'/'+lang+'/'} id={c.id}/></Layout>

@@ -1,3 +1,4 @@
+import projects from '../data/project-library.json';
 import { allSlugs } from "../data/categories";
 import { products } from "../data/products";
 import { posts } from "../data/blog";
@@ -14,6 +15,7 @@ export function urlset(lang: Lang, origin: string, lastmod: string): string {
     `/${lang}/`,
     ...allSlugs.map((s) => `/${lang}/${s}/`),
     `/${lang}/cases/`,
+    ...projects.map(c=>`/${lang}/cases/${c.id}/`),
     ...products.map((p) => `/${lang}/products/${p.id}/`),
     `/${lang}/blog/`,
     ...posts.map((p) => `/${lang}/blog/${p.id}/`),
@@ -65,6 +67,7 @@ export function marketUrlset(market: "mn" | "ru", origin: string): string {
   const paths = [
     `/${market}/`, `/${market}/contact/`, ...categorySlugs.map((slug) => `/${market}/${slug}/`), ...resources.map((slug) => `/${market}/${slug}/`),
     `/${market}/en/`, `/${market}/en/contact/`, ...categorySlugs.map((slug) => `/${market}/en/${slug}/`), ...resources.map((slug) => `/${market}/en/${slug}/`),
+    ...projects.flatMap(c=>[`/${market}/cases/${c.id}/`,`/${market}/en/cases/${c.id}/`]),
     `/${market}/blog/`, `/${market}/en/blog/`,
     ...marketPostsFor(market).map((post) => `/${market}/blog/${post.id}/`),
     ...catalogFor(market, market).flatMap(p => [`/${market}/products/${p.id}/`, `/${market}/en/products/${p.id}/`]),

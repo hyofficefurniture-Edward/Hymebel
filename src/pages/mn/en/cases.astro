@@ -1,5 +1,8 @@
 ---
-import RegionalInfoLayout from '../../../layouts/RegionalInfoLayout.astro';
+import Shell from '../../../layouts/RegionalShell.astro';
+import Library from '../../../components/ProjectLibrary.astro';
 import {marketPages} from '../../../data/market-pages';
+import copies from '../../../data/project-library-copy.json';
+const title=copies.en[0];
 ---
-<RegionalInfoLayout copy={marketPages["mn-en"]} kind="cases" href="/mn/en/cases/" alternateHref="/mn/cases/"/>
+<Shell copy={marketPages['mn-en']} title={title} description={copies.en[25]} href="/mn/en/cases/" alternateHref="/mn/cases/"><Library lang="en" base="/mn/en/"/></Shell>

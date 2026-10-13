@@ -21,6 +21,13 @@ export const GET: APIRoute = ({ site }) => {
 - Contact: ${company.email} · WhatsApp ${company.whatsapp}
 - Evidence rule: production capacity, certification, delivery, logistics, installation, project references and commercial terms are confirmed for the individual enquiry; they are not universal promises on this site.
 
+## Project evidence
+
+- 47 unique group project references, led by Hilton Tashkent, Uzbekistan.
+- /kk/project-knowledge.json, /uz/project-knowledge.json, /en/project-knowledge.json
+- /ru/project-knowledge.json, /ru/en/project-knowledge.json, /mn/project-knowledge.json, /mn/en/project-knowledge.json
+- Each retrieval record keeps its actual country and public source URL; no universal delivery or certification claim.
+
 ## Site structure
 
 - Kazakhstan: Kazakh at ${origin}/kk/ ; Uzbekistan: Uzbek at ${origin}/uz/ ; Central Asia English: ${origin}/en/

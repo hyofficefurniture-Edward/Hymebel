@@ -1,0 +1,10 @@
+---
+import Shell from '../../../../layouts/RegionalShell.astro';
+import Library from '../../../../components/ProjectLibrary.astro';
+import {marketPages} from '../../../../data/market-pages';
+import projects from '../../../../data/project-library.json';
+import copies from '../../../../data/project-library-copy.json';
+export function getStaticPaths(){return projects.map(c=>({params:{id:c.id},props:{c}}));}
+const {c}=Astro.props;
+---
+<Shell copy={marketPages['mn-en']} title={c.name} description={c.name+" — "+c.country+". "+copies.en[11]} href={'/mn/en/cases/'+c.id+'/'} alternateHref={'/mn/cases/'+c.id+'/'}><Library lang="en" base="/mn/en/" id={c.id}/></Shell>

@@ -6,7 +6,9 @@ const t=(copies as Record<string,string[]>)[lang]||copies.en;
 const sector=(v:string)=>t[({hospitality:12,office:13,healthcare:14,education:15,resort:16} as Record<string,number>)[v]]||v;
 const region=(v:string)=>t[({'central-asia':17,africa:18,'middle-east':19,'southeast-asia':20,china:21,other:22,caribbean:23} as Record<string,number>)[v]]||v;
 const selected=projects.find(c=>c.id===id);
-const list=featured?projects.slice(0,3):projects;
+// Homepage uses six documented references; the full searchable library remains
+// available on the cases page.
+const list=featured?projects.slice(0,6):projects;
 const location=(c:any)=>c.country==='Asia'?(lang==='ru'?'Азия — страна уточняется':lang==='kk'?'Азия — ел нақтыланады':lang==='uz'?'Osiyo — mamlakat aniqlanadi':lang==='mn'?'Ази — улсыг тодруулна':'Asia — country to confirm'):c.country;
 const regional=base.startsWith('/ru/')||base.startsWith('/mn/');
 const productSlug=selected?({hospitality:'hotel-furniture',resort:'hotel-furniture',office:'office-furniture',education:regional?'education-healthcare':'education-furniture',healthcare:regional?'education-healthcare':'healthcare-furniture'} as Record<string,string>)[selected.industry]:'hotel-furniture';

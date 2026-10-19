@@ -18,7 +18,7 @@ export function urlset(lang: Lang, origin: string, lastmod: string): string {
     ...projects.map(c=>`/${lang}/cases/${c.id}/`),
     ...products.map((p) => `/${lang}/products/${p.id}/`),
     `/${lang}/blog/`,
-    ...posts.map((p) => `/${lang}/blog/${p.id}/`),
+    ...[...new Set([...posts.map((p) => p.id), ...marketPostsFor(lang).map((p) => p.id)])].map((id) => `/${lang}/blog/${id}/`),
   ];
   const urls = paths
     .map((path) => {

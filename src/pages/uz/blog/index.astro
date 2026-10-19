@@ -1,0 +1,52 @@
+---
+import MarketBlogLayout from "../../../layouts/MarketBlogLayout.astro";
+import { marketPages } from "../../../data/market-pages";
+import { marketPostsFor } from "../../../data/market-posts";
+import { posts } from "../../../data/blog";
+const copy = marketPages.uz;
+const marketPosts = marketPostsFor("uz");
+const archive = posts;
+---
+<MarketBlogLayout copy={copy}>
+  <section class="section">
+    <div class="wrap">
+      <p class="prose">Bu bo'limda faqat O'zbekiston bozori uchun alohida yozilgan, chizma, BOQ va xonalar ro'yxatiga tayangan maqolalar joy oladi. Har bir maqola bitta bozorga tegishli; boshqa tillarga avtomatik tarjima qilinmaydi.</p>
+      <div class="grid grid--3">
+        {marketPosts.map((post) => (
+          <a class="blog-card blog-card--visual" href={`/uz/blog/${post.id}/`}>
+            <img class="blog-card__img" src={post.image} alt={post.imageAlt} width="800" height="450" loading="lazy" />
+            <div class="blog-card__body">
+              <div class="blog-card__tag">{post.tag}</div>
+              <div class="blog-card__title">{post.title}</div>
+              <p class="blog-card__excerpt">{post.excerpt}</p>
+              <div class="blog-card__meta">{post.date} · {post.readingMin} min</div>
+            </div>
+          </a>
+        ))}
+      </div>
+      <p><a class="btn btn--primary" href="/uz/contact/">Loyiha so'rovini yuborish</a></p>
+    </div>
+  </section>
+
+  {archive.length > 0 && (
+    <section class="section" style="padding-top:0">
+      <div class="wrap">
+        <h2>Markaziy Osiyo arxivi</h2>
+        <p class="prose">Umumiy mintaqaviy arxiv: materiallar, standartlar va savdo bo'yicha oldin chop etilgan maqolalar.</p>
+        <div class="grid grid--3">
+          {archive.map((p) => (
+            <a class="blog-card blog-card--visual" href={`/uz/blog/${p.id}/`}>
+              <img class="blog-card__img" src={p.image} alt={p.imageAlt.uz} loading="lazy" width="800" height="450" />
+              <div class="blog-card__body">
+                <div class="blog-card__tag">{p.tag.uz}</div>
+                <div class="blog-card__title">{p.title.uz}</div>
+                <p class="blog-card__excerpt">{p.excerpt.uz}</p>
+                <div class="blog-card__meta">{p.date} · {p.readingMin} min</div>
+              </div>
+            </a>
+          ))}
+        </div>
+      </div>
+    </section>
+  )}
+</MarketBlogLayout>

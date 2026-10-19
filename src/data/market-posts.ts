@@ -1284,6 +1284,395 @@ export const marketPosts: MarketPost[] = [
       },
     ],
   },
+  {
+    id: "hotel-furniture-boq-package-uzbekistan",
+    market: "uz",
+    title: "Mehmonxona mebeli uchun BOQ qanday tuziladi: xona turlari bo'yicha to'liq paket",
+    tag: "Mehmonxona",
+    excerpt: "Mehmonxona mebeli BOQni xona turlari kesimida tuzish, har bir pozitsiyaga majburiy maydonlarni yozish va uni taklif so'rovi paketiga aylantirish tartibi.",
+    date: "2026-10-19",
+    readingMin: 9,
+    image: "/images/blog/ffe-timeline.webp",
+    imageAlt: "Mehmonxona xonasi mebeli ro'yxati, o'lchov varaqasi va material namunalari stol ustida",
+    definition: "Mehmonxona mebeli uchun BOQ — xona turlari kesimida har bir pozitsiyaning nomi, o'lchami, materiali, miqdori va o'rnatish talabi bilan bitta jadvalga jamlangan xarid hujjati. Xona turi bo'yicha bo'lingan BOQ tender jarayonida barcha takliflarni bir xil asosda taqqoslash imkonini beradi, chunki standart xona va lyuks xona mebeli alohida bloklarda hisoblanadi va har bir blok xona soniga ko'paytiriladi.",
+    takeaways: [
+      "BOQni bitta uzun ro'yxat emas, har bir xona turi uchun alohida blok qilib tuzing, shunda miqdorlar takrorlanmaydi va keyingi o'zgartirish oson bo'ladi.",
+      "Har bir qatorda joylashuv, o'lcham, material, rang, miqdor va izoh bo'lsin; shu olti maydon takliflarni taqqoslashning asosiy sharti hisoblanadi.",
+      "O'lchamlarni me'moriy chizma va xonadagi haqiqiy o'lchovdan oling, taxminiy raqamlarni alohida belgi bilan ajratib ko'rsating va farqni izohda yozing.",
+      "Material nomini umumiy so'z bilan emas, qatlam turi, qalinligi, qirra yechimi va sirt ishlovi bilan yozing, rang kodini ham qo'shing.",
+      "Fayl nomiga versiya raqami va sanani qo'shing, har bir o'zgarishni kim so'ragani va nima o'zgargani bilan qayd eting.",
+      "Takliflarni umumiy summaga qarab emas, qator bo'yicha tarkib, birlik narxi va qo'shimcha xarajatlar bo'yicha solishtiring, aks holda arzon ko'ringan taklif keyin qimmatga tushadi.",
+    ],
+    sections: [
+      {
+        heading: "BOQ nima uchun xona turlari bo'yicha bo'linadi?",
+        paragraphs: [
+          "Mehmonxona loyihasida bitta xona turi o'nlab yoki yuzlab xonani ifodalaydi. Agar barcha mebel bitta ro'yxatga tushsa, standart xonadagi stul bilan lyuks xonadagi stul bir qatorda ko'rinadi va yetkazib beruvchi qaysi miqdorni qaysi turga yozishni bilmay qoladi. Xona turi bo'yicha alohida blok tuzilganda har bir blok xona soniga ko'paytiriladi va umumiy hajm shu yo'l bilan yig'iladi.",
+          "Bu tuzilma keyinchalik faqat bitta tur o'zgarganda butun hujjatni qaytadan yozishni talab qilmaydi. Masalan, Toshkent, O'zbekiston shahridagi loyihada lyuks xona uchun tanlangan yumshoq mebel almashtirilsa, faqat shu blok yangilanadi, qolgan bloklar va ularning raqamlari o'z joyida qoladi. Shu sababli blok nomida xona turi kodi va versiya sanasi ko'rinib turishi kerak.",
+        ],
+      },
+      {
+        heading: "BOQda har bir pozitsiya uchun qanday maydonlar bo'lishi kerak?",
+        paragraphs: [
+          "Har bir qatorda kamida olti maydon bo'lishi kerak: mebel nomi va xonadagi joylashuvi, xona turi va xona soni, uzunlik, kenglik va balandlik, asosiy material va sirt qoplamasi, mato yoki metall kabi qismlarning rangi, o'rnatish talabi. Bu maydonlar to'ldirilmasa, ikkita taklifni bir xil asosda solishtirish qiyinlashadi va keyinchalik qaysi qator nimani o'z ichiga olgani noma'lum bo'lib qoladi.",
+          "Qo'shimcha maydon sifatida qadoqlash usuli, liftdan o'tish sharti va yig'ish uchun kerakli vositalarni kiritish mumkin. Lekin ularni asosiy narx jadvaliga aralashtirmasdan, alohida ilova sifatida berish ma'qul, aks holda qatorlar orasidagi farqni kuzatish va solishtirish qiyinlashadi. Har bir qo'shimcha maydon uchun o'lchov birligi ham yoziladi.",
+        ],
+      },
+      {
+        heading: "Chizma va o'lchamlarni BOQ bilan qanday bog'lash kerak?",
+        paragraphs: [
+          "O'lcham ikki manbadan olinadi: me'moriy chizma va xonadagi haqiqiy o'lchov. Ikkisi bir-biriga mos kelmasa, hujjatda ikkalasini ham ko'rsatib, qaysi biri hal qiluvchi ekanini loyiha me'mori bilan yozma ravishda kelishib olish kerak. Chizmadan olingan o'lchamni taxminiy deb belgilash keyingi bosqichdagi nizolarni kamaytiradi.",
+          "Har bir pozitsiyaga chizma varaqasining raqami va detal nomini yozib qo'ying. Shunda yetkazib beruvchi qaysi stol qaysi chizmaga tegishli ekanini darhol topadi va o'lchamni o'zicha talqin qilmaydi. Kesim, tutqich va oyoq tuzilishi ko'rsatilgan detallar alohida varaqda berilsa, savol-javob hajmi sezilarli darajada kamayadi. Chizma raqamlari BOQdagi qator raqamlari bilan bir xil tartibda bo'lsa, tekshirish ancha tezlashadi.",
+        ],
+      },
+      {
+        heading: "Material va ishlov berishni BOQda qanday yozish kerak?",
+        paragraphs: [
+          "Materialni umumiy nom bilan yozish yetarli emas. Yog'och o'rniga qatlam turi, qalinligi, qirra yechimi va sirt ishlovi yoziladi; mato o'rniga tola tarkibi, zichligi va rang kodi ko'rsatiladi. Shu tarzda bir xil byudjetdagi ikkita taklif orasidagi haqiqiy farq ko'rinadi va keyinchalik almashtirish bahosi asosli bo'ladi.",
+          "Standart talab qilinadigan joylarda HPL, MDF yoki fanera kabi qisqartmalardan foydalanish mumkin, lekin har bir qisqartma yonida qalinlik va qirra ishlovi yozilishi kerak. Namlik yuqori bo'lgan hududlar uchun qirra yopilishi va metall qismlarning qoplamasi alohida band sifatida ko'rsatiladi, chunki bu ikki detal xizmat muddatiga bevosita ta'sir qiladi. Namuna rang kodi bilan birga yozilmasa, ikki partiya orasida ohang farqi paydo bo'lishi mumkin.",
+        ],
+      },
+      {
+        heading: "BOQni taklif so'rovi ya'ni RFQ paketiga qanday aylantirish kerak?",
+        paragraphs: [
+          "BOQ tayyor bo'lgach, uni taklif so'rovi paketiga aylantirish uchun uchta hujjat qo'shiladi: xona turlarining rejasi, material namunalari ro'yxati va to'ldirish qoidalari. Qoidalar varag'ida qaysi katakni to'ldirish, qaysi katakni o'zgartirmaslik va savollarni qaysi shaklda yuborish aniq yoziladi. Shu uch hujjat bo'lmasa, qaytgan takliflarni bir xil formatga keltirish uchun qo'shimcha vaqt sarflanadi.",
+          "Paketda har bir xona turi alohida varaq yoki alohida fayl bo'lsa, yetkazib beruvchi hisobni aralashtirmaydi. Savol berish uchun aloqa nuqtasi va javob topshirish shakli ham paketning o'zida ko'rsatilishi kerak, shunda barcha ishtirokchilar bir xil ma'lumotga tayanadi va taqqoslash asosi bir xil bo'lib qoladi. Javoblar ham bir xil fayl shaklida qaytishi qoidalar varag'ida ko'rsatiladi.",
+        ],
+      },
+      {
+        heading: "BOQni qabul qilishda qaysi xatolar ko'p uchraydi?",
+        paragraphs: [
+          "Eng ko'p uchraydigan xato — xona sonini umumiy ro'yxatga bir marta yozib, keyin uni qatorlarga ko'paytirishni unutish. Natijada umumiy miqdor haqiqiy ehtiyojdan past chiqadi. Ikkinchi tez-tez uchraydigan xato — bir qatorning ikki marta kiritilishi, ayniqsa yumshoq mebel va aksessuar bitta blokda yozilganda. Bu ikki xato ko'pincha birga uchraydi va umumiy summani sezilarli darajada o'zgartiradi.",
+          "Uchinchi xato — o'lchov birligining aralashishi: bir varaqda millimetr, boshqasida santimetr ishlatilishi. To'rtinchi xato — material talabining umumiy qoldirilishi, buning natijasida takliflar solishtirilmaydi. Yuborishdan oldin xona sonlari yig'indisi, takrorlangan qatorlar va birliklar bir xilligi tekshiriladi, so'ngra hujjat versiyasi qulflanadi. Tekshiruvdan so'ng hujjat yetkazib beruvchilarga yuboriladi va savollar faqat yozma shaklda qabul qilinadi.",
+        ],
+      },
+    ],
+    faqs: [
+      {
+        question: "BOQni Excel yoki PDF shaklida yuborish to'g'rimi?",
+        answer: "Excel shakli yetkazib beruvchiga har bir qator bo'yicha javob yozish imkonini beradi, shuning uchun narx solishtirish uchun qulayroq. PDF faqat tasdiqlangan yakuniy versiyani qayd etish uchun qo'shib yuboriladi.",
+      },
+      {
+        question: "Xona soni hali aniq bo'lmasa ham BOQ tuzish mumkinmi?",
+        answer: "Mumkin. Bitta xona turi uchun namuna blok tayyorlanadi va xona soni o'zgaruvchi sifatida qoldiriladi. Son aniqlangach faqat ko'paytiruvchi yangilanadi, qolgan tuzilma o'zgarmaydi.",
+      },
+      {
+        question: "Material talabida qanday ma'lumot bo'lishi shart?",
+        answer: "Qatlam yoki mato turi, qalinligi, sirt ishlovi, qirra yechimi va rang kodi majburiy maydonlarga kiradi. Yumshoq mebel uchun tola tarkibi va zichlik ham yozilishi kerak.",
+      },
+      {
+        question: "O'rnatish talabini BOQga kiritish kerakmi?",
+        answer: "Ha. Yig'ish kerakmi, liftdan o'tadimi va polni himoya qilish talab qilinadimi, bu savollar taklif tarkibiga bevosita ta'sir qiladi. Shu sababli alohida ustun ajratish ma'qul.",
+      },
+      {
+        question: "Bitta yetkazib beruvchiga bir nechta xona turini berish mumkinmi?",
+        answer: "Mumkin, lekin har bir xona turi alohida varaq yoki alohida fayl ko'rinishida berilishi kerak. Aks holda hisob qatorlari aralashib, keyinchalik qaysi raqam qaysi turga tegishli ekanini aniqlash qiyinlashadi.",
+      },
+      {
+        question: "BOQni qanchalik tez-tez yangilash kerak?",
+        answer: "Dizaynning har bir bosqichi tugagach va asosiy o'zgarish kiritilgach yangilash tavsiya etiladi. Har bir versiyani sana bilan saqlash oldingi holatga qaytish imkonini beradi.",
+      },
+      {
+        question: "BOQda zaxira mebel ko'rsatish kerakmi?",
+        answer: "Mehmonxona uchun asosiy miqdordan alohida zaxira qatori ko'rsatish odatiy hol. Bu shikastlangan birlikni alohida buyurtma qilmasdan almashtirish imkonini beradi va xona ishdan chiqishini kamaytiradi.",
+      },
+    ],
+  },
+  {
+    id: "hotel-room-furniture-quantity-takeoff-uzbekistan",
+    market: "uz",
+    title: "Mehmonxona xonasiga qancha mebel kerak: chizma bo'yicha miqdor hisoblash",
+    tag: "Mehmonxona",
+    excerpt: "Xona turi, krovat o'lchami, o'tish yo'lagi va zaxira hisobga olingan holda mebel miqdorini chizma bo'yicha qanday chiqarish va natijani BOQ bilan qanday solishtirish haqida amaliy yo'riqnoma.",
+    date: "2026-10-19",
+    readingMin: 9,
+    image: "/images/blog/uz-hotels-2026.webp",
+    imageAlt: "Mehmonxona xonasining mebel joylashuvi chizmasi va o'lchov belgilari",
+    definition: "Chizma bo'yicha miqdor hisoblash (quantity takeoff) — mehmonxona loyihasida har bir xona turi uchun krovat, tungi stol, ish stoli va shkafning aniq sonini reja o'lchamlari asosida aniqlash usuli. Natija BOQ va buyurtma hajmi uchun asos bo'ladi, shuning uchun u satrma-satr tekshiriladigan hujjat bo'lishi kerak.",
+    takeaways: [
+      "Har bir xona turini alohida blok sifatida hisoblab, xona soniga ko'paytiring, aks holda standart va lyuks buyumlari aralashadi.",
+      "Krovat o'lchami va devor uzunligi tungi stollar sonini belgilaydi: ikki kishilik krovatda odatda ikkita tungi stol bo'ladi.",
+      "Ish stoli va shkafni xona maydoni hamda yurish yo'lagi kengligidan kelib chiqib tanlang.",
+      "Lobbi va restoranda o'rindiq soni aylanma va o'tish yo'laklari bilan birga hisoblanadi.",
+      "Zaxira miqdori loyiha shartlari, o'rnatish bosqichi va almashtirish rejasiga qarab belgilanadi, yagona foiz qoidasi yo'q.",
+      "Hisoblangan ro'yxatni BOQ bilan satrma-satr solishtiring: nom, o'lcham, material va o'lchov birligi bir xil bo'lishi shart.",
+    ],
+    sections: [
+      {
+        heading: "Xona turi bo'yicha miqdorni qanday hisoblash kerak?",
+        paragraphs: [
+          "Hisoblashni xona turkumlari ro'yxatidan boshlang: standart xona, katta xona yoki lyuks va harakatlanishi cheklangan mehmonlar uchun moslashtirilgan xona. Har bir turkum uchun alohida varaq ochib, xona soni, o'rtacha maydon va joylashuv sonini yozing. Bitta xonadagi buyum soni xona soniga ko'paytiriladi, turkumlar esa jamlanmaydi.",
+          "Moslashtirilgan xona alohida turkum bo'lmasa, u ikki marta hisoblanadi va ro'yxat shishadi. Loyihada sakson to'rtta standart, o'ttizta lyuks va oltita moslashtirilgan xona bo'lsa, alohida ro'yxatlar umumiy sonni qo'shish va xatoni topishni osonlashtiradi.",
+          "Burchak xonalar va bir turkumdagi turli geometriyali xonalarni ham alohida belgilang. Deraza joyi yoki eshik tomoni boshqacha bo'lsa, shkaf va ish stolining o'lchami o'zgaradi, shuning uchun har bir turkum ichida uch-to'rt tipik plan ajratilsa, o'rnatishda qayta ishlash kamayadi.",
+        ],
+      },
+      {
+        heading: "Krovat va tungi stol sonini qanday aniqlanadi?",
+        paragraphs: [
+          "Krovat soni joylashuv sonidan kelib chiqadi: bir kishilik xonada bitta krovat, ikki kishilik xonada bitta keng krovat yoki ikkita alohida krovat bo'ladi. Standartda krovat eni odatda to'qson santimetrdan yuz oltmish santimetrgacha, lyukslarda yuz sakson santimetrgacha uchraydi. Aniq o'lchamni me'mor bilan tasdiqlang: u tungi stol va o'tish yo'lagi hisobiga ta'sir qiladi.",
+          "Tungi stol soni krovat soniga emas, yon tomonlari soniga bog'liq: bitta keng krovatda ikkita, ikkita alohida krovatda esa oraliq masofaga qarab ikkita yoki uchta stol qo'yiladi. Oraliq tor bo'lsa, krovatlar orasiga bitta kengroq stol joylashtiriladi.",
+          "Krovat atrofidagi bo'sh joyni ham ro'yxatga kiriting: yondan devorgacha kamida oltmish santimetr, krovat oxiridan qarshi mebelgacha to'qson santimetr qoldiriladi. Bu o'lchamlar bajarilmasa, tungi stol sonini kamaytirish yoki krovatni boshqa devorga ko'chirish kerak. Shuning uchun sanashdan oldin har bir krovatning joyi planda belgilangan bo'lishi shart.",
+        ],
+      },
+      {
+        heading: "Ish stoli va shkaf hajmini xona o'lchamidan qanday chiqarish kerak?",
+        paragraphs: [
+          "Ish stolining chuqurligi kamida oltmish santimetr, kengligi yuz santimetrdan yuz yigirma santimetrgacha, stul tortib chiqiladigan joy uchun yana yetmish besh santimetr kerak. Xona tor bo'lsa, stol deraza oldiga yoki krovat qarshisiga qo'yiladi, o'tish yo'lagi saqlanadi. Stol soni xonada bitta, lyukslarda yozuv va kichik ovqatlanish stoli alohida hisoblanadi.",
+          "Shkaf hajmi xona maydonidan emas, osma joy uzunligidan chiqariladi: bir kishi uchun tayoq uzunligi oltmish santimetrdan sakson santimetrgacha, ikki kishilik xonada ikki barobar olinadi. Chuqurlik elka kiyimlari uchun ellik besh santimetrdan oltmish santimetrgacha bo'lishi kerak. Ochiladigan eshik oldida to'qson santimetr bo'sh joy qoldiriladi, suriladigan eshikda talab kamayadi.",
+          "Xona kichik bo'lsa, shkafni koridorga yoki kirish devoriga joylashtirish ko'rib chiqiladi, lekin eshik ochilish yo'nalishi tekshiriladi. Lyukslarda kiyim uchun alohida xona yoki ochiq tokcha qo'shilib, u alohida satr bo'ladi. Chamadon tokchasi, seyf va mini bar joyi ham ro'yxatga kiritilsa, keyinchalik qo'shimcha buyurtma chiqmaydi.",
+        ],
+      },
+      {
+        heading: "Lobbi va restoran kabi ochiq maydonlar miqdori qanday hisoblanadi?",
+        paragraphs: [
+          "Ochiq maydonlarda miqdor xona sonidan emas, bir vaqtda joylashadigan mehmonlar sonidan chiqariladi. Lobbida kutish zonasi, lift oldidagi o'rindiqlar va dam olish burchagi alohida hisoblanadi. Restoranda o'rindiq soni zallar soni, stol o'lchami va xizmat sxemasidan chiqariladi, buffet oldida kamida bir yarim metr bo'sh joy qoldiriladi.",
+          "Stol va stul sonini zal maydonini bitta songa bo'lish bilan chiqarish xato beradi. To'g'ri usul — joylashuvni panjara ko'rinishida chizish: to'rt va ikki kishilik stollar, burchakdagi o'rindiqlar alohida bloklanadi. Stol orasidagi masofa kamida to'qson santimetr, asosiy yo'lak bir metr yigirma santimetrdan bir yarim metrgacha bo'ladi.",
+          "Banket va konferensiya zallari uchun moslashuvchan sxema kerak: bir xil maydon kunduzgi va kechki joylashuvda turlicha bo'ladi, shuning uchun ikki variant hisoblanadi, ko'chiriladigan stollar umumiy ro'yxatda ko'rsatiladi. Terrasa mebellari ob-havoga chidamli materiallar bo'yicha alohida satrga chiqariladi.",
+        ],
+      },
+      {
+        heading: "Zaxira miqdorini qanday belgilash kerak?",
+        paragraphs: [
+          "Zaxira uchun yagona foiz yo'q, uni tayyor raqam sifatida olib bo'lmaydi. Miqdor ochilish bosqichi, o'rnatish jarayoni, saqlash joyi va almashtirish rejasiga qarab belgilanadi. Bir bosqichda ochiladigan mehmonxonada ehtiyoj kamroq, bosqichma-bosqich ishga tushiriladigan loyihada ko'proq bo'ladi.",
+          "Zaxirani ikki turga ajrating: o'rnatish zaxirasi va foydalanish zaxirasi. Birinchisi montaj paytida shikastlangan yoki o'lchami to'g'ri kelmagan buyumlarni qoplaydi, ikkinchisi ish davomida almashtiriladigan qismlar uchun saqlanadi. Ikkalasini BOQ da alohida satr qilib, sababi va saqlash joyini ko'rsating.",
+          "Zaxira tarkibiga faqat krovat va stul kirmaydi: eng ko'p shikastlanadigan qismlar — stol usti, eshik tutqichi, oyoq tayanchi, mato qoplamasi va g'ildiraklar. Saqlash maydoni cheklangan bo'lsa, katta buyum o'rniga almashtiriladigan panel va qoplamalarni ko'proq saqlash amaliyroq.",
+        ],
+      },
+      {
+        heading: "Hisoblangan miqdorni BOQ bilan qanday solishtirish kerak?",
+        paragraphs: [
+          "Solishtirishni umumiy sondan emas, satr darajasida boshlang. Har bir satr uchun to'rt ustun tuzing: chizma bo'yicha miqdor, BOQ dagi miqdor, farq va farq sababi. O'lchov birligi bir xil bo'lishi shart, chunki bir joyda dona, boshqa joyda to'plam yozilsa, raqamlar mos kelmaydi. Nom ham bir xil bo'lsin, aks holda ortiqcha buyurtma chiqadi.",
+          "Farq chiqqan har bir satr uchun sababni yozing: lyuks xona ikki marta sanalgan, burchak xonaning o'lchami hisobga olinmagan, ochiq maydon mebellari BOQ ga kirmagan yoki zaxira asosiy miqdorga qo'shilgan. Har bir tuzatishdan so'ng faylning yangi versiyasini saqlang.",
+          "Yakuniy tekshiruvda uchta jamlama bajariladi: turkumlar bo'yicha xona soni loyihadagi umumiy songa tengmi, har bir turkumdagi buyum soni xona soniga to'g'ri ko'paytirilganmi, zaxira va ehtiyot qismlar asosiy ro'yxatdan alohida ko'rsatilganmi. Javob aniq bo'lsa, ro'yxat buyurtmaga uzatiladi. Chizma o'zgarsa, avval miqdor, keyin BOQ yangilanadi.",
+        ],
+      },
+    ],
+    faqs: [
+      {
+        question: "Mebel miqdorini hisoblash uchun qanday chizmalar kerak?",
+        answer: "Har bir xona turi uchun o'lchamlari yozilgan reja, eshik va deraza joylashuvi ko'rsatilgan plan, shift balandligi va rozetka chizmasi kerak. Mebel joylashuvi sxemasi o'tish yo'lagi va eshik ochilishini tekshirishga yordam beradi. Chizma sanasi va versiyasi ro'yxat bilan bir xil bo'lishi shart.",
+      },
+      {
+        question: "Quantity takeoff va BOQ o'rtasidagi farq nima?",
+        answer: "Quantity takeoff — chizma asosida buyum sonini aniqlash jarayoni, BOQ esa shu sonlarni material, o'lcham va texnik talab bilan birlashtirgan hujjat. Birinchi bosqichda faqat miqdor va joylashuv hisoblanadi, ikkinchisida satrlar buyurtma uchun tayyorlanadi. Shuning uchun avval hisoblash, keyin BOQ tuziladi.",
+      },
+      {
+        question: "Tungi stol soni krovat soniga teng bo'lishi shartmi?",
+        answer: "Yo'q, son krovatning yon tomonlari va joylashuviga bog'liq. Bitta keng krovatda ikkita tungi stol, ikkita alohida krovatda esa oraliq masofaga qarab ikkita yoki uchta stol qo'yiladi. Krovat devorga yaqin bo'lsa, bir tomondagi stol olib tashlanadi va bu chizmada ko'rsatiladi.",
+      },
+      {
+        question: "Harakatlanishi cheklangan mehmon uchun xonada mebel soni qanday hisoblanadi?",
+        answer: "Bunday xonada krovat atrofidagi bo'sh joy kattaroq, shkaf eshigi va ish stoli oldidagi masofa ham oshiriladi. Ba'zi hollarda tungi stol o'rniga devorga mahkamlangan tokcha ishlatiladi, bu sonni kamaytiradi. Shu sababli turkum alohida hisoblanadi.",
+      },
+      {
+        question: "Lobbi uchun qancha o'rindiq kerakligini qanday aniqlash mumkin?",
+        answer: "Avval lobbida bir vaqtda bo'ladigan mehmonlar sonini baholang, so'ng kutish, qabul va dam olish zonalarini belgilang. Har bir zonada o'rindiq joylashuvini chizib, o'tish yo'llarini hisobga oling. Zal maydonini bo'lish bilan chiqarilgan son haqiqiy joylashuvga mos kelmaydi, shuning uchun panjara usuli ishonchliroq.",
+      },
+      {
+        question: "Zaxira mebel uchun qancha foiz qo'yish kerak?",
+        answer: "Tayyor foiz yo'q, chunki zaxira ochilish bosqichi, o'rnatish sharti, saqlash maydoni va almashtirish rejasiga bog'liq. Uni o'rnatish va foydalanish qismlariga ajratib, har birini sababi va saqlash joyi bilan alohida satrda yozing. Shunda miqdor asoslangan bo'ladi.",
+      },
+      {
+        question: "Hisoblangan miqdor BOQ dagi miqdordan farq qilsa nima qilish kerak?",
+        answer: "Farqni satr bo'yicha yozib, sababini aniqlang: takroriy sanash, o'lchov birligi nomuvofiqligi, burchak xona hisobga olinmagani yoki zaxira asosiy miqdorga qo'shilgani. Har bir tuzatishdan keyin yangi versiya saqlanadi. Yakuniy qaror chizma va tasdiqlangan xona ro'yxatiga asoslanadi, oddiy qo'shish bilan tenglashtirilmaydi.",
+      },
+    ],
+  },
+  {
+    id: "hotel-room-furniture-budget-structure-russia",
+    market: "ru",
+    title: "Из чего складывается бюджет мебели для гостиничного номера",
+    tag: "Гостиницы",
+    excerpt: "Почему у мебели для номера нет единой цены, из каких статей складывается бюджет и как сформулировать запрос для сравнения предложений.",
+    date: "2026-10-19",
+    readingMin: 9,
+    image: "/images/blog/moq-pricing-guide.webp",
+    imageAlt: "Статьи затрат в бюджете мебели для номера",
+    definition: "Бюджет мебели для гостиничного номера — это сумма затрат вокруг обстановки: корпус и обивка, фурнитура, обработка кромок, упаковка, доставка, подъём, сборка, крепление к стенам и сервисное обслуживание.",
+    takeaways: [
+      "Бюджет номера складывается из спецификации, материалов, фурнитуры, логистики, монтажа и сервиса, а не из цены за предмет.",
+      "Сравнивать предложения можно только при одинаковой спецификации, одинаковых материалах и одинаковом объёме работ по монтажу.",
+      "Чем подробнее описан материал корпуса, кромки и фурнитуры, тем меньше скрытых допущений остаётся в цене.",
+      "Логистика, подъём, сборка и вывоз упаковки должны быть отдельными строками, а не растворяться в цене мебели.",
+      "Изменения после согласования спецификации почти всегда увеличивают бюджет, поэтому все правки лучше собрать до отправки запроса.",
+      "Резерв на образцы и на замену повреждённых позиций закладывается на этапе планирования, а не после поставки.",
+    ],
+    sections: [
+      {
+        heading: "Почему нельзя назвать единую цену за номер?",
+        paragraphs: [
+          "Единой цены за гостиничный номер не существует, потому что номер — это не набор одинаковых предметов, а сумма решений, которые принимаются под конкретный проект. Два номера одной площади могут отличаться породой шпона, плотностью обивки, классом фурнитуры, способом крепления и требованиями к безопасности. Каждое такое решение меняет состав материалов и трудозатраты, поэтому корректная цена всегда привязана к спецификации и условиям поставки, а не к площади помещения. Именно поэтому вопрос о цене за номер корректно задавать только вместе с описанием того, что в этот номер входит.",
+          "Играет роль и структура самого заказа. Отель может закупать мебель одним пакетом на весь номерной фонд или дробить её по этапам, по типам номеров и по зонам. В первом случае выше доля постоянных затрат на подготовку производства, во втором — больше логистических и монтажных операций. Кроме того, повторяемость позиций влияет на раскрой и количество отходов, а значит, и на себестоимость каждой единицы. Поэтому вопрос о стоимости номера без описания состава, материалов и размера партии не имеет однозначного ответа.",
+        ],
+      },
+      {
+        heading: "Из каких статей складывается стоимость мебели для номера?",
+        paragraphs: [
+          "Первая и самая заметная статья — корпус и фасадные элементы: шкаф, тумбы, письменный стол, изголовье, мини-бар и багажная полка. Здесь стоимость определяют материал, толщина плиты, вид кромки и точность обработки. Замена ЛДСП на MDF с фрезеровкой или на HPL меняет не только внешний вид, но и весь технологический маршрут, включая раскрой, кромление, сборку и упаковку. Отдельно считается обработка торцов и защита поверхности: лак, шпон, плёнка или декоративная панель.",
+          "Вторая группа — мягкие элементы: изголовье, кресло, пуф, банкетка. Для них важны каркас, наполнитель, плотность обивки и класс износостойкости ткани. Третья группа — фурнитура и механизмы: петли, направляющие, доводчики, замки, колёса и крепёж. Именно она чаще всего объясняет разницу между предложениями, которые на визуализации выглядят совершенно одинаково. Разница в классе этих деталей обычно не видна на расстоянии, но проявляется через год эксплуатации.",
+          "Четвёртая группа — операции, которых нет в спецификации, но без них мебель не заработает: упаковка, маркировка по номерам, доставка, подъём на этаж, сборка, крепление к стенам и вывоз упаковки. В коммерческих предложениях эти строки иногда объединены в одну, и тогда сопоставить их между поставщиками практически невозможно. Их удобно выделить в отдельный блок бюджета, чтобы не сравнивать мебель с её доставкой. При планировании эти строки часто округляют, и именно там возникает основной перерасход.",
+        ],
+      },
+      {
+        heading: "Как спецификация влияет на цену?",
+        paragraphs: [
+          "Спецификация — единственный документ, который переводит пожелания в измеримые параметры. Пока в ней указано только «шкаф двухдверный, дуб», поставщик вынужден домысливать глубину, толщину полок, тип кромки, направление открывания и способ крепления. Каждое домысливание становится либо допущением в цене, либо поводом для доплаты уже после подписания договора. В результате один поставщик считает цену за предполагаемую конструкцию, а другой — за фактическую.",
+          "Чем детальнее описаны материалы и узлы, тем стабильнее предложение. Если для каждой позиции указаны габариты, материал корпуса и фасада, кромка, фурнитура и требования к обивке, спорных ситуаций при приёмке становится меньше. Одновременно такая спецификация ограничивает возможности для скрытого упрощения конструкции, которое обычно обнаруживается только при сборке. Например, указание класса износостойкости обивки и типа кромки сразу снимает два самых частых вопроса при согласовании. Для гостиничного номера это особенно важно: одна и та же позиция повторяется десятки раз, и любое упрощение тиражируется на весь фонд.",
+        ],
+      },
+      {
+        heading: "Почему предложения на одинаковый перечень отличаются?",
+        paragraphs: [
+          "Даже при одинаковом перечне позиций предложения расходятся, потому что за одинаковыми словами стоят разные решения. Один поставщик берёт плиту стандартной толщины с кромкой ПВХ, другой — плиту большей толщины с кромкой в цвет и усиленным крепежом. Один считает индивидуальную упаковку для каждой позиции, другой — общую тару на комплект. Перечень совпадает, состав затрат — нет. Разница может накапливаться по каждой позиции и в сумме давать заметное расхождение.",
+          "Вторая причина — разный объём работ. Кто-то включает доставку до объекта, подъём и сборку, кто-то ограничивается доставкой до склада. Третья причина — разная глубина проработки: наличие прототипа, порядок согласования образцов, шеф-монтаж и обслуживание в период гарантии. Пока эти пункты не вынесены в отдельные строки, сравнивать итоговые суммы не имеет смысла. Единая форма ответа решает эту проблему лучше, чем переговоры об итоговой сумме.",
+        ],
+      },
+      {
+        heading: "Что должно входить в запрос, чтобы получить сопоставимые цены?",
+        paragraphs: [
+          "Запрос должен содержать не только перечень, но и правила сравнения. Полезно указать тип объекта и назначение зон, требования к материалам и износостойкости, допустимость аналогов, порядок согласования образцов и формат отчётности. Отдельно фиксируется, какие работы входят в предложение: доставка, подъём, сборка, крепление к стенам и вывоз упаковки. Если этого не сделать, поставщики отвечают на разные вопросы, и сравнение теряет смысл. Формулировки должны быть однозначными, чтобы разные поставщики не трактовали одно и то же требование по-своему и не закладывали разный запас.",
+          "Имеет смысл задать единую форму ответа — таблицу с одинаковыми колонками, где напротив каждой позиции поставщик указывает материал, фурнитуру, срок действия предложения и условия пересмотра цены. Тогда сравнение идёт построчно, а не по итоговой сумме, и сразу видно, какая статья вызвала расхождение. Это экономит время и снимает большую часть спорных вопросов. Такой формат удобен и для внутреннего согласования бюджета.",
+        ],
+      },
+      {
+        heading: "Какие статьи затрат часто не учитывают при планировании?",
+        paragraphs: [
+          "Чаще всего забывают про образцы и прототипы. Изготовление выставочного образца, его доставка и согласование — отдельная работа, которая при небольшой партии заметно влияет на бюджет. Также редко закладывают резерв на замену позиций, повреждённых при монтаже, и на хранение мебели на складе до начала работ в номерах. Эти затраты не видны в перечне позиций, но они реально влияют на итог. Кроме того, хранение мебели на объекте требует места, которое не всегда предусмотрено.",
+          "Ещё одна недооценённая статья — изменения. Любая правка после согласования спецификации запускает пересчёт материалов, а иногда и переделку уже готовых изделий. Наконец, обслуживание: замена крепежа, ремонт механизмов, обновление обивки в номерах с высокой нагрузкой. Эти расходы удобнее планировать заранее, чем закрывать внепланово посреди сезона. Их проще включить в план обслуживания, чем каждый раз согласовывать внеплановые работы.",
+        ],
+      },
+    ],
+    faqs: [
+      {
+        question: "Сколько стоит мебель для гостиницы?",
+        answer: "Единой суммы нет: стоимость зависит от состава позиций, материалов, фурнитуры, объёма партии и включённых работ. Ответ возможен после изучения спецификации.",
+      },
+      {
+        question: "Из чего складывается цена мебели для гостиничного номера?",
+        answer: "Из корпуса и фасадов, мягких элементов, фурнитуры, кромок, упаковки, логистики, монтажа и сервиса. Каждая статья считается отдельно.",
+      },
+      {
+        question: "Почему предложения на одинаковый перечень так сильно отличаются?",
+        answer: "За одинаковыми названиями скрываются разные материалы, толщина плиты, класс фурнитуры и объём работ. Пока они не выровнены, разница отражает разные решения.",
+      },
+      {
+        question: "Что дешевле для гостиничного номера — ЛДСП или MDF?",
+        answer: "Сравнивать конструкцию целиком. ЛДСП проще в обработке, MDF точнее держит форму, но требует другой кромки и отделки. Итог зависит от нагрузки.",
+      },
+      {
+        question: "Входят ли доставка и монтаж в цену мебели?",
+        answer: "Зависит от условий. Доставка до склада, до объекта, подъём, сборка и вывоз упаковки — разные операции. Их стоит перечислить отдельно.",
+      },
+      {
+        question: "Нужно ли платить за образцы перед заказом?",
+        answer: "Изготовление образца — самостоятельная работа с материалами и трудом. Наличие в предложении влияет на бюджет, поэтому пункт обсуждают до договора.",
+      },
+      {
+        question: "Как сравнить предложения, если перечни разные?",
+        answer: "Сначала привести позиции к единой базе: габариты, материалы, фурнитура и объём работ. Затем сравнить построчно и оценить лишние статьи.",
+      },
+    ],
+  },
+  {
+    id: "hotel-room-furniture-budget-structure-mongolia",
+    market: "mn",
+    title: "Зочид буудлын тавилгын төсөв: өрөөний зардал юунаас бүрддэг вэ",
+    tag: "Зочид буудал",
+    excerpt: "Нэг өрөөний тавилгын үнийг яагаад нэг тоогоор хэлж болохгүй, зардал ямар давхаргуудаас бүрддэг, ижил жагсаалтад ирсэн саналууд яагаад зөрдөг, харьцуулах боломжтой үнэ авахын тулд ямар мэдээлэл өгөх ёстойг тайлбарлав.",
+    date: "2026-10-19",
+    readingMin: 9,
+    image: "/images/blog/guestroom-checklist.webp",
+    imageAlt: "Зочид буудлын өрөөний тавилгын шалгах хуудас",
+    definition: "Зочид буудлын өрөөний тавилгын төсөв гэдэг нь нэг өрөөнд байрлах тавилга бүрийн тоо ширхэг, хэмжээ, материал, өнгөлгөө, тоноглол, тээвэрлэлт, угсралт болон ашиглалтын дараах зардлыг нэг бүтэцтэйгээр нэгтгэсэн тооцоо юм. Энэ бүтэц нь нийлүүлэгчдийн саналыг ижил суурь дээр тавьж харьцуулах, аль зардал хаанаас үүсч байгааг харах боломжийг олгодог.",
+    takeaways: [
+      "Нэг өрөөний тавилгын үнэ гэдэг нь олон мөрийн нийлбэр бөгөөд аль нэг мөр өөрчлөгдвөл нийт дүн өөрчлөгдөнө.",
+      "Зардлыг бүтээгдэхүүн, үйлчилгээ, ашиглалтын гэсэн гурван давхаргаар ялгаж бичих нь төсвийн бүтцийг ойлгох эхлэл болдог.",
+      "Материалын дотоод бүтэц, өнгөлгөөний зузаан, тоноглолын чанар нь гаднаа ижил харагдах хоёр тавилгын ялгааг үүсгэдэг.",
+      "Ижил жагсаалтад ирсэн саналуудын зөрүү нь ихэвчлэн дутуу орсон ажил, ойролцоо материал, өөр хүлээлгэн өгөх нөхцөлөөс үүсдэг.",
+      "Харьцуулах боломжтой үнэ авахын тулд өрөөний төрөл, хэмжээ, материал, угсралт, тээврийн хариуцлагыг бичгээр өгөх шаардлагатай.",
+      "Тээвэр, гааль, агуулах, угсралт, нөөц эд анги зэрэг төсвийн гадна үлддэг зардлыг урьдчилан жагсаалтад оруулах нь зүйтэй.",
+    ],
+    sections: [
+      {
+        heading: "Нэг өрөөний тавилгын үнийг яагаад нэг тоогоор хэлэх боломжгүй вэ?",
+        paragraphs: [
+          "Зочид буудлын тавилгын үнийг асуухад нэг тодорхой тоо сонсохыг хүсэх нь ойлгомжтой. Гэвч нэг өрөөний тавилга гэдэг нь ор, шүүгээ, бичгийн ширээ, сандал, шөнийн тавиур, толин тусгал зэрэг олон зүйлийн нэгдэл юм. Эдгээр зүйл бүр өөрийн хэмжээ, материал, өнгөлгөө, тоноглолтой тул аль нэг нь өөрчлөгдөхөд нийт дүн дагаж өөрчлөгдөнө.",
+          "Мөн үнэ нь зөвхөн бүтээгдэхүүний үнэ биш. Баглаа боодол, тээвэр, гаалийн бүрдүүлэлт, талбай дээрх угсралт, суурилуулалтын дараах үйлчилгээний нөхцөл зэрэг нь нийлүүлэгч бүрт өөр өөрөөр тооцогддог. Тиймээс нэг тоо гэдэг нь ямар нэг таамаглал дээр тогтсон тооцоо гэж ойлгох нь зөв.",
+          "Практикт нэг өрөөний үнийг асуухын оронд өрөөний төрөл тус бүрийн жагсаалт, хэмжээ, материалын шаардлагыг өгч, мөр тус бүрээр үнэ авдаг. Ингэснээр аль зүйл нийт дүнг бүрдүүлж байгааг харж, шаардлагагүй хэсгийг хасаж, дутуу хэсгийг нэмэх боломж нээгддэг. Энэ нь зөвхөн төсөв төлөвлөхөд төдийгүй, дараагийн шатанд өөрчлөлт орох үед ямар нөлөө гарахыг тооцоход тусална.",
+        ],
+      },
+      {
+        heading: "Тавилгын зардал ямар зүйлсээс бүрддэг вэ?",
+        paragraphs: [
+          "Эхний давхарга нь бүтээгдэхүүний үндсэн өртөг юм. Үүнд модон хавтан, фанер, металл хүрээ, зөөлөн эдлэлийн хөөс, даавуу, арьс, өнгөлгөөний материал, ирмэгийн хальс, тотгозуур, гүйлгээ, түгжээ зэрэг орно. Эдгээрийн чанар, зузаан, гарал үүсэл нь өртгийн хамгийн том хэсгийг бүрдүүлдэг.",
+          "Хоёр дахь давхарга нь үйлчилгээний зардал. Зургийн дагуу хэмжээ тохируулах, өнгөний дээж бэлтгэх, үйлдвэрийн угсралтын шалгалт, баглаа боодол, ачилт, тээвэр, даатгал, гаалийн бичиг баримт, талбай дээрх угсралт, ажлын талбайн цэвэрлэгээ зэрэг багтана. Эдгээр нь зарим саналд тусдаа мөрөөр, заримд нь нэг багц үнэ дотор нуугдсан байдаг.",
+          "Гурав дахь давхарга нь ашиглалтын зардал. Зочид буудал өдөр бүр ажилладаг тул тавилга байнга ачаалалд ордог. Нөөц эд анги, бариулын бэхэлгээ, гүйлгээний тохируулга, зөөлөн эдлэлийн дахин бүрэлт, гадаргуугийн засвар зэрэг нь төсөвт шууд ороогүй ч жилийн туршид зарлага болдог. Төсөв бүрдүүлэхдээ энэ давхаргыг орхигдуулах нь хожим гэнэтийн зардал үүсгэдэг.",
+        ],
+      },
+      {
+        heading: "Материал, өнгөлгөө, тоноглол үнэд хэрхэн нөлөөлдөг вэ?",
+        paragraphs: [
+          "Материалын хувьд зөвхөн ерөнхий нэр биш, дотоод бүтэц чухал. Бүтэн мод, фанер, MDF, чипсэн хавтан, хуудас металл нь өөр өөр боловсруулалт, өөр бат бэх, өөр жинтэй. Гаднаа ижил харагдах хоёр шүүгээний нэг нь зузаан хавтантай, нөгөө нь нимгэн хавтантай байж болно. Хэмжээ, зузаан, холболтын аргыг тодорхой бичихгүй бол үнийн зөрүүг тайлбарлахад хэцүү болдог.",
+          "Өнгөлгөөний төрөл ч мөн адил нөлөөтэй. HPL хуудас, меламины хальс, будсан гадаргуу, байгалийн фурнир нь өөр өөр үйлдвэрлэлийн шат шаарддаг. Ирмэгийн боловсруулалт, булангийн бэхэлгээ, гадаргуугийн усалгаа зэрэг нарийн ширийн ажил нь ашиглалтын хугацаанд шууд мэдрэгддэг. Зөвхөн өнгө сонгоод, гадаргуугийн төрлийг тодорхойлохгүй өнгөрөх нь дараа нь саналын зөрүүг үүсгэдэг нийтлэг шалтгаан.",
+          "Тоноглолын хувьд тотгозуур, гүйлгээ, түгжээ, зөөлөн хаалтын механизм, кабель суваг, өлгөгч систем зэрэг жижиг эд анги үнэд мэдэгдэхүйц нөлөөлдөг. Эдгээр нь өрөөний ашиглалтын тав тух, дуу чимээ, эдэлгээтэй шууд холбоотой. Тиймээс тоноглолыг брэнд эсвэл техникийн үзүүлэлтээр нь тодорхойлж, солих боломжтой эсэхийг урьдчилан асуух нь зүйтэй.",
+        ],
+      },
+      {
+        heading: "Ижил жагсаалтад өгсөн саналууд яагаад өөр өөр байдаг вэ?",
+        paragraphs: [
+          "Нэг жагсаалт илгээсэн ч хариу саналууд зөрөх нь түгээмэл. Шалтгааны нэг нь тайлбар юм. Зарим нийлүүлэгч хэмжээг ойролцоогоор дугуйруулж, зарим нь материалыг ойролцоо нэрээр сольж, зарим нь дотоод бүтцийг нимгэн болгож тооцдог. Гаднаас харахад ижил мөр боловч дотор нь өөр ажил орсон байдаг.",
+          "Хоёр дахь шалтгаан нь үйлдвэрлэлийн зохион байгуулалт. Нэг багц доторх тоо ширхэг, хэмжээний давталт, өнгөний тоо, угсралтын хүндрэл зэрэг нь бэлтгэл ажлын хэмжээг өөрчилдөг. Мөн тээврийн чиглэл, ачилтын нөхцөл, баглаа боодлын шаардлага нь санал бүрт өөр өөрөөр тусдаг.",
+          "Гурав дахь шалтгаан нь үнийн бүтэц. Зарим санал зөвхөн бүтээгдэхүүнийг, зарим нь тээвэр, гааль, угсралтыг оролцуулсан багцыг санал болгодог. Эдгээрийг нийт дүнгээр шууд харьцуулах нь буруу дүгнэлтэд хүргэдэг. Тиймээс санал бүрийг ижил мөр, ижил нөхцөл, ижил хариуцлагын хуваалт дээр тавьж үзэх шаардлагатай.",
+        ],
+      },
+      {
+        heading: "Харьцуулах боломжтой үнэ авахын тулд ямар мэдээлэл өгөх хэрэгтэй вэ?",
+        paragraphs: [
+          "Хамгийн эхэнд өрөөний төрөл, төрөл бүрийн өрөөний тоо, өрөөний ерөнхий хэмжээ, тавилга байрлуулах байршлыг тодорхой өгнө. Шалны тоо, лифтийн хэмжээ, агуулахын зай, ачих буух боломж зэрэг нь угсралтын ажлын хүндрэлд нөлөөлдөг тул эдгээрийг ч хамт бичих нь зүйтэй. Боломжтой бол архитектурын зураг, өрөөний планировкийг хавсаргана.",
+          "Дараа нь материал, өнгөлгөө, тоноглолын шаардлагыг тодорхойлно. Гадаргуугийн төрөл, ирмэгийн боловсруулалт, өнгөний код, даавууны ангилал, тотгозуурын төрөл зэргийг бичиж, дээж эсвэл зургийн лавлагаа хавсаргах нь саналын зөрүүг багасгана. Мөн ямар стандарт, ямар хэмжилтийн нэгж ашиглахыг урьдчилан тохирно.",
+          "Эцэст нь худалдан авалтын нөхцөлийг тодорхой өгнө. Тээвэр, даатгал, гааль, талбай хүртэлх хүргэлт, угсралт, баглаа боодол, хог зайлуулах ажлыг хэн хариуцах вэ гэдгийг мөр бүрт тусгана. Саналын хүчинтэй хугацаа, хувилбарын дугаар, хариуцагчийн нэр, огноог баримтад тэмдэглэснээр хожуу үеийн маргаан багасна.",
+        ],
+      },
+      {
+        heading: "Төсөвлөхдөө ямар зардлыг орхигдуулдаг вэ?",
+        paragraphs: [
+          "Хамгийн түгээмэл орхигддог зардал бол тээвэр, гааль, татвар, даатгал, боомт дахь агуулах юм. Эдгээр нь бүтээгдэхүүний үнээс тусдаа гардаг ч нийт төсвийн мэдэгдэхүйц хэсгийг бүрдүүлдэг. Тээврийн чиглэл, ачилтын хэмжээ, баглаа боодлын шаардлага өөрчлөгдөхөд энэ хэсэг бас өөрчлөгддөг.",
+          "Дараагийн орхигддог зүйл бол талбай дээрх ажил. Угсралт, өргөх төхөөрөмж, цахилгаан, гэрэлтүүлэг, ажлын талбайн хамгаалалт, хуучин тавилгыг буулгах, хог зайлуулах зэрэг нь тусдаа зардал болдог. Зочид буудал ажиллаж байгаа үед өрөөг ээлжлэн гаргах, ажлын цагийг тохируулах шаардлага гардаг нь ч нэмэлт зохион байгуулалт шаарддаг.",
+          "Мөн нөөц эд анги, засварын багц, зөөлөн эдлэлийн нөөц даавуу, ирээдүйн өөрчлөлтөд зориулсан нөөцийг урьдчилан тооцох нь зүйтэй. Эдгээрийг төсөвт оруулаагүй тохиолдолд ашиглалтын эхний үед гэнэтийн зардал гарч, нийт төсөв хэт бага мэт харагдсан ч бодит зарлага өндөр болдог. Тиймээс төсвийг зөвхөн худалдан авалтын дүнгээр бус, бүрэн ашиглалтын мөчлөгөөр нь харьцуулах нь илүү бодитой.",
+        ],
+      },
+    ],
+    faqs: [
+      {
+        question: "Зочид буудлын нэг өрөөний тавилгын үнийг хэрхэн тооцох вэ?",
+        answer: "Өрөөний тавилгыг мөр тус бүрээр задалж, хэмжээ, материал, өнгөлгөө, тоноглолыг тодорхой бичсэний дараа мөр бүрийн үнийг нэгтгэх замаар тооцно. Нийт дүнгийн хажууд тээвэр, угсралт, баглаа боодол зэрэг нэмэлт зардлыг тусад нь харуулах нь бодит өртгийг харахад тусална.",
+      },
+      {
+        question: "Тавилгын үнэд угсралт багтсан уу?",
+        answer: "Саналаас хамаарна. Зарим нийлүүлэгч зөвхөн бүтээгдэхүүний үнийг, зарим нь талбай дээрх угсралтыг оролцуулсан багцыг санал болгодог. Тиймээс санал авахдаа угсралт, өргөх төхөөрөмж, хог зайлуулалт аль талд хамаарахыг бичгээр тодруулах шаардлагатай.",
+      },
+      {
+        question: "MDF ба бүтэн модны ялгаа үнэд хэрхэн нөлөөлдөг вэ?",
+        answer: "MDF нь нэгэн төрлийн нягт хавтан бөгөөд тогтвортой хэмжээ, жигд гадаргуутай тул будсан өнгөлгөөнд тохиромжтой. Бүтэн мод нь өөр боловсруулалт, өөр холболт шаарддаг ба чийг, халууны нөлөөнд өөрөөр ажилладаг. Аль нь тохирохыг байршил, ачаалал, өнгөлгөөний шаардлагаар шийдэх нь зүйтэй.",
+      },
+      {
+        question: "HPL өнгөлгөө гэж юу вэ, яагаад үнэ өөр байдаг вэ?",
+        answer: "HPL нь өндөр даралтаар хэвлэсэн хуудаслаг материал бөгөөд гадаргуугийн эдэлгээ, өнгөний тогтвортой байдал, цэвэрлэхэд хялбар байдлаараа зочид буудлын орчинд түгээмэл хэрэглэгддэг. Зузаан, гадаргуугийн боловсруулалт, ирмэгийн холболтын арга өөр байх тусам үйлдвэрлэлийн зардал өөрчлөгддөг.",
+      },
+      {
+        question: "BOQ-гүйгээр үнийн санал авах боломжтой юу?",
+        answer: "Боломжтой боловч харьцуулалт хийхэд хэцүү. Жагсаалтгүй тохиолдолд нийлүүлэгч бүр өөрийн таамаглалаар хэмжээ, материал, тоо ширхэгийг тодорхойлдог тул саналууд өөр өөр суурь дээр гардаг. Наад зах нь өрөөний төрөл, хэмжээ, тавилгын нэр, тоо ширхэг бүхий энгийн жагсаалт бэлтгэх нь илүү үр дүнтэй.",
+      },
+      {
+        question: "Тээвэр, гаалийн зардлыг хэн хариуцах вэ?",
+        answer: "Энэ нь худалдан авалтын нөхцөлөөр тодорхойлогдоно. Хүргэлтийн хариуцлага хаана шилжих, гаалийн бичиг баримтыг хэн бэлтгэх, татвар, даатгал, боомт дахь агуулахыг хэн төлөх зэргийг гэрээнд тодорхой бичих шаардлагатай. Эдгээрийг тодруулаагүй тохиолдолд нийт төсөв хожим нэмэгдэх эрсдэлтэй.",
+      },
+      {
+        question: "Зочид буудлын тавилгын төсөвт урьдчилан тооцоогүй зардлын нөөцийг хэрхэн төлөвлөх вэ?",
+        answer: "Төслийн эрсдэлийн түвшин, өрөөний тоо, материал солих магадлалыг харгалзан тусдаа нөөцийн мөр гаргах нь зүйтэй. Нөөцийг үндсэн төсвөөс тусдаа хөтөлж, ямар зардалд зарцуулсныг бүртгэх нь дараагийн төслийн тооцоог илүү бодитой болгодог.",
+      },
+    ],
+  },
 ];
 
 export const marketPostsFor = (market: MarketCode) =>

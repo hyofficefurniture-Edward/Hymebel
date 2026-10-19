@@ -549,19 +549,6 @@
       "updated": "2026-10-13"
     },
     {
-      "id": "hos-020",
-      "title": "The Hilton DoubleTree Hotel",
-      "country": "Asia",
-      "region": "other",
-      "sector": "hospitality",
-      "language": "mn",
-      "source": "https://hymebel.com/mn/cases/hos-020/",
-      "summary": "Группийн төслийн тавилгын сонголт: улс болон салбарыг эх баримтын дагуу харуулав.",
-      "discussion": "Зураг төсөл, тоо хэмжээ, хэмжээс, өнгөлгөө болон хүргэлтийн үүргийг тодруулна уу. Энэ жишээ нь өөр захиалгын үнэ, хугацаа эсвэл техникийн үзүүлэлтийг тогтоохгүй.",
-      "evidenceGrade": "A",
-      "updated": "2026-10-13"
-    },
-    {
       "id": "off-011",
       "title": "Papua New Guinea International Convention Center",
       "country": "Papua New Guinea",

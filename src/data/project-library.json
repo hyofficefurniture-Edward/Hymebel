@@ -611,20 +611,6 @@
     "evidenceGrade": "A"
   },
   {
-    "id": "hos-020",
-    "name": "The Hilton DoubleTree Hotel",
-    "country": "Asia",
-    "region": "other",
-    "industry": "hospitality",
-    "image": "/images/project-library/hos-020.webp",
-    "tags": [
-      "hospitality"
-    ],
-    "sourceKind": "project-pdf",
-    "publicLevel": "L3",
-    "evidenceGrade": "A"
-  },
-  {
     "id": "off-011",
     "name": "Papua New Guinea International Convention Center",
     "country": "Papua New Guinea",

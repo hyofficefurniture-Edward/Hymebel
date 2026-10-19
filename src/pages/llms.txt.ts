@@ -1,5 +1,6 @@
 import type { APIRoute } from "astro";
 import { company } from "../i18n/ui";
+import projects from "../data/project-library.json";
 
 /**
  * /llms.txt — 面向 AI 引擎（ChatGPT / Perplexity / Gemini 等）的站点结构化摘要。
@@ -23,7 +24,7 @@ export const GET: APIRoute = ({ site }) => {
 
 ## Project evidence
 
-- 47 unique group project references, led by Hilton Tashkent, Uzbekistan.
+- ${projects.length} unique group project references, led by Hilton Tashkent, Uzbekistan.
 - /kk/project-knowledge.json, /uz/project-knowledge.json, /en/project-knowledge.json
 - /ru/project-knowledge.json, /ru/en/project-knowledge.json, /mn/project-knowledge.json, /mn/en/project-knowledge.json
 - Each retrieval record keeps its actual country and public source URL; no universal delivery or certification claim.

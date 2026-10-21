@@ -599,6 +599,75 @@
       "discussion": "Уточните планы, количество, размеры, отделку и ответственность за доставку. Этот пример не устанавливает цену, сроки или технические характеристики другого заказа.",
       "evidenceGrade": "A",
       "updated": "2026-10-13"
+    },
+    {
+      "id": "off-015",
+      "title": "Walmart Costa Rica",
+      "country": "Costa Rica",
+      "region": "latin-america",
+      "sector": "office",
+      "language": "ru",
+      "source": "https://hymebel.com/ru/cases/off-015/",
+      "evidenceSource": "https://www.hyofficefurniture.com/Walmart-Costa-Rica-Office-Project-By-Hongye-Furniture-id45267106.html",
+      "summary": "Офисный проект в Коста-Рике объединяет рабочие места и зоны неформального общения. Сравните назначение общих зон до подготовки своей ведомости мебели.",
+      "spaces": [
+        "Рабочие места",
+        "Зоны неформальных встреч",
+        "Столовая для сотрудников"
+      ],
+      "discussion": [
+        "Разделите количество мебели для личных и общих зон.",
+        "Отметьте питание и кабельные выводы на плане.",
+        "Уточните число мест и проходы в общих пространствах."
+      ],
+      "evidenceGrade": "A",
+      "updated": "2026-10-21"
+    },
+    {
+      "id": "off-001",
+      "title": "Ahmadi Services Group, Kuwait Oil Company",
+      "country": "Kuwait",
+      "region": "middle-east",
+      "sector": "office",
+      "language": "ru",
+      "source": "https://hymebel.com/ru/cases/off-001/",
+      "evidenceSource": "https://www.hyofficefurniture.com/Ahmadi-Services-Group-Kuwait-Oil-Company-Office-Project-By-Hongye-Furniture-id40818596.html",
+      "summary": "Кувейтский проект объединяет отдельные кабинеты, общие рабочие зоны и пространства встреч. Сопоставьте расстановку столов, хранение и доступ посетителей.",
+      "spaces": [
+        "Отдельные кабинеты",
+        "Общие рабочие места",
+        "Переговорные и учебные помещения"
+      ],
+      "discussion": [
+        "Разделите отдельные кабинеты и командные рабочие места.",
+        "Укажите хранение и гостевые места по помещениям.",
+        "Согласуйте планировки переговорных и учебных комнат."
+      ],
+      "evidenceGrade": "A",
+      "updated": "2026-10-21"
+    },
+    {
+      "id": "edu-001",
+      "title": "American University in Baghdad",
+      "country": "Iraq",
+      "region": "middle-east",
+      "sector": "education",
+      "language": "ru",
+      "source": "https://hymebel.com/ru/cases/edu-001/",
+      "evidenceSource": "https://hyeducationfurniture.com/american-university-in-baghdad-education-project-by-hongye-furniture.html",
+      "summary": "Университетский проект в Ираке связывает мебель вестибюля и приёмной с маршрутами движения. Галерея показывает проектную мебель и изготовление изогнутых элементов.",
+      "spaces": [
+        "Места ожидания в вестибюле",
+        "Приёмная",
+        "Производство изогнутой мебели"
+      ],
+      "discussion": [
+        "Передайте размеры и чертежи изогнутых сидений.",
+        "Обозначьте пути движения и зазоры у приёмной.",
+        "Проверьте образцы и стыки компонентов до заказа."
+      ],
+      "evidenceGrade": "A",
+      "updated": "2026-10-21"
     }
   ]
 }

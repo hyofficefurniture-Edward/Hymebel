@@ -599,6 +599,75 @@
       "discussion": "Жоспарларды, санын, өлшемдерін, әрлеуін және жеткізу жауапкершілігін нақтылаңыз. Бұл мысал басқа тапсырыстың бағасын, мерзімін немесе техникалық сипаттамасын белгілемейді.",
       "evidenceGrade": "A",
       "updated": "2026-10-13"
+    },
+    {
+      "id": "off-015",
+      "title": "Walmart Costa Rica",
+      "country": "Costa Rica",
+      "region": "latin-america",
+      "sector": "office",
+      "language": "kk",
+      "source": "https://hymebel.com/kk/cases/off-015/",
+      "evidenceSource": "https://www.hyofficefurniture.com/Walmart-Costa-Rica-Office-Project-By-Hongye-Furniture-id45267106.html",
+      "summary": "Коста-Рикадағы кеңсе жобасы жұмыс орындары мен бейресми кездесу аймақтарын біріктіреді. Өз жиһаз тізіміңізді дайындау алдында ортақ кеңістіктердің қызметін салыстырыңыз.",
+      "spaces": [
+        "Жұмыс орындары",
+        "Бейресми кездесу аймақтары",
+        "Қызметкерлердің асханасы"
+      ],
+      "discussion": [
+        "Жеке және ортақ аймақтардың жиһаз санын бөліңіз.",
+        "Жоспарда қуат пен кабель нүктелерін көрсетіңіз.",
+        "Ортақ кеңістіктердегі орын санын және өту жолдарын нақтылаңыз."
+      ],
+      "evidenceGrade": "A",
+      "updated": "2026-10-21"
+    },
+    {
+      "id": "off-001",
+      "title": "Ahmadi Services Group, Kuwait Oil Company",
+      "country": "Kuwait",
+      "region": "middle-east",
+      "sector": "office",
+      "language": "kk",
+      "source": "https://hymebel.com/kk/cases/off-001/",
+      "evidenceSource": "https://www.hyofficefurniture.com/Ahmadi-Services-Group-Kuwait-Oil-Company-Office-Project-By-Hongye-Furniture-id40818596.html",
+      "summary": "Кувейттегі жоба жеке кабинеттерді, ортақ жұмыс орындарын және кездесу кеңістіктерін қамтиды. Үстел орналасуын, сақтауды және келушілер жолын бірге қарастырыңыз.",
+      "spaces": [
+        "Жеке кабинеттер",
+        "Ортақ жұмыс орындары",
+        "Кездесу және оқу бөлмелері"
+      ],
+      "discussion": [
+        "Жеке кабинеттер мен топтық жұмыс орындарын ажыратыңыз.",
+        "Әр бөлменің сақтау және қонақ орындарын тізіңіз.",
+        "Кездесу мен оқу бөлмелерінің жоспарын растаңыз."
+      ],
+      "evidenceGrade": "A",
+      "updated": "2026-10-21"
+    },
+    {
+      "id": "edu-001",
+      "title": "American University in Baghdad",
+      "country": "Iraq",
+      "region": "middle-east",
+      "sector": "education",
+      "language": "kk",
+      "source": "https://hymebel.com/kk/cases/edu-001/",
+      "evidenceSource": "https://hyeducationfurniture.com/american-university-in-baghdad-education-project-by-hongye-furniture.html",
+      "summary": "Ирактағы университет жобасында вестибюль мен қабылдау жиһазы қозғалыс жолдарымен үйлестіріледі. Галереяда жоба жиһазы мен қисық элементтердің өндірісі көрсетілген.",
+      "spaces": [
+        "Вестибюльдегі орындықтар",
+        "Қабылдау аймағы",
+        "Қисық жиһаз өндірісі"
+      ],
+      "discussion": [
+        "Қисық орындықтардың өлшемдері мен сызбаларын беріңіз.",
+        "Қозғалыс жолдары мен қабылдау аралықтарын белгілеңіз.",
+        "Тапсырыс алдында үлгілер мен түйісулерді тексеріңіз."
+      ],
+      "evidenceGrade": "A",
+      "updated": "2026-10-21"
     }
   ]
 }

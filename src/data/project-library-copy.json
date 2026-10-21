@@ -25,7 +25,9 @@
     "Other regions",
     "Caribbean",
     "Explore products",
-    "The library includes group projects in different industries; they are not all local deliveries."
+    "The library includes group projects in different industries; they are not all local deliveries.",
+    "Latin America",
+    "Source project documentation"
   ],
   "kk": [
     "Топтың жобалар кітапханасы",
@@ -53,7 +55,9 @@
     "Басқа аймақтар",
     "Кариб аймағы",
     "Өнімдерді қарау",
-    "Кітапханада топтың әртүрлі салалардағы жобалары бар; олардың барлығы жергілікті жеткізілім емес."
+    "Кітапханада топтың әртүрлі салалардағы жобалары бар; олардың барлығы жергілікті жеткізілім емес.",
+    "Латын Америкасы",
+    "Жобаның дереккөзі"
   ],
   "uz": [
     "Guruh loyihalari kutubxonasi",
@@ -81,7 +85,9 @@
     "Boshqa mintaqalar",
     "Karib mintaqasi",
     "Mahsulotlarni ko‘rish",
-    "Kutubxonada guruhning turli sohalardagi loyihalari bor; ularning hammasi mahalliy yetkazib berish emas."
+    "Kutubxonada guruhning turli sohalardagi loyihalari bor; ularning hammasi mahalliy yetkazib berish emas.",
+    "Lotin Amerikasi",
+    "Loyiha manbasi"
   ],
   "ru": [
     "Библиотека проектов группы",
@@ -109,7 +115,9 @@
     "Другие регионы",
     "Карибский регион",
     "Посмотреть продукцию",
-    "В библиотеке представлены проекты группы в разных отраслях; не все они являются местными поставками."
+    "В библиотеке представлены проекты группы в разных отраслях; не все они являются местными поставками.",
+    "Латинская Америка",
+    "Документация проекта"
   ],
   "mn": [
     "Группийн төслийн сан",
@@ -137,6 +145,8 @@
     "Бусад бүс",
     "Карибын бүс",
     "Бүтээгдэхүүн үзэх",
-    "Санд группийн олон салбарын төсөл багтсан; бүгд орон нутгийн нийлүүлэлт биш."
+    "Санд группийн олон салбарын төсөл багтсан; бүгд орон нутгийн нийлүүлэлт биш.",
+    "Латин Америк",
+    "Төслийн эх сурвалж"
   ]
 }

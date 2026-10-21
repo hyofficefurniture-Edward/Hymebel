@@ -599,6 +599,75 @@
       "discussion": "Rejalar, miqdorlar, o‘lchamlar, pardoz va yetkazib berish mas’uliyatini aniqlang. Bu misol boshqa buyurtma uchun narx, muddat yoki texnik xususiyatlarni belgilamaydi.",
       "evidenceGrade": "A",
       "updated": "2026-10-13"
+    },
+    {
+      "id": "off-015",
+      "title": "Walmart Costa Rica",
+      "country": "Costa Rica",
+      "region": "latin-america",
+      "sector": "office",
+      "language": "uz",
+      "source": "https://hymebel.com/uz/cases/off-015/",
+      "evidenceSource": "https://www.hyofficefurniture.com/Walmart-Costa-Rica-Office-Project-By-Hongye-Furniture-id45267106.html",
+      "summary": "Kosta-Rikadagi ofis loyihasi ish joylari va norasmiy uchrashuv hududlarini birlashtiradi. O‘z mebel ro‘yxatingizni tayyorlashdan oldin umumiy joylarning vazifasini solishtiring.",
+      "spaces": [
+        "Ish joylari",
+        "Norasmiy uchrashuv hududlari",
+        "Xodimlar ovqatlanish joyi"
+      ],
+      "discussion": [
+        "Shaxsiy va umumiy hududlar mebel miqdorini ajrating.",
+        "Rejada elektr va kabel nuqtalarini belgilang.",
+        "Umumiy joylardagi o‘rindiqlar va yo‘laklarni aniqlang."
+      ],
+      "evidenceGrade": "A",
+      "updated": "2026-10-21"
+    },
+    {
+      "id": "off-001",
+      "title": "Ahmadi Services Group, Kuwait Oil Company",
+      "country": "Kuwait",
+      "region": "middle-east",
+      "sector": "office",
+      "language": "uz",
+      "source": "https://hymebel.com/uz/cases/off-001/",
+      "evidenceSource": "https://www.hyofficefurniture.com/Ahmadi-Services-Group-Kuwait-Oil-Company-Office-Project-By-Hongye-Furniture-id40818596.html",
+      "summary": "Quvaytdagi loyiha alohida kabinetlar, umumiy ish joylari va uchrashuv xonalarini qamrab oladi. Stollar joylashuvi, saqlash va tashrif buyuruvchilar yo‘nalishini birga ko‘rib chiqing.",
+      "spaces": [
+        "Alohida kabinetlar",
+        "Umumiy ish joylari",
+        "Uchrashuv va o‘quv xonalari"
+      ],
+      "discussion": [
+        "Alohida kabinetlar va jamoaviy ish joylarini ajrating.",
+        "Har xona uchun saqlash va mehmon o‘rindiqlarini ko‘rsating.",
+        "Uchrashuv va o‘quv xonalari rejasini tasdiqlang."
+      ],
+      "evidenceGrade": "A",
+      "updated": "2026-10-21"
+    },
+    {
+      "id": "edu-001",
+      "title": "American University in Baghdad",
+      "country": "Iraq",
+      "region": "middle-east",
+      "sector": "education",
+      "language": "uz",
+      "source": "https://hymebel.com/uz/cases/edu-001/",
+      "evidenceSource": "https://hyeducationfurniture.com/american-university-in-baghdad-education-project-by-hongye-furniture.html",
+      "summary": "Iroqdagi universitet loyihasida foye va qabul mebellari harakat yo‘nalishlari bilan bog‘langan. Galereyada loyiha o‘rindiqlari va egri mebel qismlarining ishlab chiqarilishi ko‘rsatilgan.",
+      "spaces": [
+        "Foye o‘rindiqlari",
+        "Qabul joyi",
+        "Egri mebel ishlab chiqarish"
+      ],
+      "discussion": [
+        "Egri o‘rindiqlar o‘lchami va chizmalarini yuboring.",
+        "Harakat yo‘llari va qabul joyi oraliqlarini belgilang.",
+        "Buyurtmadan oldin namunalar va qismlar tutashuvini tekshiring."
+      ],
+      "evidenceGrade": "A",
+      "updated": "2026-10-21"
     }
   ]
 }

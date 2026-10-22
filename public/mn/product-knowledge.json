@@ -1,0 +1,47 @@
+{
+  "scope": "Reviewed additions, not the full catalogue",
+  "entries": [
+    {
+      "id": "home-ca-03",
+      "language": "mn",
+      "market": "mn",
+      "source": "https://hymebel.com/mn/products/home-ca-03/",
+      "summary": "Бүх өрөөний тавилгын хүрээг тодорхойлох",
+      "checklist": [
+        "Давхар бүрийн өрөөний нэр, зориулалт болон тоог жагсаана.",
+        "Зочны, хоолны, унтлагын болон хадгалах тавилгыг тусдаа бүлэг болгоно.",
+        "Бэхэлгээ, цахилгаан болон хүлээн авах нөхцөлийг зурагтай уялдуулна."
+      ],
+      "evidenceScope": "Existing catalogue reference imagery; project-specific sizes, materials and equipment require drawing/specification confirmation. No certification, performance, warranty or local-delivery claim.",
+      "updated": "2026-10-23"
+    },
+    {
+      "id": "home-ca-04",
+      "language": "mn",
+      "market": "mn",
+      "source": "https://hymebel.com/mn/products/home-ca-04/",
+      "summary": "Орчин үеийн сууцны өрөөнүүдийг уялдуулах",
+      "checklist": [
+        "Өрөө бүрийн иж бүрдэл, байрлал болон өнгөлгөөний жишээг тэмдэглэнэ.",
+        "Өрөөнүүдийн өнгө, материалын сонголтыг нэг жишгийн самбарт нэгтгэнэ.",
+        "Хөдөлгөөний гарц, хаалганы нээлт ба тавилга оруулах замыг шалгана."
+      ],
+      "evidenceScope": "Existing catalogue reference imagery; project-specific sizes, materials and equipment require drawing/specification confirmation. No certification, performance, warranty or local-delivery claim.",
+      "updated": "2026-10-23"
+    },
+    {
+      "id": "office-ca-03",
+      "language": "mn",
+      "market": "mn",
+      "source": "https://hymebel.com/mn/products/office-ca-03/",
+      "summary": "Удирдах ширээг өрөөний төлөвлөлттэй тааруулах",
+      "checklist": [
+        "Ажлын ширээ, буцах хэсэг ба хадгалалтын байрлалыг зурагт тэмдэглэнэ.",
+        "Ажлын болон зочны суудлын арын чөлөөт зайг шалгана.",
+        "Кабель, цахилгаан болон тоноглолын хэрэгцээг тусад нь батална."
+      ],
+      "evidenceScope": "Existing catalogue reference imagery; project-specific sizes, materials and equipment require drawing/specification confirmation. No certification, performance, warranty or local-delivery claim.",
+      "updated": "2026-10-23"
+    }
+  ]
+}

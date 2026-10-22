@@ -63,7 +63,7 @@ export function marketUrlset(market: "mn" | "ru", origin: string): string {
   const localHreflang = market === "mn" ? "mn-MN" : "ru-RU";
   const englishHreflang = market === "mn" ? "en-MN" : "en-RU";
   const categorySlugs = catalogGroups.map(g => g.slug);
-  const resources = ["project-starter", "faq", "cases", "services", "about"];
+  const resources = ["products", "project-starter", "faq", "cases", "services", "about"];
   const paths = [
     `/${market}/`, `/${market}/contact/`, ...categorySlugs.map((slug) => `/${market}/${slug}/`), ...resources.map((slug) => `/${market}/${slug}/`),
     `/${market}/en/`, `/${market}/en/contact/`, ...categorySlugs.map((slug) => `/${market}/en/${slug}/`), ...resources.map((slug) => `/${market}/en/${slug}/`),

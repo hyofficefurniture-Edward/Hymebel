@@ -1,0 +1,13 @@
+---
+import RegionalShell from './RegionalShell.astro';
+import RegionalCatalog from '../components/RegionalCatalog.astro';
+import { catalogFor, regionalCopy } from '../data/market-catalog';
+import type { MarketCopy } from './MarketLayout.astro';
+interface Props {copy:MarketCopy;href:string;alternateHref:string;}
+const {copy,href,alternateHref}=Astro.props;const r=regionalCopy(copy.market,copy.language);const items=catalogFor(copy.market,copy.language);
+const countLabel=copy.language==='mn'?'сонголт':copy.language==='ru'?'вариантов':'selections';
+---
+<RegionalShell copy={copy} title={r.products} description={r.productLead} href={href} alternateHref={alternateHref}>
+<section class="page-head"><div class="wrap"><h1>{r.products}</h1><p>{r.productLead}</p><p>{items.length} {countLabel}</p></div></section>
+<section class="section"><div class="wrap"><p class="regional-note">{r.rangeNote}</p><RegionalCatalog copy={copy}/></div></section>
+</RegionalShell>

@@ -1,0 +1,47 @@
+{
+  "scope": "Reviewed additions, not the full catalogue",
+  "entries": [
+    {
+      "id": "home-ca-03",
+      "language": "ru",
+      "market": "ru",
+      "source": "https://hymebel.com/ru/products/home-ca-03/",
+      "summary": "Определить состав мебели для всего дома",
+      "checklist": [
+        "Составьте ведомость помещений по этажам и функциям.",
+        "Разделите гостиную, столовую, спальни и хранение на отдельные пакеты.",
+        "Отметьте сопряжения с электрикой, креплениями и условиями приёмки."
+      ],
+      "evidenceScope": "Existing catalogue reference imagery; project-specific sizes, materials and equipment require drawing/specification confirmation. No certification, performance, warranty or local-delivery claim.",
+      "updated": "2026-10-23"
+    },
+    {
+      "id": "home-ca-04",
+      "language": "ru",
+      "market": "ru",
+      "source": "https://hymebel.com/ru/products/home-ca-04/",
+      "summary": "Согласовать мебельные комплекты современной резиденции",
+      "checklist": [
+        "Отметьте состав каждого комплекта, расстановку и образцы отделок.",
+        "Сведите палитру помещений в единую подборку материалов.",
+        "Проверьте проходы, открывание дверей и маршрут заноса мебели."
+      ],
+      "evidenceScope": "Existing catalogue reference imagery; project-specific sizes, materials and equipment require drawing/specification confirmation. No certification, performance, warranty or local-delivery claim.",
+      "updated": "2026-10-23"
+    },
+    {
+      "id": "office-ca-03",
+      "language": "ru",
+      "market": "ru",
+      "source": "https://hymebel.com/ru/products/office-ca-03/",
+      "summary": "Проверить рабочий стол по плану кабинета",
+      "checklist": [
+        "Укажите положение столешницы, бокового модуля и хранения.",
+        "Проверьте свободное пространство за рабочим и гостевыми креслами.",
+        "Согласуйте кабельные выводы, питание и оснащение отдельно."
+      ],
+      "evidenceScope": "Existing catalogue reference imagery; project-specific sizes, materials and equipment require drawing/specification confirmation. No certification, performance, warranty or local-delivery claim.",
+      "updated": "2026-10-23"
+    }
+  ]
+}

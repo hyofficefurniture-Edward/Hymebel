@@ -668,6 +668,29 @@
       ],
       "evidenceGrade": "A",
       "updated": "2026-10-21"
+    },
+    {
+      "id": "hos-008",
+      "title": "Holiday Inn Fairview Heights",
+      "country": "United States",
+      "region": "other",
+      "sector": "hospitality",
+      "language": "mn",
+      "source": "https://hymebel.com/mn/cases/hos-008/",
+      "evidenceSource": "https://www.hyhotelfurniture.com/holiday-inn-fairview-heights-hospitality-project-solution-by-hongye-furniture.html",
+      "summary": "Holiday Inn Fairview Heights төслийн баримтжуулсан өрөөнд ор, орны дэргэдэх хадгалалт болон авсаархан амрах хэсгийг хамтад нь харж болно. Гэрэл зураг нь зохион байгуулалт, эд ангийн залгаасыг хэлэлцэхэд зориулагдсан. Шинэ захиалгын хэмжээ, өнгөлгөө болон хамрах хүрээг тусад нь баталгаажуулна.",
+      "spaces": [
+        "Ор ба орны толгой",
+        "Орны дэргэдэх хадгалалт",
+        "Авсаархан амрах хэсэг"
+      ],
+      "discussion": [
+        "Хэмжээтэй төлөвлөгөө болон өрөөний төрөл бүрийн тоог өгнө үү.",
+        "Залгуур, гэрэлтүүлэг болон угсрах нэвтрэх замыг тэмдэглэнэ үү.",
+        "Тавилгын жагсаалтыг батлахаас өмнө өнгөлгөөний дээж, эд ангийн залгаасыг тохиролцоно уу."
+      ],
+      "evidenceGrade": "A",
+      "updated": "2026-10-24"
     }
   ]
 }

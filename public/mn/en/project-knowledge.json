@@ -668,6 +668,29 @@
       ],
       "evidenceGrade": "A",
       "updated": "2026-10-21"
+    },
+    {
+      "id": "hos-008",
+      "title": "Holiday Inn Fairview Heights",
+      "country": "United States",
+      "region": "other",
+      "sector": "hospitality",
+      "language": "en",
+      "source": "https://hymebel.com/mn/en/cases/hos-008/",
+      "evidenceSource": "https://www.hyhotelfurniture.com/holiday-inn-fairview-heights-hospitality-project-solution-by-hongye-furniture.html",
+      "summary": "The documented guestroom at Holiday Inn Fairview Heights provides a reference for coordinating the bed, bedside storage and a compact seating area. Use the photograph to discuss layout and interfaces; dimensions, finishes and the scope of a new order require separate confirmation.",
+      "spaces": [
+        "Bed and headboard composition",
+        "Bedside storage",
+        "Compact seating area"
+      ],
+      "discussion": [
+        "Provide a dimensioned room plan and the number of each room type.",
+        "Mark sockets, lighting positions and access for assembly.",
+        "Confirm finish samples and interfaces before approving the furniture schedule."
+      ],
+      "evidenceGrade": "A",
+      "updated": "2026-10-24"
     }
   ]
 }

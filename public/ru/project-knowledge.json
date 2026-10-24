@@ -668,6 +668,29 @@
       ],
       "evidenceGrade": "A",
       "updated": "2026-10-21"
+    },
+    {
+      "id": "hos-008",
+      "title": "Holiday Inn Fairview Heights",
+      "country": "United States",
+      "region": "other",
+      "sector": "hospitality",
+      "language": "ru",
+      "source": "https://hymebel.com/ru/cases/hos-008/",
+      "evidenceSource": "https://www.hyhotelfurniture.com/holiday-inn-fairview-heights-hospitality-project-solution-by-hongye-furniture.html",
+      "summary": "Документированный номер Holiday Inn Fairview Heights показывает сочетание кровати, прикроватного хранения и компактной зоны отдыха. Фотография помогает обсудить планировку и сопряжения. Размеры, отделка и состав нового заказа согласовываются отдельно.",
+      "spaces": [
+        "Кровать и изголовье",
+        "Прикроватное хранение",
+        "Компактная зона отдыха"
+      ],
+      "discussion": [
+        "Передайте план с размерами и количество номеров каждого типа.",
+        "Отметьте розетки, светильники и доступ для сборки.",
+        "Согласуйте образцы отделки и сопряжения до утверждения ведомости мебели."
+      ],
+      "evidenceGrade": "A",
+      "updated": "2026-10-24"
     }
   ]
 }

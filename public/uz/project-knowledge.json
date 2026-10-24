@@ -668,6 +668,29 @@
       ],
       "evidenceGrade": "A",
       "updated": "2026-10-21"
+    },
+    {
+      "id": "hos-008",
+      "title": "Holiday Inn Fairview Heights",
+      "country": "United States",
+      "region": "other",
+      "sector": "hospitality",
+      "language": "uz",
+      "source": "https://hymebel.com/uz/cases/hos-008/",
+      "evidenceSource": "https://www.hyhotelfurniture.com/holiday-inn-fairview-heights-hospitality-project-solution-by-hongye-furniture.html",
+      "summary": "Holiday Inn Fairview Heights loyihasining hujjatlashtirilgan xonasi karavot, karavot yonidagi saqlash va ixcham dam olish joyini birgalikda ko‘rib chiqishga yordam beradi. Surat reja va qismlar tutashuvini muhokama qilish uchun xizmat qiladi. Yangi buyurtmaning o‘lchamlari, qoplamalari va tarkibi alohida tasdiqlanadi.",
+      "spaces": [
+        "Karavot va bosh qismi",
+        "Karavot yonidagi saqlash",
+        "Ixcham dam olish joyi"
+      ],
+      "discussion": [
+        "O‘lchamli reja va har bir xona turining sonini yuboring.",
+        "Rozetkalar, chiroqlar va yig‘ish uchun kirish yo‘llarini belgilang.",
+        "Mebel ro‘yxatini tasdiqlashdan oldin qoplama namunalari va tutashuvlarni kelishing."
+      ],
+      "evidenceGrade": "A",
+      "updated": "2026-10-24"
     }
   ]
 }

@@ -668,6 +668,29 @@
       ],
       "evidenceGrade": "A",
       "updated": "2026-10-21"
+    },
+    {
+      "id": "hos-008",
+      "title": "Holiday Inn Fairview Heights",
+      "country": "United States",
+      "region": "other",
+      "sector": "hospitality",
+      "language": "kk",
+      "source": "https://hymebel.com/kk/cases/hos-008/",
+      "evidenceSource": "https://www.hyhotelfurniture.com/holiday-inn-fairview-heights-hospitality-project-solution-by-hongye-furniture.html",
+      "summary": "Holiday Inn Fairview Heights жобасының құжатталған бөлмесі төсек, төсек жанындағы сақтау және шағын демалыс орнын бірге қарастыруға мүмкіндік береді. Фото жоспарлау мен түйісулерді талқылауға арналған. Жаңа тапсырыстың өлшемдері, әрлеуі және құрамы бөлек келісіледі.",
+      "spaces": [
+        "Төсек пен бас тақта",
+        "Төсек жанындағы сақтау",
+        "Шағын демалыс орны"
+      ],
+      "discussion": [
+        "Өлшемдері бар жоспарды және әр бөлме түрінің санын беріңіз.",
+        "Розеткаларды, шамдарды және құрастыруға қолжетімділікті белгілеңіз.",
+        "Жиһаз тізімін бекітпес бұрын әрлеу үлгілері мен түйісулерді келісіңіз."
+      ],
+      "evidenceGrade": "A",
+      "updated": "2026-10-24"
     }
   ]
 }

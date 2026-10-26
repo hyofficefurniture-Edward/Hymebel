@@ -478,10 +478,36 @@
       "sector": "hospitality",
       "language": "uz",
       "source": "https://hymebel.com/uz/cases/hos-003/",
-      "summary": "Guruh loyihasi uchun mebel tanlovi: mamlakat va soha dastlabki manbaga mos ko‘rsatilgan.",
+      "summary": "Guruh manbasi Elaf Hotelni Saudiya Arabistonining Jidda shahridagi mehmonxona sifatida ko‘rsatadi. Unda mehmon xonalari va umumiy hududlar mebeli tilga olinadi. Loyiha asl manzilida qoladi; quyidagi tavsiyalar alohida yangi so‘rovni tayyorlashga yordam beradi.",
       "discussion": "Rejalar, miqdorlar, o‘lchamlar, pardoz va yetkazib berish mas’uliyatini aniqlang. Bu misol boshqa buyurtma uchun narx, muddat yoki texnik xususiyatlarni belgilamaydi.",
       "evidenceGrade": "A",
-      "updated": "2026-10-13"
+      "updated": "2026-10-27",
+      "documentedSpaces": [
+        "Mehmon lyukslari",
+        "Lobbi",
+        "Ovqatlanish hududi",
+        "Massaj va uchrashuv joylari"
+      ],
+      "procurementAdvice": [
+        {
+          "heading": "Mehmon xonalari va umumiy joylarni ajratish",
+          "text": "Jiddadagi ushbu obyekt Saudiya Arabistonidagi mehmonxona loyihasidir. Yangi so‘rovda xona turlari, lobbi, ovqatlanish va uchrashuv hududlari uchun alohida ro‘yxat tuzing. Mahkamlanadigan mebel, ko‘chma buyumlar va aksessuarlarni ajrating. Umumiy uslub har bir joyning miqdori va aniq ta’minot tarkibini almashtirmaydi."
+        },
+        {
+          "heading": "Xona interfeyslarini tanlovdan oldin tekshirish",
+          "text": "Karavot, shkaf, o‘rindiq va stollarni o‘lchamli rejada ko‘rsating; eshik ochilishi, elektr nuqtalari va yo‘laklarni belgilang. Devorga ulanish va mebelni binoga olib kirish yo‘lini tekshiring. Bu yangi buyurtmani tayyorlash tavsiyasi, dastlabki mehmonxonada aynan shu tartib bajarilgan degan da’vo emas."
+        },
+        {
+          "heading": "Namuna va talab qilinadigan xususiyatlarni solishtirish",
+          "text": "Pardoz, qoplama, furnitura va material namunalarini loyiha talablari bilan solishtiring. Tanlangan buyum va yetkazish mamlakatiga tegishli hujjatlarni so‘rang. Rasm yoki boshqa davlatdagi loyiha yangi buyurtmaning yong‘in ko‘rsatkichi, chidamliligi yoki sertifikatini o‘z-o‘zidan isbotlamaydi."
+        },
+        {
+          "heading": "Mehmonxona paketini tekshiriladigan qilish",
+          "text": "Xonalar soni, chizmalar va umumiy joylar ro‘yxatini yuboring. Mebel, aksessuar, qadoqlash va montaj mas’uliyatini alohida yozing. Qaysi rasm uslubga, qaysi hujjat buyum tarkibiga asos bo‘lishini belgilang. Bosqichlar va so‘ralgan muddat har bir buyurtmada kelishiladi, avtomatik yetkazish va’dasi hisoblanmaydi."
+        }
+      ],
+      "evidenceSource": "https://www.hyhotelfurniture.com/testimonials.html",
+      "factAdviceSeparation": true
     },
     {
       "id": "hos-012",
@@ -632,7 +658,7 @@
       "language": "uz",
       "source": "https://hymebel.com/uz/cases/off-001/",
       "evidenceSource": "https://www.hyofficefurniture.com/Ahmadi-Services-Group-Kuwait-Oil-Company-Office-Project-By-Hongye-Furniture-id40818596.html",
-      "summary": "Quvaytdagi loyiha alohida kabinetlar, umumiy ish joylari va uchrashuv xonalarini qamrab oladi. Stollar joylashuvi, saqlash va tashrif buyuruvchilar yo‘nalishini birga ko‘rib chiqing.",
+      "summary": "Kompaniya maqolasi Quvaytdagi Ahmadi ofis loyihasini, alohida va umumiy ish, o‘qish va uchrashuv vazifalarini yoritadi. Bu ish maydoni uchun manba bo‘lib, boshqa manzilda ayni mebel, miqdor yoki mahalliy xizmat mavjudligini isbotlamaydi.",
       "spaces": [
         "Alohida kabinetlar",
         "Umumiy ish joylari",
@@ -644,7 +670,32 @@
         "Uchrashuv va o‘quv xonalari rejasini tasdiqlang."
       ],
       "evidenceGrade": "A",
-      "updated": "2026-10-21"
+      "updated": "2026-10-27",
+      "documentedSpaces": [
+        "Rahbar kabinetlari",
+        "Ish joylari",
+        "Kutubxona",
+        "Uchrashuv va o‘quv xonalari"
+      ],
+      "procurementAdvice": [
+        {
+          "heading": "Kabinetlar va umumiy ish joylarini ajratish",
+          "text": "Quvayt loyihasi haqidagi kompaniya maqolasida rahbar kabinetlari, ish joylari, kutubxona hamda uchrashuv yoki o‘quv xonalari ajratilgan. Yangi ofis uchun har xona bo‘yicha ro‘yxat tuzing. Bir stol uslubini hamma vazifaga qo‘llamang; foydalanuvchilar va kerakli mebelni yozing, dastlabki loyiha miqdorlarini ko‘chirmang."
+        },
+        {
+          "heading": "Stol va uchrashuv hududi interfeyslarini belgilash",
+          "text": "Rejada stolning yon qismi, saqlashga kirish, mehmon o‘rindiqlari va kabel yo‘llarini ko‘rsating. Uchrashuv xonasida elektr, ekran va jihozlar chegarasini mebeldan alohida belgilang. Bu yangi so‘rov tekshiruvlari; rasmdagi kabel teshigi boshqa bino uchun tasdiqlangan elektr loyihasi emas."
+        },
+        {
+          "heading": "Kutubxona va o‘quv xonasini alohida tekshirish",
+          "text": "O‘qish zali va trening xonasi turlicha joylashuv talab qiladi. Javonlarga kirish, stol o‘rni, stul harakati va foydalanish maqsadini solishtiring. Tanlangan buyum o‘lchami va xususiyatlari uchun hujjat so‘rang. Rasmdan sig‘im, javon yuklamasi yoki stul mexanizmini taxmin qilmang."
+        },
+        {
+          "heading": "Pardoz va yetkazish mas’uliyatini aniqlash",
+          "text": "Xonalar ro‘yxati, chizma versiyasi va pardoz namunalarini tekshiriladigan paketga birlashtiring. Qadoqlash, manzilga kirish va yig‘ish mas’uliyatini alohida belgilang. Quvaytdagi loyiha boshqa davlatda ombor yoki filial mavjudligini isbotlamaydi; suratlar keyingi buyurtmaning narxi yoki muddati va’dasi emas."
+        }
+      ],
+      "factAdviceSeparation": true
     },
     {
       "id": "edu-001",

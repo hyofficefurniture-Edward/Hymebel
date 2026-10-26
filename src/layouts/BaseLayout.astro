@@ -213,5 +213,5 @@ const orgJsonLd = {
         });
       }
     </script>
-  </body>
+  {Astro.url.pathname.endsWith('/contact/')&&<script is:inline src="/case-reference.js" defer/>}</body>
 </html>

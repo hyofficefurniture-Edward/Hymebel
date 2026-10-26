@@ -478,10 +478,36 @@
       "sector": "hospitality",
       "language": "en",
       "source": "https://hymebel.com/ru/en/cases/hos-003/",
-      "summary": "Furniture selection for a documented group project; the country and sector remain those of the original reference.",
+      "summary": "The group identifies Elaf Hotel in Jeddah, Saudi Arabia, with a furniture scope across guestrooms and shared hotel spaces. The project belongs to that original location; the discussion below explains how to prepare a separate hotel enquiry.",
       "discussion": "Confirm your plans, quantities, dimensions, finishes and delivery responsibilities. This reference does not establish prices, lead times or technical specifications for another order.",
       "evidenceGrade": "A",
-      "updated": "2026-10-13"
+      "updated": "2026-10-27",
+      "documentedSpaces": [
+        "Guest suites",
+        "Lobby",
+        "Dining",
+        "Massage and meeting areas"
+      ],
+      "procurementAdvice": [
+        {
+          "heading": "Separate guestrooms from shared spaces",
+          "text": "The Jeddah reference is a hotel project in Saudi Arabia. For a new hotel enquiry, make separate schedules for room types, lobby, dining and meeting functions. List fixed joinery, movable pieces and accessories individually. A common visual direction does not replace quantities and a defined supply scope for each space."
+        },
+        {
+          "heading": "Resolve the room interfaces before selection",
+          "text": "Mark beds, wardrobes, seating and desks on measured plans, together with door swings, power points and access. Review wall interfaces and the route for bringing furniture into the building. These are preparation steps for the new order, not an undocumented account of how the original hotel was executed."
+        },
+        {
+          "heading": "Compare samples with the requested performance",
+          "text": "Confirm finish, upholstery, hardware and the selected material samples against the buyer’s project requirements. Ask for evidence applicable to the proposed items and destination. Neither the project photograph nor its location establishes a fire rating, durability result or certification for a different order."
+        },
+        {
+          "heading": "Make the hotel package reviewable",
+          "text": "Send room counts, drawings and a list of shared areas, then separate furniture, accessories, packing and installation responsibilities. Identify which picture guides the appearance and which document defines the item. Procurement phases and a requested programme should be discussed as order conditions, not treated as an automatic delivery promise."
+        }
+      ],
+      "evidenceSource": "https://www.hyhotelfurniture.com/testimonials.html",
+      "factAdviceSeparation": true
     },
     {
       "id": "hos-012",
@@ -632,7 +658,7 @@
       "language": "en",
       "source": "https://hymebel.com/ru/en/cases/off-001/",
       "evidenceSource": "https://www.hyofficefurniture.com/Ahmadi-Services-Group-Kuwait-Oil-Company-Office-Project-By-Hongye-Furniture-id40818596.html",
-      "summary": "The Kuwaiti project reference brings private offices, shared work areas and meeting spaces into one furniture brief. Review the relationship between desk layouts, storage and visitor access.",
+      "summary": "The company article documents the Ahmadi office project in Kuwait and distinguishes private, shared, reading and meeting functions. It provides a workplace reference, not evidence that identical furniture, quantities or local services are available at another destination.",
       "spaces": [
         "Private offices",
         "Shared workstations",
@@ -644,7 +670,32 @@
         "Confirm meeting and training layouts before selection."
       ],
       "evidenceGrade": "A",
-      "updated": "2026-10-21"
+      "updated": "2026-10-27",
+      "documentedSpaces": [
+        "Executive offices",
+        "Workstations",
+        "Library",
+        "Meeting and training rooms"
+      ],
+      "procurementAdvice": [
+        {
+          "heading": "Separate offices, workstations and shared rooms",
+          "text": "The Kuwaiti company article distinguishes executive offices, workstations, library and meeting or training spaces. For a new workplace, make a room-by-room schedule rather than selecting one desk style for every activity. Record each area’s users and requested furniture without borrowing the original project’s quantities or business profile."
+        },
+        {
+          "heading": "Coordinate desk and meeting interfaces",
+          "text": "Mark desk returns, storage access, visitor seating and cable routes on the plan. For meeting spaces, clarify power, display and equipment boundaries separately from the furniture. These checks concern the buyer’s new brief; a cable opening shown in the reference is not an approved electrical design for another building."
+        },
+        {
+          "heading": "Review library and training layouts independently",
+          "text": "A reading room and a training room need different arrangements. Compare shelving access, table positions, chair movement and the intended teaching or reading use. Request item-specific dimensions and performance evidence; do not assume capacity, shelf loading or a chair mechanism from the photographs."
+        },
+        {
+          "heading": "Specify finishes and delivery responsibilities",
+          "text": "Bring the room schedule, drawing revision and finish references into one reviewable package. Define packing, destination access and assembly responsibilities separately. The project in Kuwait does not establish local stock or a local branch elsewhere, and its images are not a quotation or a delivery commitment for the next order."
+        }
+      ],
+      "factAdviceSeparation": true
     },
     {
       "id": "edu-001",

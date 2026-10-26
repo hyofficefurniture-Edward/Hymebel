@@ -5,6 +5,7 @@ import RegionalHeader from '../components/RegionalHeader.astro';
 import RegionalFooter from '../components/RegionalFooter.astro';
 import RegionalHomeContent from '../components/RegionalHomeContent.astro';
 import { company } from "../i18n/ui";
+import { catalogFor } from "../data/market-catalog";
 
 export interface MarketCopy {
   market: "mn" | "ru" | "uz";
@@ -47,6 +48,7 @@ interface Props {
 }
 
 const { copy, isContact = false } = Astro.props;
+const regionalProductIds=(copy.market==='mn'||copy.market==='ru')?catalogFor(copy.market,copy.language==='en'?'en':copy.market).map(p=>p.id):[];
 const alternate = copy.alternate ?? {
   hreflang: copy.market === "mn" ? (copy.language === "en" ? "mn-MN" : "en-MN") : (copy.language === "en" ? "ru-RU" : "en-RU"),
   href: copy.pairedHref,
@@ -136,5 +138,16 @@ const webPageJsonLd = { '@context': 'https://schema.org', '@type': 'WebPage', na
       )}
     </main>
     <RegionalFooter copy={copy}/>
+{isContact&&regionalProductIds.length>0&&<script is:inline define:vars={{allowedProductIds:regionalProductIds,referenceMarket:copy.market,referenceLanguage:copy.language}}>
+(function(){
+ var id=new URLSearchParams(window.location.search).get('product');
+ if(!id||!allowedProductIds.includes(id))return;
+ document.querySelectorAll('form[action*="web3forms"]').forEach(function(form){
+  var fields={product_id:id,reference_id:'product-'+id,market:referenceMarket,page_language:referenceLanguage,source_url:window.location.href};
+  Object.entries(fields).forEach(function(pair){var input=form.querySelector('input[name="'+pair[0]+'"]')||document.createElement('input');input.type='hidden';input.name=pair[0];input.value=pair[1];if(!input.parentNode)form.appendChild(input);});
+  var note=document.createElement('p');note.className='full regional-note';note.dataset.productReference=id;note.textContent=(referenceLanguage==='mn'?'Сонголтын дугаар: ':referenceLanguage==='ru'?'Номер выбранного варианта: ':'Selection reference: ')+id;form.prepend(note);
+ });
+})();
+</script>}
   </body>
 </html>

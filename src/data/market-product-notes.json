@@ -76,5 +76,449 @@
         "Confirm cable, power and equipment requirements separately."
       ]
     }
+  },
+  "hotel-ca-01": {
+    "mn": {
+      "focus": "Террасын ашиглалтын нөхцөлийг тодруулах",
+      "items": [
+        "Хучилт, салхи болон хадгалах нөхцөлийг төслийн багтай тодруулна.",
+        "Сандлыг хойшлуулах зай, хаалганы нээлт ба гарцыг зурагт тэмдэглэнэ.",
+        "Материал, өнгөлгөө болон цэвэрлэгээний шаардлагыг сонгосон эд зүйлээр батална."
+      ],
+      "imagePaths": [
+        "/images/products/hotel-ca-01/hotel-ca-01-main.jpg"
+      ],
+      "caption": "Каталогийн сонголтын дүрслэл; бодит төслийн нийлүүлэлт эсвэл баталсан загварын нотолгоо биш.",
+      "questions": [
+        {
+          "q": "Энэ зураг бүх үзүүлэлтийг батлах уу?",
+          "a": "Үгүй. Хэмжээ, материал, тоноглол болон нийлүүлэлтийн хүрээг сонгосон эд зүйл, баталсан зураг ба жагсаалтаар тодруулна."
+        }
+      ],
+      "sourceUrl": "https://hymebel.com/en/products/hotel-ca-01/",
+      "sourceLabel": "Каталогийн дүрслэлийн эх сурвалж",
+      "caseId": "hos-007",
+      "caseLabel": "Группын зочид буудлын төсөл: Hilton Tashkent, Узбекистан",
+      "caseNote": "Энэ нь төслийн жишээ; дээрх сонголтыг тухайн төсөлд нийлүүлсэн гэж батлахгүй.",
+      "reviewedVisual": "2026-10-27"
+    },
+    "ru": {
+      "focus": "Уточнить условия террасы",
+      "items": [
+        "Опишите укрытие, воздействие среды и сезонное хранение.",
+        "Проверьте отодвигание кресел, открывание дверей и проходы.",
+        "Подтвердите материалы, отделку и уход для выбранных предметов."
+      ],
+      "imagePaths": [
+        "/images/products/hotel-ca-01/hotel-ca-01-main.jpg"
+      ],
+      "caption": "Визуальная ссылка из каталога; не доказательство поставки в конкретный проект или утверждённой модели.",
+      "questions": [
+        {
+          "q": "Подтверждает ли изображение все характеристики?",
+          "a": "Нет. Размеры, материалы, оснащение и состав поставки подтверждаются по выбранным предметам, чертежам и ведомости."
+        }
+      ],
+      "sourceUrl": "https://hymebel.com/en/products/hotel-ca-01/",
+      "sourceLabel": "Источник изображения каталога",
+      "caseId": "hos-007",
+      "caseLabel": "Проект группы: Hilton Tashkent, Узбекистан",
+      "caseNote": "Это контекст гостиничного проекта, а не подтверждение поставки показанной комплектации.",
+      "reviewedVisual": "2026-10-27"
+    },
+    "en": {
+      "focus": "Define terrace-use conditions",
+      "items": [
+        "Describe shelter, exposure and seasonal storage.",
+        "Mark chair movement, door swings and circulation.",
+        "Confirm materials, finish and maintenance for the selected pieces."
+      ],
+      "imagePaths": [
+        "/images/products/hotel-ca-01/hotel-ca-01-main.jpg"
+      ],
+      "caption": "Catalogue selection visual; not evidence of a project delivery or an approved manufactured model.",
+      "questions": [
+        {
+          "q": "Does the image establish every specification?",
+          "a": "No. Dimensions, materials, equipment and supply scope require selected-item records, drawings and schedules."
+        }
+      ],
+      "sourceUrl": "https://hymebel.com/en/products/hotel-ca-01/",
+      "sourceLabel": "Catalogue visual source",
+      "caseId": "hos-007",
+      "caseLabel": "Group project: Hilton Tashkent, Uzbekistan",
+      "caseNote": "This is hospitality-project context, not proof that this selection was supplied to that project.",
+      "reviewedVisual": "2026-10-27"
+    }
+  },
+  "hotel-ca-04": {
+    "mn": {
+      "focus": "Ширээ ба суудлын өндрийг уялдуулах",
+      "items": [
+        "Тавцан, суудал, хөлийн түшлэгийн шаардлагыг хамтад нь тэмдэглэнэ.",
+        "Суух, босох болон ажилтны явах зайг тусад нь шалгана.",
+        "Суурь, бэхэлгээ болон өнгөлгөөг захиалгын зурагт батална."
+      ],
+      "imagePaths": [
+        "/images/products/hotel-ca-04/hotel-ca-04-main.jpg"
+      ],
+      "caption": "Каталогийн сонголтын дүрслэл; бодит төслийн нийлүүлэлт эсвэл баталсан загварын нотолгоо биш.",
+      "questions": [
+        {
+          "q": "Энэ зураг бүх үзүүлэлтийг батлах уу?",
+          "a": "Үгүй. Хэмжээ, материал, тоноглол болон нийлүүлэлтийн хүрээг сонгосон эд зүйл, баталсан зураг ба жагсаалтаар тодруулна."
+        }
+      ],
+      "sourceUrl": "https://hymebel.com/en/products/hotel-ca-04/",
+      "sourceLabel": "Каталогийн дүрслэлийн эх сурвалж",
+      "caseId": "hos-007",
+      "caseLabel": "Группын зочид буудлын төсөл: Hilton Tashkent, Узбекистан",
+      "caseNote": "Энэ нь төслийн жишээ; дээрх сонголтыг тухайн төсөлд нийлүүлсэн гэж батлахгүй.",
+      "reviewedVisual": "2026-10-27"
+    },
+    "ru": {
+      "focus": "Согласовать высоту стола и сиденья",
+      "items": [
+        "Укажите высоты столешницы, сиденья и требуемой опоры для ног.",
+        "Разделите посадку гостей и рабочий проход персонала.",
+        "Согласуйте основание, крепление и отделку на чертеже заказа."
+      ],
+      "imagePaths": [
+        "/images/products/hotel-ca-04/hotel-ca-04-main.jpg"
+      ],
+      "caption": "Визуальная ссылка из каталога; не доказательство поставки в конкретный проект или утверждённой модели.",
+      "questions": [
+        {
+          "q": "Подтверждает ли изображение все характеристики?",
+          "a": "Нет. Размеры, материалы, оснащение и состав поставки подтверждаются по выбранным предметам, чертежам и ведомости."
+        }
+      ],
+      "sourceUrl": "https://hymebel.com/en/products/hotel-ca-04/",
+      "sourceLabel": "Источник изображения каталога",
+      "caseId": "hos-007",
+      "caseLabel": "Проект группы: Hilton Tashkent, Узбекистан",
+      "caseNote": "Это контекст гостиничного проекта, а не подтверждение поставки показанной комплектации.",
+      "reviewedVisual": "2026-10-27"
+    },
+    "en": {
+      "focus": "Coordinate table and seat heights",
+      "items": [
+        "Record table, seat and requested footrest heights.",
+        "Separate guest access from staff circulation.",
+        "Approve base, fixings and finish on the order drawing."
+      ],
+      "imagePaths": [
+        "/images/products/hotel-ca-04/hotel-ca-04-main.jpg"
+      ],
+      "caption": "Catalogue selection visual; not evidence of a project delivery or an approved manufactured model.",
+      "questions": [
+        {
+          "q": "Does the image establish every specification?",
+          "a": "No. Dimensions, materials, equipment and supply scope require selected-item records, drawings and schedules."
+        }
+      ],
+      "sourceUrl": "https://hymebel.com/en/products/hotel-ca-04/",
+      "sourceLabel": "Catalogue visual source",
+      "caseId": "hos-007",
+      "caseLabel": "Group project: Hilton Tashkent, Uzbekistan",
+      "caseNote": "This is hospitality-project context, not proof that this selection was supplied to that project.",
+      "reviewedVisual": "2026-10-27"
+    }
+  },
+  "hotel-ca-05": {
+    "mn": {
+      "focus": "Суудалд орох зам ба үйлчилгээний зай",
+      "items": [
+        "Ширээ, суудал болон тусгаарлагчийг тусдаа жагсаана.",
+        "Суудалд орох зай, зэргэлдээ гарц, цэвэрлэгээний нэвтрэлтийг шалгана.",
+        "Бүрээс, дүүргэлт болон бэхэлгээний шаардлагыг тусад нь тодруулна."
+      ],
+      "imagePaths": [
+        "/images/products/hotel-ca-05/hotel-ca-05-main.jpg"
+      ],
+      "caption": "Каталогийн сонголтын дүрслэл; бодит төслийн нийлүүлэлт эсвэл баталсан загварын нотолгоо биш.",
+      "questions": [
+        {
+          "q": "Энэ зураг бүх үзүүлэлтийг батлах уу?",
+          "a": "Үгүй. Хэмжээ, материал, тоноглол болон нийлүүлэлтийн хүрээг сонгосон эд зүйл, баталсан зураг ба жагсаалтаар тодруулна."
+        }
+      ],
+      "sourceUrl": "https://hymebel.com/en/products/hotel-ca-05/",
+      "sourceLabel": "Каталогийн дүрслэлийн эх сурвалж",
+      "caseId": "hos-007",
+      "caseLabel": "Группын зочид буудлын төсөл: Hilton Tashkent, Узбекистан",
+      "caseNote": "Энэ нь төслийн жишээ; дээрх сонголтыг тухайн төсөлд нийлүүлсэн гэж батлахгүй.",
+      "reviewedVisual": "2026-10-27"
+    },
+    "ru": {
+      "focus": "Вход в кабинку и обслуживание",
+      "items": [
+        "Разделите стол, сиденья и перегородки в ведомости.",
+        "Проверьте вход, соседний проход и доступ для уборки.",
+        "Уточните обивку, наполнение и способ крепления."
+      ],
+      "imagePaths": [
+        "/images/products/hotel-ca-05/hotel-ca-05-main.jpg"
+      ],
+      "caption": "Визуальная ссылка из каталога; не доказательство поставки в конкретный проект или утверждённой модели.",
+      "questions": [
+        {
+          "q": "Подтверждает ли изображение все характеристики?",
+          "a": "Нет. Размеры, материалы, оснащение и состав поставки подтверждаются по выбранным предметам, чертежам и ведомости."
+        }
+      ],
+      "sourceUrl": "https://hymebel.com/en/products/hotel-ca-05/",
+      "sourceLabel": "Источник изображения каталога",
+      "caseId": "hos-007",
+      "caseLabel": "Проект группы: Hilton Tashkent, Узбекистан",
+      "caseNote": "Это контекст гостиничного проекта, а не подтверждение поставки показанной комплектации.",
+      "reviewedVisual": "2026-10-27"
+    },
+    "en": {
+      "focus": "Booth access and service",
+      "items": [
+        "List table, seating and partitions separately.",
+        "Review entry, adjacent circulation and cleaning access.",
+        "Confirm upholstery, filling and fixing requirements."
+      ],
+      "imagePaths": [
+        "/images/products/hotel-ca-05/hotel-ca-05-main.jpg"
+      ],
+      "caption": "Catalogue selection visual; not evidence of a project delivery or an approved manufactured model.",
+      "questions": [
+        {
+          "q": "Does the image establish every specification?",
+          "a": "No. Dimensions, materials, equipment and supply scope require selected-item records, drawings and schedules."
+        }
+      ],
+      "sourceUrl": "https://hymebel.com/en/products/hotel-ca-05/",
+      "sourceLabel": "Catalogue visual source",
+      "caseId": "hos-007",
+      "caseLabel": "Group project: Hilton Tashkent, Uzbekistan",
+      "caseNote": "This is hospitality-project context, not proof that this selection was supplied to that project.",
+      "reviewedVisual": "2026-10-27"
+    }
+  },
+  "hotel-ca-06": {
+    "mn": {
+      "focus": "Нумарсан суудлын модуль ба гарц",
+      "items": [
+        "Нийт хэмжээ, хэсэг тус бүрийн заагийг зурагт тэмдэглэнэ.",
+        "Ширээний суурь, хөлийн зай ба суудалд орох замыг шалгана.",
+        "Хэсгүүдийн залгаа, бүрээс болон угсралтын хүрээг тохиролцоно."
+      ],
+      "imagePaths": [
+        "/images/products/hotel-ca-06/hotel-ca-06-main.jpg"
+      ],
+      "caption": "Каталогийн сонголтын дүрслэл; бодит төслийн нийлүүлэлт эсвэл баталсан загварын нотолгоо биш.",
+      "questions": [
+        {
+          "q": "Энэ зураг бүх үзүүлэлтийг батлах уу?",
+          "a": "Үгүй. Хэмжээ, материал, тоноглол болон нийлүүлэлтийн хүрээг сонгосон эд зүйл, баталсан зураг ба жагсаалтаар тодруулна."
+        }
+      ],
+      "sourceUrl": "https://hymebel.com/en/products/hotel-ca-06/",
+      "sourceLabel": "Каталогийн дүрслэлийн эх сурвалж",
+      "caseId": "hos-007",
+      "caseLabel": "Группын зочид буудлын төсөл: Hilton Tashkent, Узбекистан",
+      "caseNote": "Энэ нь төслийн жишээ; дээрх сонголтыг тухайн төсөлд нийлүүлсэн гэж батлахгүй.",
+      "reviewedVisual": "2026-10-27"
+    },
+    "ru": {
+      "focus": "Модули и проходы радиусной посадки",
+      "items": [
+        "Укажите общий контур и границы модулей.",
+        "Проверьте основание стола, место для ног и вход.",
+        "Согласуйте стыки, обивку и состав сборочных работ."
+      ],
+      "imagePaths": [
+        "/images/products/hotel-ca-06/hotel-ca-06-main.jpg"
+      ],
+      "caption": "Визуальная ссылка из каталога; не доказательство поставки в конкретный проект или утверждённой модели.",
+      "questions": [
+        {
+          "q": "Подтверждает ли изображение все характеристики?",
+          "a": "Нет. Размеры, материалы, оснащение и состав поставки подтверждаются по выбранным предметам, чертежам и ведомости."
+        }
+      ],
+      "sourceUrl": "https://hymebel.com/en/products/hotel-ca-06/",
+      "sourceLabel": "Источник изображения каталога",
+      "caseId": "hos-007",
+      "caseLabel": "Проект группы: Hilton Tashkent, Узбекистан",
+      "caseNote": "Это контекст гостиничного проекта, а не подтверждение поставки показанной комплектации.",
+      "reviewedVisual": "2026-10-27"
+    },
+    "en": {
+      "focus": "Curved seating modules and access",
+      "items": [
+        "Mark the overall contour and module boundaries.",
+        "Check table base, legroom and seating access.",
+        "Agree joints, upholstery and assembly responsibilities."
+      ],
+      "imagePaths": [
+        "/images/products/hotel-ca-06/hotel-ca-06-main.jpg"
+      ],
+      "caption": "Catalogue selection visual; not evidence of a project delivery or an approved manufactured model.",
+      "questions": [
+        {
+          "q": "Does the image establish every specification?",
+          "a": "No. Dimensions, materials, equipment and supply scope require selected-item records, drawings and schedules."
+        }
+      ],
+      "sourceUrl": "https://hymebel.com/en/products/hotel-ca-06/",
+      "sourceLabel": "Catalogue visual source",
+      "caseId": "hos-007",
+      "caseLabel": "Group project: Hilton Tashkent, Uzbekistan",
+      "caseNote": "This is hospitality-project context, not proof that this selection was supplied to that project.",
+      "reviewedVisual": "2026-10-27"
+    }
+  },
+  "hotel-ca-14": {
+    "mn": {
+      "focus": "Тавилга ба тоног төхөөрөмжийн зааг",
+      "items": [
+        "Шүүгээ, тавцан, тоног төхөөрөмжийг тусдаа жагсаана.",
+        "Хөргөгчийн сонгосон загвар, нээлт ба агааржуулалтын шаардлагыг тодруулна.",
+        "Залгуур, кабель болон засвар үйлчилгээний нэвтрэлтийг зурагт тэмдэглэнэ."
+      ],
+      "imagePaths": [
+        "/images/products/hotel-ca-14/hotel-ca-14-main.jpg"
+      ],
+      "caption": "Каталогийн сонголтын дүрслэл; бодит төслийн нийлүүлэлт эсвэл баталсан загварын нотолгоо биш.",
+      "questions": [
+        {
+          "q": "Энэ зураг бүх үзүүлэлтийг батлах уу?",
+          "a": "Үгүй. Хэмжээ, материал, тоноглол болон нийлүүлэлтийн хүрээг сонгосон эд зүйл, баталсан зураг ба жагсаалтаар тодруулна."
+        }
+      ],
+      "sourceUrl": "https://hymebel.com/en/products/hotel-ca-14/",
+      "sourceLabel": "Каталогийн дүрслэлийн эх сурвалж",
+      "caseId": "hos-007",
+      "caseLabel": "Группын зочид буудлын төсөл: Hilton Tashkent, Узбекистан",
+      "caseNote": "Энэ нь төслийн жишээ; дээрх сонголтыг тухайн төсөлд нийлүүлсэн гэж батлахгүй.",
+      "reviewedVisual": "2026-10-27"
+    },
+    "ru": {
+      "focus": "Граница мебели и оборудования",
+      "items": [
+        "Разделите шкаф, столешницу и оборудование в ведомости.",
+        "Уточните модель холодильника, открывание и вентиляционные требования.",
+        "Отметьте розетки, кабель и доступ для обслуживания."
+      ],
+      "imagePaths": [
+        "/images/products/hotel-ca-14/hotel-ca-14-main.jpg"
+      ],
+      "caption": "Визуальная ссылка из каталога; не доказательство поставки в конкретный проект или утверждённой модели.",
+      "questions": [
+        {
+          "q": "Подтверждает ли изображение все характеристики?",
+          "a": "Нет. Размеры, материалы, оснащение и состав поставки подтверждаются по выбранным предметам, чертежам и ведомости."
+        }
+      ],
+      "sourceUrl": "https://hymebel.com/en/products/hotel-ca-14/",
+      "sourceLabel": "Источник изображения каталога",
+      "caseId": "hos-007",
+      "caseLabel": "Проект группы: Hilton Tashkent, Узбекистан",
+      "caseNote": "Это контекст гостиничного проекта, а не подтверждение поставки показанной комплектации.",
+      "reviewedVisual": "2026-10-27"
+    },
+    "en": {
+      "focus": "Furniture and equipment interfaces",
+      "items": [
+        "Separate cabinet, worktop and equipment in the schedule.",
+        "Confirm the selected refrigerator, opening and ventilation requirements.",
+        "Mark power, cable and service access."
+      ],
+      "imagePaths": [
+        "/images/products/hotel-ca-14/hotel-ca-14-main.jpg"
+      ],
+      "caption": "Catalogue selection visual; not evidence of a project delivery or an approved manufactured model.",
+      "questions": [
+        {
+          "q": "Does the image establish every specification?",
+          "a": "No. Dimensions, materials, equipment and supply scope require selected-item records, drawings and schedules."
+        }
+      ],
+      "sourceUrl": "https://hymebel.com/en/products/hotel-ca-14/",
+      "sourceLabel": "Catalogue visual source",
+      "caseId": "hos-007",
+      "caseLabel": "Group project: Hilton Tashkent, Uzbekistan",
+      "caseNote": "This is hospitality-project context, not proof that this selection was supplied to that project.",
+      "reviewedVisual": "2026-10-27"
+    }
+  },
+  "hotel-ca-15": {
+    "mn": {
+      "focus": "Лоббийн хөдөлгөөн ба суудлын бүлэг",
+      "items": [
+        "Орох хаалга, үйлчилгээний цэг болон үндсэн гарцыг зурагт тэмдэглэнэ.",
+        "Сандал, ширээний тоо ба тус бүрийн хэмжээг жагсаана.",
+        "Бүрээс, өнгөлгөө болон цэвэрлэгээний шаардлагыг дээжээр тодруулна."
+      ],
+      "imagePaths": [
+        "/images/products/hotel-ca-15/hotel-ca-15-main.jpg"
+      ],
+      "caption": "Каталогийн сонголтын дүрслэл; бодит төслийн нийлүүлэлт эсвэл баталсан загварын нотолгоо биш.",
+      "questions": [
+        {
+          "q": "Энэ зураг бүх үзүүлэлтийг батлах уу?",
+          "a": "Үгүй. Хэмжээ, материал, тоноглол болон нийлүүлэлтийн хүрээг сонгосон эд зүйл, баталсан зураг ба жагсаалтаар тодруулна."
+        }
+      ],
+      "sourceUrl": "https://hymebel.com/en/products/hotel-ca-15/",
+      "sourceLabel": "Каталогийн дүрслэлийн эх сурвалж",
+      "caseId": "hos-007",
+      "caseLabel": "Группын зочид буудлын төсөл: Hilton Tashkent, Узбекистан",
+      "caseNote": "Энэ нь төслийн жишээ; дээрх сонголтыг тухайн төсөлд нийлүүлсэн гэж батлахгүй.",
+      "reviewedVisual": "2026-10-27"
+    },
+    "ru": {
+      "focus": "Движение и группы сидений в лобби",
+      "items": [
+        "Отметьте вход, сервисные точки и основные проходы.",
+        "Укажите количество и размеры кресел и столиков.",
+        "Согласуйте обивку, отделку и уход по образцам."
+      ],
+      "imagePaths": [
+        "/images/products/hotel-ca-15/hotel-ca-15-main.jpg"
+      ],
+      "caption": "Визуальная ссылка из каталога; не доказательство поставки в конкретный проект или утверждённой модели.",
+      "questions": [
+        {
+          "q": "Подтверждает ли изображение все характеристики?",
+          "a": "Нет. Размеры, материалы, оснащение и состав поставки подтверждаются по выбранным предметам, чертежам и ведомости."
+        }
+      ],
+      "sourceUrl": "https://hymebel.com/en/products/hotel-ca-15/",
+      "sourceLabel": "Источник изображения каталога",
+      "caseId": "hos-007",
+      "caseLabel": "Проект группы: Hilton Tashkent, Узбекистан",
+      "caseNote": "Это контекст гостиничного проекта, а не подтверждение поставки показанной комплектации.",
+      "reviewedVisual": "2026-10-27"
+    },
+    "en": {
+      "focus": "Lobby circulation and seating groups",
+      "items": [
+        "Mark entrance, service points and main circulation.",
+        "Schedule chair and table quantities and dimensions.",
+        "Review upholstery, finish and maintenance against samples."
+      ],
+      "imagePaths": [
+        "/images/products/hotel-ca-15/hotel-ca-15-main.jpg"
+      ],
+      "caption": "Catalogue selection visual; not evidence of a project delivery or an approved manufactured model.",
+      "questions": [
+        {
+          "q": "Does the image establish every specification?",
+          "a": "No. Dimensions, materials, equipment and supply scope require selected-item records, drawings and schedules."
+        }
+      ],
+      "sourceUrl": "https://hymebel.com/en/products/hotel-ca-15/",
+      "sourceLabel": "Catalogue visual source",
+      "caseId": "hos-007",
+      "caseLabel": "Group project: Hilton Tashkent, Uzbekistan",
+      "caseNote": "This is hospitality-project context, not proof that this selection was supplied to that project.",
+      "reviewedVisual": "2026-10-27"
+    }
   }
 }

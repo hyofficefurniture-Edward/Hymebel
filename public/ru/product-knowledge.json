@@ -1,6 +1,6 @@
 {
   "scope": "Complete current regional selection catalogue; language copies are not independent products",
-  "uniqueSelections": 24,
+  "uniqueSelections": 28,
   "languages": [
     "ru",
     "en"
@@ -483,6 +483,110 @@
       "reviewed": "2026-10-27"
     },
     {
+      "id": "office-ca-01",
+      "entityType": "project-selection",
+      "market": "ru",
+      "language": "ru",
+      "source": "https://hymebel.com/ru/products/office-ca-01/",
+      "title": "Кабинетный стол с угловыми опорами",
+      "summary": "Сопоставьте столешницу, боковую тумбу и пространство для ног с планом кабинета. Контраст цветов на изображении не подтверждает состав материалов или согласованную отделку.",
+      "category": "office-furniture",
+      "context": "При переезде или поэтапном обновлении офиса важны не только модели мебели, но и совместимость с планировкой. Рабочие станции, переговорные столы, кабинеты, стойки ресепшн и системы хранения рассматриваются вместе с кабельными трассами и доступом для обслуживания.",
+      "image": "https://hymebel.com/images/products/office-ca-01/office-ca-01-main.jpg",
+      "checklist": [
+        "Укажите размеры помещения и полезную рабочую зону.",
+        "Разделите стол, хранение и кресла в ведомости.",
+        "Подтвердите материалы, отделку, размеры и кабельные решения."
+      ],
+      "questions": [
+        {
+          "q": "Подтверждает ли изображение технические характеристики?",
+          "a": "Нет. Размеры, материалы, оснащение и состав поставки подтверждаются документами на выбранные предметы."
+        }
+      ],
+      "visualSource": "https://hymebel.com/en/products/office-ca-01/",
+      "imageCaption": "Каталожная визуализация; не фотография поставки и не подтверждение утверждённой заводской модели.",
+      "reviewed": "2026-10-27"
+    },
+    {
+      "id": "office-ca-02",
+      "entityType": "project-selection",
+      "market": "ru",
+      "language": "ru",
+      "source": "https://hymebel.com/ru/products/office-ca-02/",
+      "title": "Продольный кабинетный стол с боковой тумбой",
+      "summary": "Проверьте продольную столешницу и положение тумбы по реальным размерам помещения. Отдельно согласуйте отодвигание кресла, вывод кабелей и открывание хранения.",
+      "category": "office-furniture",
+      "context": "При переезде или поэтапном обновлении офиса важны не только модели мебели, но и совместимость с планировкой. Рабочие станции, переговорные столы, кабинеты, стойки ресепшн и системы хранения рассматриваются вместе с кабельными трассами и доступом для обслуживания.",
+      "image": "https://hymebel.com/images/products/office-ca-02/office-ca-02-main.jpg",
+      "checklist": [
+        "Укажите размеры помещения и полезную рабочую зону.",
+        "Разделите стол, хранение и кресла в ведомости.",
+        "Подтвердите материалы, отделку, размеры и кабельные решения."
+      ],
+      "questions": [
+        {
+          "q": "Подтверждает ли изображение технические характеристики?",
+          "a": "Нет. Размеры, материалы, оснащение и состав поставки подтверждаются документами на выбранные предметы."
+        }
+      ],
+      "visualSource": "https://hymebel.com/en/products/office-ca-02/",
+      "imageCaption": "Каталожная визуализация; не фотография поставки и не подтверждение утверждённой заводской модели.",
+      "reviewed": "2026-10-27"
+    },
+    {
+      "id": "office-ca-04",
+      "entityType": "project-selection",
+      "market": "ru",
+      "language": "ru",
+      "source": "https://hymebel.com/ru/products/office-ca-04/",
+      "title": "Кабинетный стол с выразительным профилем",
+      "summary": "Отметьте контур столешницы и боковой блок на плане отдельными элементами. Не выводите размеры, породу древесины или нагрузку из выразительной формы изображения.",
+      "category": "office-furniture",
+      "context": "При переезде или поэтапном обновлении офиса важны не только модели мебели, но и совместимость с планировкой. Рабочие станции, переговорные столы, кабинеты, стойки ресепшн и системы хранения рассматриваются вместе с кабельными трассами и доступом для обслуживания.",
+      "image": "https://hymebel.com/images/products/office-ca-04/office-ca-04-main.jpg",
+      "checklist": [
+        "Укажите размеры помещения и полезную рабочую зону.",
+        "Разделите стол, хранение и кресла в ведомости.",
+        "Подтвердите материалы, отделку, размеры и кабельные решения."
+      ],
+      "questions": [
+        {
+          "q": "Подтверждает ли изображение технические характеристики?",
+          "a": "Нет. Размеры, материалы, оснащение и состав поставки подтверждаются документами на выбранные предметы."
+        }
+      ],
+      "visualSource": "https://hymebel.com/en/products/office-ca-04/",
+      "imageCaption": "Каталожная визуализация; не фотография поставки и не подтверждение утверждённой заводской модели.",
+      "reviewed": "2026-10-27"
+    },
+    {
+      "id": "office-ca-06",
+      "entityType": "project-selection",
+      "market": "ru",
+      "language": "ru",
+      "source": "https://hymebel.com/ru/products/office-ca-06/",
+      "title": "Продольный стол для переговоров",
+      "summary": "Сверьте длину стола, расстановку мест и проходы с обмерным планом. На изображении нет кресел, поэтому вместимость и комплект сидений согласуются отдельно.",
+      "category": "office-furniture",
+      "context": "При переезде или поэтапном обновлении офиса важны не только модели мебели, но и совместимость с планировкой. Рабочие станции, переговорные столы, кабинеты, стойки ресепшн и системы хранения рассматриваются вместе с кабельными трассами и доступом для обслуживания.",
+      "image": "https://hymebel.com/images/products/office-ca-06/office-ca-06-main.jpg",
+      "checklist": [
+        "Укажите размеры помещения и полезную рабочую зону.",
+        "Разделите стол, хранение и кресла в ведомости.",
+        "Подтвердите материалы, отделку, размеры и кабельные решения."
+      ],
+      "questions": [
+        {
+          "q": "Подтверждает ли изображение технические характеристики?",
+          "a": "Нет. Размеры, материалы, оснащение и состав поставки подтверждаются документами на выбранные предметы."
+        }
+      ],
+      "visualSource": "https://hymebel.com/en/products/office-ca-06/",
+      "imageCaption": "Каталожная визуализация; не фотография поставки и не подтверждение утверждённой заводской модели.",
+      "reviewed": "2026-10-27"
+    },
+    {
       "id": "hotel-ca-03",
       "entityType": "project-selection",
       "market": "ru",
@@ -954,6 +1058,110 @@
       ],
       "visualSource": "https://hymebel.com/en/products/hotel-ca-15/",
       "imageCaption": "Catalogue selection visual; not evidence of a project delivery or an approved manufactured model.",
+      "reviewed": "2026-10-27"
+    },
+    {
+      "id": "office-ca-01",
+      "entityType": "project-selection",
+      "market": "ru",
+      "language": "en",
+      "source": "https://hymebel.com/ru/en/products/office-ca-01/",
+      "title": "Executive desk with angled supports",
+      "summary": "Compare the worktop, side storage and leg space against the office plan. Contrasting colours in the visual do not establish material composition or an approved finish.",
+      "category": "office-furniture",
+      "context": "Plan workstations, meeting tables, executive furniture, reception and storage around the workplace layout. Review circulation, cable access and maintenance before confirming the configuration.",
+      "image": "https://hymebel.com/images/products/office-ca-01/office-ca-01-main.jpg",
+      "checklist": [
+        "Mark room dimensions and the usable working area.",
+        "Schedule the desk, storage and chairs separately.",
+        "Confirm materials, finish, dimensions and cable arrangements."
+      ],
+      "questions": [
+        {
+          "q": "Does the visual establish technical specifications?",
+          "a": "No. Dimensions, materials, equipment and supply scope require selected-item documentation."
+        }
+      ],
+      "visualSource": "https://hymebel.com/en/products/office-ca-01/",
+      "imageCaption": "Catalogue visualisation; not a delivery photograph or evidence of an approved manufacturer model.",
+      "reviewed": "2026-10-27"
+    },
+    {
+      "id": "office-ca-02",
+      "entityType": "project-selection",
+      "market": "ru",
+      "language": "en",
+      "source": "https://hymebel.com/ru/en/products/office-ca-02/",
+      "title": "Linear executive desk with side storage",
+      "summary": "Check the linear worktop and storage orientation against measured room dimensions. Review chair movement, cable routing and storage opening independently.",
+      "category": "office-furniture",
+      "context": "Plan workstations, meeting tables, executive furniture, reception and storage around the workplace layout. Review circulation, cable access and maintenance before confirming the configuration.",
+      "image": "https://hymebel.com/images/products/office-ca-02/office-ca-02-main.jpg",
+      "checklist": [
+        "Mark room dimensions and the usable working area.",
+        "Schedule the desk, storage and chairs separately.",
+        "Confirm materials, finish, dimensions and cable arrangements."
+      ],
+      "questions": [
+        {
+          "q": "Does the visual establish technical specifications?",
+          "a": "No. Dimensions, materials, equipment and supply scope require selected-item documentation."
+        }
+      ],
+      "visualSource": "https://hymebel.com/en/products/office-ca-02/",
+      "imageCaption": "Catalogue visualisation; not a delivery photograph or evidence of an approved manufacturer model.",
+      "reviewed": "2026-10-27"
+    },
+    {
+      "id": "office-ca-04",
+      "entityType": "project-selection",
+      "market": "ru",
+      "language": "en",
+      "source": "https://hymebel.com/ru/en/products/office-ca-04/",
+      "title": "Executive desk with a sculpted profile",
+      "summary": "Mark the worktop outline and side unit as separate elements on the layout. The sculpted appearance does not establish dimensions, timber species or load performance.",
+      "category": "office-furniture",
+      "context": "Plan workstations, meeting tables, executive furniture, reception and storage around the workplace layout. Review circulation, cable access and maintenance before confirming the configuration.",
+      "image": "https://hymebel.com/images/products/office-ca-04/office-ca-04-main.jpg",
+      "checklist": [
+        "Mark room dimensions and the usable working area.",
+        "Schedule the desk, storage and chairs separately.",
+        "Confirm materials, finish, dimensions and cable arrangements."
+      ],
+      "questions": [
+        {
+          "q": "Does the visual establish technical specifications?",
+          "a": "No. Dimensions, materials, equipment and supply scope require selected-item documentation."
+        }
+      ],
+      "visualSource": "https://hymebel.com/en/products/office-ca-04/",
+      "imageCaption": "Catalogue visualisation; not a delivery photograph or evidence of an approved manufacturer model.",
+      "reviewed": "2026-10-27"
+    },
+    {
+      "id": "office-ca-06",
+      "entityType": "project-selection",
+      "market": "ru",
+      "language": "en",
+      "source": "https://hymebel.com/ru/en/products/office-ca-06/",
+      "title": "Long conference-table selection",
+      "summary": "Review table length, proposed seating positions and circulation on the measured meeting-room plan. Chairs are not shown, so seating capacity and the chair package require separate confirmation.",
+      "category": "office-furniture",
+      "context": "Plan workstations, meeting tables, executive furniture, reception and storage around the workplace layout. Review circulation, cable access and maintenance before confirming the configuration.",
+      "image": "https://hymebel.com/images/products/office-ca-06/office-ca-06-main.jpg",
+      "checklist": [
+        "Mark room dimensions and the usable working area.",
+        "Schedule the desk, storage and chairs separately.",
+        "Confirm materials, finish, dimensions and cable arrangements."
+      ],
+      "questions": [
+        {
+          "q": "Does the visual establish technical specifications?",
+          "a": "No. Dimensions, materials, equipment and supply scope require selected-item documentation."
+        }
+      ],
+      "visualSource": "https://hymebel.com/en/products/office-ca-06/",
+      "imageCaption": "Catalogue visualisation; not a delivery photograph or evidence of an approved manufacturer model.",
       "reviewed": "2026-10-27"
     }
   ]

@@ -1,6 +1,6 @@
 {
   "scope": "Complete current regional selection catalogue; language copies are not independent products",
-  "uniqueSelections": 32,
+  "uniqueSelections": 37,
   "languages": [
     "mn",
     "en"
@@ -691,6 +691,136 @@
       "reviewed": "2026-10-27"
     },
     {
+      "id": "edu-ca-06",
+      "entityType": "project-selection",
+      "market": "mn",
+      "language": "mn",
+      "source": "https://hymebel.com/mn/products/edu-ca-06/",
+      "title": "Шаталсан лекцийн танхимын суудлын сонголт",
+      "summary": "Шаталсан эгнээ, бичих гадаргуу болон төв гарцыг сургалтын танхимын хэмжсэн зурагт тулгана. Суудлын тоо, бэхэлгээ, харах өнцөг болон гарцын шаардлагыг төсөлд тусад нь батална; зураг нь акустик эсвэл аюулгүй байдлын үзүүлэлт биш.",
+      "category": "education-healthcare",
+      "context": "Сургалтын өрөө, номын сан, ажилтны хэсэг, хүлээлгийн танхимын тавилгыг зориулалтаар нь ангилна. Ширээ, суудал, хадгалах шүүгээ сонгохдоо хэрэглэгчийн нас, хэмжээ, цэвэрлэгээ, өдөр тутмын хөдөлгөөнийг тодруулна. Эмнэлгийн зориулалттай тоног төхөөрөмжийг ердийн тавилгатай андуурахгүйгээр тусад нь тодорхойлно.",
+      "image": "https://hymebel.com/images/products/edu-ca-06/edu-ca-06-main.jpg",
+      "checklist": [
+        "Эгнээ, гарц ба суудлын байрлалыг зурагт тэмдэглэнэ.",
+        "Харах өнцөг, бичих гадаргуу болон бэхэлгээг тодруулна.",
+        "Орон нутгийн гарцын шаардлагыг төслийн баг батална."
+      ],
+      "questions": [
+        {
+          "q": "Зураг техникийн үзүүлэлтийг батлах уу?",
+          "a": "Үгүй. Хэмжээ, материал, тоноглол ба нийлүүлэлтийн хүрээг сонгосон эд зүйл болон баталсан баримтаар тодруулна."
+        }
+      ],
+      "visualSource": "https://hymebel.com/en/products/edu-ca-06/",
+      "imageCaption": "Каталогийн загварчилсан дүрслэл; бодит нийлүүлэлт эсвэл баталсан үйлдвэрийн загварын нотолгоо биш.",
+      "reviewed": "2026-10-27"
+    },
+    {
+      "id": "edu-ca-08",
+      "entityType": "project-selection",
+      "market": "mn",
+      "language": "mn",
+      "source": "https://hymebel.com/mn/products/edu-ca-08/",
+      "title": "Оюутны байрны ор ба суралцах хэсгийн сонголт",
+      "summary": "Ор, хувцасны шүүгээ болон дундын суралцах ширээг өрөөний бодит зураг дээр тусад нь тэмдэглэнэ. Давхар орны хамгаалалт, өндөр, бэхэлгээ болон хэрэглэгчийн шаардлагыг сонгосон бүтээгдэхүүний баримтаар батална. Хувийн хэрэглэл ба бусад тавилга автоматаар багтахгүй.",
+      "category": "education-healthcare",
+      "context": "Сургалтын өрөө, номын сан, ажилтны хэсэг, хүлээлгийн танхимын тавилгыг зориулалтаар нь ангилна. Ширээ, суудал, хадгалах шүүгээ сонгохдоо хэрэглэгчийн нас, хэмжээ, цэвэрлэгээ, өдөр тутмын хөдөлгөөнийг тодруулна. Эмнэлгийн зориулалттай тоног төхөөрөмжийг ердийн тавилгатай андуурахгүйгээр тусад нь тодорхойлно.",
+      "image": "https://hymebel.com/images/products/edu-ca-08/edu-ca-08-main.jpg",
+      "checklist": [
+        "Ор, шүүгээ, ширээг тусдаа тоолно.",
+        "Өндөр, шат болон хамгаалалтын баримтыг тодруулна.",
+        "Цэвэрлэгээ, нэвтрэх зай болон бэхэлгээг шалгана."
+      ],
+      "questions": [
+        {
+          "q": "Зураг техникийн үзүүлэлтийг батлах уу?",
+          "a": "Үгүй. Хэмжээ, материал, тоноглол ба нийлүүлэлтийн хүрээг сонгосон эд зүйл болон баталсан баримтаар тодруулна."
+        }
+      ],
+      "visualSource": "https://hymebel.com/en/products/edu-ca-08/",
+      "imageCaption": "Каталогийн загварчилсан дүрслэл; бодит нийлүүлэлт эсвэл баталсан үйлдвэрийн загварын нотолгоо биш.",
+      "reviewed": "2026-10-27"
+    },
+    {
+      "id": "edu-ca-09",
+      "entityType": "project-selection",
+      "market": "mn",
+      "language": "mn",
+      "source": "https://hymebel.com/mn/products/edu-ca-09/",
+      "title": "Лабораторийн ханын дагуух ажлын тавцангийн сонголт",
+      "summary": "Ханын дагуух тавцан, хадгалах хэсэг болон суудлыг сургалтын лабораторийн ажлын урсгалтай харьцуулна. Ус, цахилгаан, химийн орчин болон гадаргуугийн баримтыг мэргэжлийн багтай тодруулна. Зураг нь химийн тэсвэр эсвэл тоног төхөөрөмжийн багцыг батлахгүй.",
+      "category": "education-healthcare",
+      "context": "Сургалтын өрөө, номын сан, ажилтны хэсэг, хүлээлгийн танхимын тавилгыг зориулалтаар нь ангилна. Ширээ, суудал, хадгалах шүүгээ сонгохдоо хэрэглэгчийн нас, хэмжээ, цэвэрлэгээ, өдөр тутмын хөдөлгөөнийг тодруулна. Эмнэлгийн зориулалттай тоног төхөөрөмжийг ердийн тавилгатай андуурахгүйгээр тусад нь тодорхойлно.",
+      "image": "https://hymebel.com/images/products/edu-ca-09/edu-ca-09-main.jpg",
+      "checklist": [
+        "Ажлын төрлийг лабораторийн багтай тодорхойлно.",
+        "Ус, цахилгаан ба тавцангийн баримтыг тусад нь батална.",
+        "Суудал, хадгалалт болон гарцыг зурагт тэмдэглэнэ."
+      ],
+      "questions": [
+        {
+          "q": "Зураг техникийн үзүүлэлтийг батлах уу?",
+          "a": "Үгүй. Хэмжээ, материал, тоноглол ба нийлүүлэлтийн хүрээг сонгосон эд зүйл болон баталсан баримтаар тодруулна."
+        }
+      ],
+      "visualSource": "https://hymebel.com/en/products/edu-ca-09/",
+      "imageCaption": "Каталогийн загварчилсан дүрслэл; бодит нийлүүлэлт эсвэл баталсан үйлдвэрийн загварын нотолгоо биш.",
+      "reviewed": "2026-10-27"
+    },
+    {
+      "id": "edu-ca-10",
+      "entityType": "project-selection",
+      "market": "mn",
+      "language": "mn",
+      "source": "https://hymebel.com/mn/products/edu-ca-10/",
+      "title": "Арал хэлбэрийн лабораторийн ажлын ширээний сонголт",
+      "summary": "Төв ширээний эргэн тойрны хөдөлгөөн, багийн ажиллах байрлал болон хадгалалтыг хэмжсэн зурагт тэмдэглэнэ. Төхөөрөмж, угаалтуур, хий болон цахилгааны холболт тус бүрийн хариуцлагыг тогтооно. Зурган дээрх багажийг нийлүүлэлтэд багтсан гэж үзэхгүй.",
+      "category": "education-healthcare",
+      "context": "Сургалтын өрөө, номын сан, ажилтны хэсэг, хүлээлгийн танхимын тавилгыг зориулалтаар нь ангилна. Ширээ, суудал, хадгалах шүүгээ сонгохдоо хэрэглэгчийн нас, хэмжээ, цэвэрлэгээ, өдөр тутмын хөдөлгөөнийг тодруулна. Эмнэлгийн зориулалттай тоног төхөөрөмжийг ердийн тавилгатай андуурахгүйгээр тусад нь тодорхойлно.",
+      "image": "https://hymebel.com/images/products/edu-ca-10/edu-ca-10-main.jpg",
+      "checklist": [
+        "Төв ширээний эргэн тойрны ажлын зайг хэмжинэ.",
+        "Төхөөрөмж ба инженерийн холболтын хариуцлагыг ялгана.",
+        "Сонгосон тавцангийн хэрэглээний баримтыг хүснэ."
+      ],
+      "questions": [
+        {
+          "q": "Зураг техникийн үзүүлэлтийг батлах уу?",
+          "a": "Үгүй. Хэмжээ, материал, тоноглол ба нийлүүлэлтийн хүрээг сонгосон эд зүйл болон баталсан баримтаар тодруулна."
+        }
+      ],
+      "visualSource": "https://hymebel.com/en/products/edu-ca-10/",
+      "imageCaption": "Каталогийн загварчилсан дүрслэл; бодит нийлүүлэлт эсвэл баталсан үйлдвэрийн загварын нотолгоо биш.",
+      "reviewed": "2026-10-27"
+    },
+    {
+      "id": "edu-ca-11",
+      "entityType": "project-selection",
+      "market": "mn",
+      "language": "mn",
+      "source": "https://hymebel.com/mn/products/edu-ca-11/",
+      "title": "Хөдөлгөөнт хадгалалттай сургалтын өрөөний сонголт",
+      "summary": "Ширээ, сандал болон дугуйтай хадгалах хэсгийг хичээлийн зохион байгуулалттай харьцуулна. Дугуйны түгжээ, шилжүүлэх зам, хэрэглэгчийн өндөрт тохирох хэмжээг сонгосон эд зүйлээр батална. Зураг нь насны ангилал эсвэл эдэлгээний туршилтыг тогтоохгүй.",
+      "category": "education-healthcare",
+      "context": "Сургалтын өрөө, номын сан, ажилтны хэсэг, хүлээлгийн танхимын тавилгыг зориулалтаар нь ангилна. Ширээ, суудал, хадгалах шүүгээ сонгохдоо хэрэглэгчийн нас, хэмжээ, цэвэрлэгээ, өдөр тутмын хөдөлгөөнийг тодруулна. Эмнэлгийн зориулалттай тоног төхөөрөмжийг ердийн тавилгатай андуурахгүйгээр тусад нь тодорхойлно.",
+      "image": "https://hymebel.com/images/products/edu-ca-11/edu-ca-11-main.jpg",
+      "checklist": [
+        "Хичээлийн хэлбэр бүрийн тавилгын байрлалыг тэмдэглэнэ.",
+        "Дугуйны түгжээ болон хөдөлгөх зайг шалгана.",
+        "Хэрэглэгчид тохирох хэмжээг баримтаар батална."
+      ],
+      "questions": [
+        {
+          "q": "Зураг техникийн үзүүлэлтийг батлах уу?",
+          "a": "Үгүй. Хэмжээ, материал, тоноглол ба нийлүүлэлтийн хүрээг сонгосон эд зүйл болон баталсан баримтаар тодруулна."
+        }
+      ],
+      "visualSource": "https://hymebel.com/en/products/edu-ca-11/",
+      "imageCaption": "Каталогийн загварчилсан дүрслэл; бодит нийлүүлэлт эсвэл баталсан үйлдвэрийн загварын нотолгоо биш.",
+      "reviewed": "2026-10-27"
+    },
+    {
       "id": "hotel-ca-03",
       "entityType": "project-selection",
       "market": "mn",
@@ -1369,6 +1499,136 @@
         }
       ],
       "visualSource": "https://hymebel.com/en/products/office-ca-12/",
+      "imageCaption": "Catalogue visualisation; not a delivery photograph or evidence of an approved manufacturer model.",
+      "reviewed": "2026-10-27"
+    },
+    {
+      "id": "edu-ca-06",
+      "entityType": "project-selection",
+      "market": "mn",
+      "language": "en",
+      "source": "https://hymebel.com/mn/en/products/edu-ca-06/",
+      "title": "Tiered lecture-room seating reference",
+      "summary": "Compare tiered rows, writing surfaces and the central aisle against a measured teaching-room plan. Confirm capacity, fixing, sightlines and exit requirements for the project; the visual does not establish acoustic or safety performance.",
+      "category": "education-healthcare",
+      "context": "Specify classrooms, libraries, staff rooms and waiting areas by function. Clarify user groups, dimensions, daily use and cleaning requirements; specialised medical equipment requires a separate specification.",
+      "image": "https://hymebel.com/images/products/edu-ca-06/edu-ca-06-main.jpg",
+      "checklist": [
+        "Mark rows, aisles and seating positions on plans.",
+        "Check sightlines, writing surfaces and fixing.",
+        "Have the project team verify local exit requirements."
+      ],
+      "questions": [
+        {
+          "q": "Does the visual establish technical specifications?",
+          "a": "No. Dimensions, materials, equipment and supply scope require selected-item documentation."
+        }
+      ],
+      "visualSource": "https://hymebel.com/en/products/edu-ca-06/",
+      "imageCaption": "Catalogue visualisation; not a delivery photograph or evidence of an approved manufacturer model.",
+      "reviewed": "2026-10-27"
+    },
+    {
+      "id": "edu-ca-08",
+      "entityType": "project-selection",
+      "market": "mn",
+      "language": "en",
+      "source": "https://hymebel.com/mn/en/products/edu-ca-08/",
+      "title": "Student-room bed and study-area reference",
+      "summary": "Schedule beds, wardrobes and the shared study table separately on the actual room plan. Confirm bunk-bed guards, heights, anchoring and user requirements with selected-product documents. Personal belongings and other displayed pieces are not automatically included.",
+      "category": "education-healthcare",
+      "context": "Specify classrooms, libraries, staff rooms and waiting areas by function. Clarify user groups, dimensions, daily use and cleaning requirements; specialised medical equipment requires a separate specification.",
+      "image": "https://hymebel.com/images/products/edu-ca-08/edu-ca-08-main.jpg",
+      "checklist": [
+        "Schedule beds, wardrobes and desks separately.",
+        "Review heights, ladders and guard documentation.",
+        "Check cleaning access, circulation and anchoring."
+      ],
+      "questions": [
+        {
+          "q": "Does the visual establish technical specifications?",
+          "a": "No. Dimensions, materials, equipment and supply scope require selected-item documentation."
+        }
+      ],
+      "visualSource": "https://hymebel.com/en/products/edu-ca-08/",
+      "imageCaption": "Catalogue visualisation; not a delivery photograph or evidence of an approved manufacturer model.",
+      "reviewed": "2026-10-27"
+    },
+    {
+      "id": "edu-ca-09",
+      "entityType": "project-selection",
+      "market": "mn",
+      "language": "en",
+      "source": "https://hymebel.com/mn/en/products/edu-ca-09/",
+      "title": "Perimeter laboratory-workbench reference",
+      "summary": "Compare perimeter worktops, storage and seating with the teaching-laboratory workflow. Review water, electrical, chemical-use and surface-documentation requirements with the responsible specialists. The visual does not establish chemical resistance or an equipment package.",
+      "category": "education-healthcare",
+      "context": "Specify classrooms, libraries, staff rooms and waiting areas by function. Clarify user groups, dimensions, daily use and cleaning requirements; specialised medical equipment requires a separate specification.",
+      "image": "https://hymebel.com/images/products/edu-ca-09/edu-ca-09-main.jpg",
+      "checklist": [
+        "Define work activities with the laboratory team.",
+        "Confirm water, electrical and surface documentation separately.",
+        "Mark seating, storage and circulation on plans."
+      ],
+      "questions": [
+        {
+          "q": "Does the visual establish technical specifications?",
+          "a": "No. Dimensions, materials, equipment and supply scope require selected-item documentation."
+        }
+      ],
+      "visualSource": "https://hymebel.com/en/products/edu-ca-09/",
+      "imageCaption": "Catalogue visualisation; not a delivery photograph or evidence of an approved manufacturer model.",
+      "reviewed": "2026-10-27"
+    },
+    {
+      "id": "edu-ca-10",
+      "entityType": "project-selection",
+      "market": "mn",
+      "language": "en",
+      "source": "https://hymebel.com/mn/en/products/edu-ca-10/",
+      "title": "Island workbench for teaching-laboratory planning",
+      "summary": "Mark circulation around the island, group-working positions and storage on measured plans. Define responsibilities for instruments, sinks, gas and electrical interfaces separately. Displayed instruments must not be assumed to be part of the supply.",
+      "category": "education-healthcare",
+      "context": "Specify classrooms, libraries, staff rooms and waiting areas by function. Clarify user groups, dimensions, daily use and cleaning requirements; specialised medical equipment requires a separate specification.",
+      "image": "https://hymebel.com/images/products/edu-ca-10/edu-ca-10-main.jpg",
+      "checklist": [
+        "Measure working space around the island.",
+        "Separate instrument and service-interface responsibilities.",
+        "Request selected-surface documents for the intended use."
+      ],
+      "questions": [
+        {
+          "q": "Does the visual establish technical specifications?",
+          "a": "No. Dimensions, materials, equipment and supply scope require selected-item documentation."
+        }
+      ],
+      "visualSource": "https://hymebel.com/en/products/edu-ca-10/",
+      "imageCaption": "Catalogue visualisation; not a delivery photograph or evidence of an approved manufacturer model.",
+      "reviewed": "2026-10-27"
+    },
+    {
+      "id": "edu-ca-11",
+      "entityType": "project-selection",
+      "market": "mn",
+      "language": "en",
+      "source": "https://hymebel.com/mn/en/products/edu-ca-11/",
+      "title": "Learning-room furniture with mobile storage",
+      "summary": "Compare tables, chairs and mobile storage with the intended lesson format. Confirm castor brakes, rearrangement routes and user-height dimensions for the selected items. The visual does not establish an age group or durability test results.",
+      "category": "education-healthcare",
+      "context": "Specify classrooms, libraries, staff rooms and waiting areas by function. Clarify user groups, dimensions, daily use and cleaning requirements; specialised medical equipment requires a separate specification.",
+      "image": "https://hymebel.com/images/products/edu-ca-11/edu-ca-11-main.jpg",
+      "checklist": [
+        "Mark layouts for different lesson formats.",
+        "Check castor brakes and rearrangement routes.",
+        "Confirm user-appropriate dimensions with documentation."
+      ],
+      "questions": [
+        {
+          "q": "Does the visual establish technical specifications?",
+          "a": "No. Dimensions, materials, equipment and supply scope require selected-item documentation."
+        }
+      ],
+      "visualSource": "https://hymebel.com/en/products/edu-ca-11/",
       "imageCaption": "Catalogue visualisation; not a delivery photograph or evidence of an approved manufacturer model.",
       "reviewed": "2026-10-27"
     }

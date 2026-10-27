@@ -1112,5 +1112,375 @@
       "caseNote": "Project context only; not proof that this displayed desk was supplied.",
       "reviewedVisual": "2026-10-27"
     }
+  },
+  "edu-ca-06": {
+    "mn": {
+      "focus": "Суудлын эгнээ ба харах чиглэл",
+      "items": [
+        "Эгнээ, гарц ба суудлын байрлалыг зурагт тэмдэглэнэ.",
+        "Харах өнцөг, бичих гадаргуу болон бэхэлгээг тодруулна.",
+        "Орон нутгийн гарцын шаардлагыг төслийн баг батална."
+      ],
+      "imagePaths": [
+        "/images/products/edu-ca-06/edu-ca-06-main.jpg"
+      ],
+      "caption": "Каталогийн загварчилсан дүрслэл; бодит нийлүүлэлт эсвэл баталсан үйлдвэрийн загварын нотолгоо биш.",
+      "questions": [
+        {
+          "q": "Зураг техникийн үзүүлэлтийг батлах уу?",
+          "a": "Үгүй. Хэмжээ, материал, тоноглол ба нийлүүлэлтийн хүрээг сонгосон эд зүйл болон баталсан баримтаар тодруулна."
+        }
+      ],
+      "sourceUrl": "https://hymebel.com/en/products/edu-ca-06/",
+      "sourceLabel": "Каталогийн эх сурвалж",
+      "caseId": "edu-001",
+      "caseLabel": "Группын боловсролын төсөл: AUIB, Ирак",
+      "caseNote": "Энэ бол төслийн жишээ; дээрх сонголтыг нийлүүлсэн гэж батлахгүй.",
+      "reviewedVisual": "2026-10-27"
+    },
+    "ru": {
+      "focus": "Ряды мест и направление обзора",
+      "items": [
+        "Отметьте ряды, проходы и позиции мест на плане.",
+        "Проверьте обзор, письменные поверхности и крепление.",
+        "Поручите проектной команде проверку местных требований к выходам."
+      ],
+      "imagePaths": [
+        "/images/products/edu-ca-06/edu-ca-06-main.jpg"
+      ],
+      "caption": "Каталожная визуализация; не фотография поставки и не подтверждение утверждённой заводской модели.",
+      "questions": [
+        {
+          "q": "Подтверждает ли изображение технические характеристики?",
+          "a": "Нет. Размеры, материалы, оснащение и состав поставки подтверждаются документами на выбранные предметы."
+        }
+      ],
+      "sourceUrl": "https://hymebel.com/en/products/edu-ca-06/",
+      "sourceLabel": "Источник каталога",
+      "caseId": "edu-001",
+      "caseLabel": "Образовательный проект группы: AUIB, Ирак",
+      "caseNote": "Это контекст офисного проекта, а не подтверждение поставки показанного комплекта.",
+      "reviewedVisual": "2026-10-27"
+    },
+    "en": {
+      "focus": "Seating rows and sightlines",
+      "items": [
+        "Mark rows, aisles and seating positions on plans.",
+        "Check sightlines, writing surfaces and fixing.",
+        "Have the project team verify local exit requirements."
+      ],
+      "imagePaths": [
+        "/images/products/edu-ca-06/edu-ca-06-main.jpg"
+      ],
+      "caption": "Catalogue visualisation; not a delivery photograph or evidence of an approved manufacturer model.",
+      "questions": [
+        {
+          "q": "Does the visual establish technical specifications?",
+          "a": "No. Dimensions, materials, equipment and supply scope require selected-item documentation."
+        }
+      ],
+      "sourceUrl": "https://hymebel.com/en/products/edu-ca-06/",
+      "sourceLabel": "Catalogue source",
+      "caseId": "edu-001",
+      "caseLabel": "Group education project: AUIB, Iraq",
+      "caseNote": "Project context only; not proof that these displayed items was supplied.",
+      "reviewedVisual": "2026-10-27"
+    }
+  },
+  "edu-ca-08": {
+    "mn": {
+      "focus": "Унтах ба суралцах хэсгийг ялгах",
+      "items": [
+        "Ор, шүүгээ, ширээг тусдаа тоолно.",
+        "Өндөр, шат болон хамгаалалтын баримтыг тодруулна.",
+        "Цэвэрлэгээ, нэвтрэх зай болон бэхэлгээг шалгана."
+      ],
+      "imagePaths": [
+        "/images/products/edu-ca-08/edu-ca-08-main.jpg"
+      ],
+      "caption": "Каталогийн загварчилсан дүрслэл; бодит нийлүүлэлт эсвэл баталсан үйлдвэрийн загварын нотолгоо биш.",
+      "questions": [
+        {
+          "q": "Зураг техникийн үзүүлэлтийг батлах уу?",
+          "a": "Үгүй. Хэмжээ, материал, тоноглол ба нийлүүлэлтийн хүрээг сонгосон эд зүйл болон баталсан баримтаар тодруулна."
+        }
+      ],
+      "sourceUrl": "https://hymebel.com/en/products/edu-ca-08/",
+      "sourceLabel": "Каталогийн эх сурвалж",
+      "caseId": "edu-001",
+      "caseLabel": "Группын боловсролын төсөл: AUIB, Ирак",
+      "caseNote": "Энэ бол төслийн жишээ; дээрх сонголтыг нийлүүлсэн гэж батлахгүй.",
+      "reviewedVisual": "2026-10-27"
+    },
+    "ru": {
+      "focus": "Разделение спальной и учебной зон",
+      "items": [
+        "Разделите кровати, шкафы и столы в ведомости.",
+        "Уточните высоты, лестницы и документы по ограждениям.",
+        "Проверьте уборку, проходы и крепление."
+      ],
+      "imagePaths": [
+        "/images/products/edu-ca-08/edu-ca-08-main.jpg"
+      ],
+      "caption": "Каталожная визуализация; не фотография поставки и не подтверждение утверждённой заводской модели.",
+      "questions": [
+        {
+          "q": "Подтверждает ли изображение технические характеристики?",
+          "a": "Нет. Размеры, материалы, оснащение и состав поставки подтверждаются документами на выбранные предметы."
+        }
+      ],
+      "sourceUrl": "https://hymebel.com/en/products/edu-ca-08/",
+      "sourceLabel": "Источник каталога",
+      "caseId": "edu-001",
+      "caseLabel": "Образовательный проект группы: AUIB, Ирак",
+      "caseNote": "Это контекст офисного проекта, а не подтверждение поставки показанного комплекта.",
+      "reviewedVisual": "2026-10-27"
+    },
+    "en": {
+      "focus": "Separate sleeping and study areas",
+      "items": [
+        "Schedule beds, wardrobes and desks separately.",
+        "Review heights, ladders and guard documentation.",
+        "Check cleaning access, circulation and anchoring."
+      ],
+      "imagePaths": [
+        "/images/products/edu-ca-08/edu-ca-08-main.jpg"
+      ],
+      "caption": "Catalogue visualisation; not a delivery photograph or evidence of an approved manufacturer model.",
+      "questions": [
+        {
+          "q": "Does the visual establish technical specifications?",
+          "a": "No. Dimensions, materials, equipment and supply scope require selected-item documentation."
+        }
+      ],
+      "sourceUrl": "https://hymebel.com/en/products/edu-ca-08/",
+      "sourceLabel": "Catalogue source",
+      "caseId": "edu-001",
+      "caseLabel": "Group education project: AUIB, Iraq",
+      "caseNote": "Project context only; not proof that these displayed items was supplied.",
+      "reviewedVisual": "2026-10-27"
+    }
+  },
+  "edu-ca-09": {
+    "mn": {
+      "focus": "Тавцангийн хэрэглээ ба үйлчилгээний холболт",
+      "items": [
+        "Ажлын төрлийг лабораторийн багтай тодорхойлно.",
+        "Ус, цахилгаан ба тавцангийн баримтыг тусад нь батална.",
+        "Суудал, хадгалалт болон гарцыг зурагт тэмдэглэнэ."
+      ],
+      "imagePaths": [
+        "/images/products/edu-ca-09/edu-ca-09-main.jpg"
+      ],
+      "caption": "Каталогийн загварчилсан дүрслэл; бодит нийлүүлэлт эсвэл баталсан үйлдвэрийн загварын нотолгоо биш.",
+      "questions": [
+        {
+          "q": "Зураг техникийн үзүүлэлтийг батлах уу?",
+          "a": "Үгүй. Хэмжээ, материал, тоноглол ба нийлүүлэлтийн хүрээг сонгосон эд зүйл болон баталсан баримтаар тодруулна."
+        }
+      ],
+      "sourceUrl": "https://hymebel.com/en/products/edu-ca-09/",
+      "sourceLabel": "Каталогийн эх сурвалж",
+      "caseId": "edu-001",
+      "caseLabel": "Группын боловсролын төсөл: AUIB, Ирак",
+      "caseNote": "Энэ бол төслийн жишээ; дээрх сонголтыг нийлүүлсэн гэж батлахгүй.",
+      "reviewedVisual": "2026-10-27"
+    },
+    "ru": {
+      "focus": "Назначение поверхности и инженерные подключения",
+      "items": [
+        "Определите виды работ с командой лаборатории.",
+        "Отдельно подтвердите воду, электрику и документы поверхностей.",
+        "Отметьте сиденья, хранение и проходы на плане."
+      ],
+      "imagePaths": [
+        "/images/products/edu-ca-09/edu-ca-09-main.jpg"
+      ],
+      "caption": "Каталожная визуализация; не фотография поставки и не подтверждение утверждённой заводской модели.",
+      "questions": [
+        {
+          "q": "Подтверждает ли изображение технические характеристики?",
+          "a": "Нет. Размеры, материалы, оснащение и состав поставки подтверждаются документами на выбранные предметы."
+        }
+      ],
+      "sourceUrl": "https://hymebel.com/en/products/edu-ca-09/",
+      "sourceLabel": "Источник каталога",
+      "caseId": "edu-001",
+      "caseLabel": "Образовательный проект группы: AUIB, Ирак",
+      "caseNote": "Это контекст офисного проекта, а не подтверждение поставки показанного комплекта.",
+      "reviewedVisual": "2026-10-27"
+    },
+    "en": {
+      "focus": "Worktop use and service interfaces",
+      "items": [
+        "Define work activities with the laboratory team.",
+        "Confirm water, electrical and surface documentation separately.",
+        "Mark seating, storage and circulation on plans."
+      ],
+      "imagePaths": [
+        "/images/products/edu-ca-09/edu-ca-09-main.jpg"
+      ],
+      "caption": "Catalogue visualisation; not a delivery photograph or evidence of an approved manufacturer model.",
+      "questions": [
+        {
+          "q": "Does the visual establish technical specifications?",
+          "a": "No. Dimensions, materials, equipment and supply scope require selected-item documentation."
+        }
+      ],
+      "sourceUrl": "https://hymebel.com/en/products/edu-ca-09/",
+      "sourceLabel": "Catalogue source",
+      "caseId": "edu-001",
+      "caseLabel": "Group education project: AUIB, Iraq",
+      "caseNote": "Project context only; not proof that these displayed items was supplied.",
+      "reviewedVisual": "2026-10-27"
+    }
+  },
+  "edu-ca-10": {
+    "mn": {
+      "focus": "Төв ширээ ба багийн ажлын зай",
+      "items": [
+        "Төв ширээний эргэн тойрны ажлын зайг хэмжинэ.",
+        "Төхөөрөмж ба инженерийн холболтын хариуцлагыг ялгана.",
+        "Сонгосон тавцангийн хэрэглээний баримтыг хүснэ."
+      ],
+      "imagePaths": [
+        "/images/products/edu-ca-10/edu-ca-10-main.jpg"
+      ],
+      "caption": "Каталогийн загварчилсан дүрслэл; бодит нийлүүлэлт эсвэл баталсан үйлдвэрийн загварын нотолгоо биш.",
+      "questions": [
+        {
+          "q": "Зураг техникийн үзүүлэлтийг батлах уу?",
+          "a": "Үгүй. Хэмжээ, материал, тоноглол ба нийлүүлэлтийн хүрээг сонгосон эд зүйл болон баталсан баримтаар тодруулна."
+        }
+      ],
+      "sourceUrl": "https://hymebel.com/en/products/edu-ca-10/",
+      "sourceLabel": "Каталогийн эх сурвалж",
+      "caseId": "edu-001",
+      "caseLabel": "Группын боловсролын төсөл: AUIB, Ирак",
+      "caseNote": "Энэ бол төслийн жишээ; дээрх сонголтыг нийлүүлсэн гэж батлахгүй.",
+      "reviewedVisual": "2026-10-27"
+    },
+    "ru": {
+      "focus": "Остров и пространство для работы групп",
+      "items": [
+        "Измерьте рабочее пространство вокруг острова.",
+        "Разделите ответственность за приборы и инженерные подключения.",
+        "Запросите документы на выбранную поверхность для её применения."
+      ],
+      "imagePaths": [
+        "/images/products/edu-ca-10/edu-ca-10-main.jpg"
+      ],
+      "caption": "Каталожная визуализация; не фотография поставки и не подтверждение утверждённой заводской модели.",
+      "questions": [
+        {
+          "q": "Подтверждает ли изображение технические характеристики?",
+          "a": "Нет. Размеры, материалы, оснащение и состав поставки подтверждаются документами на выбранные предметы."
+        }
+      ],
+      "sourceUrl": "https://hymebel.com/en/products/edu-ca-10/",
+      "sourceLabel": "Источник каталога",
+      "caseId": "edu-001",
+      "caseLabel": "Образовательный проект группы: AUIB, Ирак",
+      "caseNote": "Это контекст офисного проекта, а не подтверждение поставки показанного комплекта.",
+      "reviewedVisual": "2026-10-27"
+    },
+    "en": {
+      "focus": "Island layout and group-working space",
+      "items": [
+        "Measure working space around the island.",
+        "Separate instrument and service-interface responsibilities.",
+        "Request selected-surface documents for the intended use."
+      ],
+      "imagePaths": [
+        "/images/products/edu-ca-10/edu-ca-10-main.jpg"
+      ],
+      "caption": "Catalogue visualisation; not a delivery photograph or evidence of an approved manufacturer model.",
+      "questions": [
+        {
+          "q": "Does the visual establish technical specifications?",
+          "a": "No. Dimensions, materials, equipment and supply scope require selected-item documentation."
+        }
+      ],
+      "sourceUrl": "https://hymebel.com/en/products/edu-ca-10/",
+      "sourceLabel": "Catalogue source",
+      "caseId": "edu-001",
+      "caseLabel": "Group education project: AUIB, Iraq",
+      "caseNote": "Project context only; not proof that these displayed items was supplied.",
+      "reviewedVisual": "2026-10-27"
+    }
+  },
+  "edu-ca-11": {
+    "mn": {
+      "focus": "Өрөөний өөрчлөлт ба хөдөлгөөнт хадгалалт",
+      "items": [
+        "Хичээлийн хэлбэр бүрийн тавилгын байрлалыг тэмдэглэнэ.",
+        "Дугуйны түгжээ болон хөдөлгөх зайг шалгана.",
+        "Хэрэглэгчид тохирох хэмжээг баримтаар батална."
+      ],
+      "imagePaths": [
+        "/images/products/edu-ca-11/edu-ca-11-main.jpg"
+      ],
+      "caption": "Каталогийн загварчилсан дүрслэл; бодит нийлүүлэлт эсвэл баталсан үйлдвэрийн загварын нотолгоо биш.",
+      "questions": [
+        {
+          "q": "Зураг техникийн үзүүлэлтийг батлах уу?",
+          "a": "Үгүй. Хэмжээ, материал, тоноглол ба нийлүүлэлтийн хүрээг сонгосон эд зүйл болон баталсан баримтаар тодруулна."
+        }
+      ],
+      "sourceUrl": "https://hymebel.com/en/products/edu-ca-11/",
+      "sourceLabel": "Каталогийн эх сурвалж",
+      "caseId": "edu-001",
+      "caseLabel": "Группын боловсролын төсөл: AUIB, Ирак",
+      "caseNote": "Энэ бол төслийн жишээ; дээрх сонголтыг нийлүүлсэн гэж батлахгүй.",
+      "reviewedVisual": "2026-10-27"
+    },
+    "ru": {
+      "focus": "Перестановка и мобильное хранение",
+      "items": [
+        "Отметьте расстановку для разных форматов занятий.",
+        "Проверьте тормоза колёс и маршруты перестановки.",
+        "Подтвердите размеры для пользователей документами."
+      ],
+      "imagePaths": [
+        "/images/products/edu-ca-11/edu-ca-11-main.jpg"
+      ],
+      "caption": "Каталожная визуализация; не фотография поставки и не подтверждение утверждённой заводской модели.",
+      "questions": [
+        {
+          "q": "Подтверждает ли изображение технические характеристики?",
+          "a": "Нет. Размеры, материалы, оснащение и состав поставки подтверждаются документами на выбранные предметы."
+        }
+      ],
+      "sourceUrl": "https://hymebel.com/en/products/edu-ca-11/",
+      "sourceLabel": "Источник каталога",
+      "caseId": "edu-001",
+      "caseLabel": "Образовательный проект группы: AUIB, Ирак",
+      "caseNote": "Это контекст офисного проекта, а не подтверждение поставки показанного комплекта.",
+      "reviewedVisual": "2026-10-27"
+    },
+    "en": {
+      "focus": "Reconfiguration and mobile storage",
+      "items": [
+        "Mark layouts for different lesson formats.",
+        "Check castor brakes and rearrangement routes.",
+        "Confirm user-appropriate dimensions with documentation."
+      ],
+      "imagePaths": [
+        "/images/products/edu-ca-11/edu-ca-11-main.jpg"
+      ],
+      "caption": "Catalogue visualisation; not a delivery photograph or evidence of an approved manufacturer model.",
+      "questions": [
+        {
+          "q": "Does the visual establish technical specifications?",
+          "a": "No. Dimensions, materials, equipment and supply scope require selected-item documentation."
+        }
+      ],
+      "sourceUrl": "https://hymebel.com/en/products/edu-ca-11/",
+      "sourceLabel": "Catalogue source",
+      "caseId": "edu-001",
+      "caseLabel": "Group education project: AUIB, Iraq",
+      "caseNote": "Project context only; not proof that these displayed items was supplied.",
+      "reviewedVisual": "2026-10-27"
+    }
   }
 }

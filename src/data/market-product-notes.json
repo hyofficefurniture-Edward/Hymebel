@@ -816,5 +816,301 @@
       "caseNote": "Project context only; not proof that this displayed desk was supplied.",
       "reviewedVisual": "2026-10-27"
     }
+  },
+  "office-ca-07": {
+    "mn": {
+      "focus": "Ширээний суурь ба суудлын байрлал",
+      "items": [
+        "Суудлын байрлалыг суурийн хүрээтэй харьцуулна.",
+        "Уулзалтын хөтөлбөрт тохирох гарцыг тэмдэглэнэ.",
+        "Тэжээл болон кабелийн тоноглол багтсан эсэхийг батална."
+      ],
+      "imagePaths": [
+        "/images/products/office-ca-07/office-ca-07-main.jpg"
+      ],
+      "caption": "Каталогийн загварчилсан дүрслэл; бодит нийлүүлэлт эсвэл баталсан үйлдвэрийн загварын нотолгоо биш.",
+      "questions": [
+        {
+          "q": "Зураг техникийн үзүүлэлтийг батлах уу?",
+          "a": "Үгүй. Хэмжээ, материал, тоноглол ба нийлүүлэлтийн хүрээг сонгосон эд зүйл болон баталсан баримтаар тодруулна."
+        }
+      ],
+      "sourceUrl": "https://hymebel.com/en/products/office-ca-07/",
+      "sourceLabel": "Каталогийн эх сурвалж",
+      "caseId": "off-001",
+      "caseLabel": "Группын оффисын төсөл: Ahmadi, Кувейт",
+      "caseNote": "Энэ бол төслийн жишээ; дээрх ширээг нийлүүлсэн гэж батлахгүй.",
+      "reviewedVisual": "2026-10-27"
+    },
+    "ru": {
+      "focus": "Основание стола и размещение участников",
+      "items": [
+        "Сопоставьте места участников с контуром основания.",
+        "Отметьте проходы для выбранного формата встречи.",
+        "Подтвердите включение питания и кабельных модулей."
+      ],
+      "imagePaths": [
+        "/images/products/office-ca-07/office-ca-07-main.jpg"
+      ],
+      "caption": "Каталожная визуализация; не фотография поставки и не подтверждение утверждённой заводской модели.",
+      "questions": [
+        {
+          "q": "Подтверждает ли изображение технические характеристики?",
+          "a": "Нет. Размеры, материалы, оснащение и состав поставки подтверждаются документами на выбранные предметы."
+        }
+      ],
+      "sourceUrl": "https://hymebel.com/en/products/office-ca-07/",
+      "sourceLabel": "Источник каталога",
+      "caseId": "off-001",
+      "caseLabel": "Офисный проект группы: Ahmadi, Кувейт",
+      "caseNote": "Это контекст офисного проекта, а не подтверждение поставки показанного стола.",
+      "reviewedVisual": "2026-10-27"
+    },
+    "en": {
+      "focus": "Table base and participant positions",
+      "items": [
+        "Compare participant positions with the base outline.",
+        "Mark circulation for the intended meeting format.",
+        "Confirm whether power and cable modules are included."
+      ],
+      "imagePaths": [
+        "/images/products/office-ca-07/office-ca-07-main.jpg"
+      ],
+      "caption": "Catalogue visualisation; not a delivery photograph or evidence of an approved manufacturer model.",
+      "questions": [
+        {
+          "q": "Does the visual establish technical specifications?",
+          "a": "No. Dimensions, materials, equipment and supply scope require selected-item documentation."
+        }
+      ],
+      "sourceUrl": "https://hymebel.com/en/products/office-ca-07/",
+      "sourceLabel": "Catalogue source",
+      "caseId": "off-001",
+      "caseLabel": "Group office project: Ahmadi, Kuwait",
+      "caseNote": "Project context only; not proof that this displayed desk was supplied.",
+      "reviewedVisual": "2026-10-27"
+    }
+  },
+  "office-ca-08": {
+    "mn": {
+      "focus": "Хурлын өрөөний чиглэл ба гарц",
+      "items": [
+        "Дэлгэц ба үзүүлэх хэсгийн чиглэлийг тэмдэглэнэ.",
+        "Өрөөний бодит хэмжээнд ширээний уртыг шалгана.",
+        "Сандал татах зай, төгсгөлийн гарцыг тодруулна."
+      ],
+      "imagePaths": [
+        "/images/products/office-ca-08/office-ca-08-main.jpg"
+      ],
+      "caption": "Каталогийн загварчилсан дүрслэл; бодит нийлүүлэлт эсвэл баталсан үйлдвэрийн загварын нотолгоо биш.",
+      "questions": [
+        {
+          "q": "Зураг техникийн үзүүлэлтийг батлах уу?",
+          "a": "Үгүй. Хэмжээ, материал, тоноглол ба нийлүүлэлтийн хүрээг сонгосон эд зүйл болон баталсан баримтаар тодруулна."
+        }
+      ],
+      "sourceUrl": "https://hymebel.com/en/products/office-ca-08/",
+      "sourceLabel": "Каталогийн эх сурвалж",
+      "caseId": "off-001",
+      "caseLabel": "Группын оффисын төсөл: Ahmadi, Кувейт",
+      "caseNote": "Энэ бол төслийн жишээ; дээрх ширээг нийлүүлсэн гэж батлахгүй.",
+      "reviewedVisual": "2026-10-27"
+    },
+    "ru": {
+      "focus": "Ориентация переговорной и проходы",
+      "items": [
+        "Отметьте экран и направление презентации.",
+        "Проверьте длину стола по реальному помещению.",
+        "Согласуйте отодвигание кресел и торцевые проходы."
+      ],
+      "imagePaths": [
+        "/images/products/office-ca-08/office-ca-08-main.jpg"
+      ],
+      "caption": "Каталожная визуализация; не фотография поставки и не подтверждение утверждённой заводской модели.",
+      "questions": [
+        {
+          "q": "Подтверждает ли изображение технические характеристики?",
+          "a": "Нет. Размеры, материалы, оснащение и состав поставки подтверждаются документами на выбранные предметы."
+        }
+      ],
+      "sourceUrl": "https://hymebel.com/en/products/office-ca-08/",
+      "sourceLabel": "Источник каталога",
+      "caseId": "off-001",
+      "caseLabel": "Офисный проект группы: Ahmadi, Кувейт",
+      "caseNote": "Это контекст офисного проекта, а не подтверждение поставки показанного стола.",
+      "reviewedVisual": "2026-10-27"
+    },
+    "en": {
+      "focus": "Meeting-room orientation and access",
+      "items": [
+        "Mark the screen and presentation direction.",
+        "Check table length against the actual room.",
+        "Review chair movement and end access."
+      ],
+      "imagePaths": [
+        "/images/products/office-ca-08/office-ca-08-main.jpg"
+      ],
+      "caption": "Catalogue visualisation; not a delivery photograph or evidence of an approved manufacturer model.",
+      "questions": [
+        {
+          "q": "Does the visual establish technical specifications?",
+          "a": "No. Dimensions, materials, equipment and supply scope require selected-item documentation."
+        }
+      ],
+      "sourceUrl": "https://hymebel.com/en/products/office-ca-08/",
+      "sourceLabel": "Catalogue source",
+      "caseId": "off-001",
+      "caseLabel": "Group office project: Ahmadi, Kuwait",
+      "caseNote": "Project context only; not proof that this displayed desk was supplied.",
+      "reviewedVisual": "2026-10-27"
+    }
+  },
+  "office-ca-10": {
+    "mn": {
+      "focus": "Зочин ба ажилтны хоёр тал",
+      "items": [
+        "Ажилтны нэвтрэх гарцыг зурагт тэмдэглэнэ.",
+        "Үйлчлүүлэгчийн болон ажлын гадаргуугийн өндрийг батална.",
+        "Дэлгэц, кабель ба бичиг баримтын хадгалалтыг тодруулна."
+      ],
+      "imagePaths": [
+        "/images/products/office-ca-10/office-ca-10-main.jpg"
+      ],
+      "caption": "Каталогийн загварчилсан дүрслэл; бодит нийлүүлэлт эсвэл баталсан үйлдвэрийн загварын нотолгоо биш.",
+      "questions": [
+        {
+          "q": "Зураг техникийн үзүүлэлтийг батлах уу?",
+          "a": "Үгүй. Хэмжээ, материал, тоноглол ба нийлүүлэлтийн хүрээг сонгосон эд зүйл болон баталсан баримтаар тодруулна."
+        }
+      ],
+      "sourceUrl": "https://hymebel.com/en/products/office-ca-10/",
+      "sourceLabel": "Каталогийн эх сурвалж",
+      "caseId": "off-001",
+      "caseLabel": "Группын оффисын төсөл: Ahmadi, Кувейт",
+      "caseNote": "Энэ бол төслийн жишээ; дээрх ширээг нийлүүлсэн гэж батлахгүй.",
+      "reviewedVisual": "2026-10-27"
+    },
+    "ru": {
+      "focus": "Гостевая и рабочая стороны стойки",
+      "items": [
+        "Отметьте вход для сотрудника на плане.",
+        "Подтвердите высоту гостевой и рабочей поверхностей.",
+        "Согласуйте экраны, кабели и хранение документов."
+      ],
+      "imagePaths": [
+        "/images/products/office-ca-10/office-ca-10-main.jpg"
+      ],
+      "caption": "Каталожная визуализация; не фотография поставки и не подтверждение утверждённой заводской модели.",
+      "questions": [
+        {
+          "q": "Подтверждает ли изображение технические характеристики?",
+          "a": "Нет. Размеры, материалы, оснащение и состав поставки подтверждаются документами на выбранные предметы."
+        }
+      ],
+      "sourceUrl": "https://hymebel.com/en/products/office-ca-10/",
+      "sourceLabel": "Источник каталога",
+      "caseId": "off-001",
+      "caseLabel": "Офисный проект группы: Ahmadi, Кувейт",
+      "caseNote": "Это контекст офисного проекта, а не подтверждение поставки показанного стола.",
+      "reviewedVisual": "2026-10-27"
+    },
+    "en": {
+      "focus": "Visitor and staff sides of the counter",
+      "items": [
+        "Mark the staff entry on the layout.",
+        "Confirm visitor and working surface heights.",
+        "Review screens, cables and document storage."
+      ],
+      "imagePaths": [
+        "/images/products/office-ca-10/office-ca-10-main.jpg"
+      ],
+      "caption": "Catalogue visualisation; not a delivery photograph or evidence of an approved manufacturer model.",
+      "questions": [
+        {
+          "q": "Does the visual establish technical specifications?",
+          "a": "No. Dimensions, materials, equipment and supply scope require selected-item documentation."
+        }
+      ],
+      "sourceUrl": "https://hymebel.com/en/products/office-ca-10/",
+      "sourceLabel": "Catalogue source",
+      "caseId": "off-001",
+      "caseLabel": "Group office project: Ahmadi, Kuwait",
+      "caseNote": "Project context only; not proof that this displayed desk was supplied.",
+      "reviewedVisual": "2026-10-27"
+    }
+  },
+  "office-ca-12": {
+    "mn": {
+      "focus": "Хадгалалтын хэрэглээ ба бэхэлгээ",
+      "items": [
+        "Тавиур бүрт хадгалах эд зүйлийг тодорхойлно.",
+        "Тавиурын хэмжээ ба зөвшөөрөгдөх ачааллыг баримтаар батална.",
+        "Ханын бэхэлгээ болон хаалга нээх зайг шалгана."
+      ],
+      "imagePaths": [
+        "/images/products/office-ca-12/office-ca-12-main.jpg"
+      ],
+      "caption": "Каталогийн загварчилсан дүрслэл; бодит нийлүүлэлт эсвэл баталсан үйлдвэрийн загварын нотолгоо биш.",
+      "questions": [
+        {
+          "q": "Зураг техникийн үзүүлэлтийг батлах уу?",
+          "a": "Үгүй. Хэмжээ, материал, тоноглол ба нийлүүлэлтийн хүрээг сонгосон эд зүйл болон баталсан баримтаар тодруулна."
+        }
+      ],
+      "sourceUrl": "https://hymebel.com/en/products/office-ca-12/",
+      "sourceLabel": "Каталогийн эх сурвалж",
+      "caseId": "off-001",
+      "caseLabel": "Группын оффисын төсөл: Ahmadi, Кувейт",
+      "caseNote": "Энэ бол төслийн жишээ; дээрх ширээг нийлүүлсэн гэж батлахгүй.",
+      "reviewedVisual": "2026-10-27"
+    },
+    "ru": {
+      "focus": "Назначение хранения и крепление",
+      "items": [
+        "Определите содержимое каждой полки и секции.",
+        "Подтвердите размеры полок и допустимую нагрузку документами.",
+        "Проверьте крепление к стене и открывание дверей."
+      ],
+      "imagePaths": [
+        "/images/products/office-ca-12/office-ca-12-main.jpg"
+      ],
+      "caption": "Каталожная визуализация; не фотография поставки и не подтверждение утверждённой заводской модели.",
+      "questions": [
+        {
+          "q": "Подтверждает ли изображение технические характеристики?",
+          "a": "Нет. Размеры, материалы, оснащение и состав поставки подтверждаются документами на выбранные предметы."
+        }
+      ],
+      "sourceUrl": "https://hymebel.com/en/products/office-ca-12/",
+      "sourceLabel": "Источник каталога",
+      "caseId": "off-001",
+      "caseLabel": "Офисный проект группы: Ahmadi, Кувейт",
+      "caseNote": "Это контекст офисного проекта, а не подтверждение поставки показанного стола.",
+      "reviewedVisual": "2026-10-27"
+    },
+    "en": {
+      "focus": "Storage use and anchoring",
+      "items": [
+        "Define the contents of each shelf and compartment.",
+        "Confirm shelf dimensions and allowable loading with documents.",
+        "Check wall anchoring and door opening space."
+      ],
+      "imagePaths": [
+        "/images/products/office-ca-12/office-ca-12-main.jpg"
+      ],
+      "caption": "Catalogue visualisation; not a delivery photograph or evidence of an approved manufacturer model.",
+      "questions": [
+        {
+          "q": "Does the visual establish technical specifications?",
+          "a": "No. Dimensions, materials, equipment and supply scope require selected-item documentation."
+        }
+      ],
+      "sourceUrl": "https://hymebel.com/en/products/office-ca-12/",
+      "sourceLabel": "Catalogue source",
+      "caseId": "off-001",
+      "caseLabel": "Group office project: Ahmadi, Kuwait",
+      "caseNote": "Project context only; not proof that this displayed desk was supplied.",
+      "reviewedVisual": "2026-10-27"
+    }
   }
 }

@@ -11,7 +11,244 @@
     ],
     "sourceKind": "project-pdf",
     "publicLevel": "L3",
-    "evidenceGrade": "A"
+    "evidenceGrade": "A",
+    "reviewed": "2026-10-28",
+    "sourceDocument": "Hilton Tashkent, Uzbekistan.pdf",
+    "localized": {
+      "en": {
+        "intro": "Hilton Tashkent is a Hongye hospitality reference in Uzbekistan. The group project document presents the lobby, guestrooms, presidential-suite interiors, a lounge bar and event spaces. Those documented spaces explain the project context; the purchasing discussion below is guidance for a new order.",
+        "spaces": [
+          "Lobby",
+          "Guestrooms",
+          "Presidential-suite interiors",
+          "Lounge bar",
+          "Banquet and meeting spaces"
+        ],
+        "questions": [
+          "Build a schedule for each room type",
+          "Coordinate public spaces separately",
+          "Approve the new package through documents"
+        ],
+        "evidenceSections": [
+          {
+            "heading": "Build a schedule for each room type",
+            "text": "Compare the guestroom and suite layouts before selecting repeat items. Mark beds, bedside pieces, seating, desks and storage against measured plans; confirm what belongs in each room type instead of treating a photograph as the complete furniture list."
+          },
+          {
+            "heading": "Coordinate public spaces separately",
+            "text": "Prepare distinct lists for lobby seating, lounge tables and event furniture. Review circulation, chair movement, storage and handling for the actual space. The document shows these environments but does not establish the quantities or specifications needed at another property."
+          },
+          {
+            "heading": "Approve the new package through documents",
+            "text": "Confirm drawings, finishes, samples, quantities and installation interfaces for the selected items. Request relevant performance documents when required. Images do not prove material grades, certifications, capacity or a guaranteed lead time; the image source is not an endorsement of a new order by Hilton."
+          }
+        ],
+        "imageCaption": "Project-document image: Hilton Tashkent, Uzbekistan. The photo is a space reference, not an item-by-item supply schedule.",
+        "relatedLabel": "Explore furniture and prepare your enquiry",
+        "documentSource": "Group project document: Hilton Tashkent, Uzbekistan · reviewed 28 October 2026",
+        "faq": [
+          {
+            "q": "Does this reference confirm the specification for my hotel?",
+            "a": "No. Use the reference to discuss spaces and visual direction, then agree the item schedule, dimensions, materials and project responsibilities for your own order."
+          }
+        ]
+      },
+      "ru": {
+        "intro": "Hilton Tashkent — гостиничный проект группы Hongye в Узбекистане. Документ проекта показывает лобби, гостевые номера, интерьеры президентских люксов, лаунж-бар и пространства мероприятий. Это контекст исходного объекта; рекомендации ниже относятся к новому заказу.",
+        "spaces": [
+          "Лобби",
+          "Гостевые номера",
+          "Интерьеры президентских люксов",
+          "Лаунж-бар",
+          "Банкетные и переговорные пространства"
+        ],
+        "questions": [
+          "Ведомость для каждого типа номера",
+          "Отдельная проработка общественных зон",
+          "Согласование нового заказа по документам"
+        ],
+        "evidenceSections": [
+          {
+            "heading": "Ведомость для каждого типа номера",
+            "text": "Сравните планировки номеров и люксов до выбора повторяющихся изделий. Отметьте кровати, прикроватные элементы, кресла, столы и хранение на обмерном плане. Уточните состав каждого типа номера: одна фотография не заменяет ведомость мебели."
+          },
+          {
+            "heading": "Отдельная проработка общественных зон",
+            "text": "Составьте отдельные перечни сидений для лобби, столиков для лаунжа и мебели мероприятий. Проверьте проходы, движение кресел, хранение и перемещение по реальному помещению. Документ показывает эти пространства, но не определяет количество и спецификации для другого отеля."
+          },
+          {
+            "heading": "Согласование нового заказа по документам",
+            "text": "Подтвердите чертежи, отделку, образцы, количество и монтажные сопряжения выбранных изделий. При необходимости запросите документы по характеристикам. Изображения не подтверждают класс материала, сертификаты, вместимость или срок; исходный проект не означает одобрение нового заказа брендом Hilton."
+          }
+        ],
+        "imageCaption": "Изображение документа проекта Hilton Tashkent, Узбекистан. Это пример пространства, а не поштучная ведомость поставки.",
+        "relatedLabel": "Мебель и подготовка запроса",
+        "documentSource": "Документ проекта группы: Hilton Tashkent, Узбекистан · проверено 28 октября 2026",
+        "faq": [
+          {
+            "q": "Подтверждает ли этот проект спецификацию моего отеля?",
+            "a": "Нет. Используйте пример для обсуждения пространств и визуального направления, затем согласуйте ведомость, размеры, материалы и обязанности по своему заказу."
+          }
+        ]
+      },
+      "mn": {
+        "intro": "Hilton Tashkent нь Узбекистан дахь Hongye группын зочид буудлын төслийн жишээ юм. Төслийн баримтад лобби, зочны өрөө, ерөнхийлөгчийн люксийн интерьер, лаунж баар, арга хэмжээний талбайг харуулсан. Доорх зөвлөмж нь тусдаа шинэ захиалгад зориулагдана.",
+        "spaces": [
+          "Лобби",
+          "Зочны өрөө",
+          "Ерөнхийлөгчийн люксийн интерьер",
+          "Лаунж баар",
+          "Хүлээн авалт ба уулзалтын талбай"
+        ],
+        "questions": [
+          "Өрөөний төрөл бүрээр жагсаалт гаргах",
+          "Нийтийн талбайг тусад нь төлөвлөх",
+          "Шинэ багцыг баримтаар батлах"
+        ],
+        "evidenceSections": [
+          {
+            "heading": "Өрөөний төрөл бүрээр жагсаалт гаргах",
+            "text": "Давтагдах эд зүйл сонгохоос өмнө өрөө, люксийн төлөвлөлтийг харьцуулна. Ор, орны хажуугийн тавилга, суудал, ширээ, хадгалалтыг хэмжсэн зурагт тэмдэглэнэ. Нэг зураг бүх өрөөний тавилгын жагсаалтыг орлохгүй."
+          },
+          {
+            "heading": "Нийтийн талбайг тусад нь төлөвлөх",
+            "text": "Лоббийн суудал, лаунжийн ширээ болон арга хэмжээний тавилгыг тусдаа жагсаана. Бодит талбайн гарц, сандал хөдөлгөх зай, хадгалалт, зөөвөрлөлтийг шалгана. Баримтын зураг өөр зочид буудлын тоо хэмжээ, үзүүлэлтийг батлахгүй."
+          },
+          {
+            "heading": "Шинэ багцыг баримтаар батлах",
+            "text": "Сонгосон эд зүйлийн зураг, өнгөлгөө, дээж, тоо хэмжээ, угсралтын уялдааг батална. Шаардлагатай үзүүлэлтийн баримтыг хүснэ. Зургаас материалын зэрэг, гэрчилгээ, багтаамж, хугацааг дүгнэхгүй; энэ жишээ Hilton шинэ захиалгыг дэмжсэн гэсэн үг биш."
+          }
+        ],
+        "imageCaption": "Hilton Tashkent, Узбекистан төслийн баримтын зураг. Энэ нь талбайн жишээ болохоос нэг бүрийн нийлүүлэлтийн жагсаалт биш.",
+        "relatedLabel": "Тавилга ба хүсэлт бэлтгэх",
+        "documentSource": "Группын төслийн баримт: Hilton Tashkent, Узбекистан · 2026-10-28 шалгасан",
+        "faq": [
+          {
+            "q": "Энэ төсөл миний зочид буудлын үзүүлэлтийг батлах уу?",
+            "a": "Үгүй. Талбай болон дүрслэлийн чиглэлийг ярилцахад ашиглаад өөрийн захиалгын жагсаалт, хэмжээ, материал, хариуцлагыг тусад нь батална."
+          }
+        ]
+      },
+      "kk": {
+        "intro": "Hilton Tashkent — Hongye тобының Өзбекстандағы қонақүй жобасы. Топтың жоба құжатында лобби, қонақ бөлмелері, президенттік люкс интерьерлері, лаунж-бар және іс-шара алаңдары көрсетілген. Төмендегі сатып алу кеңестері бөлек жаңа тапсырысқа арналған.",
+        "spaces": [
+          "Лобби",
+          "Қонақ бөлмелері",
+          "Президенттік люкс интерьерлері",
+          "Лаунж-бар",
+          "Банкет және кездесу алаңдары"
+        ],
+        "questions": [
+          "Әр бөлме түріне тізім жасау",
+          "Ортақ кеңістіктерді бөлек үйлестіру",
+          "Жаңа тапсырысты құжатпен бекіту"
+        ],
+        "evidenceSections": [
+          {
+            "heading": "Әр бөлме түріне тізім жасау",
+            "text": "Қайталанатын бұйымдарды таңдаудан бұрын бөлме және люкс жоспарларын салыстырыңыз. Төсек, төсек жанындағы жиһаз, орындық, үстел және сақтау орындарын өлшенген жоспарға белгілеңіз. Бір фотосурет толық жиһаз тізімін алмастырмайды."
+          },
+          {
+            "heading": "Ортақ кеңістіктерді бөлек үйлестіру",
+            "text": "Лобби орындықтарын, лаунж үстелдерін және іс-шара жиһазын бөлек тізімдеңіз. Нақты кеңістіктегі өту жолын, орындық қозғалысын, сақтау мен тасымалдауды тексеріңіз. Құжат басқа қонақүйге қажетті сан мен сипаттаманы бекітпейді."
+          },
+          {
+            "heading": "Жаңа тапсырысты құжатпен бекіту",
+            "text": "Таңдалған бұйымның сызбасын, әрлеуін, үлгісін, санын және монтаж түйістерін келісіңіз. Қажет болса, өнім сипаттамаларының құжатын сұраңыз. Сурет материал класын, сертификатты, сыйымдылықты немесе мерзімді дәлелдемейді; бастапқы жоба Hilton жаңа тапсырысты мақұлдады дегенді білдірмейді."
+          }
+        ],
+        "imageCaption": "Hilton Tashkent, Өзбекстан жоба құжатының суреті. Бұл кеңістік үлгісі, жеке бұйымдардың жеткізілім тізімі емес.",
+        "relatedLabel": "Жиһаз және сұрауды дайындау",
+        "documentSource": "Топтың жоба құжаты: Hilton Tashkent, Өзбекстан · 2026-10-28 тексерілді",
+        "faq": [
+          {
+            "q": "Бұл жоба менің қонақүйімнің сипаттамасын бекіте ме?",
+            "a": "Жоқ. Үлгіні кеңістік пен көрнекі бағытты талқылауға қолданыңыз, содан кейін өз тапсырысыңыздың тізімін, өлшемін, материалын және міндеттерін келісіңіз."
+          }
+        ]
+      },
+      "uz": {
+        "intro": "Hilton Tashkent — Hongye guruhining O‘zbekistondagi mehmonxona loyihasi. Guruh hujjatida lobbi, mehmon xonalari, prezident lyukslari interyeri, lounge-bar va tadbir maydonlari ko‘rsatilgan. Quyidagi xarid tavsiyalari alohida yangi buyurtmaga tegishli.",
+        "spaces": [
+          "Lobbi",
+          "Mehmon xonalari",
+          "Prezident lyukslari interyeri",
+          "Lounge-bar",
+          "Banket va uchrashuv maydonlari"
+        ],
+        "questions": [
+          "Har bir xona turi uchun ro‘yxat",
+          "Umumiy maydonlarni alohida muvofiqlashtirish",
+          "Yangi to‘plamni hujjatlar bilan tasdiqlash"
+        ],
+        "evidenceSections": [
+          {
+            "heading": "Har bir xona turi uchun ro‘yxat",
+            "text": "Takroriy buyumlarni tanlashdan oldin xona va lyuks rejalarini solishtiring. Karavot, yon mebel, o‘rindiq, stol va saqlash qismlarini o‘lchangan rejaga belgilang. Bitta surat to‘liq mebel ro‘yxatini almashtirmaydi."
+          },
+          {
+            "heading": "Umumiy maydonlarni alohida muvofiqlashtirish",
+            "text": "Lobbi o‘rindiqlari, lounge stollari va tadbir mebellari uchun alohida ro‘yxat tuzing. Haqiqiy xonadagi yo‘lak, o‘rindiq harakati, saqlash va tashishni tekshiring. Hujjat boshqa mehmonxona uchun son yoki texnik tavsiflarni belgilamaydi."
+          },
+          {
+            "heading": "Yangi to‘plamni hujjatlar bilan tasdiqlash",
+            "text": "Tanlangan buyumning chizmasi, pardoz, namuna, miqdor va montaj tutashuvlarini tasdiqlang. Kerakli xususiyatlar bo‘yicha hujjat so‘rang. Surat material darajasi, sertifikat, sig‘im yoki muddatni isbotlamaydi; bu loyiha Hilton yangi buyurtmani ma’qullaganini bildirmaydi."
+          }
+        ],
+        "imageCaption": "Hilton Tashkent, O‘zbekiston loyiha hujjati tasviri. Bu maydon namunasi, buyumlar bo‘yicha yetkazib berish ro‘yxati emas.",
+        "relatedLabel": "Mebel va so‘rov tayyorlash",
+        "documentSource": "Guruh loyiha hujjati: Hilton Tashkent, O‘zbekiston · 2026-10-28 tekshirildi",
+        "faq": [
+          {
+            "q": "Bu loyiha mening mehmonxonam spetsifikatsiyasini tasdiqlaydimi?",
+            "a": "Yo‘q. Undan maydonlar va ko‘rinish yo‘nalishini muhokama qilishda foydalaning, so‘ng o‘z buyurtmangiz ro‘yxati, o‘lchami, materiali va mas’uliyatlarini kelishing."
+          }
+        ]
+      }
+    },
+    "gallery": [
+      {
+        "image": "/images/project-library/hos-007.webp"
+      },
+      {
+        "image": "/images/project-library/hilton-tashkent-guestroom.webp",
+        "width": 423,
+        "height": 281,
+        "alt": {
+          "en": "Guestroom — Hilton Tashkent, Uzbekistan",
+          "ru": "Guestroom — Hilton Tashkent, Uzbekistan",
+          "mn": "Guestroom — Hilton Tashkent, Uzbekistan",
+          "kk": "Guestroom — Hilton Tashkent, Uzbekistan",
+          "uz": "Guestroom — Hilton Tashkent, Uzbekistan"
+        },
+        "caption": {
+          "en": "Project-document image: Hilton Tashkent, Uzbekistan. The photo is a space reference, not an item-by-item supply schedule.",
+          "ru": "Изображение документа проекта Hilton Tashkent, Узбекистан. Это пример пространства, а не поштучная ведомость поставки.",
+          "mn": "Hilton Tashkent, Узбекистан төслийн баримтын зураг. Энэ нь талбайн жишээ болохоос нэг бүрийн нийлүүлэлтийн жагсаалт биш.",
+          "kk": "Hilton Tashkent, Өзбекстан жоба құжатының суреті. Бұл кеңістік үлгісі, жеке бұйымдардың жеткізілім тізімі емес.",
+          "uz": "Hilton Tashkent, O‘zbekiston loyiha hujjati tasviri. Bu maydon namunasi, buyumlar bo‘yicha yetkazib berish ro‘yxati emas."
+        }
+      },
+      {
+        "image": "/images/project-library/hilton-tashkent-banquet.webp",
+        "width": 900,
+        "height": 504,
+        "alt": {
+          "en": "Banquet space — Hilton Tashkent, Uzbekistan",
+          "ru": "Banquet space — Hilton Tashkent, Uzbekistan",
+          "mn": "Banquet space — Hilton Tashkent, Uzbekistan",
+          "kk": "Banquet space — Hilton Tashkent, Uzbekistan",
+          "uz": "Banquet space — Hilton Tashkent, Uzbekistan"
+        },
+        "caption": {
+          "en": "Project-document image: Hilton Tashkent, Uzbekistan. The photo is a space reference, not an item-by-item supply schedule.",
+          "ru": "Изображение документа проекта Hilton Tashkent, Узбекистан. Это пример пространства, а не поштучная ведомость поставки.",
+          "mn": "Hilton Tashkent, Узбекистан төслийн баримтын зураг. Энэ нь талбайн жишээ болохоос нэг бүрийн нийлүүлэлтийн жагсаалт биш.",
+          "kk": "Hilton Tashkent, Өзбекстан жоба құжатының суреті. Бұл кеңістік үлгісі, жеке бұйымдардың жеткізілім тізімі емес.",
+          "uz": "Hilton Tashkent, O‘zbekiston loyiha hujjati tasviri. Bu maydon namunasi, buyumlar bo‘yicha yetkazib berish ro‘yxati emas."
+        }
+      }
+    ]
   },
   {
     "id": "off-012",

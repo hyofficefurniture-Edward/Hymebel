@@ -10,10 +10,45 @@
       "sector": "hospitality",
       "language": "uz",
       "source": "https://hymebel.com/uz/cases/hos-007/",
-      "summary": "Guruh loyihasi uchun mebel tanlovi: mamlakat va soha dastlabki manbaga mos ko‘rsatilgan.",
+      "summary": "Hilton Tashkent — Hongye guruhining O‘zbekistondagi mehmonxona loyihasi. Guruh hujjatida lobbi, mehmon xonalari, prezident lyukslari interyeri, lounge-bar va tadbir maydonlari ko‘rsatilgan. Quyidagi xarid tavsiyalari alohida yangi buyurtmaga tegishli.",
       "discussion": "Rejalar, miqdorlar, o‘lchamlar, pardoz va yetkazib berish mas’uliyatini aniqlang. Bu misol boshqa buyurtma uchun narx, muddat yoki texnik xususiyatlarni belgilamaydi.",
       "evidenceGrade": "A",
-      "updated": "2026-10-13"
+      "updated": "2026-10-28",
+      "documentedSpaces": [
+        "Lobbi",
+        "Mehmon xonalari",
+        "Prezident lyukslari interyeri",
+        "Lounge-bar",
+        "Banket va uchrashuv maydonlari"
+      ],
+      "procurementAdvice": [
+        {
+          "heading": "Har bir xona turi uchun ro‘yxat",
+          "text": "Takroriy buyumlarni tanlashdan oldin xona va lyuks rejalarini solishtiring. Karavot, yon mebel, o‘rindiq, stol va saqlash qismlarini o‘lchangan rejaga belgilang. Bitta surat to‘liq mebel ro‘yxatini almashtirmaydi."
+        },
+        {
+          "heading": "Umumiy maydonlarni alohida muvofiqlashtirish",
+          "text": "Lobbi o‘rindiqlari, lounge stollari va tadbir mebellari uchun alohida ro‘yxat tuzing. Haqiqiy xonadagi yo‘lak, o‘rindiq harakati, saqlash va tashishni tekshiring. Hujjat boshqa mehmonxona uchun son yoki texnik tavsiflarni belgilamaydi."
+        },
+        {
+          "heading": "Yangi to‘plamni hujjatlar bilan tasdiqlash",
+          "text": "Tanlangan buyumning chizmasi, pardoz, namuna, miqdor va montaj tutashuvlarini tasdiqlang. Kerakli xususiyatlar bo‘yicha hujjat so‘rang. Surat material darajasi, sertifikat, sig‘im yoki muddatni isbotlamaydi; bu loyiha Hilton yangi buyurtmani ma’qullaganini bildirmaydi."
+        }
+      ],
+      "questions": [
+        {
+          "q": "Bu loyiha mening mehmonxonam spetsifikatsiyasini tasdiqlaydimi?",
+          "a": "Yo‘q. Undan maydonlar va ko‘rinish yo‘nalishini muhokama qilishda foydalaning, so‘ng o‘z buyurtmangiz ro‘yxati, o‘lchami, materiali va mas’uliyatlarini kelishing."
+        }
+      ],
+      "sourceDocument": "Hilton Tashkent, Uzbekistan.pdf",
+      "sourceReviewed": "2026-10-28",
+      "imageCaption": "Hilton Tashkent, O‘zbekiston loyiha hujjati tasviri. Bu maydon namunasi, buyumlar bo‘yicha yetkazib berish ro‘yxati emas.",
+      "images": [
+        "/images/project-library/hos-007.webp",
+        "/images/project-library/hilton-tashkent-guestroom.webp",
+        "/images/project-library/hilton-tashkent-banquet.webp"
+      ]
     },
     {
       "id": "off-012",

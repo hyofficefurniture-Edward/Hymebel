@@ -10,10 +10,45 @@
       "sector": "hospitality",
       "language": "en",
       "source": "https://hymebel.com/mn/en/cases/hos-007/",
-      "summary": "Furniture selection for a documented group project; the country and sector remain those of the original reference.",
+      "summary": "Hilton Tashkent is a Hongye hospitality reference in Uzbekistan. The group project document presents the lobby, guestrooms, presidential-suite interiors, a lounge bar and event spaces. Those documented spaces explain the project context; the purchasing discussion below is guidance for a new order.",
       "discussion": "Confirm your plans, quantities, dimensions, finishes and delivery responsibilities. This reference does not establish prices, lead times or technical specifications for another order.",
       "evidenceGrade": "A",
-      "updated": "2026-10-13"
+      "updated": "2026-10-28",
+      "documentedSpaces": [
+        "Lobby",
+        "Guestrooms",
+        "Presidential-suite interiors",
+        "Lounge bar",
+        "Banquet and meeting spaces"
+      ],
+      "procurementAdvice": [
+        {
+          "heading": "Build a schedule for each room type",
+          "text": "Compare the guestroom and suite layouts before selecting repeat items. Mark beds, bedside pieces, seating, desks and storage against measured plans; confirm what belongs in each room type instead of treating a photograph as the complete furniture list."
+        },
+        {
+          "heading": "Coordinate public spaces separately",
+          "text": "Prepare distinct lists for lobby seating, lounge tables and event furniture. Review circulation, chair movement, storage and handling for the actual space. The document shows these environments but does not establish the quantities or specifications needed at another property."
+        },
+        {
+          "heading": "Approve the new package through documents",
+          "text": "Confirm drawings, finishes, samples, quantities and installation interfaces for the selected items. Request relevant performance documents when required. Images do not prove material grades, certifications, capacity or a guaranteed lead time; the image source is not an endorsement of a new order by Hilton."
+        }
+      ],
+      "questions": [
+        {
+          "q": "Does this reference confirm the specification for my hotel?",
+          "a": "No. Use the reference to discuss spaces and visual direction, then agree the item schedule, dimensions, materials and project responsibilities for your own order."
+        }
+      ],
+      "sourceDocument": "Hilton Tashkent, Uzbekistan.pdf",
+      "sourceReviewed": "2026-10-28",
+      "imageCaption": "Project-document image: Hilton Tashkent, Uzbekistan. The photo is a space reference, not an item-by-item supply schedule.",
+      "images": [
+        "/images/project-library/hos-007.webp",
+        "/images/project-library/hilton-tashkent-guestroom.webp",
+        "/images/project-library/hilton-tashkent-banquet.webp"
+      ]
     },
     {
       "id": "off-012",

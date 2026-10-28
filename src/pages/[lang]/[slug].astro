@@ -1,4 +1,5 @@
 ---
+import GroupProfileEnrichment from "../../components/GroupProfileEnrichment.astro";
 import BaseLayout from "../../layouts/BaseLayout.astro";
 import { useTranslations, localePath } from "../../i18n/utils";
 import { allSlugs, categories, about, contactPage } from "../../data/categories";
@@ -267,4 +268,5 @@ const crumb = [{ name: pageName, href: localePath(lang, slug) }];
       <a class="btn btn--ghost" href={localePath(lang, "contact")}>{t("hero.ctaPrimary")}</a>
     </div>
   </section>
+{(isAbout||isContact)&&<GroupProfileEnrichment lang={lang} kind={isAbout?"about":"contact"}/>}
 </BaseLayout>

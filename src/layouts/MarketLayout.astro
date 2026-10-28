@@ -1,4 +1,5 @@
 ---
+import GroupProfileEnrichment from "../components/GroupProfileEnrichment.astro";
 import "../styles/global.css";
 import "../styles/regional.css";
 import RegionalHeader from '../components/RegionalHeader.astro';
@@ -136,7 +137,8 @@ const webPageJsonLd = { '@context': 'https://schema.org', '@type': 'WebPage', na
       ) : (
         <RegionalHomeContent copy={copy}/>
       )}
-    </main>
+    {isContact&&<GroupProfileEnrichment lang={copy.language} kind="contact"/>}
+</main>
     <RegionalFooter copy={copy}/>
 {isContact&&regionalProductIds.length>0&&<script is:inline define:vars={{allowedProductIds:regionalProductIds,referenceMarket:copy.market,referenceLanguage:copy.language}}>
 (function(){

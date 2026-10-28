@@ -1,12 +1,12 @@
 {
   "scope": "Complete current regional selection catalogue; language copies are not independent products",
-  "uniqueSelections": 37,
+  "uniqueSelections": 41,
   "languages": [
     "mn",
     "en"
   ],
   "newGlobalManufacturerSkus": 0,
-  "updated": "2026-10-27",
+  "updated": "2026-10-28",
   "entries": [
     {
       "id": "hotel-ca-03",
@@ -821,6 +821,110 @@
       "reviewed": "2026-10-27"
     },
     {
+      "id": "home-ca-05",
+      "entityType": "project-selection",
+      "market": "mn",
+      "language": "mn",
+      "source": "https://hymebel.com/mn/products/home-ca-05/",
+      "title": "Нээлттэй гал тогоо ба зочны хэсгийн сонголт",
+      "summary": "Гал тогооны арал, өндөр сандал, буйдан болон явган замыг өрөөний хэмжилттэй тулгана. Чулуу мэт хээ нь материалын баталгаа биш; цахилгаан хэрэгсэл, гэрэлтүүлэг ба суурилуулалтын хүрээг тусад нь тохирно.",
+      "category": "villa-residential",
+      "context": "Хувийн сууц, орон сууцны интерьерийн тавилгыг өрөө бүрийн хэмжээс, материал, өнгөний сонголттой уялдуулна. Унтлагын өрөө, зочны өрөө, хоолны хэсэг болон шүүгээний хүрээг нэг жагсаалтад цэгцэлж, бэлэн тавилга ба зурагт тулгуурласан захиалгыг ялгана.",
+      "image": "https://hymebel.com/images/products/home-ca-05/home-ca-05-main.jpg",
+      "checklist": [
+        "Хэмжсэн зурагт хэмжээ ба нэвтрэх зайг шалгана.",
+        "Зөвхөн шаардлагатай эд зүйлийг тусад нь жагсаана.",
+        "Материал, өнгөлгөө болон холбогдох баримтыг батална."
+      ],
+      "questions": [
+        {
+          "q": "Зураг ямар мэдээллийг батлахгүй вэ?",
+          "a": "Гал тогооны арал, өндөр сандал, буйдан болон явган замыг өрөөний хэмжилттэй тулгана. Чулуу мэт хээ нь материалын баталгаа биш; цахилгаан хэрэгсэл, гэрэлтүүлэг ба суурилуулалтын хүрээг тусад нь тохирно."
+        }
+      ],
+      "visualSource": "https://hymebel.com/en/products/home-ca-05/",
+      "imageCaption": "Нийтлэгдсэн каталогийн харагдах лавлагаа; бодит нийлүүлэлт эсвэл батлагдсан үйлдвэрийн загвар биш.",
+      "reviewed": "2026-10-28"
+    },
+    {
+      "id": "home-ca-10",
+      "entityType": "project-selection",
+      "market": "mn",
+      "language": "mn",
+      "source": "https://hymebel.com/mn/products/home-ca-10/",
+      "title": "Цонхны дэргэдэх зочны өрөөний суудлын сонголт",
+      "summary": "Буйдан, дугуй ширээ болон хажуугийн тавилгын хэмжээг цонх, хөшиг, зорчих зайтай уялдуулна. Чулуу мэт ширээний өнгөлгөө, даавуу, дотор бүтэц ба даацыг зурагнаас тогтоохгүй.",
+      "category": "villa-residential",
+      "context": "Хувийн сууц, орон сууцны интерьерийн тавилгыг өрөө бүрийн хэмжээс, материал, өнгөний сонголттой уялдуулна. Унтлагын өрөө, зочны өрөө, хоолны хэсэг болон шүүгээний хүрээг нэг жагсаалтад цэгцэлж, бэлэн тавилга ба зурагт тулгуурласан захиалгыг ялгана.",
+      "image": "https://hymebel.com/images/products/home-ca-10/home-ca-10-main.jpg",
+      "checklist": [
+        "Хэмжсэн зурагт хэмжээ ба нэвтрэх зайг шалгана.",
+        "Зөвхөн шаардлагатай эд зүйлийг тусад нь жагсаана.",
+        "Материал, өнгөлгөө болон холбогдох баримтыг батална."
+      ],
+      "questions": [
+        {
+          "q": "Зураг ямар мэдээллийг батлахгүй вэ?",
+          "a": "Буйдан, дугуй ширээ болон хажуугийн тавилгын хэмжээг цонх, хөшиг, зорчих зайтай уялдуулна. Чулуу мэт ширээний өнгөлгөө, даавуу, дотор бүтэц ба даацыг зурагнаас тогтоохгүй."
+        }
+      ],
+      "visualSource": "https://hymebel.com/en/products/home-ca-10/",
+      "imageCaption": "Нийтлэгдсэн каталогийн харагдах лавлагаа; бодит нийлүүлэлт эсвэл батлагдсан үйлдвэрийн загвар биш.",
+      "reviewed": "2026-10-28"
+    },
+    {
+      "id": "home-ca-12",
+      "entityType": "project-selection",
+      "market": "mn",
+      "language": "mn",
+      "source": "https://hymebel.com/mn/products/home-ca-12/",
+      "title": "Хотын харагдацтай амралтын хэсгийн сонголт",
+      "summary": "Хоёр талын суудал, нам ширээ ба тагтны хаалганы хөдөлгөөнийг хэмжсэн зурагт тэмдэглэнэ. Зураг дахь харагдац нь төслийн улс эсвэл бодит нийлүүлэлтийн нотолгоо биш; даавуу, хэмжээ, бүрдлийг сонгосон эд зүйлээр батална.",
+      "category": "villa-residential",
+      "context": "Хувийн сууц, орон сууцны интерьерийн тавилгыг өрөө бүрийн хэмжээс, материал, өнгөний сонголттой уялдуулна. Унтлагын өрөө, зочны өрөө, хоолны хэсэг болон шүүгээний хүрээг нэг жагсаалтад цэгцэлж, бэлэн тавилга ба зурагт тулгуурласан захиалгыг ялгана.",
+      "image": "https://hymebel.com/images/products/home-ca-12/home-ca-12-main.jpg",
+      "checklist": [
+        "Хэмжсэн зурагт хэмжээ ба нэвтрэх зайг шалгана.",
+        "Зөвхөн шаардлагатай эд зүйлийг тусад нь жагсаана.",
+        "Материал, өнгөлгөө болон холбогдох баримтыг батална."
+      ],
+      "questions": [
+        {
+          "q": "Зураг ямар мэдээллийг батлахгүй вэ?",
+          "a": "Хоёр талын суудал, нам ширээ ба тагтны хаалганы хөдөлгөөнийг хэмжсэн зурагт тэмдэглэнэ. Зураг дахь харагдац нь төслийн улс эсвэл бодит нийлүүлэлтийн нотолгоо биш; даавуу, хэмжээ, бүрдлийг сонгосон эд зүйлээр батална."
+        }
+      ],
+      "visualSource": "https://hymebel.com/en/products/home-ca-12/",
+      "imageCaption": "Нийтлэгдсэн каталогийн харагдах лавлагаа; бодит нийлүүлэлт эсвэл батлагдсан үйлдвэрийн загвар биш.",
+      "reviewed": "2026-10-28"
+    },
+    {
+      "id": "med-ca-03",
+      "entityType": "project-selection",
+      "market": "mn",
+      "language": "mn",
+      "source": "https://hymebel.com/mn/products/med-ca-03/",
+      "title": "Зөөлөвчтэй суурин үзлэгийн кушеткийн лавлагаа",
+      "summary": "Зурагт зөөлөвчтэй урт гадаргуу, суурин хөлтэй кушетк харагдана. Өндөр тохируулах механизм, эмнэлгийн төхөөрөмжийн бүртгэл, даац эсвэл ариутгалын үзүүлэлт батлагдаагүй. Хэрэглээ, хэмжээ ба шаардлагатай баримтыг байгууллагын хариуцсан багтай нягтална.",
+      "category": "education-healthcare",
+      "context": "Сургалтын өрөө, номын сан, ажилтны хэсэг, хүлээлгийн танхимын тавилгыг зориулалтаар нь ангилна. Ширээ, суудал, хадгалах шүүгээ сонгохдоо хэрэглэгчийн нас, хэмжээ, цэвэрлэгээ, өдөр тутмын хөдөлгөөнийг тодруулна. Эмнэлгийн зориулалттай тоног төхөөрөмжийг ердийн тавилгатай андуурахгүйгээр тусад нь тодорхойлно.",
+      "image": "https://hymebel.com/images/products/med-ca-03/med-ca-03-main.jpg",
+      "checklist": [
+        "Хэмжсэн зурагт хэмжээ ба нэвтрэх зайг шалгана.",
+        "Зөвхөн шаардлагатай эд зүйлийг тусад нь жагсаана.",
+        "Материал, өнгөлгөө болон холбогдох баримтыг батална."
+      ],
+      "questions": [
+        {
+          "q": "Зураг ямар мэдээллийг батлахгүй вэ?",
+          "a": "Зурагт зөөлөвчтэй урт гадаргуу, суурин хөлтэй кушетк харагдана. Өндөр тохируулах механизм, эмнэлгийн төхөөрөмжийн бүртгэл, даац эсвэл ариутгалын үзүүлэлт батлагдаагүй. Хэрэглээ, хэмжээ ба шаардлагатай баримтыг байгууллагын хариуцсан багтай нягтална."
+        }
+      ],
+      "visualSource": "https://hymebel.com/en/products/med-ca-03/",
+      "imageCaption": "Нийтлэгдсэн каталогийн харагдах лавлагаа; бодит нийлүүлэлт эсвэл батлагдсан үйлдвэрийн загвар биш.",
+      "reviewed": "2026-10-28"
+    },
+    {
       "id": "hotel-ca-03",
       "entityType": "project-selection",
       "market": "mn",
@@ -1631,6 +1735,110 @@
       "visualSource": "https://hymebel.com/en/products/edu-ca-11/",
       "imageCaption": "Catalogue visualisation; not a delivery photograph or evidence of an approved manufacturer model.",
       "reviewed": "2026-10-27"
+    },
+    {
+      "id": "home-ca-05",
+      "entityType": "project-selection",
+      "market": "mn",
+      "language": "en",
+      "source": "https://hymebel.com/mn/en/products/home-ca-05/",
+      "title": "Open kitchen and lounge furniture reference",
+      "summary": "Compare the island, counter stools, sofa and circulation with measured plans. A surface pattern does not establish its material; appliances, lighting and installation require separate scope confirmation.",
+      "category": "villa-residential",
+      "context": "Coordinate bedrooms, living rooms, dining areas and storage through a room-by-room schedule. Separate freestanding furniture from drawing-based joinery and review wall interfaces and access dimensions.",
+      "image": "https://hymebel.com/images/products/home-ca-05/home-ca-05-main.jpg",
+      "checklist": [
+        "Check dimensions and access against measured plans.",
+        "List the requested items separately.",
+        "Confirm materials, finishes and applicable documents."
+      ],
+      "questions": [
+        {
+          "q": "What does the image not establish?",
+          "a": "Compare the island, counter stools, sofa and circulation with measured plans. A surface pattern does not establish its material; appliances, lighting and installation require separate scope confirmation."
+        }
+      ],
+      "visualSource": "https://hymebel.com/en/products/home-ca-05/",
+      "imageCaption": "Published catalogue visual reference; not proof of delivery or an approved manufacturer model.",
+      "reviewed": "2026-10-28"
+    },
+    {
+      "id": "home-ca-10",
+      "entityType": "project-selection",
+      "market": "mn",
+      "language": "en",
+      "source": "https://hymebel.com/mn/en/products/home-ca-10/",
+      "title": "Window-side lounge seating reference",
+      "summary": "Coordinate sofas, round tables and side pieces with windows, curtains and circulation. The visual does not confirm table composition, upholstery, internal construction or load performance.",
+      "category": "villa-residential",
+      "context": "Coordinate bedrooms, living rooms, dining areas and storage through a room-by-room schedule. Separate freestanding furniture from drawing-based joinery and review wall interfaces and access dimensions.",
+      "image": "https://hymebel.com/images/products/home-ca-10/home-ca-10-main.jpg",
+      "checklist": [
+        "Check dimensions and access against measured plans.",
+        "List the requested items separately.",
+        "Confirm materials, finishes and applicable documents."
+      ],
+      "questions": [
+        {
+          "q": "What does the image not establish?",
+          "a": "Coordinate sofas, round tables and side pieces with windows, curtains and circulation. The visual does not confirm table composition, upholstery, internal construction or load performance."
+        }
+      ],
+      "visualSource": "https://hymebel.com/en/products/home-ca-10/",
+      "imageCaption": "Published catalogue visual reference; not proof of delivery or an approved manufacturer model.",
+      "reviewed": "2026-10-28"
+    },
+    {
+      "id": "home-ca-12",
+      "entityType": "project-selection",
+      "market": "mn",
+      "language": "en",
+      "source": "https://hymebel.com/mn/en/products/home-ca-12/",
+      "title": "City-view sitting-area furniture reference",
+      "summary": "Mark facing seating, the low table and balcony access on the plan. The view does not establish project country or delivery; confirm upholstery, dimensions and package contents for selected items.",
+      "category": "villa-residential",
+      "context": "Coordinate bedrooms, living rooms, dining areas and storage through a room-by-room schedule. Separate freestanding furniture from drawing-based joinery and review wall interfaces and access dimensions.",
+      "image": "https://hymebel.com/images/products/home-ca-12/home-ca-12-main.jpg",
+      "checklist": [
+        "Check dimensions and access against measured plans.",
+        "List the requested items separately.",
+        "Confirm materials, finishes and applicable documents."
+      ],
+      "questions": [
+        {
+          "q": "What does the image not establish?",
+          "a": "Mark facing seating, the low table and balcony access on the plan. The view does not establish project country or delivery; confirm upholstery, dimensions and package contents for selected items."
+        }
+      ],
+      "visualSource": "https://hymebel.com/en/products/home-ca-12/",
+      "imageCaption": "Published catalogue visual reference; not proof of delivery or an approved manufacturer model.",
+      "reviewed": "2026-10-28"
+    },
+    {
+      "id": "med-ca-03",
+      "entityType": "project-selection",
+      "market": "mn",
+      "language": "en",
+      "source": "https://hymebel.com/mn/en/products/med-ca-03/",
+      "title": "Fixed padded examination-couch reference",
+      "summary": "The image shows a long padded surface on fixed supports. Height adjustment, medical-device registration, load rating and disinfection performance are not established. Review intended use, dimensions and required documentation with the facility’s responsible team.",
+      "category": "education-healthcare",
+      "context": "Specify classrooms, libraries, staff rooms and waiting areas by function. Clarify user groups, dimensions, daily use and cleaning requirements; specialised medical equipment requires a separate specification.",
+      "image": "https://hymebel.com/images/products/med-ca-03/med-ca-03-main.jpg",
+      "checklist": [
+        "Check dimensions and access against measured plans.",
+        "List the requested items separately.",
+        "Confirm materials, finishes and applicable documents."
+      ],
+      "questions": [
+        {
+          "q": "What does the image not establish?",
+          "a": "The image shows a long padded surface on fixed supports. Height adjustment, medical-device registration, load rating and disinfection performance are not established. Review intended use, dimensions and required documentation with the facility’s responsible team."
+        }
+      ],
+      "visualSource": "https://hymebel.com/en/products/med-ca-03/",
+      "imageCaption": "Published catalogue visual reference; not proof of delivery or an approved manufacturer model.",
+      "reviewed": "2026-10-28"
     }
   ]
 }

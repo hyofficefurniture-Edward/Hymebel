@@ -1,6 +1,6 @@
 {
   "scope": "Complete current regional selection catalogue; language copies are not independent products",
-  "uniqueSelections": 41,
+  "uniqueSelections": 45,
   "languages": [
     "mn",
     "en"
@@ -925,6 +925,110 @@
       "reviewed": "2026-10-28"
     },
     {
+      "id": "med-ca-02",
+      "entityType": "project-selection",
+      "market": "mn",
+      "language": "mn",
+      "source": "https://hymebel.com/mn/products/med-ca-02/",
+      "title": "Угаалтууртай доод шүүгээний сонголт",
+      "summary": "Зурагт угаалтуур, усны цорго, хаалттай доод шүүгээ харагдана. Сантехникийн холболт, гадаргуу, өндөр болон ханын уулзварыг хэмжсэн зурагт тохируулна. Ариутгах төхөөрөмж эсвэл бохирдлын хяналтын үзүүлэлт гэж тайлбарлахгүй.",
+      "category": "education-healthcare",
+      "context": "Сургалтын өрөө, номын сан, ажилтны хэсэг, хүлээлгийн танхимын тавилгыг зориулалтаар нь ангилна. Ширээ, суудал, хадгалах шүүгээ сонгохдоо хэрэглэгчийн нас, хэмжээ, цэвэрлэгээ, өдөр тутмын хөдөлгөөнийг тодруулна. Эмнэлгийн зориулалттай тоног төхөөрөмжийг ердийн тавилгатай андуурахгүйгээр тусад нь тодорхойлно.",
+      "image": "https://hymebel.com/images/products/med-ca-02/med-ca-02-main.png",
+      "checklist": [
+        "Хэмжсэн зурагт хэмжээ ба нэвтрэх зайг шалгана.",
+        "Зөвхөн шаардлагатай эд зүйлийг тусад нь жагсаана.",
+        "Материал, өнгөлгөө болон холбогдох баримтыг батална."
+      ],
+      "questions": [
+        {
+          "q": "Зураг ямар мэдээллийг батлахгүй вэ?",
+          "a": "Зурагт угаалтуур, усны цорго, хаалттай доод шүүгээ харагдана. Сантехникийн холболт, гадаргуу, өндөр болон ханын уулзварыг хэмжсэн зурагт тохируулна. Ариутгах төхөөрөмж эсвэл бохирдлын хяналтын үзүүлэлт гэж тайлбарлахгүй."
+        }
+      ],
+      "visualSource": "https://hymebel.com/en/products/med-ca-02/",
+      "imageCaption": "Нийтлэгдсэн каталогийн харагдах лавлагаа; бодит нийлүүлэлт эсвэл батлагдсан үйлдвэрийн загвар биш.",
+      "reviewed": "2026-10-28"
+    },
+    {
+      "id": "med-ca-07",
+      "entityType": "project-selection",
+      "market": "mn",
+      "language": "mn",
+      "source": "https://hymebel.com/mn/products/med-ca-07/",
+      "title": "Нийтийн хүлээлгийн хэсгийн холбоос суудал",
+      "summary": "Холбоос суудлын байрлал, гарц болон хажуугийн зайг хүлээлгийн өрөөний зурагт тэмдэглэнэ. Зураг дахь суудлын тоо нь шинэ захиалгын багц биш; гадаргуу, даац, бэхэлгээ ба цэвэрлэгээний баримтыг сонгосон эд зүйлээр батална.",
+      "category": "education-healthcare",
+      "context": "Сургалтын өрөө, номын сан, ажилтны хэсэг, хүлээлгийн танхимын тавилгыг зориулалтаар нь ангилна. Ширээ, суудал, хадгалах шүүгээ сонгохдоо хэрэглэгчийн нас, хэмжээ, цэвэрлэгээ, өдөр тутмын хөдөлгөөнийг тодруулна. Эмнэлгийн зориулалттай тоног төхөөрөмжийг ердийн тавилгатай андуурахгүйгээр тусад нь тодорхойлно.",
+      "image": "https://hymebel.com/images/products/med-ca-07/med-ca-07-main.png",
+      "checklist": [
+        "Хэмжсэн зурагт хэмжээ ба нэвтрэх зайг шалгана.",
+        "Зөвхөн шаардлагатай эд зүйлийг тусад нь жагсаана.",
+        "Материал, өнгөлгөө болон холбогдох баримтыг батална."
+      ],
+      "questions": [
+        {
+          "q": "Зураг ямар мэдээллийг батлахгүй вэ?",
+          "a": "Холбоос суудлын байрлал, гарц болон хажуугийн зайг хүлээлгийн өрөөний зурагт тэмдэглэнэ. Зураг дахь суудлын тоо нь шинэ захиалгын багц биш; гадаргуу, даац, бэхэлгээ ба цэвэрлэгээний баримтыг сонгосон эд зүйлээр батална."
+        }
+      ],
+      "visualSource": "https://hymebel.com/en/products/med-ca-07/",
+      "imageCaption": "Нийтлэгдсэн каталогийн харагдах лавлагаа; бодит нийлүүлэлт эсвэл батлагдсан үйлдвэрийн загвар биш.",
+      "reviewed": "2026-10-28"
+    },
+    {
+      "id": "med-ca-08",
+      "entityType": "project-selection",
+      "market": "mn",
+      "language": "mn",
+      "source": "https://hymebel.com/mn/products/med-ca-08/",
+      "title": "Муруй хэлбэрийн үйлчилгээний лангууны сонголт",
+      "summary": "Лангууны муруй хэлбэр, ажилтны талын хадгалалт ба суудлын зайг бодит ажлын зурагт харьцуулна. Хандалтын хэсэг, өгөгдөл/цахилгаан, тоног төхөөрөмжийг тусад нь тохирно. Компьютер болон бусад харагдах эд зүйл автоматаар багтахгүй.",
+      "category": "education-healthcare",
+      "context": "Сургалтын өрөө, номын сан, ажилтны хэсэг, хүлээлгийн танхимын тавилгыг зориулалтаар нь ангилна. Ширээ, суудал, хадгалах шүүгээ сонгохдоо хэрэглэгчийн нас, хэмжээ, цэвэрлэгээ, өдөр тутмын хөдөлгөөнийг тодруулна. Эмнэлгийн зориулалттай тоног төхөөрөмжийг ердийн тавилгатай андуурахгүйгээр тусад нь тодорхойлно.",
+      "image": "https://hymebel.com/images/products/med-ca-08/med-ca-08-main.png",
+      "checklist": [
+        "Хэмжсэн зурагт хэмжээ ба нэвтрэх зайг шалгана.",
+        "Зөвхөн шаардлагатай эд зүйлийг тусад нь жагсаана.",
+        "Материал, өнгөлгөө болон холбогдох баримтыг батална."
+      ],
+      "questions": [
+        {
+          "q": "Зураг ямар мэдээллийг батлахгүй вэ?",
+          "a": "Лангууны муруй хэлбэр, ажилтны талын хадгалалт ба суудлын зайг бодит ажлын зурагт харьцуулна. Хандалтын хэсэг, өгөгдөл/цахилгаан, тоног төхөөрөмжийг тусад нь тохирно. Компьютер болон бусад харагдах эд зүйл автоматаар багтахгүй."
+        }
+      ],
+      "visualSource": "https://hymebel.com/en/products/med-ca-08/",
+      "imageCaption": "Нийтлэгдсэн каталогийн харагдах лавлагаа; бодит нийлүүлэлт эсвэл батлагдсан үйлдвэрийн загвар биш.",
+      "reviewed": "2026-10-28"
+    },
+    {
+      "id": "med-ca-09",
+      "entityType": "project-selection",
+      "market": "mn",
+      "language": "mn",
+      "source": "https://hymebel.com/mn/products/med-ca-09/",
+      "title": "Хаалгатай хувийн хадгалалтын шүүгээ",
+      "summary": "Шүүгээний хаалга нээх зай, доторх хэсэг, хэрэглэгчийн тоо болон бэхэлгээг өрөөний зурагт шалгана. Түгжээ, агааржуулалт, гадаргуу ба цэвэрлэх аргыг сонгосон шүүгээний баримтаар тодруулна; зураг нь ариун хадгалалт эсвэл галын ангиллыг батлахгүй.",
+      "category": "education-healthcare",
+      "context": "Сургалтын өрөө, номын сан, ажилтны хэсэг, хүлээлгийн танхимын тавилгыг зориулалтаар нь ангилна. Ширээ, суудал, хадгалах шүүгээ сонгохдоо хэрэглэгчийн нас, хэмжээ, цэвэрлэгээ, өдөр тутмын хөдөлгөөнийг тодруулна. Эмнэлгийн зориулалттай тоног төхөөрөмжийг ердийн тавилгатай андуурахгүйгээр тусад нь тодорхойлно.",
+      "image": "https://hymebel.com/images/products/med-ca-09/med-ca-09-main.png",
+      "checklist": [
+        "Хэмжсэн зурагт хэмжээ ба нэвтрэх зайг шалгана.",
+        "Зөвхөн шаардлагатай эд зүйлийг тусад нь жагсаана.",
+        "Материал, өнгөлгөө болон холбогдох баримтыг батална."
+      ],
+      "questions": [
+        {
+          "q": "Зураг ямар мэдээллийг батлахгүй вэ?",
+          "a": "Шүүгээний хаалга нээх зай, доторх хэсэг, хэрэглэгчийн тоо болон бэхэлгээг өрөөний зурагт шалгана. Түгжээ, агааржуулалт, гадаргуу ба цэвэрлэх аргыг сонгосон шүүгээний баримтаар тодруулна; зураг нь ариун хадгалалт эсвэл галын ангиллыг батлахгүй."
+        }
+      ],
+      "visualSource": "https://hymebel.com/en/products/med-ca-09/",
+      "imageCaption": "Нийтлэгдсэн каталогийн харагдах лавлагаа; бодит нийлүүлэлт эсвэл батлагдсан үйлдвэрийн загвар биш.",
+      "reviewed": "2026-10-28"
+    },
+    {
       "id": "hotel-ca-03",
       "entityType": "project-selection",
       "market": "mn",
@@ -1837,6 +1941,110 @@
         }
       ],
       "visualSource": "https://hymebel.com/en/products/med-ca-03/",
+      "imageCaption": "Published catalogue visual reference; not proof of delivery or an approved manufacturer model.",
+      "reviewed": "2026-10-28"
+    },
+    {
+      "id": "med-ca-02",
+      "entityType": "project-selection",
+      "market": "mn",
+      "language": "en",
+      "source": "https://hymebel.com/mn/en/products/med-ca-02/",
+      "title": "Sink-base cabinet reference",
+      "summary": "The visual shows a sink, tap and enclosed base cabinet. Coordinate plumbing, worktop, height and wall interfaces on measured plans. It does not establish sterilisation capability or infection-control performance.",
+      "category": "education-healthcare",
+      "context": "Specify classrooms, libraries, staff rooms and waiting areas by function. Clarify user groups, dimensions, daily use and cleaning requirements; specialised medical equipment requires a separate specification.",
+      "image": "https://hymebel.com/images/products/med-ca-02/med-ca-02-main.png",
+      "checklist": [
+        "Check dimensions and access against measured plans.",
+        "List the requested items separately.",
+        "Confirm materials, finishes and applicable documents."
+      ],
+      "questions": [
+        {
+          "q": "What does the image not establish?",
+          "a": "The visual shows a sink, tap and enclosed base cabinet. Coordinate plumbing, worktop, height and wall interfaces on measured plans. It does not establish sterilisation capability or infection-control performance."
+        }
+      ],
+      "visualSource": "https://hymebel.com/en/products/med-ca-02/",
+      "imageCaption": "Published catalogue visual reference; not proof of delivery or an approved manufacturer model.",
+      "reviewed": "2026-10-28"
+    },
+    {
+      "id": "med-ca-07",
+      "entityType": "project-selection",
+      "market": "mn",
+      "language": "en",
+      "source": "https://hymebel.com/mn/en/products/med-ca-07/",
+      "title": "Linked waiting-area seating reference",
+      "summary": "Mark the seating run, aisles and side clearances on the waiting-area plan. The pictured seat count does not define the new package; confirm surface, load, anchoring and care documentation for the selected item.",
+      "category": "education-healthcare",
+      "context": "Specify classrooms, libraries, staff rooms and waiting areas by function. Clarify user groups, dimensions, daily use and cleaning requirements; specialised medical equipment requires a separate specification.",
+      "image": "https://hymebel.com/images/products/med-ca-07/med-ca-07-main.png",
+      "checklist": [
+        "Check dimensions and access against measured plans.",
+        "List the requested items separately.",
+        "Confirm materials, finishes and applicable documents."
+      ],
+      "questions": [
+        {
+          "q": "What does the image not establish?",
+          "a": "Mark the seating run, aisles and side clearances on the waiting-area plan. The pictured seat count does not define the new package; confirm surface, load, anchoring and care documentation for the selected item."
+        }
+      ],
+      "visualSource": "https://hymebel.com/en/products/med-ca-07/",
+      "imageCaption": "Published catalogue visual reference; not proof of delivery or an approved manufacturer model.",
+      "reviewed": "2026-10-28"
+    },
+    {
+      "id": "med-ca-08",
+      "entityType": "project-selection",
+      "market": "mn",
+      "language": "en",
+      "source": "https://hymebel.com/mn/en/products/med-ca-08/",
+      "title": "Curved service-counter reference",
+      "summary": "Compare the curved counter, staff-side storage and working positions with the actual plan. Agree accessible sections, power, data and equipment separately. Computers and other visible objects are not automatically included.",
+      "category": "education-healthcare",
+      "context": "Specify classrooms, libraries, staff rooms and waiting areas by function. Clarify user groups, dimensions, daily use and cleaning requirements; specialised medical equipment requires a separate specification.",
+      "image": "https://hymebel.com/images/products/med-ca-08/med-ca-08-main.png",
+      "checklist": [
+        "Check dimensions and access against measured plans.",
+        "List the requested items separately.",
+        "Confirm materials, finishes and applicable documents."
+      ],
+      "questions": [
+        {
+          "q": "What does the image not establish?",
+          "a": "Compare the curved counter, staff-side storage and working positions with the actual plan. Agree accessible sections, power, data and equipment separately. Computers and other visible objects are not automatically included."
+        }
+      ],
+      "visualSource": "https://hymebel.com/en/products/med-ca-08/",
+      "imageCaption": "Published catalogue visual reference; not proof of delivery or an approved manufacturer model.",
+      "reviewed": "2026-10-28"
+    },
+    {
+      "id": "med-ca-09",
+      "entityType": "project-selection",
+      "market": "mn",
+      "language": "en",
+      "source": "https://hymebel.com/mn/en/products/med-ca-09/",
+      "title": "Compartment storage-locker reference",
+      "summary": "Check door clearance, compartments, user allocation and anchoring on the room plan. Confirm locks, ventilation, surface and care from the selected cabinet documents; the image does not establish sterile storage or a fire rating.",
+      "category": "education-healthcare",
+      "context": "Specify classrooms, libraries, staff rooms and waiting areas by function. Clarify user groups, dimensions, daily use and cleaning requirements; specialised medical equipment requires a separate specification.",
+      "image": "https://hymebel.com/images/products/med-ca-09/med-ca-09-main.png",
+      "checklist": [
+        "Check dimensions and access against measured plans.",
+        "List the requested items separately.",
+        "Confirm materials, finishes and applicable documents."
+      ],
+      "questions": [
+        {
+          "q": "What does the image not establish?",
+          "a": "Check door clearance, compartments, user allocation and anchoring on the room plan. Confirm locks, ventilation, surface and care from the selected cabinet documents; the image does not establish sterile storage or a fire rating."
+        }
+      ],
+      "visualSource": "https://hymebel.com/en/products/med-ca-09/",
       "imageCaption": "Published catalogue visual reference; not proof of delivery or an approved manufacturer model.",
       "reviewed": "2026-10-28"
     }

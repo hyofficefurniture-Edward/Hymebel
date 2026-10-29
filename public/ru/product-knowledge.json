@@ -1,6 +1,6 @@
 {
   "scope": "Complete current regional selection catalogue; language copies are not independent products",
-  "uniqueSelections": 54,
+  "uniqueSelections": 59,
   "languages": [
     "ru",
     "en"
@@ -1312,6 +1312,136 @@
       "reviewed": "2026-10-30"
     },
     {
+      "id": "fenmi-et201",
+      "entityType": "existing-manufacturer-sku-market-adaptation",
+      "sku": "ET201",
+      "market": "ru",
+      "language": "ru",
+      "source": "https://hymebel.com/ru/products/fenmi-et201/",
+      "title": "Консоль для прихожей ET201",
+      "summary": "В исходной документации модели ET201 указаны размеры 1600 × 400 × 850 мм. Узкую консоль сверяют с открыванием входной двери и свободной шириной прохода. Материал, отделку и окончательные размеры заказа согласуйте по образцу и чертежу.",
+      "category": "villa-residential",
+      "context": "Для частной резиденции или жилого интерьера согласуем мебель по помещениям, отделкам и посадочным размерам. Важно разделить отдельно стоящие предметы и изделия по чертежам, проверить проходы, стыки со стенами и состав комплекта до расчёта.",
+      "image": "https://hymebel.com/images/products/fenmi-verified/consola-entrada-et201.jpg",
+      "checklist": [
+        "Узкую консоль сверяют с открыванием входной двери и свободной шириной прохода.",
+        "Передайте обмерный план, количество и размеры проёмов для доставки."
+      ],
+      "questions": [
+        {
+          "q": "Входят ли показанные аксессуары в поставку?",
+          "a": "Изображение не является комплектовочной ведомостью. Сиденья, чайная посуда, электрические приборы и подключения перечисляются отдельно. Фотография не подтверждает термостойкость или электробезопасность."
+        }
+      ],
+      "visualSource": "https://hymobiliario.com/productos/consola-entrada-et201/",
+      "imageCaption": "Исходное изображение модели ET201; поставка показанных аксессуаров согласуется отдельно.",
+      "reviewed": "2026-10-30"
+    },
+    {
+      "id": "fenmi-ts004",
+      "entityType": "existing-manufacturer-sku-market-adaptation",
+      "sku": "TS004",
+      "market": "ru",
+      "language": "ru",
+      "source": "https://hymebel.com/ru/products/fenmi-ts004/",
+      "title": "Чайный стол TS004",
+      "summary": "В исходной документации модели TS004 указаны размеры 2400 × 1100 × 750 мм. Для широкой чайной композиции проверьте расположение сидений и пространство для посадки. Материал, отделку и окончательные размеры заказа согласуйте по образцу и чертежу.",
+      "category": "villa-residential",
+      "context": "Для частной резиденции или жилого интерьера согласуем мебель по помещениям, отделкам и посадочным размерам. Важно разделить отдельно стоящие предметы и изделия по чертежам, проверить проходы, стыки со стенами и состав комплекта до расчёта.",
+      "image": "https://hymebel.com/images/products/fenmi-verified/mesa-de-te-ts004.jpg",
+      "checklist": [
+        "Для широкой чайной композиции проверьте расположение сидений и пространство для посадки.",
+        "Передайте обмерный план, количество и размеры проёмов для доставки."
+      ],
+      "questions": [
+        {
+          "q": "Входят ли показанные аксессуары в поставку?",
+          "a": "Изображение не является комплектовочной ведомостью. Сиденья, чайная посуда, электрические приборы и подключения перечисляются отдельно. Фотография не подтверждает термостойкость или электробезопасность."
+        }
+      ],
+      "visualSource": "https://hymobiliario.com/productos/mesa-de-te-ts004/",
+      "imageCaption": "Исходное изображение модели TS004; поставка показанных аксессуаров согласуется отдельно.",
+      "reviewed": "2026-10-30"
+    },
+    {
+      "id": "fenmi-ts002",
+      "entityType": "existing-manufacturer-sku-market-adaptation",
+      "sku": "TS002",
+      "market": "ru",
+      "language": "ru",
+      "source": "https://hymebel.com/ru/products/fenmi-ts002/",
+      "title": "Чайный стол TS002",
+      "summary": "В исходной документации модели TS002 указаны размеры 1615 × 750 × 750 мм. Для компактной чайной композиции проверьте подвод стула и положение основания. Материал, отделку и окончательные размеры заказа согласуйте по образцу и чертежу.",
+      "category": "villa-residential",
+      "context": "Для частной резиденции или жилого интерьера согласуем мебель по помещениям, отделкам и посадочным размерам. Важно разделить отдельно стоящие предметы и изделия по чертежам, проверить проходы, стыки со стенами и состав комплекта до расчёта.",
+      "image": "https://hymebel.com/images/products/fenmi-verified/mesa-de-te-ts002.jpg",
+      "checklist": [
+        "Для компактной чайной композиции проверьте подвод стула и положение основания.",
+        "Передайте обмерный план, количество и размеры проёмов для доставки."
+      ],
+      "questions": [
+        {
+          "q": "Входят ли показанные аксессуары в поставку?",
+          "a": "Изображение не является комплектовочной ведомостью. Сиденья, чайная посуда, электрические приборы и подключения перечисляются отдельно. Фотография не подтверждает термостойкость или электробезопасность."
+        }
+      ],
+      "visualSource": "https://hymobiliario.com/productos/mesa-de-te-ts002/",
+      "imageCaption": "Исходное изображение модели TS002; поставка показанных аксессуаров согласуется отдельно.",
+      "reviewed": "2026-10-30"
+    },
+    {
+      "id": "fenmi-ts009",
+      "entityType": "existing-manufacturer-sku-market-adaptation",
+      "sku": "TS009",
+      "market": "ru",
+      "language": "ru",
+      "source": "https://hymebel.com/ru/products/fenmi-ts009/",
+      "title": "Чайный стол TS009",
+      "summary": "В исходной документации модели TS009 указаны размеры 2400 × 900 × 750 мм. Проверьте проход у торцов длинной чайной композиции и подход с обеих сторон. Материал, отделку и окончательные размеры заказа согласуйте по образцу и чертежу.",
+      "category": "villa-residential",
+      "context": "Для частной резиденции или жилого интерьера согласуем мебель по помещениям, отделкам и посадочным размерам. Важно разделить отдельно стоящие предметы и изделия по чертежам, проверить проходы, стыки со стенами и состав комплекта до расчёта.",
+      "image": "https://hymebel.com/images/products/fenmi-verified/mesa-de-te-ts009.jpg",
+      "checklist": [
+        "Проверьте проход у торцов длинной чайной композиции и подход с обеих сторон.",
+        "Передайте обмерный план, количество и размеры проёмов для доставки."
+      ],
+      "questions": [
+        {
+          "q": "Входят ли показанные аксессуары в поставку?",
+          "a": "Изображение не является комплектовочной ведомостью. Сиденья, чайная посуда, электрические приборы и подключения перечисляются отдельно. Фотография не подтверждает термостойкость или электробезопасность."
+        }
+      ],
+      "visualSource": "https://hymobiliario.com/productos/mesa-de-te-ts009/",
+      "imageCaption": "Исходное изображение модели TS009; поставка показанных аксессуаров согласуется отдельно.",
+      "reviewed": "2026-10-30"
+    },
+    {
+      "id": "fenmi-ts023",
+      "entityType": "existing-manufacturer-sku-market-adaptation",
+      "sku": "TS023",
+      "market": "ru",
+      "language": "ru",
+      "source": "https://hymebel.com/ru/products/fenmi-ts023/",
+      "title": "Чайный стол TS023",
+      "summary": "В исходной документации модели TS023 указаны размеры 2200 × 850 × 750 мм. Сопоставьте опоры чайного стола с ножками выбранных сидений и их расстановкой. Материал, отделку и окончательные размеры заказа согласуйте по образцу и чертежу.",
+      "category": "villa-residential",
+      "context": "Для частной резиденции или жилого интерьера согласуем мебель по помещениям, отделкам и посадочным размерам. Важно разделить отдельно стоящие предметы и изделия по чертежам, проверить проходы, стыки со стенами и состав комплекта до расчёта.",
+      "image": "https://hymebel.com/images/products/fenmi-verified/mesa-de-te-ts023.jpg",
+      "checklist": [
+        "Сопоставьте опоры чайного стола с ножками выбранных сидений и их расстановкой.",
+        "Передайте обмерный план, количество и размеры проёмов для доставки."
+      ],
+      "questions": [
+        {
+          "q": "Входят ли показанные аксессуары в поставку?",
+          "a": "Изображение не является комплектовочной ведомостью. Сиденья, чайная посуда, электрические приборы и подключения перечисляются отдельно. Фотография не подтверждает термостойкость или электробезопасность."
+        }
+      ],
+      "visualSource": "https://hymobiliario.com/productos/mesa-de-te-ts023/",
+      "imageCaption": "Исходное изображение модели TS023; поставка показанных аксессуаров согласуется отдельно.",
+      "reviewed": "2026-10-30"
+    },
+    {
       "id": "hotel-ca-03",
       "entityType": "project-selection",
       "sku": null,
@@ -2612,6 +2742,136 @@
       ],
       "visualSource": "https://hymobiliario.com/productos/mesa-comedor-redonda-t130/",
       "imageCaption": "T130: original model photograph from the reviewed catalogue; not evidence of local delivery.",
+      "reviewed": "2026-10-30"
+    },
+    {
+      "id": "fenmi-et201",
+      "entityType": "existing-manufacturer-sku-market-adaptation",
+      "sku": "ET201",
+      "market": "ru",
+      "language": "en",
+      "source": "https://hymebel.com/ru/en/products/fenmi-et201/",
+      "title": "ET201 entrance console",
+      "summary": "The original ET201 model documentation lists 1600 × 400 × 850 mm. Review the narrow console against door swing and clear passage width. Agree material, finish and final order dimensions against the sample and drawing.",
+      "category": "villa-residential",
+      "context": "Coordinate bedrooms, living rooms, dining areas and storage through a room-by-room schedule. Separate freestanding furniture from drawing-based joinery and review wall interfaces and access dimensions.",
+      "image": "https://hymebel.com/images/products/fenmi-verified/consola-entrada-et201.jpg",
+      "checklist": [
+        "Review the narrow console against door swing and clear passage width.",
+        "Provide measured plans, quantities and delivery access dimensions."
+      ],
+      "questions": [
+        {
+          "q": "Are pictured accessories included in the supply?",
+          "a": "The image is not a supply schedule. List seating, tea ware, electrical appliances and connections separately. The photograph does not establish heat resistance or electrical safety."
+        }
+      ],
+      "visualSource": "https://hymobiliario.com/productos/consola-entrada-et201/",
+      "imageCaption": "Original ET201 model image; any pictured accessories are agreed separately.",
+      "reviewed": "2026-10-30"
+    },
+    {
+      "id": "fenmi-ts004",
+      "entityType": "existing-manufacturer-sku-market-adaptation",
+      "sku": "TS004",
+      "market": "ru",
+      "language": "en",
+      "source": "https://hymebel.com/ru/en/products/fenmi-ts004/",
+      "title": "TS004 tea table",
+      "summary": "The original TS004 model documentation lists 2400 × 1100 × 750 mm. For the wide tea-table composition, check seating positions and approach clearance. Agree material, finish and final order dimensions against the sample and drawing.",
+      "category": "villa-residential",
+      "context": "Coordinate bedrooms, living rooms, dining areas and storage through a room-by-room schedule. Separate freestanding furniture from drawing-based joinery and review wall interfaces and access dimensions.",
+      "image": "https://hymebel.com/images/products/fenmi-verified/mesa-de-te-ts004.jpg",
+      "checklist": [
+        "For the wide tea-table composition, check seating positions and approach clearance.",
+        "Provide measured plans, quantities and delivery access dimensions."
+      ],
+      "questions": [
+        {
+          "q": "Are pictured accessories included in the supply?",
+          "a": "The image is not a supply schedule. List seating, tea ware, electrical appliances and connections separately. The photograph does not establish heat resistance or electrical safety."
+        }
+      ],
+      "visualSource": "https://hymobiliario.com/productos/mesa-de-te-ts004/",
+      "imageCaption": "Original TS004 model image; any pictured accessories are agreed separately.",
+      "reviewed": "2026-10-30"
+    },
+    {
+      "id": "fenmi-ts002",
+      "entityType": "existing-manufacturer-sku-market-adaptation",
+      "sku": "TS002",
+      "market": "ru",
+      "language": "en",
+      "source": "https://hymebel.com/ru/en/products/fenmi-ts002/",
+      "title": "TS002 tea table",
+      "summary": "The original TS002 model documentation lists 1615 × 750 × 750 mm. For the compact tea-table layout, check chair approach and base interference. Agree material, finish and final order dimensions against the sample and drawing.",
+      "category": "villa-residential",
+      "context": "Coordinate bedrooms, living rooms, dining areas and storage through a room-by-room schedule. Separate freestanding furniture from drawing-based joinery and review wall interfaces and access dimensions.",
+      "image": "https://hymebel.com/images/products/fenmi-verified/mesa-de-te-ts002.jpg",
+      "checklist": [
+        "For the compact tea-table layout, check chair approach and base interference.",
+        "Provide measured plans, quantities and delivery access dimensions."
+      ],
+      "questions": [
+        {
+          "q": "Are pictured accessories included in the supply?",
+          "a": "The image is not a supply schedule. List seating, tea ware, electrical appliances and connections separately. The photograph does not establish heat resistance or electrical safety."
+        }
+      ],
+      "visualSource": "https://hymobiliario.com/productos/mesa-de-te-ts002/",
+      "imageCaption": "Original TS002 model image; any pictured accessories are agreed separately.",
+      "reviewed": "2026-10-30"
+    },
+    {
+      "id": "fenmi-ts009",
+      "entityType": "existing-manufacturer-sku-market-adaptation",
+      "sku": "TS009",
+      "market": "ru",
+      "language": "en",
+      "source": "https://hymebel.com/ru/en/products/fenmi-ts009/",
+      "title": "TS009 tea table",
+      "summary": "The original TS009 model documentation lists 2400 × 900 × 750 mm. Check circulation at the ends of the long tea table and access from both sides. Agree material, finish and final order dimensions against the sample and drawing.",
+      "category": "villa-residential",
+      "context": "Coordinate bedrooms, living rooms, dining areas and storage through a room-by-room schedule. Separate freestanding furniture from drawing-based joinery and review wall interfaces and access dimensions.",
+      "image": "https://hymebel.com/images/products/fenmi-verified/mesa-de-te-ts009.jpg",
+      "checklist": [
+        "Check circulation at the ends of the long tea table and access from both sides.",
+        "Provide measured plans, quantities and delivery access dimensions."
+      ],
+      "questions": [
+        {
+          "q": "Are pictured accessories included in the supply?",
+          "a": "The image is not a supply schedule. List seating, tea ware, electrical appliances and connections separately. The photograph does not establish heat resistance or electrical safety."
+        }
+      ],
+      "visualSource": "https://hymobiliario.com/productos/mesa-de-te-ts009/",
+      "imageCaption": "Original TS009 model image; any pictured accessories are agreed separately.",
+      "reviewed": "2026-10-30"
+    },
+    {
+      "id": "fenmi-ts023",
+      "entityType": "existing-manufacturer-sku-market-adaptation",
+      "sku": "TS023",
+      "market": "ru",
+      "language": "en",
+      "source": "https://hymebel.com/ru/en/products/fenmi-ts023/",
+      "title": "TS023 tea table",
+      "summary": "The original TS023 model documentation lists 2200 × 850 × 750 mm. Coordinate the tea-table supports with the selected chair legs and seating layout. Agree material, finish and final order dimensions against the sample and drawing.",
+      "category": "villa-residential",
+      "context": "Coordinate bedrooms, living rooms, dining areas and storage through a room-by-room schedule. Separate freestanding furniture from drawing-based joinery and review wall interfaces and access dimensions.",
+      "image": "https://hymebel.com/images/products/fenmi-verified/mesa-de-te-ts023.jpg",
+      "checklist": [
+        "Coordinate the tea-table supports with the selected chair legs and seating layout.",
+        "Provide measured plans, quantities and delivery access dimensions."
+      ],
+      "questions": [
+        {
+          "q": "Are pictured accessories included in the supply?",
+          "a": "The image is not a supply schedule. List seating, tea ware, electrical appliances and connections separately. The photograph does not establish heat resistance or electrical safety."
+        }
+      ],
+      "visualSource": "https://hymobiliario.com/productos/mesa-de-te-ts023/",
+      "imageCaption": "Original TS023 model image; any pictured accessories are agreed separately.",
       "reviewed": "2026-10-30"
     }
   ]

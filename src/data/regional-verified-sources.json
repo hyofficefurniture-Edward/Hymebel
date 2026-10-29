@@ -38,5 +38,45 @@
     ],
     "sku": "T130",
     "primarySource": "https://hymobiliario.com/productos/mesa-comedor-redonda-t130/"
+  },
+  "fenmi-et201": {
+    "sku": "ET201",
+    "image": "/images/products/fenmi-verified/consola-entrada-et201.jpg",
+    "gallery": [
+      "/images/products/fenmi-verified/consola-entrada-et201.jpg"
+    ],
+    "primarySource": "https://hymobiliario.com/productos/consola-entrada-et201/"
+  },
+  "fenmi-ts004": {
+    "sku": "TS004",
+    "image": "/images/products/fenmi-verified/mesa-de-te-ts004.jpg",
+    "gallery": [
+      "/images/products/fenmi-verified/mesa-de-te-ts004.jpg"
+    ],
+    "primarySource": "https://hymobiliario.com/productos/mesa-de-te-ts004/"
+  },
+  "fenmi-ts002": {
+    "sku": "TS002",
+    "image": "/images/products/fenmi-verified/mesa-de-te-ts002.jpg",
+    "gallery": [
+      "/images/products/fenmi-verified/mesa-de-te-ts002.jpg"
+    ],
+    "primarySource": "https://hymobiliario.com/productos/mesa-de-te-ts002/"
+  },
+  "fenmi-ts009": {
+    "sku": "TS009",
+    "image": "/images/products/fenmi-verified/mesa-de-te-ts009.jpg",
+    "gallery": [
+      "/images/products/fenmi-verified/mesa-de-te-ts009.jpg"
+    ],
+    "primarySource": "https://hymobiliario.com/productos/mesa-de-te-ts009/"
+  },
+  "fenmi-ts023": {
+    "sku": "TS023",
+    "image": "/images/products/fenmi-verified/mesa-de-te-ts023.jpg",
+    "gallery": [
+      "/images/products/fenmi-verified/mesa-de-te-ts023.jpg"
+    ],
+    "primarySource": "https://hymobiliario.com/productos/mesa-de-te-ts023/"
   }
 }

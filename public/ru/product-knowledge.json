@@ -1,12 +1,12 @@
 {
   "scope": "Complete current regional selection catalogue; language copies are not independent products",
-  "uniqueSelections": 45,
+  "uniqueSelections": 49,
   "languages": [
     "ru",
     "en"
   ],
   "newGlobalManufacturerSkus": 0,
-  "updated": "2026-10-28",
+  "updated": "2026-10-29",
   "entries": [
     {
       "id": "hotel-ca-03",
@@ -1029,6 +1029,110 @@
       "reviewed": "2026-10-28"
     },
     {
+      "id": "med-ca-10",
+      "entityType": "project-selection",
+      "market": "ru",
+      "language": "ru",
+      "source": "https://hymebel.com/ru/products/med-ca-10/",
+      "title": "Шкаф со стеклянными дверцами: ориентир для комплектации",
+      "summary": "На изображении показан шкаф с прозрачными дверцами и полками. Для нового заказа уточните состав хранения, проход перед дверцами и крепление к стене. Указанные на исходной иллюстрации 900 × 400 × 1800 мм не заменяют согласованный чертёж выбранного изделия; нагрузка на полки и замки требуют отдельного подтверждения.",
+      "category": "education-healthcare",
+      "context": "Для учебных классов, библиотек, помещений персонала и зон ожидания нужна ведомость функций по каждому помещению. Уточняем размеры, возрастную группу, интенсивность использования и требования к уборке. Медицинское оборудование и специализированные изделия требуют отдельного технического задания.",
+      "image": "https://hymebel.com/images/products/med-ca-10/med-ca-10-main.png",
+      "checklist": [
+        "Проверьте габариты и доступ по обмерному плану.",
+        "Укажите нужные предметы отдельной ведомостью.",
+        "Подтвердите материалы, отделку и применимые документы."
+      ],
+      "questions": [
+        {
+          "q": "Какие сведения нельзя подтвердить изображением?",
+          "a": "На изображении показан шкаф с прозрачными дверцами и полками. Для нового заказа уточните состав хранения, проход перед дверцами и крепление к стене. Указанные на исходной иллюстрации 900 × 400 × 1800 мм не заменяют согласованный чертёж выбранного изделия; нагрузка на полки и замки требуют отдельного подтверждения."
+        }
+      ],
+      "visualSource": "https://hymebel.com/en/products/med-ca-10/",
+      "imageCaption": "Опубликованный каталожный визуальный ориентир; не подтверждение поставки или утверждённой заводской модели.",
+      "reviewed": "2026-10-29"
+    },
+    {
+      "id": "med-ca-11",
+      "entityType": "project-selection",
+      "market": "ru",
+      "language": "ru",
+      "source": "https://hymebel.com/ru/products/med-ca-11/",
+      "title": "Композиция с мойкой, столешницей и хранением",
+      "summary": "Визуальный ориентир объединяет мойку, смеситель, рабочую поверхность, выдвижной блок и нижнее хранение. До расчёта согласуйте точки воды и слива, высоту столешницы и границы монтажа. Изображение не подтверждает химическую стойкость, режим стерилизации или комплект медицинского оборудования.",
+      "category": "education-healthcare",
+      "context": "Для учебных классов, библиотек, помещений персонала и зон ожидания нужна ведомость функций по каждому помещению. Уточняем размеры, возрастную группу, интенсивность использования и требования к уборке. Медицинское оборудование и специализированные изделия требуют отдельного технического задания.",
+      "image": "https://hymebel.com/images/products/med-ca-11/med-ca-11-main.jpg",
+      "checklist": [
+        "Проверьте габариты и доступ по обмерному плану.",
+        "Укажите нужные предметы отдельной ведомостью.",
+        "Подтвердите материалы, отделку и применимые документы."
+      ],
+      "questions": [
+        {
+          "q": "Какие сведения нельзя подтвердить изображением?",
+          "a": "Визуальный ориентир объединяет мойку, смеситель, рабочую поверхность, выдвижной блок и нижнее хранение. До расчёта согласуйте точки воды и слива, высоту столешницы и границы монтажа. Изображение не подтверждает химическую стойкость, режим стерилизации или комплект медицинского оборудования."
+        }
+      ],
+      "visualSource": "https://hymebel.com/en/products/med-ca-11/",
+      "imageCaption": "Опубликованный каталожный визуальный ориентир; не подтверждение поставки или утверждённой заводской модели.",
+      "reviewed": "2026-10-29"
+    },
+    {
+      "id": "med-ca-13",
+      "entityType": "project-selection",
+      "market": "ru",
+      "language": "ru",
+      "source": "https://hymebel.com/ru/products/med-ca-13/",
+      "title": "Стул со спинкой и подлокотниками: ориентир выбора",
+      "summary": "На каталожном изображении видны сиденье, спинка, подлокотники и раздельные ножки. Сопоставьте потребности пользователя, высоту и ширину сиденья, а также пространство для пересаживания с документацией выбранного изделия. Нагрузка, устойчивость на мокром полу, медицинское назначение и сертификация по фотографии не устанавливаются.",
+      "category": "education-healthcare",
+      "context": "Для учебных классов, библиотек, помещений персонала и зон ожидания нужна ведомость функций по каждому помещению. Уточняем размеры, возрастную группу, интенсивность использования и требования к уборке. Медицинское оборудование и специализированные изделия требуют отдельного технического задания.",
+      "image": "https://hymebel.com/images/products/med-ca-13/med-ca-13-main.png",
+      "checklist": [
+        "Проверьте габариты и доступ по обмерному плану.",
+        "Укажите нужные предметы отдельной ведомостью.",
+        "Подтвердите материалы, отделку и применимые документы."
+      ],
+      "questions": [
+        {
+          "q": "Какие сведения нельзя подтвердить изображением?",
+          "a": "На каталожном изображении видны сиденье, спинка, подлокотники и раздельные ножки. Сопоставьте потребности пользователя, высоту и ширину сиденья, а также пространство для пересаживания с документацией выбранного изделия. Нагрузка, устойчивость на мокром полу, медицинское назначение и сертификация по фотографии не устанавливаются."
+        }
+      ],
+      "visualSource": "https://hymebel.com/en/products/med-ca-13/",
+      "imageCaption": "Опубликованный каталожный визуальный ориентир; не подтверждение поставки или утверждённой заводской модели.",
+      "reviewed": "2026-10-29"
+    },
+    {
+      "id": "med-ca-15",
+      "entityType": "project-selection",
+      "market": "ru",
+      "language": "ru",
+      "source": "https://hymebel.com/ru/products/med-ca-15/",
+      "title": "Передвижной приставной стол: ориентир планировки",
+      "summary": "На изображении показан приставной стол с односторонней опорой, выносным основанием и колёсами. Проверьте совместимость с соседней мебелью, свободный просвет под ней и досягаемость столешницы. Диапазон регулировки, тормоза колёс, допустимая нагрузка и материал поверхности согласуются по документации конкретной модели.",
+      "category": "education-healthcare",
+      "context": "Для учебных классов, библиотек, помещений персонала и зон ожидания нужна ведомость функций по каждому помещению. Уточняем размеры, возрастную группу, интенсивность использования и требования к уборке. Медицинское оборудование и специализированные изделия требуют отдельного технического задания.",
+      "image": "https://hymebel.com/images/products/med-ca-15/med-ca-15-main.jpg",
+      "checklist": [
+        "Проверьте габариты и доступ по обмерному плану.",
+        "Укажите нужные предметы отдельной ведомостью.",
+        "Подтвердите материалы, отделку и применимые документы."
+      ],
+      "questions": [
+        {
+          "q": "Какие сведения нельзя подтвердить изображением?",
+          "a": "На изображении показан приставной стол с односторонней опорой, выносным основанием и колёсами. Проверьте совместимость с соседней мебелью, свободный просвет под ней и досягаемость столешницы. Диапазон регулировки, тормоза колёс, допустимая нагрузка и материал поверхности согласуются по документации конкретной модели."
+        }
+      ],
+      "visualSource": "https://hymebel.com/en/products/med-ca-15/",
+      "imageCaption": "Опубликованный каталожный визуальный ориентир; не подтверждение поставки или утверждённой заводской модели.",
+      "reviewed": "2026-10-29"
+    },
+    {
       "id": "hotel-ca-03",
       "entityType": "project-selection",
       "market": "ru",
@@ -2047,6 +2151,110 @@
       "visualSource": "https://hymebel.com/en/products/med-ca-09/",
       "imageCaption": "Published catalogue visual reference; not proof of delivery or an approved manufacturer model.",
       "reviewed": "2026-10-28"
+    },
+    {
+      "id": "med-ca-10",
+      "entityType": "project-selection",
+      "market": "ru",
+      "language": "en",
+      "source": "https://hymebel.com/ru/en/products/med-ca-10/",
+      "title": "Glass-door storage cabinet reference",
+      "summary": "The catalogue image shows a glazed-door cabinet with internal shelves. Define stored items, door clearance and anchoring on the room plan. The illustrated 900 × 400 × 1800 mm annotation is not a confirmed specification for the selected order; agree dimensions, shelf loads and locks separately.",
+      "category": "education-healthcare",
+      "context": "Specify classrooms, libraries, staff rooms and waiting areas by function. Clarify user groups, dimensions, daily use and cleaning requirements; specialised medical equipment requires a separate specification.",
+      "image": "https://hymebel.com/images/products/med-ca-10/med-ca-10-main.png",
+      "checklist": [
+        "Check dimensions and access against measured plans.",
+        "List the requested items separately.",
+        "Confirm materials, finishes and applicable documents."
+      ],
+      "questions": [
+        {
+          "q": "What does the image not establish?",
+          "a": "The catalogue image shows a glazed-door cabinet with internal shelves. Define stored items, door clearance and anchoring on the room plan. The illustrated 900 × 400 × 1800 mm annotation is not a confirmed specification for the selected order; agree dimensions, shelf loads and locks separately."
+        }
+      ],
+      "visualSource": "https://hymebel.com/en/products/med-ca-10/",
+      "imageCaption": "Published catalogue visual reference; not proof of delivery or an approved manufacturer model.",
+      "reviewed": "2026-10-29"
+    },
+    {
+      "id": "med-ca-11",
+      "entityType": "project-selection",
+      "market": "ru",
+      "language": "en",
+      "source": "https://hymebel.com/ru/en/products/med-ca-11/",
+      "title": "Sink, worktop and storage composition reference",
+      "summary": "The visual combines a sink, tap, worktop, drawer unit and lower storage. Coordinate water and waste connections, worktop height and installation responsibilities before quotation. No chemical resistance, sterilisation regime or medical-equipment package is established by the image.",
+      "category": "education-healthcare",
+      "context": "Specify classrooms, libraries, staff rooms and waiting areas by function. Clarify user groups, dimensions, daily use and cleaning requirements; specialised medical equipment requires a separate specification.",
+      "image": "https://hymebel.com/images/products/med-ca-11/med-ca-11-main.jpg",
+      "checklist": [
+        "Check dimensions and access against measured plans.",
+        "List the requested items separately.",
+        "Confirm materials, finishes and applicable documents."
+      ],
+      "questions": [
+        {
+          "q": "What does the image not establish?",
+          "a": "The visual combines a sink, tap, worktop, drawer unit and lower storage. Coordinate water and waste connections, worktop height and installation responsibilities before quotation. No chemical resistance, sterilisation regime or medical-equipment package is established by the image."
+        }
+      ],
+      "visualSource": "https://hymebel.com/en/products/med-ca-11/",
+      "imageCaption": "Published catalogue visual reference; not proof of delivery or an approved manufacturer model.",
+      "reviewed": "2026-10-29"
+    },
+    {
+      "id": "med-ca-13",
+      "entityType": "project-selection",
+      "market": "ru",
+      "language": "en",
+      "source": "https://hymebel.com/ru/en/products/med-ca-13/",
+      "title": "Backrest and arm-support chair reference",
+      "summary": "The catalogue visual shows a seat with backrest, arm supports and separate legs. Match user requirements, seat height and width and transfer clearance to selected-item documentation. The image does not establish load capacity, slip resistance, wet-area suitability, clinical use or certification.",
+      "category": "education-healthcare",
+      "context": "Specify classrooms, libraries, staff rooms and waiting areas by function. Clarify user groups, dimensions, daily use and cleaning requirements; specialised medical equipment requires a separate specification.",
+      "image": "https://hymebel.com/images/products/med-ca-13/med-ca-13-main.png",
+      "checklist": [
+        "Check dimensions and access against measured plans.",
+        "List the requested items separately.",
+        "Confirm materials, finishes and applicable documents."
+      ],
+      "questions": [
+        {
+          "q": "What does the image not establish?",
+          "a": "The catalogue visual shows a seat with backrest, arm supports and separate legs. Match user requirements, seat height and width and transfer clearance to selected-item documentation. The image does not establish load capacity, slip resistance, wet-area suitability, clinical use or certification."
+        }
+      ],
+      "visualSource": "https://hymebel.com/en/products/med-ca-13/",
+      "imageCaption": "Published catalogue visual reference; not proof of delivery or an approved manufacturer model.",
+      "reviewed": "2026-10-29"
+    },
+    {
+      "id": "med-ca-15",
+      "entityType": "project-selection",
+      "market": "ru",
+      "language": "en",
+      "source": "https://hymebel.com/ru/en/products/med-ca-15/",
+      "title": "Mobile side-table planning reference",
+      "summary": "The image shows a mobile side table with a one-sided support and projecting base. Check clearance under adjacent furniture, base access and user reach. Confirm any adjustment range, caster brakes, load limit and surface material from the selected model documents.",
+      "category": "education-healthcare",
+      "context": "Specify classrooms, libraries, staff rooms and waiting areas by function. Clarify user groups, dimensions, daily use and cleaning requirements; specialised medical equipment requires a separate specification.",
+      "image": "https://hymebel.com/images/products/med-ca-15/med-ca-15-main.jpg",
+      "checklist": [
+        "Check dimensions and access against measured plans.",
+        "List the requested items separately.",
+        "Confirm materials, finishes and applicable documents."
+      ],
+      "questions": [
+        {
+          "q": "What does the image not establish?",
+          "a": "The image shows a mobile side table with a one-sided support and projecting base. Check clearance under adjacent furniture, base access and user reach. Confirm any adjustment range, caster brakes, load limit and surface material from the selected model documents."
+        }
+      ],
+      "visualSource": "https://hymebel.com/en/products/med-ca-15/",
+      "imageCaption": "Published catalogue visual reference; not proof of delivery or an approved manufacturer model.",
+      "reviewed": "2026-10-29"
     }
   ]
 }

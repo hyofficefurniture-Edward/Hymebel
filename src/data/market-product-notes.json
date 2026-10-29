@@ -2074,5 +2074,301 @@
       "caseNote": "Group project context only; not proof these displayed items were supplied.",
       "reviewedVisual": "2026-10-28"
     }
+  },
+  "med-ca-10": {
+    "mn": {
+      "focus": "Шилэн хаалгатай хадгалах шүүгээний лавлагаа",
+      "items": [
+        "Хэмжсэн зурагт хэмжээ ба нэвтрэх зайг шалгана.",
+        "Зөвхөн шаардлагатай эд зүйлийг тусад нь жагсаана.",
+        "Материал, өнгөлгөө болон холбогдох баримтыг батална."
+      ],
+      "imagePaths": [
+        "/images/products/med-ca-10/med-ca-10-main.png"
+      ],
+      "caption": "Нийтлэгдсэн каталогийн харагдах лавлагаа; бодит нийлүүлэлт эсвэл батлагдсан үйлдвэрийн загвар биш.",
+      "questions": [
+        {
+          "q": "Зураг ямар мэдээллийг батлахгүй вэ?",
+          "a": "Шилэн хаалгатай, дотор тавиуртай шүүгээний каталогийн зураг. Хадгалах зүйлс, хаалга нээх зай, хананд бэхлэх шаардлагыг өрөөний зурагт тусгана. Зураг дээрх 900 × 400 × 1800 мм тэмдэглэгээ нь сонгосон загварын баталгаажсан үзүүлэлт биш; хэмжээ, тавиурын даац, түгжээг бичгээр нягтална."
+        }
+      ],
+      "sourceUrl": "https://hymebel.com/en/products/med-ca-10/",
+      "sourceLabel": "Каталогийн эх сурвалж",
+      "caseId": "hlt-009",
+      "caseLabel": "Группын эмнэлгийн төсөл: Woodlands, Сингапур",
+      "caseNote": "Группын төслийн нөхцөл; энэ сонголтыг нийлүүлсэн гэж батлахгүй.",
+      "reviewedVisual": "2026-10-29"
+    },
+    "ru": {
+      "focus": "Шкаф со стеклянными дверцами: ориентир для комплектации",
+      "items": [
+        "Проверьте габариты и доступ по обмерному плану.",
+        "Укажите нужные предметы отдельной ведомостью.",
+        "Подтвердите материалы, отделку и применимые документы."
+      ],
+      "imagePaths": [
+        "/images/products/med-ca-10/med-ca-10-main.png"
+      ],
+      "caption": "Опубликованный каталожный визуальный ориентир; не подтверждение поставки или утверждённой заводской модели.",
+      "questions": [
+        {
+          "q": "Какие сведения нельзя подтвердить изображением?",
+          "a": "На изображении показан шкаф с прозрачными дверцами и полками. Для нового заказа уточните состав хранения, проход перед дверцами и крепление к стене. Указанные на исходной иллюстрации 900 × 400 × 1800 мм не заменяют согласованный чертёж выбранного изделия; нагрузка на полки и замки требуют отдельного подтверждения."
+        }
+      ],
+      "sourceUrl": "https://hymebel.com/en/products/med-ca-10/",
+      "sourceLabel": "Источник каталога",
+      "caseId": "hlt-009",
+      "caseLabel": "Медицинский проект группы: Woodlands, Сингапур",
+      "caseNote": "Контекст проекта группы, а не подтверждение поставки показанных предметов.",
+      "reviewedVisual": "2026-10-29"
+    },
+    "en": {
+      "focus": "Glass-door storage cabinet reference",
+      "items": [
+        "Check dimensions and access against measured plans.",
+        "List the requested items separately.",
+        "Confirm materials, finishes and applicable documents."
+      ],
+      "imagePaths": [
+        "/images/products/med-ca-10/med-ca-10-main.png"
+      ],
+      "caption": "Published catalogue visual reference; not proof of delivery or an approved manufacturer model.",
+      "questions": [
+        {
+          "q": "What does the image not establish?",
+          "a": "The catalogue image shows a glazed-door cabinet with internal shelves. Define stored items, door clearance and anchoring on the room plan. The illustrated 900 × 400 × 1800 mm annotation is not a confirmed specification for the selected order; agree dimensions, shelf loads and locks separately."
+        }
+      ],
+      "sourceUrl": "https://hymebel.com/en/products/med-ca-10/",
+      "sourceLabel": "Catalogue source",
+      "caseId": "hlt-009",
+      "caseLabel": "Group healthcare reference: Woodlands, Singapore",
+      "caseNote": "Group project context only; not proof these displayed items were supplied.",
+      "reviewedVisual": "2026-10-29"
+    }
+  },
+  "med-ca-11": {
+    "mn": {
+      "focus": "Угаалтуур, ажлын тавцантай шүүгээний иж бүрдлийн лавлагаа",
+      "items": [
+        "Хэмжсэн зурагт хэмжээ ба нэвтрэх зайг шалгана.",
+        "Зөвхөн шаардлагатай эд зүйлийг тусад нь жагсаана.",
+        "Материал, өнгөлгөө болон холбогдох баримтыг батална."
+      ],
+      "imagePaths": [
+        "/images/products/med-ca-11/med-ca-11-main.jpg"
+      ],
+      "caption": "Нийтлэгдсэн каталогийн харагдах лавлагаа; бодит нийлүүлэлт эсвэл батлагдсан үйлдвэрийн загвар биш.",
+      "questions": [
+        {
+          "q": "Зураг ямар мэдээллийг батлахгүй вэ?",
+          "a": "Зурагт угаалтуур, усны цорго, шургуулга болон доод хадгалах хэсэг бүхий ажлын тавцан харагдана. Шинэ захиалгад ус, бохирын цэг, тавцангийн өндөр, угсралтын заагийг хэмжилттэй төлөвлөгөөгөөр тохирно. Зураг нь гадаргуугийн химийн тэсвэр, ариутгалын горим эсвэл эмнэлгийн тоноглолын багцыг нотлохгүй."
+        }
+      ],
+      "sourceUrl": "https://hymebel.com/en/products/med-ca-11/",
+      "sourceLabel": "Каталогийн эх сурвалж",
+      "caseId": "hlt-009",
+      "caseLabel": "Группын эмнэлгийн төсөл: Woodlands, Сингапур",
+      "caseNote": "Группын төслийн нөхцөл; энэ сонголтыг нийлүүлсэн гэж батлахгүй.",
+      "reviewedVisual": "2026-10-29"
+    },
+    "ru": {
+      "focus": "Композиция с мойкой, столешницей и хранением",
+      "items": [
+        "Проверьте габариты и доступ по обмерному плану.",
+        "Укажите нужные предметы отдельной ведомостью.",
+        "Подтвердите материалы, отделку и применимые документы."
+      ],
+      "imagePaths": [
+        "/images/products/med-ca-11/med-ca-11-main.jpg"
+      ],
+      "caption": "Опубликованный каталожный визуальный ориентир; не подтверждение поставки или утверждённой заводской модели.",
+      "questions": [
+        {
+          "q": "Какие сведения нельзя подтвердить изображением?",
+          "a": "Визуальный ориентир объединяет мойку, смеситель, рабочую поверхность, выдвижной блок и нижнее хранение. До расчёта согласуйте точки воды и слива, высоту столешницы и границы монтажа. Изображение не подтверждает химическую стойкость, режим стерилизации или комплект медицинского оборудования."
+        }
+      ],
+      "sourceUrl": "https://hymebel.com/en/products/med-ca-11/",
+      "sourceLabel": "Источник каталога",
+      "caseId": "hlt-009",
+      "caseLabel": "Медицинский проект группы: Woodlands, Сингапур",
+      "caseNote": "Контекст проекта группы, а не подтверждение поставки показанных предметов.",
+      "reviewedVisual": "2026-10-29"
+    },
+    "en": {
+      "focus": "Sink, worktop and storage composition reference",
+      "items": [
+        "Check dimensions and access against measured plans.",
+        "List the requested items separately.",
+        "Confirm materials, finishes and applicable documents."
+      ],
+      "imagePaths": [
+        "/images/products/med-ca-11/med-ca-11-main.jpg"
+      ],
+      "caption": "Published catalogue visual reference; not proof of delivery or an approved manufacturer model.",
+      "questions": [
+        {
+          "q": "What does the image not establish?",
+          "a": "The visual combines a sink, tap, worktop, drawer unit and lower storage. Coordinate water and waste connections, worktop height and installation responsibilities before quotation. No chemical resistance, sterilisation regime or medical-equipment package is established by the image."
+        }
+      ],
+      "sourceUrl": "https://hymebel.com/en/products/med-ca-11/",
+      "sourceLabel": "Catalogue source",
+      "caseId": "hlt-009",
+      "caseLabel": "Group healthcare reference: Woodlands, Singapore",
+      "caseNote": "Group project context only; not proof these displayed items were supplied.",
+      "reviewedVisual": "2026-10-29"
+    }
+  },
+  "med-ca-13": {
+    "mn": {
+      "focus": "Түшлэг, гарын тулгууртай сандлын сонголтын лавлагаа",
+      "items": [
+        "Хэмжсэн зурагт хэмжээ ба нэвтрэх зайг шалгана.",
+        "Зөвхөн шаардлагатай эд зүйлийг тусад нь жагсаана.",
+        "Материал, өнгөлгөө болон холбогдох баримтыг батална."
+      ],
+      "imagePaths": [
+        "/images/products/med-ca-13/med-ca-13-main.png"
+      ],
+      "caption": "Нийтлэгдсэн каталогийн харагдах лавлагаа; бодит нийлүүлэлт эсвэл батлагдсан үйлдвэрийн загвар биш.",
+      "questions": [
+        {
+          "q": "Зураг ямар мэдээллийг батлахгүй вэ?",
+          "a": "Каталогийн зурагт түшлэг, гарын тулгуур, тусдаа хөлтэй суудал харагдана. Хэрэглэгчийн хэрэгцээ, суух өндөр, өргөн, шилжих зайг сонгосон сандлын баримттай тулгана. Даац, халтиргааны хамгаалалт, нойтон орчинд хэрэглэх боломж, эмнэлгийн зориулалт болон гэрчилгээг зөвхөн зурагт үндэслэн батлахгүй."
+        }
+      ],
+      "sourceUrl": "https://hymebel.com/en/products/med-ca-13/",
+      "sourceLabel": "Каталогийн эх сурвалж",
+      "caseId": "hlt-009",
+      "caseLabel": "Группын эмнэлгийн төсөл: Woodlands, Сингапур",
+      "caseNote": "Группын төслийн нөхцөл; энэ сонголтыг нийлүүлсэн гэж батлахгүй.",
+      "reviewedVisual": "2026-10-29"
+    },
+    "ru": {
+      "focus": "Стул со спинкой и подлокотниками: ориентир выбора",
+      "items": [
+        "Проверьте габариты и доступ по обмерному плану.",
+        "Укажите нужные предметы отдельной ведомостью.",
+        "Подтвердите материалы, отделку и применимые документы."
+      ],
+      "imagePaths": [
+        "/images/products/med-ca-13/med-ca-13-main.png"
+      ],
+      "caption": "Опубликованный каталожный визуальный ориентир; не подтверждение поставки или утверждённой заводской модели.",
+      "questions": [
+        {
+          "q": "Какие сведения нельзя подтвердить изображением?",
+          "a": "На каталожном изображении видны сиденье, спинка, подлокотники и раздельные ножки. Сопоставьте потребности пользователя, высоту и ширину сиденья, а также пространство для пересаживания с документацией выбранного изделия. Нагрузка, устойчивость на мокром полу, медицинское назначение и сертификация по фотографии не устанавливаются."
+        }
+      ],
+      "sourceUrl": "https://hymebel.com/en/products/med-ca-13/",
+      "sourceLabel": "Источник каталога",
+      "caseId": "hlt-009",
+      "caseLabel": "Медицинский проект группы: Woodlands, Сингапур",
+      "caseNote": "Контекст проекта группы, а не подтверждение поставки показанных предметов.",
+      "reviewedVisual": "2026-10-29"
+    },
+    "en": {
+      "focus": "Backrest and arm-support chair reference",
+      "items": [
+        "Check dimensions and access against measured plans.",
+        "List the requested items separately.",
+        "Confirm materials, finishes and applicable documents."
+      ],
+      "imagePaths": [
+        "/images/products/med-ca-13/med-ca-13-main.png"
+      ],
+      "caption": "Published catalogue visual reference; not proof of delivery or an approved manufacturer model.",
+      "questions": [
+        {
+          "q": "What does the image not establish?",
+          "a": "The catalogue visual shows a seat with backrest, arm supports and separate legs. Match user requirements, seat height and width and transfer clearance to selected-item documentation. The image does not establish load capacity, slip resistance, wet-area suitability, clinical use or certification."
+        }
+      ],
+      "sourceUrl": "https://hymebel.com/en/products/med-ca-13/",
+      "sourceLabel": "Catalogue source",
+      "caseId": "hlt-009",
+      "caseLabel": "Group healthcare reference: Woodlands, Singapore",
+      "caseNote": "Group project context only; not proof these displayed items were supplied.",
+      "reviewedVisual": "2026-10-29"
+    }
+  },
+  "med-ca-15": {
+    "mn": {
+      "focus": "Дугуйтай хажуу ширээний төлөвлөлтийн лавлагаа",
+      "items": [
+        "Хэмжсэн зурагт хэмжээ ба нэвтрэх зайг шалгана.",
+        "Зөвхөн шаардлагатай эд зүйлийг тусад нь жагсаана.",
+        "Материал, өнгөлгөө болон холбогдох баримтыг батална."
+      ],
+      "imagePaths": [
+        "/images/products/med-ca-15/med-ca-15-main.jpg"
+      ],
+      "caption": "Нийтлэгдсэн каталогийн харагдах лавлагаа; бодит нийлүүлэлт эсвэл батлагдсан үйлдвэрийн загвар биш.",
+      "questions": [
+        {
+          "q": "Зураг ямар мэдээллийг батлахгүй вэ?",
+          "a": "Нэг талын тулгуур, доогуур орох суурь, дугуйтай ширээний зураг. Ширээг ойртуулах тавилга, суурийн чөлөөт зай, хэрэглэгчийн хүрэх өндрийг хамтад нь шалгана. Өндөр тохируулах хүрээ, дугуйн тоормос, даац, тавцангийн материал нь сонгосон загварын баримтаар баталгаажих ёстой."
+        }
+      ],
+      "sourceUrl": "https://hymebel.com/en/products/med-ca-15/",
+      "sourceLabel": "Каталогийн эх сурвалж",
+      "caseId": "hlt-009",
+      "caseLabel": "Группын эмнэлгийн төсөл: Woodlands, Сингапур",
+      "caseNote": "Группын төслийн нөхцөл; энэ сонголтыг нийлүүлсэн гэж батлахгүй.",
+      "reviewedVisual": "2026-10-29"
+    },
+    "ru": {
+      "focus": "Передвижной приставной стол: ориентир планировки",
+      "items": [
+        "Проверьте габариты и доступ по обмерному плану.",
+        "Укажите нужные предметы отдельной ведомостью.",
+        "Подтвердите материалы, отделку и применимые документы."
+      ],
+      "imagePaths": [
+        "/images/products/med-ca-15/med-ca-15-main.jpg"
+      ],
+      "caption": "Опубликованный каталожный визуальный ориентир; не подтверждение поставки или утверждённой заводской модели.",
+      "questions": [
+        {
+          "q": "Какие сведения нельзя подтвердить изображением?",
+          "a": "На изображении показан приставной стол с односторонней опорой, выносным основанием и колёсами. Проверьте совместимость с соседней мебелью, свободный просвет под ней и досягаемость столешницы. Диапазон регулировки, тормоза колёс, допустимая нагрузка и материал поверхности согласуются по документации конкретной модели."
+        }
+      ],
+      "sourceUrl": "https://hymebel.com/en/products/med-ca-15/",
+      "sourceLabel": "Источник каталога",
+      "caseId": "hlt-009",
+      "caseLabel": "Медицинский проект группы: Woodlands, Сингапур",
+      "caseNote": "Контекст проекта группы, а не подтверждение поставки показанных предметов.",
+      "reviewedVisual": "2026-10-29"
+    },
+    "en": {
+      "focus": "Mobile side-table planning reference",
+      "items": [
+        "Check dimensions and access against measured plans.",
+        "List the requested items separately.",
+        "Confirm materials, finishes and applicable documents."
+      ],
+      "imagePaths": [
+        "/images/products/med-ca-15/med-ca-15-main.jpg"
+      ],
+      "caption": "Published catalogue visual reference; not proof of delivery or an approved manufacturer model.",
+      "questions": [
+        {
+          "q": "What does the image not establish?",
+          "a": "The image shows a mobile side table with a one-sided support and projecting base. Check clearance under adjacent furniture, base access and user reach. Confirm any adjustment range, caster brakes, load limit and surface material from the selected model documents."
+        }
+      ],
+      "sourceUrl": "https://hymebel.com/en/products/med-ca-15/",
+      "sourceLabel": "Catalogue source",
+      "caseId": "hlt-009",
+      "caseLabel": "Group healthcare reference: Woodlands, Singapore",
+      "caseNote": "Group project context only; not proof these displayed items were supplied.",
+      "reviewedVisual": "2026-10-29"
+    }
   }
 }

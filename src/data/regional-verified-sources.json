@@ -1,0 +1,42 @@
+{
+  "fenmi-t074": {
+    "image": "/images/products/fenmi-verified/mesa-comedor-redonda-t074.jpg",
+    "gallery": [
+      "/images/products/fenmi-verified/mesa-comedor-redonda-t074.jpg"
+    ],
+    "sku": "T074",
+    "primarySource": "https://hymobiliario.com/productos/mesa-comedor-redonda-t074/"
+  },
+  "fenmi-t032": {
+    "image": "/images/products/fenmi-verified/mesa-comedor-redonda-t032.jpg",
+    "gallery": [
+      "/images/products/fenmi-verified/mesa-comedor-redonda-t032.jpg"
+    ],
+    "sku": "T032",
+    "primarySource": "https://hymobiliario.com/productos/mesa-comedor-redonda-t032/"
+  },
+  "fenmi-t092": {
+    "image": "/images/products/fenmi-verified/mesa-comedor-redonda-t092.jpg",
+    "gallery": [
+      "/images/products/fenmi-verified/mesa-comedor-redonda-t092.jpg"
+    ],
+    "sku": "T092",
+    "primarySource": "https://hymobiliario.com/productos/mesa-comedor-redonda-t092/"
+  },
+  "fenmi-t012": {
+    "image": "/images/products/fenmi-verified/mesa-comedor-redonda-t012.jpg",
+    "gallery": [
+      "/images/products/fenmi-verified/mesa-comedor-redonda-t012.jpg"
+    ],
+    "sku": "T012",
+    "primarySource": "https://hymobiliario.com/productos/mesa-comedor-redonda-t012/"
+  },
+  "fenmi-t130": {
+    "image": "/images/products/fenmi-verified/mesa-comedor-redonda-t130.jpg",
+    "gallery": [
+      "/images/products/fenmi-verified/mesa-comedor-redonda-t130.jpg"
+    ],
+    "sku": "T130",
+    "primarySource": "https://hymobiliario.com/productos/mesa-comedor-redonda-t130/"
+  }
+}

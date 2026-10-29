@@ -2370,5 +2370,390 @@
       "caseNote": "Group project context only; not proof these displayed items were supplied.",
       "reviewedVisual": "2026-10-29"
     }
+  },
+  "fenmi-t074": {
+    "mn": {
+      "sku": "T074",
+      "entityType": "existing-manufacturer-sku-market-adaptation",
+      "focus": "T074 дугуй хоолны ширээ",
+      "items": [
+        "T074 загварын өмнө нь нягталсан каталогт 1500, 1800 мм диаметр, 750 мм өндөр тэмдэглэгдсэн. Төв суурийн эргэн тойронд сандал болон хөл байрлах зайг хэмжилттэй төлөвлөгөөгөөр шалгана. Материал, өнгөлгөө болон захиалгын эцсийн хэмжээг сонгосон дээж, зургаар баталгаажуулна.",
+        "Тоо ширхэг, хүрэх хот, хаалга болон хүргэлтийн нэвтрэх хэмжээг илгээнэ."
+      ],
+      "imagePaths": [
+        "/images/products/fenmi-verified/mesa-comedor-redonda-t074.jpg"
+      ],
+      "caption": "T074: нягталсан каталогийн эх бүтээгдэхүүний зураг. Орон нутгийн нийлүүлэлтийн баримт биш.",
+      "questions": [
+        {
+          "q": "Энэ загварын материал, боломжит суудлын тоо баталгаатай юу?",
+          "a": "Үгүй. Диаметрийн сонголт нь суудлын тоо эсвэл материалын гэрчилгээ биш. Сонгосон сандал, дээж болон захиалгын зургийг тусад нь нягтална."
+        }
+      ],
+      "sourceUrl": "https://hymobiliario.com/productos/mesa-comedor-redonda-t074/",
+      "sourceLabel": "Өмнө нь нягталсан загварын эх хуудас",
+      "caseId": "hos-017",
+      "caseLabel": "Группийн орон сууцны жишээ: Киншаса",
+      "caseNote": "Энэ ширээ тухайн төсөлд нийлүүлэгдсэн гэсэн баталгаа биш.",
+      "reviewedVisual": "2026-10-30"
+    },
+    "ru": {
+      "sku": "T074",
+      "entityType": "existing-manufacturer-sku-market-adaptation",
+      "focus": "Круглый обеденный стол T074",
+      "items": [
+        "В проверенном каталоге модели T074 указаны диаметры 1500, 1800 мм и высота 750 мм. Проверьте положение стульев и пространство для ног вокруг центрального основания. Материал, отделку и окончательные размеры заказа согласуйте по образцу и чертежу.",
+        "Укажите количество, город назначения и размеры дверей для заноса."
+      ],
+      "imagePaths": [
+        "/images/products/fenmi-verified/mesa-comedor-redonda-t074.jpg"
+      ],
+      "caption": "T074: исходное фото модели из проверенного каталога; не подтверждение местной поставки.",
+      "questions": [
+        {
+          "q": "Подтверждены ли материал и число посадочных мест?",
+          "a": "Нет. Перечень диаметров не подтверждает число мест или состав материала. Согласуйте выбранные стулья, образец и чертёж заказа отдельно."
+        }
+      ],
+      "sourceUrl": "https://hymobiliario.com/productos/mesa-comedor-redonda-t074/",
+      "sourceLabel": "Проверенная исходная страница модели",
+      "caseId": "hos-017",
+      "caseLabel": "Жилой проект группы: Киншаса",
+      "caseNote": "Это не подтверждение поставки данного стола в тот проект.",
+      "reviewedVisual": "2026-10-30"
+    },
+    "en": {
+      "sku": "T074",
+      "entityType": "existing-manufacturer-sku-market-adaptation",
+      "focus": "T074 round dining table",
+      "items": [
+        "The reviewed T074 catalogue lists diameter options of 1500, 1800 mm and a height of 750 mm. Check chair positions and leg clearance around the central base. Confirm final order dimensions, material and finish against the selected sample and drawing.",
+        "Provide quantity, destination and delivery access dimensions."
+      ],
+      "imagePaths": [
+        "/images/products/fenmi-verified/mesa-comedor-redonda-t074.jpg"
+      ],
+      "caption": "T074: original model photograph from the reviewed catalogue; not evidence of local delivery.",
+      "questions": [
+        {
+          "q": "Does the catalogue image confirm material and seating capacity?",
+          "a": "No. Listed diameter options do not certify a seat count or material composition. Review the selected chairs, sample and order drawing separately."
+        }
+      ],
+      "sourceUrl": "https://hymobiliario.com/productos/mesa-comedor-redonda-t074/",
+      "sourceLabel": "Reviewed original model page",
+      "caseId": "hos-017",
+      "caseLabel": "Group residential reference: Kinshasa",
+      "caseNote": "This does not establish that this table was supplied to that project.",
+      "reviewedVisual": "2026-10-30"
+    }
+  },
+  "fenmi-t032": {
+    "mn": {
+      "sku": "T032",
+      "entityType": "existing-manufacturer-sku-market-adaptation",
+      "focus": "T032 дугуй хоолны ширээ",
+      "items": [
+        "T032 загварын өмнө нь нягталсан каталогт 1400, 1600, 1800 мм диаметр, 750 мм өндөр тэмдэглэгдсэн. Босоо тулгуурын байрлалыг суудал тус бүртэй тулгаж, өрөөний хөдөлгөөний замыг чөлөөтэй үлдээнэ. Материал, өнгөлгөө болон захиалгын эцсийн хэмжээг сонгосон дээж, зургаар баталгаажуулна.",
+        "Тоо ширхэг, хүрэх хот, хаалга болон хүргэлтийн нэвтрэх хэмжээг илгээнэ."
+      ],
+      "imagePaths": [
+        "/images/products/fenmi-verified/mesa-comedor-redonda-t032.jpg"
+      ],
+      "caption": "T032: нягталсан каталогийн эх бүтээгдэхүүний зураг. Орон нутгийн нийлүүлэлтийн баримт биш.",
+      "questions": [
+        {
+          "q": "Энэ загварын материал, боломжит суудлын тоо баталгаатай юу?",
+          "a": "Үгүй. Диаметрийн сонголт нь суудлын тоо эсвэл материалын гэрчилгээ биш. Сонгосон сандал, дээж болон захиалгын зургийг тусад нь нягтална."
+        }
+      ],
+      "sourceUrl": "https://hymobiliario.com/productos/mesa-comedor-redonda-t032/",
+      "sourceLabel": "Өмнө нь нягталсан загварын эх хуудас",
+      "caseId": "hos-017",
+      "caseLabel": "Группийн орон сууцны жишээ: Киншаса",
+      "caseNote": "Энэ ширээ тухайн төсөлд нийлүүлэгдсэн гэсэн баталгаа биш.",
+      "reviewedVisual": "2026-10-30"
+    },
+    "ru": {
+      "sku": "T032",
+      "entityType": "existing-manufacturer-sku-market-adaptation",
+      "focus": "Круглый обеденный стол T032",
+      "items": [
+        "В проверенном каталоге модели T032 указаны диаметры 1400, 1600, 1800 мм и высота 750 мм. Сопоставьте вертикальные опоры с местом каждого сидящего и сохраните проход вокруг стола. Материал, отделку и окончательные размеры заказа согласуйте по образцу и чертежу.",
+        "Укажите количество, город назначения и размеры дверей для заноса."
+      ],
+      "imagePaths": [
+        "/images/products/fenmi-verified/mesa-comedor-redonda-t032.jpg"
+      ],
+      "caption": "T032: исходное фото модели из проверенного каталога; не подтверждение местной поставки.",
+      "questions": [
+        {
+          "q": "Подтверждены ли материал и число посадочных мест?",
+          "a": "Нет. Перечень диаметров не подтверждает число мест или состав материала. Согласуйте выбранные стулья, образец и чертёж заказа отдельно."
+        }
+      ],
+      "sourceUrl": "https://hymobiliario.com/productos/mesa-comedor-redonda-t032/",
+      "sourceLabel": "Проверенная исходная страница модели",
+      "caseId": "hos-017",
+      "caseLabel": "Жилой проект группы: Киншаса",
+      "caseNote": "Это не подтверждение поставки данного стола в тот проект.",
+      "reviewedVisual": "2026-10-30"
+    },
+    "en": {
+      "sku": "T032",
+      "entityType": "existing-manufacturer-sku-market-adaptation",
+      "focus": "T032 round dining table",
+      "items": [
+        "The reviewed T032 catalogue lists diameter options of 1400, 1600, 1800 mm and a height of 750 mm. Map the vertical supports against each seat position and the circulation route. Confirm final order dimensions, material and finish against the selected sample and drawing.",
+        "Provide quantity, destination and delivery access dimensions."
+      ],
+      "imagePaths": [
+        "/images/products/fenmi-verified/mesa-comedor-redonda-t032.jpg"
+      ],
+      "caption": "T032: original model photograph from the reviewed catalogue; not evidence of local delivery.",
+      "questions": [
+        {
+          "q": "Does the catalogue image confirm material and seating capacity?",
+          "a": "No. Listed diameter options do not certify a seat count or material composition. Review the selected chairs, sample and order drawing separately."
+        }
+      ],
+      "sourceUrl": "https://hymobiliario.com/productos/mesa-comedor-redonda-t032/",
+      "sourceLabel": "Reviewed original model page",
+      "caseId": "hos-017",
+      "caseLabel": "Group residential reference: Kinshasa",
+      "caseNote": "This does not establish that this table was supplied to that project.",
+      "reviewedVisual": "2026-10-30"
+    }
+  },
+  "fenmi-t092": {
+    "mn": {
+      "sku": "T092",
+      "entityType": "existing-manufacturer-sku-market-adaptation",
+      "focus": "T092 дугуй хоолны ширээ",
+      "items": [
+        "T092 загварын өмнө нь нягталсан каталогт 1350, 1600 мм диаметр, 750 мм өндөр тэмдэглэгдсэн. Салаалсан суурьтай харагдах хийцийг сандал ойртуулах зайтай тулгана; зураг даацын баталгаа биш. Материал, өнгөлгөө болон захиалгын эцсийн хэмжээг сонгосон дээж, зургаар баталгаажуулна.",
+        "Тоо ширхэг, хүрэх хот, хаалга болон хүргэлтийн нэвтрэх хэмжээг илгээнэ."
+      ],
+      "imagePaths": [
+        "/images/products/fenmi-verified/mesa-comedor-redonda-t092.jpg"
+      ],
+      "caption": "T092: нягталсан каталогийн эх бүтээгдэхүүний зураг. Орон нутгийн нийлүүлэлтийн баримт биш.",
+      "questions": [
+        {
+          "q": "Энэ загварын материал, боломжит суудлын тоо баталгаатай юу?",
+          "a": "Үгүй. Диаметрийн сонголт нь суудлын тоо эсвэл материалын гэрчилгээ биш. Сонгосон сандал, дээж болон захиалгын зургийг тусад нь нягтална."
+        }
+      ],
+      "sourceUrl": "https://hymobiliario.com/productos/mesa-comedor-redonda-t092/",
+      "sourceLabel": "Өмнө нь нягталсан загварын эх хуудас",
+      "caseId": "hos-017",
+      "caseLabel": "Группийн орон сууцны жишээ: Киншаса",
+      "caseNote": "Энэ ширээ тухайн төсөлд нийлүүлэгдсэн гэсэн баталгаа биш.",
+      "reviewedVisual": "2026-10-30"
+    },
+    "ru": {
+      "sku": "T092",
+      "entityType": "existing-manufacturer-sku-market-adaptation",
+      "focus": "Круглый обеденный стол T092",
+      "items": [
+        "В проверенном каталоге модели T092 указаны диаметры 1350, 1600 мм и высота 750 мм. Сравните форму разветвлённого основания с подводом стульев; фотография не устанавливает нагрузку. Материал, отделку и окончательные размеры заказа согласуйте по образцу и чертежу.",
+        "Укажите количество, город назначения и размеры дверей для заноса."
+      ],
+      "imagePaths": [
+        "/images/products/fenmi-verified/mesa-comedor-redonda-t092.jpg"
+      ],
+      "caption": "T092: исходное фото модели из проверенного каталога; не подтверждение местной поставки.",
+      "questions": [
+        {
+          "q": "Подтверждены ли материал и число посадочных мест?",
+          "a": "Нет. Перечень диаметров не подтверждает число мест или состав материала. Согласуйте выбранные стулья, образец и чертёж заказа отдельно."
+        }
+      ],
+      "sourceUrl": "https://hymobiliario.com/productos/mesa-comedor-redonda-t092/",
+      "sourceLabel": "Проверенная исходная страница модели",
+      "caseId": "hos-017",
+      "caseLabel": "Жилой проект группы: Киншаса",
+      "caseNote": "Это не подтверждение поставки данного стола в тот проект.",
+      "reviewedVisual": "2026-10-30"
+    },
+    "en": {
+      "sku": "T092",
+      "entityType": "existing-manufacturer-sku-market-adaptation",
+      "focus": "T092 round dining table",
+      "items": [
+        "The reviewed T092 catalogue lists diameter options of 1350, 1600 mm and a height of 750 mm. Compare the branching base with chair approach; the photograph does not establish load capacity. Confirm final order dimensions, material and finish against the selected sample and drawing.",
+        "Provide quantity, destination and delivery access dimensions."
+      ],
+      "imagePaths": [
+        "/images/products/fenmi-verified/mesa-comedor-redonda-t092.jpg"
+      ],
+      "caption": "T092: original model photograph from the reviewed catalogue; not evidence of local delivery.",
+      "questions": [
+        {
+          "q": "Does the catalogue image confirm material and seating capacity?",
+          "a": "No. Listed diameter options do not certify a seat count or material composition. Review the selected chairs, sample and order drawing separately."
+        }
+      ],
+      "sourceUrl": "https://hymobiliario.com/productos/mesa-comedor-redonda-t092/",
+      "sourceLabel": "Reviewed original model page",
+      "caseId": "hos-017",
+      "caseLabel": "Group residential reference: Kinshasa",
+      "caseNote": "This does not establish that this table was supplied to that project.",
+      "reviewedVisual": "2026-10-30"
+    }
+  },
+  "fenmi-t012": {
+    "mn": {
+      "sku": "T012",
+      "entityType": "existing-manufacturer-sku-market-adaptation",
+      "focus": "T012 дугуй хоолны ширээ",
+      "items": [
+        "T012 загварын өмнө нь нягталсан каталогт 1400, 1600 мм диаметр, 750 мм өндөр тэмдэглэгдсэн. Суурийн хэлбэр, сандлын түшлэг болон ширээний ирмэгийн хоорондын зайг хамтад нь нягтална. Материал, өнгөлгөө болон захиалгын эцсийн хэмжээг сонгосон дээж, зургаар баталгаажуулна.",
+        "Тоо ширхэг, хүрэх хот, хаалга болон хүргэлтийн нэвтрэх хэмжээг илгээнэ."
+      ],
+      "imagePaths": [
+        "/images/products/fenmi-verified/mesa-comedor-redonda-t012.jpg"
+      ],
+      "caption": "T012: нягталсан каталогийн эх бүтээгдэхүүний зураг. Орон нутгийн нийлүүлэлтийн баримт биш.",
+      "questions": [
+        {
+          "q": "Энэ загварын материал, боломжит суудлын тоо баталгаатай юу?",
+          "a": "Үгүй. Диаметрийн сонголт нь суудлын тоо эсвэл материалын гэрчилгээ биш. Сонгосон сандал, дээж болон захиалгын зургийг тусад нь нягтална."
+        }
+      ],
+      "sourceUrl": "https://hymobiliario.com/productos/mesa-comedor-redonda-t012/",
+      "sourceLabel": "Өмнө нь нягталсан загварын эх хуудас",
+      "caseId": "hos-017",
+      "caseLabel": "Группийн орон сууцны жишээ: Киншаса",
+      "caseNote": "Энэ ширээ тухайн төсөлд нийлүүлэгдсэн гэсэн баталгаа биш.",
+      "reviewedVisual": "2026-10-30"
+    },
+    "ru": {
+      "sku": "T012",
+      "entityType": "existing-manufacturer-sku-market-adaptation",
+      "focus": "Круглый обеденный стол T012",
+      "items": [
+        "В проверенном каталоге модели T012 указаны диаметры 1400, 1600 мм и высота 750 мм. Проверьте взаимное положение основания, спинок стульев и края столешницы по плану. Материал, отделку и окончательные размеры заказа согласуйте по образцу и чертежу.",
+        "Укажите количество, город назначения и размеры дверей для заноса."
+      ],
+      "imagePaths": [
+        "/images/products/fenmi-verified/mesa-comedor-redonda-t012.jpg"
+      ],
+      "caption": "T012: исходное фото модели из проверенного каталога; не подтверждение местной поставки.",
+      "questions": [
+        {
+          "q": "Подтверждены ли материал и число посадочных мест?",
+          "a": "Нет. Перечень диаметров не подтверждает число мест или состав материала. Согласуйте выбранные стулья, образец и чертёж заказа отдельно."
+        }
+      ],
+      "sourceUrl": "https://hymobiliario.com/productos/mesa-comedor-redonda-t012/",
+      "sourceLabel": "Проверенная исходная страница модели",
+      "caseId": "hos-017",
+      "caseLabel": "Жилой проект группы: Киншаса",
+      "caseNote": "Это не подтверждение поставки данного стола в тот проект.",
+      "reviewedVisual": "2026-10-30"
+    },
+    "en": {
+      "sku": "T012",
+      "entityType": "existing-manufacturer-sku-market-adaptation",
+      "focus": "T012 round dining table",
+      "items": [
+        "The reviewed T012 catalogue lists diameter options of 1400, 1600 mm and a height of 750 mm. Check the base, chair backs and tabletop edge together on the measured plan. Confirm final order dimensions, material and finish against the selected sample and drawing.",
+        "Provide quantity, destination and delivery access dimensions."
+      ],
+      "imagePaths": [
+        "/images/products/fenmi-verified/mesa-comedor-redonda-t012.jpg"
+      ],
+      "caption": "T012: original model photograph from the reviewed catalogue; not evidence of local delivery.",
+      "questions": [
+        {
+          "q": "Does the catalogue image confirm material and seating capacity?",
+          "a": "No. Listed diameter options do not certify a seat count or material composition. Review the selected chairs, sample and order drawing separately."
+        }
+      ],
+      "sourceUrl": "https://hymobiliario.com/productos/mesa-comedor-redonda-t012/",
+      "sourceLabel": "Reviewed original model page",
+      "caseId": "hos-017",
+      "caseLabel": "Group residential reference: Kinshasa",
+      "caseNote": "This does not establish that this table was supplied to that project.",
+      "reviewedVisual": "2026-10-30"
+    }
+  },
+  "fenmi-t130": {
+    "mn": {
+      "sku": "T130",
+      "entityType": "existing-manufacturer-sku-market-adaptation",
+      "focus": "T130 дугуй хоолны ширээ",
+      "items": [
+        "T130 загварын өмнө нь нягталсан каталогт 1500, 1600, 1800 мм диаметр, 750 мм өндөр тэмдэглэгдсэн. Өөр өөр диаметрийг өрөөний бодит хэмжээнд харьцуулна; том хэмжээ нь баталгаатай суудлын тоо гэсэн үг биш. Материал, өнгөлгөө болон захиалгын эцсийн хэмжээг сонгосон дээж, зургаар баталгаажуулна.",
+        "Тоо ширхэг, хүрэх хот, хаалга болон хүргэлтийн нэвтрэх хэмжээг илгээнэ."
+      ],
+      "imagePaths": [
+        "/images/products/fenmi-verified/mesa-comedor-redonda-t130.jpg"
+      ],
+      "caption": "T130: нягталсан каталогийн эх бүтээгдэхүүний зураг. Орон нутгийн нийлүүлэлтийн баримт биш.",
+      "questions": [
+        {
+          "q": "Энэ загварын материал, боломжит суудлын тоо баталгаатай юу?",
+          "a": "Үгүй. Диаметрийн сонголт нь суудлын тоо эсвэл материалын гэрчилгээ биш. Сонгосон сандал, дээж болон захиалгын зургийг тусад нь нягтална."
+        }
+      ],
+      "sourceUrl": "https://hymobiliario.com/productos/mesa-comedor-redonda-t130/",
+      "sourceLabel": "Өмнө нь нягталсан загварын эх хуудас",
+      "caseId": "hos-017",
+      "caseLabel": "Группийн орон сууцны жишээ: Киншаса",
+      "caseNote": "Энэ ширээ тухайн төсөлд нийлүүлэгдсэн гэсэн баталгаа биш.",
+      "reviewedVisual": "2026-10-30"
+    },
+    "ru": {
+      "sku": "T130",
+      "entityType": "existing-manufacturer-sku-market-adaptation",
+      "focus": "Круглый обеденный стол T130",
+      "items": [
+        "В проверенном каталоге модели T130 указаны диаметры 1500, 1600, 1800 мм и высота 750 мм. Сравните диаметры с реальными размерами комнаты; больший формат не означает подтверждённую вместимость. Материал, отделку и окончательные размеры заказа согласуйте по образцу и чертежу.",
+        "Укажите количество, город назначения и размеры дверей для заноса."
+      ],
+      "imagePaths": [
+        "/images/products/fenmi-verified/mesa-comedor-redonda-t130.jpg"
+      ],
+      "caption": "T130: исходное фото модели из проверенного каталога; не подтверждение местной поставки.",
+      "questions": [
+        {
+          "q": "Подтверждены ли материал и число посадочных мест?",
+          "a": "Нет. Перечень диаметров не подтверждает число мест или состав материала. Согласуйте выбранные стулья, образец и чертёж заказа отдельно."
+        }
+      ],
+      "sourceUrl": "https://hymobiliario.com/productos/mesa-comedor-redonda-t130/",
+      "sourceLabel": "Проверенная исходная страница модели",
+      "caseId": "hos-017",
+      "caseLabel": "Жилой проект группы: Киншаса",
+      "caseNote": "Это не подтверждение поставки данного стола в тот проект.",
+      "reviewedVisual": "2026-10-30"
+    },
+    "en": {
+      "sku": "T130",
+      "entityType": "existing-manufacturer-sku-market-adaptation",
+      "focus": "T130 round dining table",
+      "items": [
+        "The reviewed T130 catalogue lists diameter options of 1500, 1600, 1800 mm and a height of 750 mm. Compare each diameter with the actual room; a larger size does not establish a verified seat count. Confirm final order dimensions, material and finish against the selected sample and drawing.",
+        "Provide quantity, destination and delivery access dimensions."
+      ],
+      "imagePaths": [
+        "/images/products/fenmi-verified/mesa-comedor-redonda-t130.jpg"
+      ],
+      "caption": "T130: original model photograph from the reviewed catalogue; not evidence of local delivery.",
+      "questions": [
+        {
+          "q": "Does the catalogue image confirm material and seating capacity?",
+          "a": "No. Listed diameter options do not certify a seat count or material composition. Review the selected chairs, sample and order drawing separately."
+        }
+      ],
+      "sourceUrl": "https://hymobiliario.com/productos/mesa-comedor-redonda-t130/",
+      "sourceLabel": "Reviewed original model page",
+      "caseId": "hos-017",
+      "caseLabel": "Group residential reference: Kinshasa",
+      "caseNote": "This does not establish that this table was supplied to that project.",
+      "reviewedVisual": "2026-10-30"
+    }
   }
 }

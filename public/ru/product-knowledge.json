@@ -1,16 +1,17 @@
 {
   "scope": "Complete current regional selection catalogue; language copies are not independent products",
-  "uniqueSelections": 49,
+  "uniqueSelections": 54,
   "languages": [
     "ru",
     "en"
   ],
   "newGlobalManufacturerSkus": 0,
-  "updated": "2026-10-29",
+  "updated": "2026-10-30",
   "entries": [
     {
       "id": "hotel-ca-03",
       "entityType": "project-selection",
+      "sku": null,
       "market": "ru",
       "language": "ru",
       "source": "https://hymebel.com/ru/products/hotel-ca-03/",
@@ -28,6 +29,7 @@
     {
       "id": "hotel-ca-09",
       "entityType": "project-selection",
+      "sku": null,
       "market": "ru",
       "language": "ru",
       "source": "https://hymebel.com/ru/products/hotel-ca-09/",
@@ -45,6 +47,7 @@
     {
       "id": "hotel-ca-10",
       "entityType": "project-selection",
+      "sku": null,
       "market": "ru",
       "language": "ru",
       "source": "https://hymebel.com/ru/products/hotel-ca-10/",
@@ -62,6 +65,7 @@
     {
       "id": "office-ca-11",
       "entityType": "project-selection",
+      "sku": null,
       "market": "ru",
       "language": "ru",
       "source": "https://hymebel.com/ru/products/office-ca-11/",
@@ -79,6 +83,7 @@
     {
       "id": "office-ca-05",
       "entityType": "project-selection",
+      "sku": null,
       "market": "ru",
       "language": "ru",
       "source": "https://hymebel.com/ru/products/office-ca-05/",
@@ -96,6 +101,7 @@
     {
       "id": "office-ca-09",
       "entityType": "project-selection",
+      "sku": null,
       "market": "ru",
       "language": "ru",
       "source": "https://hymebel.com/ru/products/office-ca-09/",
@@ -113,6 +119,7 @@
     {
       "id": "edu-ca-01",
       "entityType": "project-selection",
+      "sku": null,
       "market": "ru",
       "language": "ru",
       "source": "https://hymebel.com/ru/products/edu-ca-01/",
@@ -130,6 +137,7 @@
     {
       "id": "edu-ca-04",
       "entityType": "project-selection",
+      "sku": null,
       "market": "ru",
       "language": "ru",
       "source": "https://hymebel.com/ru/products/edu-ca-04/",
@@ -147,6 +155,7 @@
     {
       "id": "med-ca-01",
       "entityType": "project-selection",
+      "sku": null,
       "market": "ru",
       "language": "ru",
       "source": "https://hymebel.com/ru/products/med-ca-01/",
@@ -164,6 +173,7 @@
     {
       "id": "home-ca-01",
       "entityType": "project-selection",
+      "sku": null,
       "market": "ru",
       "language": "ru",
       "source": "https://hymebel.com/ru/products/home-ca-01/",
@@ -181,6 +191,7 @@
     {
       "id": "home-ca-06",
       "entityType": "project-selection",
+      "sku": null,
       "market": "ru",
       "language": "ru",
       "source": "https://hymebel.com/ru/products/home-ca-06/",
@@ -198,6 +209,7 @@
     {
       "id": "home-ca-07",
       "entityType": "project-selection",
+      "sku": null,
       "market": "ru",
       "language": "ru",
       "source": "https://hymebel.com/ru/products/home-ca-07/",
@@ -215,6 +227,7 @@
     {
       "id": "hotel-ca-02",
       "entityType": "project-selection",
+      "sku": null,
       "market": "ru",
       "language": "ru",
       "source": "https://hymebel.com/ru/products/hotel-ca-02/",
@@ -232,6 +245,7 @@
     {
       "id": "hotel-ca-07",
       "entityType": "project-selection",
+      "sku": null,
       "market": "ru",
       "language": "ru",
       "source": "https://hymebel.com/ru/products/hotel-ca-07/",
@@ -249,6 +263,7 @@
     {
       "id": "hotel-ca-08",
       "entityType": "project-selection",
+      "sku": null,
       "market": "ru",
       "language": "ru",
       "source": "https://hymebel.com/ru/products/hotel-ca-08/",
@@ -266,6 +281,7 @@
     {
       "id": "home-ca-03",
       "entityType": "project-selection",
+      "sku": null,
       "market": "ru",
       "language": "ru",
       "source": "https://hymebel.com/ru/products/home-ca-03/",
@@ -287,6 +303,7 @@
     {
       "id": "home-ca-04",
       "entityType": "project-selection",
+      "sku": null,
       "market": "ru",
       "language": "ru",
       "source": "https://hymebel.com/ru/products/home-ca-04/",
@@ -308,6 +325,7 @@
     {
       "id": "office-ca-03",
       "entityType": "project-selection",
+      "sku": null,
       "market": "ru",
       "language": "ru",
       "source": "https://hymebel.com/ru/products/office-ca-03/",
@@ -329,6 +347,7 @@
     {
       "id": "hotel-ca-01",
       "entityType": "project-selection",
+      "sku": null,
       "market": "ru",
       "language": "ru",
       "source": "https://hymebel.com/ru/products/hotel-ca-01/",
@@ -355,6 +374,7 @@
     {
       "id": "hotel-ca-04",
       "entityType": "project-selection",
+      "sku": null,
       "market": "ru",
       "language": "ru",
       "source": "https://hymebel.com/ru/products/hotel-ca-04/",
@@ -381,6 +401,7 @@
     {
       "id": "hotel-ca-05",
       "entityType": "project-selection",
+      "sku": null,
       "market": "ru",
       "language": "ru",
       "source": "https://hymebel.com/ru/products/hotel-ca-05/",
@@ -407,6 +428,7 @@
     {
       "id": "hotel-ca-06",
       "entityType": "project-selection",
+      "sku": null,
       "market": "ru",
       "language": "ru",
       "source": "https://hymebel.com/ru/products/hotel-ca-06/",
@@ -433,6 +455,7 @@
     {
       "id": "hotel-ca-14",
       "entityType": "project-selection",
+      "sku": null,
       "market": "ru",
       "language": "ru",
       "source": "https://hymebel.com/ru/products/hotel-ca-14/",
@@ -459,6 +482,7 @@
     {
       "id": "hotel-ca-15",
       "entityType": "project-selection",
+      "sku": null,
       "market": "ru",
       "language": "ru",
       "source": "https://hymebel.com/ru/products/hotel-ca-15/",
@@ -485,6 +509,7 @@
     {
       "id": "office-ca-01",
       "entityType": "project-selection",
+      "sku": null,
       "market": "ru",
       "language": "ru",
       "source": "https://hymebel.com/ru/products/office-ca-01/",
@@ -511,6 +536,7 @@
     {
       "id": "office-ca-02",
       "entityType": "project-selection",
+      "sku": null,
       "market": "ru",
       "language": "ru",
       "source": "https://hymebel.com/ru/products/office-ca-02/",
@@ -537,6 +563,7 @@
     {
       "id": "office-ca-04",
       "entityType": "project-selection",
+      "sku": null,
       "market": "ru",
       "language": "ru",
       "source": "https://hymebel.com/ru/products/office-ca-04/",
@@ -563,6 +590,7 @@
     {
       "id": "office-ca-06",
       "entityType": "project-selection",
+      "sku": null,
       "market": "ru",
       "language": "ru",
       "source": "https://hymebel.com/ru/products/office-ca-06/",
@@ -589,6 +617,7 @@
     {
       "id": "office-ca-07",
       "entityType": "project-selection",
+      "sku": null,
       "market": "ru",
       "language": "ru",
       "source": "https://hymebel.com/ru/products/office-ca-07/",
@@ -615,6 +644,7 @@
     {
       "id": "office-ca-08",
       "entityType": "project-selection",
+      "sku": null,
       "market": "ru",
       "language": "ru",
       "source": "https://hymebel.com/ru/products/office-ca-08/",
@@ -641,6 +671,7 @@
     {
       "id": "office-ca-10",
       "entityType": "project-selection",
+      "sku": null,
       "market": "ru",
       "language": "ru",
       "source": "https://hymebel.com/ru/products/office-ca-10/",
@@ -667,6 +698,7 @@
     {
       "id": "office-ca-12",
       "entityType": "project-selection",
+      "sku": null,
       "market": "ru",
       "language": "ru",
       "source": "https://hymebel.com/ru/products/office-ca-12/",
@@ -693,6 +725,7 @@
     {
       "id": "edu-ca-06",
       "entityType": "project-selection",
+      "sku": null,
       "market": "ru",
       "language": "ru",
       "source": "https://hymebel.com/ru/products/edu-ca-06/",
@@ -719,6 +752,7 @@
     {
       "id": "edu-ca-08",
       "entityType": "project-selection",
+      "sku": null,
       "market": "ru",
       "language": "ru",
       "source": "https://hymebel.com/ru/products/edu-ca-08/",
@@ -745,6 +779,7 @@
     {
       "id": "edu-ca-09",
       "entityType": "project-selection",
+      "sku": null,
       "market": "ru",
       "language": "ru",
       "source": "https://hymebel.com/ru/products/edu-ca-09/",
@@ -771,6 +806,7 @@
     {
       "id": "edu-ca-10",
       "entityType": "project-selection",
+      "sku": null,
       "market": "ru",
       "language": "ru",
       "source": "https://hymebel.com/ru/products/edu-ca-10/",
@@ -797,6 +833,7 @@
     {
       "id": "edu-ca-11",
       "entityType": "project-selection",
+      "sku": null,
       "market": "ru",
       "language": "ru",
       "source": "https://hymebel.com/ru/products/edu-ca-11/",
@@ -823,6 +860,7 @@
     {
       "id": "home-ca-05",
       "entityType": "project-selection",
+      "sku": null,
       "market": "ru",
       "language": "ru",
       "source": "https://hymebel.com/ru/products/home-ca-05/",
@@ -849,6 +887,7 @@
     {
       "id": "home-ca-10",
       "entityType": "project-selection",
+      "sku": null,
       "market": "ru",
       "language": "ru",
       "source": "https://hymebel.com/ru/products/home-ca-10/",
@@ -875,6 +914,7 @@
     {
       "id": "home-ca-12",
       "entityType": "project-selection",
+      "sku": null,
       "market": "ru",
       "language": "ru",
       "source": "https://hymebel.com/ru/products/home-ca-12/",
@@ -901,6 +941,7 @@
     {
       "id": "med-ca-03",
       "entityType": "project-selection",
+      "sku": null,
       "market": "ru",
       "language": "ru",
       "source": "https://hymebel.com/ru/products/med-ca-03/",
@@ -927,6 +968,7 @@
     {
       "id": "med-ca-02",
       "entityType": "project-selection",
+      "sku": null,
       "market": "ru",
       "language": "ru",
       "source": "https://hymebel.com/ru/products/med-ca-02/",
@@ -953,6 +995,7 @@
     {
       "id": "med-ca-07",
       "entityType": "project-selection",
+      "sku": null,
       "market": "ru",
       "language": "ru",
       "source": "https://hymebel.com/ru/products/med-ca-07/",
@@ -979,6 +1022,7 @@
     {
       "id": "med-ca-08",
       "entityType": "project-selection",
+      "sku": null,
       "market": "ru",
       "language": "ru",
       "source": "https://hymebel.com/ru/products/med-ca-08/",
@@ -1005,6 +1049,7 @@
     {
       "id": "med-ca-09",
       "entityType": "project-selection",
+      "sku": null,
       "market": "ru",
       "language": "ru",
       "source": "https://hymebel.com/ru/products/med-ca-09/",
@@ -1031,6 +1076,7 @@
     {
       "id": "med-ca-10",
       "entityType": "project-selection",
+      "sku": null,
       "market": "ru",
       "language": "ru",
       "source": "https://hymebel.com/ru/products/med-ca-10/",
@@ -1057,6 +1103,7 @@
     {
       "id": "med-ca-11",
       "entityType": "project-selection",
+      "sku": null,
       "market": "ru",
       "language": "ru",
       "source": "https://hymebel.com/ru/products/med-ca-11/",
@@ -1083,6 +1130,7 @@
     {
       "id": "med-ca-13",
       "entityType": "project-selection",
+      "sku": null,
       "market": "ru",
       "language": "ru",
       "source": "https://hymebel.com/ru/products/med-ca-13/",
@@ -1109,6 +1157,7 @@
     {
       "id": "med-ca-15",
       "entityType": "project-selection",
+      "sku": null,
       "market": "ru",
       "language": "ru",
       "source": "https://hymebel.com/ru/products/med-ca-15/",
@@ -1133,8 +1182,139 @@
       "reviewed": "2026-10-29"
     },
     {
+      "id": "fenmi-t074",
+      "entityType": "existing-manufacturer-sku-market-adaptation",
+      "sku": "T074",
+      "market": "ru",
+      "language": "ru",
+      "source": "https://hymebel.com/ru/products/fenmi-t074/",
+      "title": "Круглый обеденный стол T074",
+      "summary": "В проверенном каталоге модели T074 указаны диаметры 1500, 1800 мм и высота 750 мм. Проверьте положение стульев и пространство для ног вокруг центрального основания. Материал, отделку и окончательные размеры заказа согласуйте по образцу и чертежу.",
+      "category": "villa-residential",
+      "context": "Для частной резиденции или жилого интерьера согласуем мебель по помещениям, отделкам и посадочным размерам. Важно разделить отдельно стоящие предметы и изделия по чертежам, проверить проходы, стыки со стенами и состав комплекта до расчёта.",
+      "image": "https://hymebel.com/images/products/fenmi-verified/mesa-comedor-redonda-t074.jpg",
+      "checklist": [
+        "В проверенном каталоге модели T074 указаны диаметры 1500, 1800 мм и высота 750 мм. Проверьте положение стульев и пространство для ног вокруг центрального основания. Материал, отделку и окончательные размеры заказа согласуйте по образцу и чертежу.",
+        "Укажите количество, город назначения и размеры дверей для заноса."
+      ],
+      "questions": [
+        {
+          "q": "Подтверждены ли материал и число посадочных мест?",
+          "a": "Нет. Перечень диаметров не подтверждает число мест или состав материала. Согласуйте выбранные стулья, образец и чертёж заказа отдельно."
+        }
+      ],
+      "visualSource": "https://hymebel.com/en/products/fenmi-t074/",
+      "imageCaption": "T074: исходное фото модели из проверенного каталога; не подтверждение местной поставки.",
+      "reviewed": "2026-10-30"
+    },
+    {
+      "id": "fenmi-t032",
+      "entityType": "existing-manufacturer-sku-market-adaptation",
+      "sku": "T032",
+      "market": "ru",
+      "language": "ru",
+      "source": "https://hymebel.com/ru/products/fenmi-t032/",
+      "title": "Круглый обеденный стол T032",
+      "summary": "В проверенном каталоге модели T032 указаны диаметры 1400, 1600, 1800 мм и высота 750 мм. Сопоставьте вертикальные опоры с местом каждого сидящего и сохраните проход вокруг стола. Материал, отделку и окончательные размеры заказа согласуйте по образцу и чертежу.",
+      "category": "villa-residential",
+      "context": "Для частной резиденции или жилого интерьера согласуем мебель по помещениям, отделкам и посадочным размерам. Важно разделить отдельно стоящие предметы и изделия по чертежам, проверить проходы, стыки со стенами и состав комплекта до расчёта.",
+      "image": "https://hymebel.com/images/products/fenmi-verified/mesa-comedor-redonda-t032.jpg",
+      "checklist": [
+        "В проверенном каталоге модели T032 указаны диаметры 1400, 1600, 1800 мм и высота 750 мм. Сопоставьте вертикальные опоры с местом каждого сидящего и сохраните проход вокруг стола. Материал, отделку и окончательные размеры заказа согласуйте по образцу и чертежу.",
+        "Укажите количество, город назначения и размеры дверей для заноса."
+      ],
+      "questions": [
+        {
+          "q": "Подтверждены ли материал и число посадочных мест?",
+          "a": "Нет. Перечень диаметров не подтверждает число мест или состав материала. Согласуйте выбранные стулья, образец и чертёж заказа отдельно."
+        }
+      ],
+      "visualSource": "https://hymebel.com/en/products/fenmi-t032/",
+      "imageCaption": "T032: исходное фото модели из проверенного каталога; не подтверждение местной поставки.",
+      "reviewed": "2026-10-30"
+    },
+    {
+      "id": "fenmi-t092",
+      "entityType": "existing-manufacturer-sku-market-adaptation",
+      "sku": "T092",
+      "market": "ru",
+      "language": "ru",
+      "source": "https://hymebel.com/ru/products/fenmi-t092/",
+      "title": "Круглый обеденный стол T092",
+      "summary": "В проверенном каталоге модели T092 указаны диаметры 1350, 1600 мм и высота 750 мм. Сравните форму разветвлённого основания с подводом стульев; фотография не устанавливает нагрузку. Материал, отделку и окончательные размеры заказа согласуйте по образцу и чертежу.",
+      "category": "villa-residential",
+      "context": "Для частной резиденции или жилого интерьера согласуем мебель по помещениям, отделкам и посадочным размерам. Важно разделить отдельно стоящие предметы и изделия по чертежам, проверить проходы, стыки со стенами и состав комплекта до расчёта.",
+      "image": "https://hymebel.com/images/products/fenmi-verified/mesa-comedor-redonda-t092.jpg",
+      "checklist": [
+        "В проверенном каталоге модели T092 указаны диаметры 1350, 1600 мм и высота 750 мм. Сравните форму разветвлённого основания с подводом стульев; фотография не устанавливает нагрузку. Материал, отделку и окончательные размеры заказа согласуйте по образцу и чертежу.",
+        "Укажите количество, город назначения и размеры дверей для заноса."
+      ],
+      "questions": [
+        {
+          "q": "Подтверждены ли материал и число посадочных мест?",
+          "a": "Нет. Перечень диаметров не подтверждает число мест или состав материала. Согласуйте выбранные стулья, образец и чертёж заказа отдельно."
+        }
+      ],
+      "visualSource": "https://hymebel.com/en/products/fenmi-t092/",
+      "imageCaption": "T092: исходное фото модели из проверенного каталога; не подтверждение местной поставки.",
+      "reviewed": "2026-10-30"
+    },
+    {
+      "id": "fenmi-t012",
+      "entityType": "existing-manufacturer-sku-market-adaptation",
+      "sku": "T012",
+      "market": "ru",
+      "language": "ru",
+      "source": "https://hymebel.com/ru/products/fenmi-t012/",
+      "title": "Круглый обеденный стол T012",
+      "summary": "В проверенном каталоге модели T012 указаны диаметры 1400, 1600 мм и высота 750 мм. Проверьте взаимное положение основания, спинок стульев и края столешницы по плану. Материал, отделку и окончательные размеры заказа согласуйте по образцу и чертежу.",
+      "category": "villa-residential",
+      "context": "Для частной резиденции или жилого интерьера согласуем мебель по помещениям, отделкам и посадочным размерам. Важно разделить отдельно стоящие предметы и изделия по чертежам, проверить проходы, стыки со стенами и состав комплекта до расчёта.",
+      "image": "https://hymebel.com/images/products/fenmi-verified/mesa-comedor-redonda-t012.jpg",
+      "checklist": [
+        "В проверенном каталоге модели T012 указаны диаметры 1400, 1600 мм и высота 750 мм. Проверьте взаимное положение основания, спинок стульев и края столешницы по плану. Материал, отделку и окончательные размеры заказа согласуйте по образцу и чертежу.",
+        "Укажите количество, город назначения и размеры дверей для заноса."
+      ],
+      "questions": [
+        {
+          "q": "Подтверждены ли материал и число посадочных мест?",
+          "a": "Нет. Перечень диаметров не подтверждает число мест или состав материала. Согласуйте выбранные стулья, образец и чертёж заказа отдельно."
+        }
+      ],
+      "visualSource": "https://hymebel.com/en/products/fenmi-t012/",
+      "imageCaption": "T012: исходное фото модели из проверенного каталога; не подтверждение местной поставки.",
+      "reviewed": "2026-10-30"
+    },
+    {
+      "id": "fenmi-t130",
+      "entityType": "existing-manufacturer-sku-market-adaptation",
+      "sku": "T130",
+      "market": "ru",
+      "language": "ru",
+      "source": "https://hymebel.com/ru/products/fenmi-t130/",
+      "title": "Круглый обеденный стол T130",
+      "summary": "В проверенном каталоге модели T130 указаны диаметры 1500, 1600, 1800 мм и высота 750 мм. Сравните диаметры с реальными размерами комнаты; больший формат не означает подтверждённую вместимость. Материал, отделку и окончательные размеры заказа согласуйте по образцу и чертежу.",
+      "category": "villa-residential",
+      "context": "Для частной резиденции или жилого интерьера согласуем мебель по помещениям, отделкам и посадочным размерам. Важно разделить отдельно стоящие предметы и изделия по чертежам, проверить проходы, стыки со стенами и состав комплекта до расчёта.",
+      "image": "https://hymebel.com/images/products/fenmi-verified/mesa-comedor-redonda-t130.jpg",
+      "checklist": [
+        "В проверенном каталоге модели T130 указаны диаметры 1500, 1600, 1800 мм и высота 750 мм. Сравните диаметры с реальными размерами комнаты; больший формат не означает подтверждённую вместимость. Материал, отделку и окончательные размеры заказа согласуйте по образцу и чертежу.",
+        "Укажите количество, город назначения и размеры дверей для заноса."
+      ],
+      "questions": [
+        {
+          "q": "Подтверждены ли материал и число посадочных мест?",
+          "a": "Нет. Перечень диаметров не подтверждает число мест или состав материала. Согласуйте выбранные стулья, образец и чертёж заказа отдельно."
+        }
+      ],
+      "visualSource": "https://hymebel.com/en/products/fenmi-t130/",
+      "imageCaption": "T130: исходное фото модели из проверенного каталога; не подтверждение местной поставки.",
+      "reviewed": "2026-10-30"
+    },
+    {
       "id": "hotel-ca-03",
       "entityType": "project-selection",
+      "sku": null,
       "market": "ru",
       "language": "en",
       "source": "https://hymebel.com/ru/en/products/hotel-ca-03/",
@@ -1152,6 +1332,7 @@
     {
       "id": "hotel-ca-09",
       "entityType": "project-selection",
+      "sku": null,
       "market": "ru",
       "language": "en",
       "source": "https://hymebel.com/ru/en/products/hotel-ca-09/",
@@ -1169,6 +1350,7 @@
     {
       "id": "hotel-ca-10",
       "entityType": "project-selection",
+      "sku": null,
       "market": "ru",
       "language": "en",
       "source": "https://hymebel.com/ru/en/products/hotel-ca-10/",
@@ -1186,6 +1368,7 @@
     {
       "id": "office-ca-11",
       "entityType": "project-selection",
+      "sku": null,
       "market": "ru",
       "language": "en",
       "source": "https://hymebel.com/ru/en/products/office-ca-11/",
@@ -1203,6 +1386,7 @@
     {
       "id": "office-ca-05",
       "entityType": "project-selection",
+      "sku": null,
       "market": "ru",
       "language": "en",
       "source": "https://hymebel.com/ru/en/products/office-ca-05/",
@@ -1220,6 +1404,7 @@
     {
       "id": "office-ca-09",
       "entityType": "project-selection",
+      "sku": null,
       "market": "ru",
       "language": "en",
       "source": "https://hymebel.com/ru/en/products/office-ca-09/",
@@ -1237,6 +1422,7 @@
     {
       "id": "edu-ca-01",
       "entityType": "project-selection",
+      "sku": null,
       "market": "ru",
       "language": "en",
       "source": "https://hymebel.com/ru/en/products/edu-ca-01/",
@@ -1254,6 +1440,7 @@
     {
       "id": "edu-ca-04",
       "entityType": "project-selection",
+      "sku": null,
       "market": "ru",
       "language": "en",
       "source": "https://hymebel.com/ru/en/products/edu-ca-04/",
@@ -1271,6 +1458,7 @@
     {
       "id": "med-ca-01",
       "entityType": "project-selection",
+      "sku": null,
       "market": "ru",
       "language": "en",
       "source": "https://hymebel.com/ru/en/products/med-ca-01/",
@@ -1288,6 +1476,7 @@
     {
       "id": "home-ca-01",
       "entityType": "project-selection",
+      "sku": null,
       "market": "ru",
       "language": "en",
       "source": "https://hymebel.com/ru/en/products/home-ca-01/",
@@ -1305,6 +1494,7 @@
     {
       "id": "home-ca-06",
       "entityType": "project-selection",
+      "sku": null,
       "market": "ru",
       "language": "en",
       "source": "https://hymebel.com/ru/en/products/home-ca-06/",
@@ -1322,6 +1512,7 @@
     {
       "id": "home-ca-07",
       "entityType": "project-selection",
+      "sku": null,
       "market": "ru",
       "language": "en",
       "source": "https://hymebel.com/ru/en/products/home-ca-07/",
@@ -1339,6 +1530,7 @@
     {
       "id": "hotel-ca-02",
       "entityType": "project-selection",
+      "sku": null,
       "market": "ru",
       "language": "en",
       "source": "https://hymebel.com/ru/en/products/hotel-ca-02/",
@@ -1356,6 +1548,7 @@
     {
       "id": "hotel-ca-07",
       "entityType": "project-selection",
+      "sku": null,
       "market": "ru",
       "language": "en",
       "source": "https://hymebel.com/ru/en/products/hotel-ca-07/",
@@ -1373,6 +1566,7 @@
     {
       "id": "hotel-ca-08",
       "entityType": "project-selection",
+      "sku": null,
       "market": "ru",
       "language": "en",
       "source": "https://hymebel.com/ru/en/products/hotel-ca-08/",
@@ -1390,6 +1584,7 @@
     {
       "id": "home-ca-03",
       "entityType": "project-selection",
+      "sku": null,
       "market": "ru",
       "language": "en",
       "source": "https://hymebel.com/ru/en/products/home-ca-03/",
@@ -1411,6 +1606,7 @@
     {
       "id": "home-ca-04",
       "entityType": "project-selection",
+      "sku": null,
       "market": "ru",
       "language": "en",
       "source": "https://hymebel.com/ru/en/products/home-ca-04/",
@@ -1432,6 +1628,7 @@
     {
       "id": "office-ca-03",
       "entityType": "project-selection",
+      "sku": null,
       "market": "ru",
       "language": "en",
       "source": "https://hymebel.com/ru/en/products/office-ca-03/",
@@ -1453,6 +1650,7 @@
     {
       "id": "hotel-ca-01",
       "entityType": "project-selection",
+      "sku": null,
       "market": "ru",
       "language": "en",
       "source": "https://hymebel.com/ru/en/products/hotel-ca-01/",
@@ -1479,6 +1677,7 @@
     {
       "id": "hotel-ca-04",
       "entityType": "project-selection",
+      "sku": null,
       "market": "ru",
       "language": "en",
       "source": "https://hymebel.com/ru/en/products/hotel-ca-04/",
@@ -1505,6 +1704,7 @@
     {
       "id": "hotel-ca-05",
       "entityType": "project-selection",
+      "sku": null,
       "market": "ru",
       "language": "en",
       "source": "https://hymebel.com/ru/en/products/hotel-ca-05/",
@@ -1531,6 +1731,7 @@
     {
       "id": "hotel-ca-06",
       "entityType": "project-selection",
+      "sku": null,
       "market": "ru",
       "language": "en",
       "source": "https://hymebel.com/ru/en/products/hotel-ca-06/",
@@ -1557,6 +1758,7 @@
     {
       "id": "hotel-ca-14",
       "entityType": "project-selection",
+      "sku": null,
       "market": "ru",
       "language": "en",
       "source": "https://hymebel.com/ru/en/products/hotel-ca-14/",
@@ -1583,6 +1785,7 @@
     {
       "id": "hotel-ca-15",
       "entityType": "project-selection",
+      "sku": null,
       "market": "ru",
       "language": "en",
       "source": "https://hymebel.com/ru/en/products/hotel-ca-15/",
@@ -1609,6 +1812,7 @@
     {
       "id": "office-ca-01",
       "entityType": "project-selection",
+      "sku": null,
       "market": "ru",
       "language": "en",
       "source": "https://hymebel.com/ru/en/products/office-ca-01/",
@@ -1635,6 +1839,7 @@
     {
       "id": "office-ca-02",
       "entityType": "project-selection",
+      "sku": null,
       "market": "ru",
       "language": "en",
       "source": "https://hymebel.com/ru/en/products/office-ca-02/",
@@ -1661,6 +1866,7 @@
     {
       "id": "office-ca-04",
       "entityType": "project-selection",
+      "sku": null,
       "market": "ru",
       "language": "en",
       "source": "https://hymebel.com/ru/en/products/office-ca-04/",
@@ -1687,6 +1893,7 @@
     {
       "id": "office-ca-06",
       "entityType": "project-selection",
+      "sku": null,
       "market": "ru",
       "language": "en",
       "source": "https://hymebel.com/ru/en/products/office-ca-06/",
@@ -1713,6 +1920,7 @@
     {
       "id": "office-ca-07",
       "entityType": "project-selection",
+      "sku": null,
       "market": "ru",
       "language": "en",
       "source": "https://hymebel.com/ru/en/products/office-ca-07/",
@@ -1739,6 +1947,7 @@
     {
       "id": "office-ca-08",
       "entityType": "project-selection",
+      "sku": null,
       "market": "ru",
       "language": "en",
       "source": "https://hymebel.com/ru/en/products/office-ca-08/",
@@ -1765,6 +1974,7 @@
     {
       "id": "office-ca-10",
       "entityType": "project-selection",
+      "sku": null,
       "market": "ru",
       "language": "en",
       "source": "https://hymebel.com/ru/en/products/office-ca-10/",
@@ -1791,6 +2001,7 @@
     {
       "id": "office-ca-12",
       "entityType": "project-selection",
+      "sku": null,
       "market": "ru",
       "language": "en",
       "source": "https://hymebel.com/ru/en/products/office-ca-12/",
@@ -1817,6 +2028,7 @@
     {
       "id": "edu-ca-06",
       "entityType": "project-selection",
+      "sku": null,
       "market": "ru",
       "language": "en",
       "source": "https://hymebel.com/ru/en/products/edu-ca-06/",
@@ -1843,6 +2055,7 @@
     {
       "id": "edu-ca-08",
       "entityType": "project-selection",
+      "sku": null,
       "market": "ru",
       "language": "en",
       "source": "https://hymebel.com/ru/en/products/edu-ca-08/",
@@ -1869,6 +2082,7 @@
     {
       "id": "edu-ca-09",
       "entityType": "project-selection",
+      "sku": null,
       "market": "ru",
       "language": "en",
       "source": "https://hymebel.com/ru/en/products/edu-ca-09/",
@@ -1895,6 +2109,7 @@
     {
       "id": "edu-ca-10",
       "entityType": "project-selection",
+      "sku": null,
       "market": "ru",
       "language": "en",
       "source": "https://hymebel.com/ru/en/products/edu-ca-10/",
@@ -1921,6 +2136,7 @@
     {
       "id": "edu-ca-11",
       "entityType": "project-selection",
+      "sku": null,
       "market": "ru",
       "language": "en",
       "source": "https://hymebel.com/ru/en/products/edu-ca-11/",
@@ -1947,6 +2163,7 @@
     {
       "id": "home-ca-05",
       "entityType": "project-selection",
+      "sku": null,
       "market": "ru",
       "language": "en",
       "source": "https://hymebel.com/ru/en/products/home-ca-05/",
@@ -1973,6 +2190,7 @@
     {
       "id": "home-ca-10",
       "entityType": "project-selection",
+      "sku": null,
       "market": "ru",
       "language": "en",
       "source": "https://hymebel.com/ru/en/products/home-ca-10/",
@@ -1999,6 +2217,7 @@
     {
       "id": "home-ca-12",
       "entityType": "project-selection",
+      "sku": null,
       "market": "ru",
       "language": "en",
       "source": "https://hymebel.com/ru/en/products/home-ca-12/",
@@ -2025,6 +2244,7 @@
     {
       "id": "med-ca-03",
       "entityType": "project-selection",
+      "sku": null,
       "market": "ru",
       "language": "en",
       "source": "https://hymebel.com/ru/en/products/med-ca-03/",
@@ -2051,6 +2271,7 @@
     {
       "id": "med-ca-02",
       "entityType": "project-selection",
+      "sku": null,
       "market": "ru",
       "language": "en",
       "source": "https://hymebel.com/ru/en/products/med-ca-02/",
@@ -2077,6 +2298,7 @@
     {
       "id": "med-ca-07",
       "entityType": "project-selection",
+      "sku": null,
       "market": "ru",
       "language": "en",
       "source": "https://hymebel.com/ru/en/products/med-ca-07/",
@@ -2103,6 +2325,7 @@
     {
       "id": "med-ca-08",
       "entityType": "project-selection",
+      "sku": null,
       "market": "ru",
       "language": "en",
       "source": "https://hymebel.com/ru/en/products/med-ca-08/",
@@ -2129,6 +2352,7 @@
     {
       "id": "med-ca-09",
       "entityType": "project-selection",
+      "sku": null,
       "market": "ru",
       "language": "en",
       "source": "https://hymebel.com/ru/en/products/med-ca-09/",
@@ -2155,6 +2379,7 @@
     {
       "id": "med-ca-10",
       "entityType": "project-selection",
+      "sku": null,
       "market": "ru",
       "language": "en",
       "source": "https://hymebel.com/ru/en/products/med-ca-10/",
@@ -2181,6 +2406,7 @@
     {
       "id": "med-ca-11",
       "entityType": "project-selection",
+      "sku": null,
       "market": "ru",
       "language": "en",
       "source": "https://hymebel.com/ru/en/products/med-ca-11/",
@@ -2207,6 +2433,7 @@
     {
       "id": "med-ca-13",
       "entityType": "project-selection",
+      "sku": null,
       "market": "ru",
       "language": "en",
       "source": "https://hymebel.com/ru/en/products/med-ca-13/",
@@ -2233,6 +2460,7 @@
     {
       "id": "med-ca-15",
       "entityType": "project-selection",
+      "sku": null,
       "market": "ru",
       "language": "en",
       "source": "https://hymebel.com/ru/en/products/med-ca-15/",
@@ -2255,6 +2483,136 @@
       "visualSource": "https://hymebel.com/en/products/med-ca-15/",
       "imageCaption": "Published catalogue visual reference; not proof of delivery or an approved manufacturer model.",
       "reviewed": "2026-10-29"
+    },
+    {
+      "id": "fenmi-t074",
+      "entityType": "existing-manufacturer-sku-market-adaptation",
+      "sku": "T074",
+      "market": "ru",
+      "language": "en",
+      "source": "https://hymebel.com/ru/en/products/fenmi-t074/",
+      "title": "T074 round dining table",
+      "summary": "The reviewed T074 catalogue lists diameter options of 1500, 1800 mm and a height of 750 mm. Check chair positions and leg clearance around the central base. Confirm final order dimensions, material and finish against the selected sample and drawing.",
+      "category": "villa-residential",
+      "context": "Coordinate bedrooms, living rooms, dining areas and storage through a room-by-room schedule. Separate freestanding furniture from drawing-based joinery and review wall interfaces and access dimensions.",
+      "image": "https://hymebel.com/images/products/fenmi-verified/mesa-comedor-redonda-t074.jpg",
+      "checklist": [
+        "The reviewed T074 catalogue lists diameter options of 1500, 1800 mm and a height of 750 mm. Check chair positions and leg clearance around the central base. Confirm final order dimensions, material and finish against the selected sample and drawing.",
+        "Provide quantity, destination and delivery access dimensions."
+      ],
+      "questions": [
+        {
+          "q": "Does the catalogue image confirm material and seating capacity?",
+          "a": "No. Listed diameter options do not certify a seat count or material composition. Review the selected chairs, sample and order drawing separately."
+        }
+      ],
+      "visualSource": "https://hymebel.com/en/products/fenmi-t074/",
+      "imageCaption": "T074: original model photograph from the reviewed catalogue; not evidence of local delivery.",
+      "reviewed": "2026-10-30"
+    },
+    {
+      "id": "fenmi-t032",
+      "entityType": "existing-manufacturer-sku-market-adaptation",
+      "sku": "T032",
+      "market": "ru",
+      "language": "en",
+      "source": "https://hymebel.com/ru/en/products/fenmi-t032/",
+      "title": "T032 round dining table",
+      "summary": "The reviewed T032 catalogue lists diameter options of 1400, 1600, 1800 mm and a height of 750 mm. Map the vertical supports against each seat position and the circulation route. Confirm final order dimensions, material and finish against the selected sample and drawing.",
+      "category": "villa-residential",
+      "context": "Coordinate bedrooms, living rooms, dining areas and storage through a room-by-room schedule. Separate freestanding furniture from drawing-based joinery and review wall interfaces and access dimensions.",
+      "image": "https://hymebel.com/images/products/fenmi-verified/mesa-comedor-redonda-t032.jpg",
+      "checklist": [
+        "The reviewed T032 catalogue lists diameter options of 1400, 1600, 1800 mm and a height of 750 mm. Map the vertical supports against each seat position and the circulation route. Confirm final order dimensions, material and finish against the selected sample and drawing.",
+        "Provide quantity, destination and delivery access dimensions."
+      ],
+      "questions": [
+        {
+          "q": "Does the catalogue image confirm material and seating capacity?",
+          "a": "No. Listed diameter options do not certify a seat count or material composition. Review the selected chairs, sample and order drawing separately."
+        }
+      ],
+      "visualSource": "https://hymebel.com/en/products/fenmi-t032/",
+      "imageCaption": "T032: original model photograph from the reviewed catalogue; not evidence of local delivery.",
+      "reviewed": "2026-10-30"
+    },
+    {
+      "id": "fenmi-t092",
+      "entityType": "existing-manufacturer-sku-market-adaptation",
+      "sku": "T092",
+      "market": "ru",
+      "language": "en",
+      "source": "https://hymebel.com/ru/en/products/fenmi-t092/",
+      "title": "T092 round dining table",
+      "summary": "The reviewed T092 catalogue lists diameter options of 1350, 1600 mm and a height of 750 mm. Compare the branching base with chair approach; the photograph does not establish load capacity. Confirm final order dimensions, material and finish against the selected sample and drawing.",
+      "category": "villa-residential",
+      "context": "Coordinate bedrooms, living rooms, dining areas and storage through a room-by-room schedule. Separate freestanding furniture from drawing-based joinery and review wall interfaces and access dimensions.",
+      "image": "https://hymebel.com/images/products/fenmi-verified/mesa-comedor-redonda-t092.jpg",
+      "checklist": [
+        "The reviewed T092 catalogue lists diameter options of 1350, 1600 mm and a height of 750 mm. Compare the branching base with chair approach; the photograph does not establish load capacity. Confirm final order dimensions, material and finish against the selected sample and drawing.",
+        "Provide quantity, destination and delivery access dimensions."
+      ],
+      "questions": [
+        {
+          "q": "Does the catalogue image confirm material and seating capacity?",
+          "a": "No. Listed diameter options do not certify a seat count or material composition. Review the selected chairs, sample and order drawing separately."
+        }
+      ],
+      "visualSource": "https://hymebel.com/en/products/fenmi-t092/",
+      "imageCaption": "T092: original model photograph from the reviewed catalogue; not evidence of local delivery.",
+      "reviewed": "2026-10-30"
+    },
+    {
+      "id": "fenmi-t012",
+      "entityType": "existing-manufacturer-sku-market-adaptation",
+      "sku": "T012",
+      "market": "ru",
+      "language": "en",
+      "source": "https://hymebel.com/ru/en/products/fenmi-t012/",
+      "title": "T012 round dining table",
+      "summary": "The reviewed T012 catalogue lists diameter options of 1400, 1600 mm and a height of 750 mm. Check the base, chair backs and tabletop edge together on the measured plan. Confirm final order dimensions, material and finish against the selected sample and drawing.",
+      "category": "villa-residential",
+      "context": "Coordinate bedrooms, living rooms, dining areas and storage through a room-by-room schedule. Separate freestanding furniture from drawing-based joinery and review wall interfaces and access dimensions.",
+      "image": "https://hymebel.com/images/products/fenmi-verified/mesa-comedor-redonda-t012.jpg",
+      "checklist": [
+        "The reviewed T012 catalogue lists diameter options of 1400, 1600 mm and a height of 750 mm. Check the base, chair backs and tabletop edge together on the measured plan. Confirm final order dimensions, material and finish against the selected sample and drawing.",
+        "Provide quantity, destination and delivery access dimensions."
+      ],
+      "questions": [
+        {
+          "q": "Does the catalogue image confirm material and seating capacity?",
+          "a": "No. Listed diameter options do not certify a seat count or material composition. Review the selected chairs, sample and order drawing separately."
+        }
+      ],
+      "visualSource": "https://hymebel.com/en/products/fenmi-t012/",
+      "imageCaption": "T012: original model photograph from the reviewed catalogue; not evidence of local delivery.",
+      "reviewed": "2026-10-30"
+    },
+    {
+      "id": "fenmi-t130",
+      "entityType": "existing-manufacturer-sku-market-adaptation",
+      "sku": "T130",
+      "market": "ru",
+      "language": "en",
+      "source": "https://hymebel.com/ru/en/products/fenmi-t130/",
+      "title": "T130 round dining table",
+      "summary": "The reviewed T130 catalogue lists diameter options of 1500, 1600, 1800 mm and a height of 750 mm. Compare each diameter with the actual room; a larger size does not establish a verified seat count. Confirm final order dimensions, material and finish against the selected sample and drawing.",
+      "category": "villa-residential",
+      "context": "Coordinate bedrooms, living rooms, dining areas and storage through a room-by-room schedule. Separate freestanding furniture from drawing-based joinery and review wall interfaces and access dimensions.",
+      "image": "https://hymebel.com/images/products/fenmi-verified/mesa-comedor-redonda-t130.jpg",
+      "checklist": [
+        "The reviewed T130 catalogue lists diameter options of 1500, 1600, 1800 mm and a height of 750 mm. Compare each diameter with the actual room; a larger size does not establish a verified seat count. Confirm final order dimensions, material and finish against the selected sample and drawing.",
+        "Provide quantity, destination and delivery access dimensions."
+      ],
+      "questions": [
+        {
+          "q": "Does the catalogue image confirm material and seating capacity?",
+          "a": "No. Listed diameter options do not certify a seat count or material composition. Review the selected chairs, sample and order drawing separately."
+        }
+      ],
+      "visualSource": "https://hymebel.com/en/products/fenmi-t130/",
+      "imageCaption": "T130: original model photograph from the reviewed catalogue; not evidence of local delivery.",
+      "reviewed": "2026-10-30"
     }
   ]
 }

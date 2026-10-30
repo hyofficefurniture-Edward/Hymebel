@@ -78,5 +78,13 @@
       "/images/products/fenmi-verified/mesa-de-te-ts023.jpg"
     ],
     "primarySource": "https://hymobiliario.com/productos/mesa-de-te-ts023/"
+  },
+  "hongye-nova": {
+    "image": "/images/products/verified-office/nova-2022.jpg",
+    "gallery": [
+      "/images/products/verified-office/nova-2022.jpg"
+    ],
+    "modelFamily": "NOVA",
+    "primarySource": "https://www.hyofficefurniture.com/JUEDU-NOVA-Series-Boss-CEO-Office-Executive-Desk-with-Luxury-Modern-Design-pd44075092.html"
   }
 }

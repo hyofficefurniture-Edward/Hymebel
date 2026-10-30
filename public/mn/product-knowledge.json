@@ -1,12 +1,12 @@
 {
   "scope": "Complete current regional selection catalogue; language copies are not independent products",
-  "uniqueSelections": 59,
+  "uniqueSelections": 60,
   "languages": [
     "mn",
     "en"
   ],
   "newGlobalManufacturerSkus": 0,
-  "updated": "2026-10-30",
+  "updated": "2026-10-31",
   "entries": [
     {
       "id": "hotel-ca-03",
@@ -1442,6 +1442,33 @@
       "reviewed": "2026-10-30"
     },
     {
+      "id": "hongye-nova",
+      "entityType": "documented-manufacturer-model-family-selection",
+      "sku": null,
+      "market": "mn",
+      "language": "mn",
+      "source": "https://hymebel.com/mn/products/hongye-nova/",
+      "title": "NOVA удирдах ажилтны ширээний сонголт",
+      "summary": "Группийн JUEDU NOVA эх хуудас нь удирдах ажилтны ширээний цуврал болон 2400 × 2800 × 760 мм жишиг хэмжээг нийтэлсэн. NF-D0128 / NF-D0132 кодын аль хувилбар, буцах тавцангийн чиглэл, хадгалах хэсгийг захиалгын зургаар батална.",
+      "category": "office-furniture",
+      "context": "Шинэ оффис, дизайн студи, байгууллагын ажлын байрыг төлөвлөлтөөс нь эхэлж бүрдүүлнэ. Ажлын ширээ, уулзалтын ширээ, ресепшн, хадгалах шүүгээг ажилтны тоо ба өрөөний хэмжээнд тохируулан сонгоно. Кабелийн гарц, залгуурын байршлыг захиалгын өмнө зураг дээр тэмдэглэх нь чухал.",
+      "image": "https://hymebel.com/images/products/verified-office/nova-2022.jpg",
+      "checklist": [
+        "Цувралын эх хуудсанд NF-D0128 / NF-D0132 кодыг хамт жагсаасан тул зурагт үзүүлсэн иж бүрдлийг нэг кодын эцсийн үзүүлэлт гэж үзэхгүй.",
+        "Ширээ болон буцах тавцанг хэмжилттэй төлөвлөгөөнд байрлуулж, сандлын хөдөлгөөн, хаалга, кабелийн гарц, залгуур ба шүүгээний нээлтийг шалгана.",
+        "Өнгөлгөө, тавцан ба суурийн материал, тоноглол, тусдаа хадгалах шүүгээ болон угсралтын хүрээг дээж, зургаар батална."
+      ],
+      "questions": [
+        {
+          "q": "2400 × 2800 × 760 мм нь хоёр кодод хоёуланд нь хамаарах уу?",
+          "a": "Эх хуудас цувралын нэг жишиг хэмжээг харуулдаг. NF-D0128 эсвэл NF-D0132-ын сонгосон хэмжээ, буцах тавцангийн чиглэл, иж бүрдлийг захиалгын зургаар тусад нь батална."
+        }
+      ],
+      "visualSource": "https://www.hyofficefurniture.com/JUEDU-NOVA-Series-Boss-CEO-Office-Executive-Desk-with-Luxury-Modern-Design-pd44075092.html",
+      "imageCaption": "Группийн NOVA 2022 каталогийн дүрслэл; бодит нийлүүлэлтийн зураг биш. Сандал, арын шүүгээ, гэрэлтүүлэг ба хэрэгслийг тусад нь тохирно.",
+      "reviewed": "2026-10-31"
+    },
+    {
       "id": "hotel-ca-03",
       "entityType": "project-selection",
       "sku": null,
@@ -2873,6 +2900,33 @@
       "visualSource": "https://hymobiliario.com/productos/mesa-de-te-ts023/",
       "imageCaption": "Original TS023 model image; any pictured accessories are agreed separately.",
       "reviewed": "2026-10-30"
+    },
+    {
+      "id": "hongye-nova",
+      "entityType": "documented-manufacturer-model-family-selection",
+      "sku": null,
+      "market": "mn",
+      "language": "en",
+      "source": "https://hymebel.com/mn/en/products/hongye-nova/",
+      "title": "NOVA executive desk selection",
+      "summary": "The group source identifies JUEDU NOVA and lists a 2400 × 2800 × 760 mm reference configuration. Confirm NF-D0128 versus NF-D0132, the return direction and storage scope against the selected order drawing.",
+      "category": "office-furniture",
+      "context": "Plan workstations, meeting tables, executive furniture, reception and storage around the workplace layout. Review circulation, cable access and maintenance before confirming the configuration.",
+      "image": "https://hymebel.com/images/products/verified-office/nova-2022.jpg",
+      "checklist": [
+        "The source lists NF-D0128 and NF-D0132 together. The series illustration does not establish a final specification for either code.",
+        "Position the desk and return on a measured office plan. Review chair movement, door access, cable outlets, sockets and storage-door clearances.",
+        "Agree tabletop and base materials, finish sample, hardware, separate storage units and assembly scope on approved drawings."
+      ],
+      "questions": [
+        {
+          "q": "Does 2400 × 2800 × 760 mm apply to both codes?",
+          "a": "The source presents a reference configuration for the series. Confirm sizes, return direction and included pieces for NF-D0128 or NF-D0132 on the selected order drawing."
+        }
+      ],
+      "visualSource": "https://www.hyofficefurniture.com/JUEDU-NOVA-Series-Boss-CEO-Office-Executive-Desk-with-Luxury-Modern-Design-pd44075092.html",
+      "imageCaption": "Original group NOVA 2022 catalogue rendering, not delivery photography. Chair, rear storage, lighting and accessories are agreed separately.",
+      "reviewed": "2026-10-31"
     }
   ]
 }

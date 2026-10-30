@@ -3140,5 +3140,82 @@
       "caseNote": "This does not establish that this model was supplied to that project.",
       "reviewedVisual": "2026-10-30"
     }
+  },
+  "hongye-nova": {
+    "mn": {
+      "focus": "Цувралын нэрийг захиалгын кодтой ялгаж батлах",
+      "items": [
+        "Цувралын эх хуудсанд NF-D0128 / NF-D0132 кодыг хамт жагсаасан тул зурагт үзүүлсэн иж бүрдлийг нэг кодын эцсийн үзүүлэлт гэж үзэхгүй.",
+        "Ширээ болон буцах тавцанг хэмжилттэй төлөвлөгөөнд байрлуулж, сандлын хөдөлгөөн, хаалга, кабелийн гарц, залгуур ба шүүгээний нээлтийг шалгана.",
+        "Өнгөлгөө, тавцан ба суурийн материал, тоноглол, тусдаа хадгалах шүүгээ болон угсралтын хүрээг дээж, зургаар батална."
+      ],
+      "caption": "Группийн NOVA 2022 каталогийн дүрслэл; бодит нийлүүлэлтийн зураг биш. Сандал, арын шүүгээ, гэрэлтүүлэг ба хэрэгслийг тусад нь тохирно.",
+      "questions": [
+        {
+          "q": "2400 × 2800 × 760 мм нь хоёр кодод хоёуланд нь хамаарах уу?",
+          "a": "Эх хуудас цувралын нэг жишиг хэмжээг харуулдаг. NF-D0128 эсвэл NF-D0132-ын сонгосон хэмжээ, буцах тавцангийн чиглэл, иж бүрдлийг захиалгын зургаар тусад нь батална."
+        }
+      ],
+      "sourceLabel": "Группийн JUEDU NOVA эх хуудас",
+      "caseLabel": "Группийн оффисын жишээ: Ахмади, Кувейт",
+      "caseNote": "Энэ ширээ тухайн төсөлд нийлүүлэгдсэн гэсэн баталгаа биш.",
+      "entityType": "documented-manufacturer-model-family-selection",
+      "imagePaths": [
+        "/images/products/verified-office/nova-2022.jpg"
+      ],
+      "sourceUrl": "https://www.hyofficefurniture.com/JUEDU-NOVA-Series-Boss-CEO-Office-Executive-Desk-with-Luxury-Modern-Design-pd44075092.html",
+      "caseId": "off-001",
+      "reviewedVisual": "2026-10-31"
+    },
+    "ru": {
+      "focus": "Серия и код комплектации требуют отдельного подтверждения",
+      "items": [
+        "Источник объединяет коды NF-D0128 и NF-D0132. Иллюстрация серии не определяет окончательную спецификацию одного из этих кодов.",
+        "Нанесите стол и приставку на обмерный план; проверьте движение кресла, двери, кабельные выводы, розетки и открывание хранения.",
+        "Согласуйте материалы столешницы и основания, образец отделки, фурнитуру, отдельные шкафы и границы сборки по утверждённому чертежу."
+      ],
+      "caption": "Каталожная визуализация NOVA 2022 из первичного источника группы, не фотография поставки. Кресло, задний шкаф, освещение и аксессуары согласуются отдельно.",
+      "questions": [
+        {
+          "q": "Размер 2400 × 2800 × 760 мм относится к обоим кодам?",
+          "a": "Страница показывает габаритный пример серии. Для NF-D0128 либо NF-D0132 подтвердите размеры, сторону приставки и состав по чертежу выбранной комплектации."
+        }
+      ],
+      "sourceLabel": "Первичный каталог группы: JUEDU NOVA",
+      "caseLabel": "Офисный проект группы: Ahmadi, Кувейт",
+      "caseNote": "Эта ссылка не подтверждает поставку показанного стола в данный проект.",
+      "entityType": "documented-manufacturer-model-family-selection",
+      "imagePaths": [
+        "/images/products/verified-office/nova-2022.jpg"
+      ],
+      "sourceUrl": "https://www.hyofficefurniture.com/JUEDU-NOVA-Series-Boss-CEO-Office-Executive-Desk-with-Luxury-Modern-Design-pd44075092.html",
+      "caseId": "off-001",
+      "reviewedVisual": "2026-10-31"
+    },
+    "en": {
+      "focus": "Separate a model family from the ordered configuration",
+      "items": [
+        "The source lists NF-D0128 and NF-D0132 together. The series illustration does not establish a final specification for either code.",
+        "Position the desk and return on a measured office plan. Review chair movement, door access, cable outlets, sockets and storage-door clearances.",
+        "Agree tabletop and base materials, finish sample, hardware, separate storage units and assembly scope on approved drawings."
+      ],
+      "caption": "Original group NOVA 2022 catalogue rendering, not delivery photography. Chair, rear storage, lighting and accessories are agreed separately.",
+      "questions": [
+        {
+          "q": "Does 2400 × 2800 × 760 mm apply to both codes?",
+          "a": "The source presents a reference configuration for the series. Confirm sizes, return direction and included pieces for NF-D0128 or NF-D0132 on the selected order drawing."
+        }
+      ],
+      "sourceLabel": "Original group JUEDU NOVA source",
+      "caseLabel": "Group office reference: Ahmadi, Kuwait",
+      "caseNote": "This does not establish that the illustrated desk was supplied to that project.",
+      "entityType": "documented-manufacturer-model-family-selection",
+      "imagePaths": [
+        "/images/products/verified-office/nova-2022.jpg"
+      ],
+      "sourceUrl": "https://www.hyofficefurniture.com/JUEDU-NOVA-Series-Boss-CEO-Office-Executive-Desk-with-Luxury-Modern-Design-pd44075092.html",
+      "caseId": "off-001",
+      "reviewedVisual": "2026-10-31"
+    }
   }
 }

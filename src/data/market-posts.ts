@@ -49,6 +49,202 @@ export interface MarketPost {
  */
 export const marketPosts: MarketPost[] = [
   {
+    id: "hotel-furniture-supplier-evaluation-uzbekistan",
+    market: "uz",
+    title: "Mehmonxona mebeli yetkazib beruvchisini qanday baholash kerak: tekshiruv ro'yxati",
+    tag: "Mehmonxona",
+    excerpt: "Yetkazib beruvchini zavod quvvati, namuna intizomi, loyiha tajribasi, hujjatlar to'liqligi va taklif shaffofligi bo'yicha baholash tartibi hamda har bir mezon uchun amaliy tekshiruv savollari.",
+    date: "2026-10-30",
+    readingMin: 9,
+    image: "/images/blog/guestroom-checklist.webp",
+    imageAlt: "Mehmonxona mebeli yetkazib beruvchisini baholash uchun tekshiruv ro'yxati va material namunalari stol ustida",
+    definition:
+      "Mehmonxona mebeli yetkazib beruvchisini baholash — zavod quvvati, namuna intizomi, loyiha tajribasi, hujjatlar to'liqligi va taklif shaffofligini yagona tekshiruv ro'yxati bo'yicha o'lchaydigan jarayon. Bu baholash narxni emas, buyurtmani kelishilgan sifatda va kelishilgan hajmda bajarish qobiliyatini aniqlaydi, shuning uchun u takliflarni yakuniy taqqoslashdan oldin o'tkaziladi. Ro'yxatdan xarid bo'limi, loyiha menejeri va dizayner birgalikda foydalanadi, natija esa ball jadvali va yozma xulosa sifatida qayd etiladi.",
+    takeaways: [
+      "Zavodni savdo vositachisidan ajratish uchun ishlab chiqarish manzilini, sex egasini va qaysi operatsiya o'z ichida bajarilishini yozma so'rang.",
+      "Har bir mebel turi uchun imzolangan o'lchovli namuna saqlang va seriyali partiyani faqat shu namuna bilan qabul qiling.",
+      "Loyiha tajribasini obyekt nomi bilan emas, mebel turkumi, xona hajmi va o'rnatish sanasi bilan so'rang.",
+      "Material varaqasi, sinov hisoboti, qadoqlash sxemasi va ehtiyot qismlar ro'yxatini taklif bilan birga talab qiling.",
+      "Javob tezligini emas, javobning chizma, o'lchov yoki namuna bilan tasdiqlanishini baholang.",
+      "Taklifni umumiy summa bo'yicha emas, yetkazib berish sharti, qadoqlash, bojxona va o'rnatish kiritilganiga qarab satrma-satr solishtiring.",
+    ],
+    sections: [
+      {
+        heading: "Yetkazib beruvchi zavodmi yoki savdo vositachisimi — buni qanday aniqlash mumkin?",
+        paragraphs: [
+          "Birinchi savol ishlab chiqarish qayerda va kimning nazorati ostida bajarilishiga tegishli bo'lishi kerak. Zavod o'z sexining manzilini, uchastkalar kesimini va qaysi operatsiyani o'zi bajarishini aniq aytadi, vositachi esa ko'pincha umumiy javob berib, aniq manzilni keyinga qoldiradi. Ishlab chiqarish manzili taklif varag'ida va shartnomada ko'rsatilsa, keyinchalik partiyani kuzatish ancha osonlashadi.",
+          "Sexni ko'rish yoki video orqali kuzatish kesish, qirra yopish, yig'ish va qoplash uchastkalarining haqiqatan mavjudligini ko'rsatadi. Qaysi qismlar tashqi buyurtmaga berilishini ham so'rang: metall, shisha yoki mato qoplamasi boshqa joyda bajarilsa, zanjirda qo'shimcha nazorat nuqtasi paydo bo'ladi. Bu javob yozma bo'lsa, uni keyingi baholashda dalil sifatida ishlatish mumkin.",
+          "Quvvat haqida gapirganda oylik hajm emas, bir vaqtda ochiq turgan buyurtmalar soni muhimroq. Yangi buyurtma qaysi davrga rejalashtirilishini va qaysi uchastka eng ko'p yuklanganini so'rang. Bu ma'lumot yetkazib berish grafigini baholashda narxdan ko'ra ko'proq narsa beradi.",
+        ],
+      },
+      {
+        heading: "Namuna bilan seriyali mahsulot bir xil bo'lishini qanday tekshirish kerak?",
+        paragraphs: [
+          "Namuna tasdiqlanganda uning faqat tashqi ko'rinishi emas, o'lchami, qirra yechimi, furnitura turi va mato partiyasi ham yozib qo'yilishi kerak. Imzolangan namuna ikki nusxada saqlanadi: biri buyurtmachida, biri zavodda. Seriyali partiya qabul qilinganda taqqoslash shu nusxa bilan amalga oshiriladi, og'zaki kelishuv bilan emas.",
+          "Rang va ohang farqi ko'pincha turli partiyadagi mato yoki qoplamadan kelib chiqadi, shuning uchun namuna varaqasida partiya raqami va rang kodi bo'lishi shart. Bir xil kod ikki xil partiyada bir xil ko'rinishni kafolatlamaydi, shu sababli qo'shimcha partiya uchun yangi namuna tasdiqlanadi. Bu talab yozilmasa, keyingi xona guruhi oldingi guruhdan sezilarli farq qilishi mumkin.",
+          "Ruxsat etilgan farq oldindan kelishiladi: o'lchamda odatda bir necha millimetr, mato ohangida esa vizual taqqoslash asosida. Bu chegaralar hujjatda yozilmasa, qabul paytida har bir kichik farq alohida munozaraga aylanadi. Namuna bilan birga o'lchov protokoli saqlansa, nizo paytida tayanch bo'ladi.",
+        ],
+      },
+      {
+        heading: "Mehmonxona loyihalaridagi tajribani qanday baholash kerak?",
+        paragraphs: [
+          "Tajriba ro'yxati o'zi dalil emas, shuning uchun har bir loyiha bo'yicha uchta savol beriladi: qanday turdagi mebel yetkazilgan, obyekt qachon foydalanishga topshirilgan va yetkazib beruvchi qaysi qismga javobgar bo'lgan. Faqat mebel sotilganmi yoki o'lchov, namuna, yetkazib berish va o'rnatish ham bajarilganmi — bu farq hal qiluvchi ahamiyatga ega.",
+          "Mehmonxona sharoiti uy mebelidan farq qiladi: eshik kuniga ko'p marta ochiladi, chamadon qirralarga uriladi, tozalash vositalari sirtga ta'sir qiladi. Shu sababli lobbi, restoran va xona kabi turkumlar bo'yicha alohida tajriba so'raladi. Javobda mebel guruhi va joylashuv sxemasi ko'rsatilsa, taqqoslash aniqroq bo'ladi.",
+          "Toshkent, O'zbekistondagi Hilton Tashkent kabi obyektning xona va lobbi zonalari makon hajmi bo'yicha tayanch sifatida qaralishi mumkin. Bu taqqoslash faqat mebel guruhlari va joylashuv tamoyillariga tegishli, sifat kafolati sifatida talqin qilinmaydi. Har bir loyihada o'lchov va talablar joyning o'zidan olinadi.",
+        ],
+      },
+      {
+        heading: "Qaysi hujjatlar taklif bilan birga bo'lishi kerak?",
+        paragraphs: [
+          "Material varaqasi har bir pozitsiya uchun qatlam turi, qalinligi, qirra yechimi, sirt ishlovi, mato tarkibi va zichligini ko'rsatishi kerak. Bu maydonlar bo'sh qolsa, ikkita taklifni bir xil asosda solishtirish mumkin bo'lmaydi. Varaqada material nomi bilan birga rang kodi ham yozilishi kerak.",
+          "Sinov hisoboti qaysi namuna bo'yicha va qaysi laboratoriya tomonidan berilganini ko'rsatishi kerak, faqat natija satri yetarli emas. Namlik, yonishga chidamlilik va sirtga ta'sir bo'yicha talablar loyiha shartlariga bog'lanadi, shuning uchun hisobot sanasi ham muhim. Hisobotdagi namuna modeli buyurtmadagi model bilan bir xil bo'lmasa, hujjat dalil bo'lmaydi.",
+          "Qadoqlash sxemasi, yuk belgilari, ehtiyot qismlar ro'yxati, yig'ish yo'riqnomasi va kafolat shartlari taklif paketining majburiy qismi hisoblanadi. Qadoqlash sxemasi quti o'lchami, og'irligi va joylashuvini ko'rsatsa, saqlash maydoni va yuklash tartibi oldindan rejalashtiriladi. Bu hujjatlar keyinroq emas, taklif bilan birga so'raladi.",
+        ],
+      },
+      {
+        heading: "Muloqot va javob tezligi nimani ko'rsatadi?",
+        paragraphs: [
+          "Javob tezligi o'zi sifat belgisi emas, muhimi javobning aniqligi va uni tasdiqlovchi hujjatdir. Texnik savolga chizma, o'lchov yoki namuna bilan javob berilgan bo'lsa, yetkazib beruvchi mavzuni tushunayotgani ko'rinadi. Faqat umumiy tasdiq bilan kelgan tez javob keyinchalik ko'p savol tug'diradi.",
+          "Bitta mas'ul shaxs va bitta yozishma tili belgilanishi kerak, shunda savol va javob yo'qolmaydi. O'zgarishlar kim tomonidan va qaysi sanada so'ragani yozib borilsa, keyinchalik qaysi versiya kuchda ekanini aniqlash oson bo'ladi. Yozishma tarixi shartnoma ilovasi sifatida saqlansa, nizo paytida tayanch bo'ladi.",
+          "Chizma va spetsifikatsiya bir tilda, o'lchov birligi bir xil tizimda bo'lishi kerak. Tarjima qilingan javobda o'lchov birligi tushib qolsa, u keyinchalik xato buyurtmaga aylanadi. Shu sababli har bir yuborilgan hujjatda birlik va sana ko'rsatilishi talab qilinadi.",
+        ],
+      },
+      {
+        heading: "Taklif narxi shaffofligini qanday tekshirish kerak?",
+        paragraphs: [
+          "Shaffof taklif har bir pozitsiya uchun birlik narxini, miqdorni va nimani o'z ichiga olmasligini alohida ko'rsatadi. Yetkazib berish sharti qaysi nuqtadan keyin xarajat va javobgarlik o'tishini aniq yozishi kerak. Qadoqlash, yuklash, sug'urta, bojxona va o'rnatish alohida satr bo'lsa, taqqoslash to'g'ri bo'ladi.",
+          "Taklifning amal qilish muddati, to'lov grafigi va narxni o'zgartirish shartlari ham yozilishi kerak. Material yoki kurs o'zgarganda narx qanday yangilanishi oldindan kelishilmasa, shartnoma bosqichida kutilmagan o'sish paydo bo'ladi. Bu shartlar narx jadvali bilan bir varaqda turishi ma'qul.",
+          "Yakuniy qaror uchun mezonlar oldindan og'irlik bilan belgilanadi: ishlab chiqarish qobiliyati, namuna intizomi, hujjatlar to'liqligi, muloqot va narx. Har bir mezonga ball qo'yilib, izoh yoziladi, natija esa yagona jadvalda jamlanadi. Ball jadvali saqlansa, qaror asosli bo'ladi va keyingi loyihada takrorlanadi.",
+        ],
+      },
+    ],
+    faqs: [
+      {
+        question: "Zavodni tekshirish uchun albatta sexga borish shartmi?",
+        answer:
+          "Shart emas, lekin faqat hujjat bilan cheklangan tekshiruv kamroq ma'lumot beradi. Ishlab chiqarish manzili, uchastkalar kesimi va tashqi buyurtmaga berilgan qismlar yozma tasdiqlansa, masofadan baholash ancha ishonchli bo'ladi.",
+      },
+      {
+        question: "Namunani kim tasdiqlashi kerak?",
+        answer:
+          "Namunani buyurtmachi tomondan dizayner va loyiha menejeri birgalikda, zavod tomondan esa ishlab chiqarish mas'uli tasdiqlaydi. Imzo sanasi va namuna raqami ikkala nusxada bir xil bo'lishi kerak, aks holda keyingi taqqoslashda qaysi nusxa asos ekani noma'lum bo'ladi.",
+      },
+      {
+        question: "Tajriba ro'yxati qanchalik muhim?",
+        answer:
+          "Ro'yxat faqat suhbat uchun asos bo'ladi, o'zi sifat kafolati emas. Har bir loyiha bo'yicha mebel turkumi, hajmi va yetkazib beruvchining javobgarlik doirasi aniqlansa, tajriba haqiqiy mezonga aylanadi.",
+      },
+      {
+        question: "Taklifdagi eng past narx nima uchun xavfli hisoblanadi?",
+        answer:
+          "Past narx ko'pincha qadoqlash, bojxona yoki o'rnatish kabi satrlarning taklifdan tushib qolganini bildiradi. Shu sababli takliflar bir xil hajm, bir xil yetkazib berish sharti va bir xil xizmat doirasi bo'yicha solishtiriladi.",
+      },
+      {
+        question: "Baholash natijasini qanday hujjatlashtirish kerak?",
+        answer:
+          "Har bir mezon bo'yicha ball, izoh va dalil ko'rsatiladi, xulosa yozma shaklda saqlanadi. Bu hujjat shartnoma shartlarini belgilashda va keyinchalik bahsli holatlarda tayanch bo'ladi.",
+      },
+    ],
+  },
+  {
+    id: "hotel-furniture-production-installation-stages-uzbekistan",
+    market: "uz",
+    title: "Mehmonxona mebeli buyurtmasi qanday bosqichlardan o'tadi: tasdiqlashdan o'rnatishgacha",
+    tag: "Mehmonxona",
+    excerpt: "Buyurtma tasdiqlangandan kalit topshirilgunga qadar bosqichlar, har bir bosqichda buyurtmachi va zavodning vazifalari hamda topshiriladigan hujjatlar ro'yxati.",
+    date: "2026-10-30",
+    readingMin: 9,
+    image: "/images/blog/ffe-timeline.webp",
+    imageAlt: "Mehmonxona mebeli buyurtmasi bosqichlari: tasdiqlashdan o'rnatishgacha bo'lgan jarayon jadvali",
+    definition:
+      "Mehmonxona mebeli buyurtmasining jarayoni — tasdiqlash, chizma va namuna, seriyali ishlab chiqarish, zavod tekshiruvi, tashish, o'rnatish va topshirish bosqichlaridan iborat yagona zanjir. Har bir bosqichda qaror qabul qiluvchi tomon, bajariladigan ish va topshiriladigan hujjat belgilangan bo'lsa, keyingi bosqich faqat oldingi tasdiqqa tayanadi. Jarayonni loyiha menejeri, zavodning eksport bo'limi va pudratchi birgalikda boshqaradi, chunki kechikish odatda bitta bosqichda emas, ikki bosqich orasidagi tasdiqda yuzaga keladi.",
+    takeaways: [
+      "Buyurtma tasdiqlanganda spetsifikatsiya versiyasi, miqdor va yetkazib berish sharti bitta hujjatda qulflanadi.",
+      "Har bir chizma va namuna imzo bilan tasdiqlanadi, tasdiqlanmagan detal seriyali ishlab chiqarishga kirmaydi.",
+      "Oraliq nazoratni partiya o'rtasida o'tkazing, oxiriga qoldirilsa tuzatish butun partiyaga tegadi.",
+      "Zavod tekshiruvi va qadoqlash sxemasi yuklashdan oldin birgalikda yopiladi.",
+      "Tashish va bojxona uchun hujjatlar ro'yxati oldindan kelishiladi va har biriga mas'ul tomon yoziladi.",
+      "O'rnatishdan keyin kamchiliklar ro'yxati tuzilib, ehtiyot qismlar va yo'riqnoma bilan birga topshiriladi.",
+    ],
+    sections: [
+      {
+        heading: "Buyurtma tasdiqlanganda qaysi shartlar qat'iy belgilanadi?",
+        paragraphs: [
+          "Tasdiqlash bosqichida spetsifikatsiya versiyasi, xona turlari bo'yicha miqdor, yetkazib berish sharti va to'lov grafigi bitta hujjatda birlashtiriladi. Bu hujjat keyingi barcha o'zgarishlar uchun tayanch bo'ladi, shuning uchun unga sana va versiya raqami qo'yiladi. Bir xil nomdagi ikki fayl qolsa, sex qaysi versiya bo'yicha ishlashini bilmay qoladi.",
+          "Buyurtmachi tomondan xarid va loyiha menejeri, zavod tomondan eksport va ishlab chiqarish mas'uli imzo qo'yadi. Kim qaysi qarorni tasdiqlashi yozilmasa, keyinchalik bir xil savol ikki tomonda ikki xil javob oladi. Mas'ullar ro'yxati shartnoma ilovasida ko'rsatilsa, aloqa uzilmaydi.",
+          "O'zgarish tartibi ham shu bosqichda kelishiladi: qaysi o'zgarish narx va muddatga ta'sir qiladi, qaysi biri faqat hujjatni yangilaydi. Yozma tartib bo'lsa, og'zaki iltimoslar buyurtma hajmiga tasodifan qo'shilib ketmaydi. Har bir o'zgarish alohida varaqda qayd etiladi va tasdiqlanadi.",
+        ],
+      },
+      {
+        heading: "Chizma va namuna qanday tasdiqlanadi?",
+        paragraphs: [
+          "Seriyali ishlab chiqarishdan oldin har bir mebel turi uchun o'lchovli chizma va, kerak bo'lsa, jismoniy namuna tayyorlanadi. Chizmada tashqi o'lcham, devorga mahkamlash nuqtasi, furnitura joyi va qirra yechimi ko'rsatiladi. Chizma xonadagi haqiqiy o'lchov bilan solishtirilmasa, joyida tuzatish talabi paydo bo'ladi.",
+          "Namuna tasdiqlanganda unga namuna raqami, sana va material partiyasi yoziladi, so'ngra ikki nusxa imzolanadi. Tasdiqlangan namuna zavodda saqlanadi va seriyali partiya shu nusxa bilan taqqoslanadi. Namuna faqat rang uchun emas, qirra va furnitura uchun ham tayanch hisoblanadi.",
+          "Tasdiqdan keyin o'zgartirish kiritilsa, u yangi versiya sifatida rasmiylashtiriladi, eski chizma bekor qilinadi. Aks holda sexdagi eski fayl bilan yangi ko'rsatma bir vaqtda ishlatilib, partiyada farq paydo bo'ladi. Bekor qilingan chizma arxivda saqlanadi, lekin ish uchun ishlatilmaydi.",
+        ],
+      },
+      {
+        heading: "Seriyali ishlab chiqarish va oraliq nazorat qanday o'tadi?",
+        paragraphs: [
+          "Ishlab chiqarish partiyalarga bo'linadi, har bir partiya xona turi yoki mebel turkumiga bog'lanadi. Zavod kesish, qirra yopish, yig'ish va qoplash bosqichlarida nazorat nuqtalarini belgilaydi va natijani yozma qayd etadi. Partiya raqami qadoqdagi belgi bilan bir xil bo'lsa, keyinchalik qaysi buyum qaysi partiyadan chiqqanini aniqlash oson.",
+          "Oraliq nazorat partiya tugagandan keyin emas, o'rtasida o'tkaziladi. Birinchi buyumlardan olingan o'lcham va sifat natijasi keyingi buyumlar uchun sozlama bo'ladi, shu sababli dastlabki namunalar alohida tekshiriladi. Nazorat hisobotida chetlanish va u qanday tuzatilgani yozilishi kerak.",
+          "Buyurtmachi tomondan bu bosqichdagi vazifa — tasdiqlangan namunadan chetlanish sezilsa, darhol yozma xabar berish va qarorni kechiktirmaslik. Har bir kechiktirilgan javob ishlab chiqarish grafigini butun partiya bo'ylab surib yuboradi. Qaror yozma bo'lsa, u keyingi partiyalar uchun ham ko'rsatma bo'ladi.",
+        ],
+      },
+      {
+        heading: "Zavod tekshiruvi va qadoqlashda nima yopiladi?",
+        paragraphs: [
+          "Yuklashdan oldin tayyor partiya miqdor, o'lcham, rang va yig'ish to'liqligi bo'yicha tekshiriladi. Tekshiruv natijasi fotosurat va o'lchov yozuvi bilan qayd etiladi, shunda yukdan keyin paydo bo'lgan zarar bilan zavod javobgarligi ajratiladi. Tekshiruvda topilgan kamchilik yuklashdan oldin tuzatilishi kerak.",
+          "Qadoqlash sxemasi quti o'lchami, og'irligi, ichki mahkamlash usuli va yuk belgilarini ko'rsatadi. Burchak himoyasi, namlikdan saqlash va qavatma-qavat joylashuv tartibi alohida yoziladi, chunki bu ma'lumot ochish va saqlash bosqichida kerak bo'ladi. Quti ustidagi belgi sxema bilan mos bo'lmasa, obyektda qidiruv vaqt yo'qotadi.",
+          "Topshiriladigan hujjatlar: qadoqlash ro'yxati, yuk belgilari sxemasi, yig'ish yo'riqnomasi va ehtiyot qismlar ro'yxati. Yuk hujjatlari bilan qadoqlash ro'yxati bir xil bo'lmasa, bojxonada va qabulda ortiqcha tekshiruv paydo bo'ladi. Har bir hujjatning nusxasi elektron shaklda ham yuboriladi.",
+        ],
+      },
+      {
+        heading: "Tashish va bojxona rasmiylashtirishda kim nima qiladi?",
+        paragraphs: [
+          "Tashish sharti shartnomada aniq yozilishi kerak: qaysi nuqtadan keyin xarajat va javobgarlik buyurtmachiga o'tadi. Shu nuqta bilan birga sug'urta, yuklash usuli va yetkazib berish manzili ham belgilanadi. Shart nomlanmasa, yo'ldagi zarar uchun javobgar tomon nizoda aniqlanadi.",
+          "Zavod tomondan yuk hujjatlari, qadoqlash ro'yxati va kelib chiqish sertifikati tayyorlanadi, buyurtmachi tomondan bojxona brokeri, import ruxsatlari va mahalliy tashish tashkil etiladi. Har bir hujjat uchun mas'ul shaxs va topshirish sanasi jadvalda ko'rsatiladi. Hujjat to'plami oldindan tekshirilsa, yuk chegara punktida to'xtab qolmaydi.",
+          "Yo'lda yuz beradigan kechikish uchun zaxira vaqt ajratiladi, chunki bojxona tekshiruvi yoki transport o'zgarishi ishlab chiqarish grafigiga bog'liq emas. Bu zaxira o'rnatish jadvalini tuzishda hisobga olinadi. Zaxira bo'lmasa, mebel yetib kelgunga qadar montaj jamoasi kutishga majbur bo'ladi.",
+        ],
+      },
+      {
+        heading: "Qabul qilish, o'rnatish va topshirish qanday yakunlanadi?",
+        paragraphs: [
+          "Obyektda yuk qabul qilinganda qutilarning soni, tashqi holati va yuk belgilari qadoqlash ro'yxati bilan solishtiriladi. Zarar aniqlansa, u yuk hujjatlari bilan bir vaqtda qayd etiladi, keyinroq emas. Kechiktirilgan qayd bilan zararni tashuvchi yoki zavod javobgarligiga bog'lash qiyinlashadi.",
+          "O'rnatish ketma-ketligi xona bo'yicha tuziladi: avval karkas va devorga mahkamlanadigan qismlar, keyin yumshoq mebel va aksessuarlar. Har bir xona tugagach, o'lcham, mahkamlash va eshik ochilishi tekshiriladi. Pol va devor himoyasi ish boshida qo'yilsa, keyingi xonalarda zarar kamayadi.",
+          "Yakunda kamchiliklar ro'yxati tuziladi, tuzatish muddati va mas'uli yoziladi. Ehtiyot qismlar, yig'ish yo'riqnomasi va kafolat shartlari shu ro'yxat bilan birga topshiriladi. Imzolangan topshirish dalolatnomasi bilan jarayon yopiladi va keyingi almashtirishlar shu hujjatga tayanadi.",
+        ],
+      },
+    ],
+    faqs: [
+      {
+        question: "Butun jarayon qancha vaqt oladi?",
+        answer:
+          "Aniq muddat loyiha hajmi, tasdiqlash tezligi va tashish yo'nalishiga bog'liq, shuning uchun raqam emas, bosqichlar jadvali kelishiladi. Ushbu bosqichlar odatda bir necha haftani oladi, tasdiqlash va tashish esa alohida zaxira talab qiladi.",
+      },
+      {
+        question: "Namuna tasdiqlanmasa ishlab chiqarish boshlanadimi?",
+        answer:
+          "Boshlanmaydi, chunki namunadan keyingi o'zgarish butun partiyani qayta ishlashga olib keladi. Istisno faqat karkas kabi o'zgarmaydigan qismlar uchun yozma kelishuv bilan bo'ladi.",
+      },
+      {
+        question: "Oraliq nazoratni kim o'tkazadi?",
+        answer:
+          "Uni zavodning sifat mas'uli o'tkazadi, buyurtmachi vakili esa natijani tasdiqlaydi yoki video orqali kuzatadi. Hisobotda partiya raqami, tekshirilgan buyumlar va aniqlangan chetlanishlar yozilishi kerak.",
+      },
+      {
+        question: "O'rnatishni kim bajaradi?",
+        answer:
+          "O'rnatishni zavod jamoasi yoki kelishilgan mahalliy pudratchi bajaradi, mas'uliyat shartnomada ko'rsatiladi. Qaysi tomon vosita, ko'tarish va qadoq chiqindilarini olib ketishini ham oldindan kelishish kerak.",
+      },
+      {
+        question: "Topshirishda qanday hujjatlar qoladi?",
+        answer:
+          "Kamchiliklar ro'yxati, topshirish dalolatnomasi, ehtiyot qismlar ro'yxati va yig'ish yo'riqnomasi saqlanadi. Bu hujjatlar kafolat bo'yicha murojaat qilganda va keyingi bosqichda xona yangilanganda tayanch bo'ladi.",
+      },
+    ],
+  },
+  {
     id: "hotel-furniture-boq-by-room-type-mongolia",
     market: "mn",
     title: "Зочид буудлын өрөөний төрөл тус бүрээр тавилгын BOQ-г хэрхэн бэлтгэх вэ",

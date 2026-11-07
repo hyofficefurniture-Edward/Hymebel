@@ -2253,6 +2253,307 @@ export const marketPosts: MarketPost[] = [
       },
     ],
   },
+,
+  {
+    "id": "hotel-lobby-furniture-price-drivers-uz",
+    "market": "uz",
+    "title": "Mehmonxona lobbi mebeli: narxni aslida nima belgilaydi",
+    "tag": "Mehmonxona",
+    "excerpt": "Lobbi uchun kelgan ikkita taklif nega bir-biridan farq qiladi, qaysi mebel oilalari taklifga kirishi kerak, moslashtirish darajasi narxga qanday ta'sir qiladi va imzodan keyin qanday xarajatlar paydo bo'ladi.",
+    "date": "2026-11-08",
+    "readingMin": 10,
+    "image": "/images/blog/hotel-lobby-price-drivers.webp",
+    "imageAlt": "Yog'ochi pog'onali shift ostidagi yumaloq divanli mehmonxona lobbi dam olish zonasi",
+    "definition": "Mehmonxona lobbi mebeli narxi — asosiy kirish, kutish zonasi, qabul peshtaxtasi va ichki bar uchun mebel oilalarining miqdori va darajasi bilan belgilanadigan xarid qarori. Narx odatda fabrika marjasidan ko'ra spetsifikatsiya qarorlari bilan bog'liq: moslashtirish darajasi, ko'rinmaydigan xususiyatlar (gubka zichligi, karkas, sinovlar), sirt qoplamasi, qadoqlash va yetkazish sharti. Shu sababli taklifni so'rashdan oldin oilalar ro'yxati va moslashtirish darajasi yozma ravishda belgilanadi, taqqoslash esa bir xil asosda olib boriladi.",
+    "takeaways": [
+      "Taklifni umumiy summa bo'yicha emas, mebel oilalari ro'yxati bo'yicha so'rang: kutish zonalari, qabul peshtaxtasi, markaziy stollar va qo'shimcha elementlar alohida satrlarda bo'lsin.",
+      "Har bir oila uchun moslashtirish darajasini yozing: katalog, katalog asosida moslashtirilgan yoki alohida loyihalangan.",
+      "Ikkala taklifda ham gubka zichligi, karkas tuzilishi va sinov hisoboti bir xil darajada e'lon qilinganini tekshiring.",
+      "Qadoqlash, konteyner, sug'urta va obyektga yetkazish qaysi taklifda kiritilganini alohida so'rang.",
+      "Namuna tasdiqlangandan keyingi o'zgartirishlar uchun nechta tahrir davri bepul ekanini taklif matnida yozilgan holda oling.",
+      "Har bir satr uchun yetishmayotgan hujjatni yozib qo'ying: chizma, material varaqasi yoki sinov hisoboti bo'lmasa, taklif to'liq emas."
+    ],
+    "sections": [
+      {
+        "heading": "Ikkita taklif bir xil lobbi uchun nega har xil summa bilan keladi?",
+        "paragraphs": [
+          "Lobbi hajmi deyarli bir xil bo'lgan ikki mehmonxonada olingan takliflar o'rtasidagi katta farq ko'pincha fabrika marjasi bilan emas, taklifning o'zi tushungan bajarilar bilan izohlanadi. Bitta taklif to'rt oilani, boshqasi faqat ikkitani o'z ichiga olishi mumkin, qolganlari esa keyingi bosqichga qoldirilgan bo'ladi. Natijada past ko'ringan taklif keyinchalik qo'shimcha to'lovlar bilan qimmatlashadi.",
+          "Ikkinchi sabat moslashtirish darajasi. Katalogdan olingan va qoplama yoki lakka bo'yicha moslashtirilgan o'rindiq, o'lchamlari o'zgartirilgan katalog varianti va chizmadan boshlab alohida loyihalangan mebel — bu uch daraja narxda keskin farq qiladi. Taklifda daraja ko'rsatilmagan bo'lsa, qiyoslash imkoni yo'q.",
+          "Uchinchi sabat ko'rinmaydigan xususiyatlar va logistika. Gubka zichligi, karkas kesimi, sinovlar va qadoqlash standarti taklif rasmlarida ko'rinmaydi, ammo yakuniy summani bir necha foizga o'zgartiradi. Shu sababli taklifni o'qishdan oldin bu to'rt qaror yozma e'lon qilinganini tekshirish kerak."
+        ]
+      },
+      {
+        "heading": "Qaysi mebel oilalari lobbi taklifiga kirishi kerak?",
+        "paragraphs": [
+          "To'liq taklif kutish va dam olish o'rindiqlarini, markaziy va yon stollarni, qabul peshtaxtasini hamda qo'shimcha elementlarni — chamadon taxtasi, ajratgichi, guldonda va kiyim osish joyini — alohida satrlarda ko'rsatadi. Har bir oila o'z miqdori va o'z hujjati bilan yoziladi.",
+          "Loyiha maydonchasini zonalarga bo'lib chiqish ro'yxatni tuzishning eng ishonchli yo'li: kirish va qabul, asosiy kutish zonasi, ichki bar yoki salon, liftlar va o'tish yo'llari. Har bir zonada qanday oilalar kerakligi va qanday foydalanish rejimi kutilayotgani yoziladi. Bunday ro'yxat fabrikaga ham aniq javob berish imkonini beradi.",
+          "Toshkentdagi bir mehmonxona loyihasida boshlang'ich ro'yxat umumiy ibora bilan yozilgandi va eng past taklifda yon stollar hamda chamadon taxtalari bo'lmagan. Ularni taklif tashqarisida qo'shganida yakuniy summa ikkinchi taklifdan yuqori bo'lib qoldi. Oilalar ro'yxati xuddi shu holatning takrorlanishini oldini oladi."
+        ]
+      },
+      {
+        "heading": "Moslashtirish darajasi narxga qanday ta'sir qiladi?",
+        "paragraphs": [
+          "Katalog asosidagi moslashtirish eng tejamli yo'l: mebel mavjud, faqat mato, lakka yoki yog'och toni tanlanadi, ishlab chiqarish uskunalari boshqa loyihalar bilan bo'lishiladi. Katalog asosida o'zgartirilgan variantda o'lchamlar, rozetka yoki karkas mustahkamligi o'zgaradi, shuning uchun qo'shimcha tayyorgarik narxga qo'shiladi.",
+          "Alohida loyihalashda chizma, prototip va namuna tasdiqlash jarayoni taklifga kiradi. Bu yerda qabul komissiyasi uchinchi bosqichda yangi dizaynni tasdiqlasa, fabrika prototipni qayta ishlaydi va bu ish taklifda nazarda tutilmagan bo'lsa, alohida hisoblanadi. Shu sababli har bir oila uchun daraja oldindan yoziladi.",
+          "Amaliy yechim darajalarni aralash qo'llashdir: brendning xarakterini belgilaydigan ozchilik buyumlar alohida loyihalanadi, ko'p takrorlanadigan kutish o'rindiqlari katalog asosida moslashtiriladi, qo'shimcha elementlar esa katalogdan olinadi. Bunday taqsimot ham narxni, ham ishlab chiqarish grafigini barqarorlashtiradi."
+        ]
+      },
+      {
+        "heading": "Chizmada ko'rinmaydigan qaysi xususiyatlar narxni belgilaydi?",
+        "paragraphs": [
+          "Birinchi qatlam karkas: ramka kesimi, material turi va tayanch nuqtalardagi mustahkamlovchilar. Intensiv foydalanish uchun mo'ljallangan o'rindiq sinovdan o'tadi va bu sinovga mos kelish oddiy uy mebelidan qimmatroq turg'unlik talab qiladi.",
+          "Ikkinchi qatlam qulaylik: gubka zichligi va balandligi, o'rindiq suspenziyasi va to'ldiruvchi. Yuqori elastiklikka ega gubka minglab foydalanishdan keyin ham shaklini saqlaydi va uning xomashyosi taklifda o'z aksini topadi. Uchinchi qatlam muvofiqlik: matoning alanga sekinlashtiruvchi xususiyati va partiyalarni kuzatish imkonini beruvchi hujjatlar.",
+          "Bu qatlamni tekshirish tartibi ham provayderni filtrlash vositasi: avval sinov hisobotida sinov identifikatori to'liq ko'rsatilishi, keyin namuna foto bilan emas, jismoniy tasdiqlanishi va faqat undan keyin seriyali ishlab chiqarishga ruxsat berilishi kerak. Bu ketma-ketlikka to'liq hujjatlar bilan qarshilik ko'rsata olgan fabrika narxdan ham muhimroq narsani ko'rsatadi."
+        ]
+      },
+      {
+        "heading": "Ikkita taklifni bir xil asosda qanday solishtirish kerak?",
+        "paragraphs": [
+          "Solishtirishdan oldin besh nuqta bir xillashtiriladi: oilalar tarkibi, moslashtirish darajasi, o'rindiqlar spetsifikatsiyasi, qadoqlash standarti va yetkazish sharti. Har bir satr bo'yicha farq yopiq javobga aylantiriladi: taklifda qanday hujjat yo'q va uning qiymati qancha.",
+          "Taqqoslash jadvalida har bir farq uchun aniq savol yoziladi: prototip va namuna taklif ichidami yoki alohida to'lanadimi, eksport qadoqlami narxga kirganmi, qaysi xizmatlar obyekt shahrida alohida to'lanadi. Shu savollar yopilgach, takliflar qiyoslanadigan holatga keladi.",
+          "Ma'muriy jihatdan ikki odat yordam beradi: taklifning har bir versiyasi sanasi va tarkibi bilan ro'yxatga olinadi, solishtirish yig'ilishidan keyingi har bir yopilmagan farq esa mas'ul shaxs va muddat bilan ochiq nuqta sifatida qayd etiladi. Yakuniy texnik topshiriq shu javoblarni meros qilib oladi."
+        ]
+      },
+      {
+        "heading": "Imzodan keyin qanday xarajatlar paydo bo'ladi?",
+        "paragraphs": [
+          "Eng ko'p uchraydigan uchta manba: qadoqlash va logistika, obyektda o'rnatish hamda tahrir davrlari. FOB sharti ostidagi raqam konteyner, sug'urta va obyektga yetkazishni o'z ichiga olmaydi; o'rnatish esa ishlayotgan mehmonxonada tunda o'tkazilishi mumkin va mahalliy jamoa bilan muvofiqlashtiriladi.",
+          "Namuna tasdiqlangandan keyingi har bir qoplama o'zgartirishi ishlab chiqarishni qayta ochadi. Takliflar odatda cheklangan sondagi bepul tahrir davrini o'z ichiga oladi, shuning uchun davrlar soni taklif matnida yozilishi kerak.",
+          "Obyektga qabul ham keyingi xarid uchun dalil bo'ladi: har bir poyaning tekshiruv ro'yxati bilan qabul qilinishi, qadoqlash ochilishidan oldin suratga olinishi va har bir kamchilik lot raqami bilan qayd etilishi kelgusi taqqoslashda fabrika javobgarligini aniq ko'rsatadi. Chizmalar, BOQ va xonalar ro'yxati bilan kelgan xaridor barcha bu savollarni birinchi davrada yopadi."
+        ]
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Lobbi taklifida birinchi bo'lib qanday hujjat so'raladi?",
+        "answer": "Birinchi hujjat narx emas, zonalarga bo'lingan oilalar ro'yxati: har bir zonada qanday mebel, qanday miqdorda va qanday moslashtirish darajasida kerakligi. Ushbu ro'yxat asosida olingan takliflar bir-biri bilan solishtirish mumkin bo'ladi."
+      },
+      {
+        "question": "FOB va obyektga yetkazilgan narx o'rtasidagi farq nimada?",
+        "answer": "FOB faqat yuk jo'natish portidagi xarajatni o'z ichiga oladi. Obyektga yetkazilgan narxga konteyner, hujjatlar, kelib chiqish porti va yakuniy tashish qo'shiladi. Har xil shart ostidagi takliflarni solishtirishdan oldin yetkazish sharti bir xillashtiriladi."
+      },
+      {
+        "question": "Tahrir davrlari odatda nechta bo'ladi?",
+        "answer": "Jiddiy fabrikalar bir konsepsiya doirasida odatda ikki-uch bepul tahrir davrini o'z ichiga oladi va namuna tasdiqlangandan keyingi konsepsiya o'zgarishlarini alohida hisoblaydi. Davrlar soni taklif matnida yozilishi kerak."
+      },
+      {
+        "question": "Faqat lobbi yangilanadigan bo'lsa ham miqdor chegarasi qo'llanadimi?",
+        "answer": "Miqdor chegarasi loyiha bo'yicha emas, referensiya va qoplama bo'yicha belgilanadi. Kichik yangilanishda u bir dasturdagi boshqa zonalarning buyurtmasi bilan birlashtirib qoplanadi va taklif buni alohida satrlarda ko'rsatadi."
+      },
+      {
+        "question": "O'rindiqlar bo'yicha qanday hujjatlar talab qilinishi kerak?",
+        "answer": "Karkas va chidamlilik uchun sinov hisoboti, mato uchun alanga sekinlashtiruvchi xususiyat bo'yicha hisobot va partiyani kuzatish imkonini beruvchi hujjat. Har bir talab umumiy bayonot bilan emas, aniq hisobot va tekshiruv rejasi bilan tasdiqlanadi."
+      },
+      {
+        "question": "Namuna tasdiqlangandan keyin jarayon qanday davom etadi?",
+        "answer": "Ishlab chiqarish jarayonida oraliq tekshiruv nuqtalari belgilanadi, yuklashdan oldin yakuniy tekshiruv o'tkaziladi va partiyalar namuna bilan taqqoslanadi. Har bir bosqich yozma qayd bilan tasdiqlanadi."
+      },
+      {
+        "question": "Lobbi boshqa umumiy zonalar bilan birga sotib olish ma'qulmi?",
+        "answer": "Ha, agar ro'yxat zonalarga bo'lingan bo'lsa. Birlashtirilgan xarid kelishuv imkoniyatini oshiradi va qoplamalarni birxillashtiradi, ammo taklif zonalarga ajratilgan bo'lishi kerak, shunda har bir zonani alohida tasdiqlash yoki qoldirish mumkin."
+      }
+    ]
+  },
+  {
+    "id": "hotel-lobby-furniture-price-drivers-mn",
+    "market": "mn",
+    "title": "Зочид буудлын лобби тавилда: үнийг юу тодорхойлдог вэ",
+    "tag": "Зочид буудал",
+    "excerpt": "Нэг ижил лоббид ирсэн хоёр санал яагаад өөр дүнтэй байдаг тухай, аль тавилдын бүлгийг саналдa багтаах ёстой тухай, загварчлалын зэрэглэл үнэд хэрхэн нөлөөлөх тухай болон гарын үсгийн дараа ямар зардал гарч ирдэг тухай.",
+    "date": "2026-11-08",
+    "readingMin": 10,
+    "image": "/images/blog/hotel-lobby-price-drivers.webp",
+    "imageAlt": "Модон сводан хооронд бөөрөнхий диван бүхий зочид буудлын лоббийн хүлээлгийн бүс",
+    "definition": "Зочид буудлын лобби тавилдын үнэ — гол оролт, хүлээлгийн бүс, хүлээн авах ширээ болон дотоод баар зэрэг бүсүүдэд шаардагдах тавилдын бүлгүүдийн тоо, түвшингээр тодорхойлогддог худалдан авалтын шийдвэр. Үнэ нь ихэвчлэн үйлдвэрлэгчийн дотоод шийдвэрээс илүү тодорхойлолтын шийдвэрүүдээс хамаардаг: загварчлалын зэрэглэл, илрдаггүй шинж чанарууд, гадаргуугийн материал, баглаа боодол болон хүргэлтийн нөхцөл. Тиймээс санал авахаасаа өмнө бүлгүүдийн жагсаалт болон загварчлалын зэрэглэлийг бичгээр тогтоож, харьцуулалтыг нэг үндэс дээр хийдэг.",
+    "takeaways": [
+      "Саналыг нийт дүнгээр биш, тавилдын бүлгүүдийн жагсаалтаар хүсэж, хүлээлгийн бүс болон хүлээн авах ширээг тус тусад нь мөрөөр гаргана.",
+      "Бүх бүлэгт загварчлалын зэрэглэлийг бичгээр тогтоо: каталог, каталог дээр суурилсан өөрчлөлт, эсвэл бүрэн шинэ загвар.",
+      "Хоёр саналд хөөсөний нягт, амын бүтэц болон туршилтын тайлан ижил түвшинд заасан эсэхийг шалгана.",
+      "Баглаа боодол, чингэлэг, даатгал, байр руу хүргэх нь аль саналд багтсаныг тусад нь асууна.",
+      "Туршилтын дээж баталгаажсаны дараа хэдэн удаагийн засварлалт үнэгүй байхыг саналын текстэд бичүүлж авна.",
+      "Мөр бүрд дутуу документийг тэмдэглэ: зураг төсөл, материалын хуудас, туршилтын тайлангүй мөр боломжгүй."
+    ],
+    "sections": [
+      {
+        "heading": "Нэг ижил лоббид ирсэн хоёр санал яагаад өөр дүнтэй вэ?",
+        "paragraphs": [
+          "Хэмжээ нь бараг адилхан хоёр лоббид ирсэн саналуудын зөрүү ихэнх тохиолдолд үйлдвэрлэгчийн дотоод бодлогоос бус, санал бүр юуг багтааж ойлгосноос шалтгаалдаг. Нэг санал дөрвөн бүлгийг, нөгөө нь ердөө хоёрыг багтааж, үлдсэнийг дараагийн шатанд үлдээсэн байж болно. Ингэснээр бага мэт харагдсан санал дараа нь нэмэлт төлбөрөөр үнэтэй болдог.",
+          "Хоёр дахь шалтгаан нь загварчлалын зэрэглэл. Каталогт суурилсан, зөвхөн материал эсвэл будгаар өөрчилсөн сандал, хэмжээг нь өөрчилсөн каталогийн хувилбар, эсвэл зураг төслөөс эхэлсэн бүрэн шинэ загвар — энэ гурван түвшин үнээр эрс ялгаатай. Саналд түвшин заагаагүй бол харьцуулах боломжгүй.",
+          "Гурав дахь шалтгаан нь илрдаггүй шинж чанар болон логистик. Хөөсөний нягт, амын хэлбэр, туршилт, баглаа боодлын стандарт саналын зурган дээр харагддаггүй ч эцсийн дүнг хэдэн хувиар өөрчилдөг. Тиймээс саналыг уншихаасаа өмнө энэ дөрөвний шийдвэр бичгээр тавигдсан эсэхийг шалгадаг."
+        ]
+      },
+      {
+        "heading": "Аль тавилдын бүлгүүд лоббийн саналд багтах ёстой вэ?",
+        "paragraphs": [
+          "Бүрэн санал хүлээлгийн сандал суудлууд, гол болон хажуугийн ширээнүүд, хүлээн авах ширээ болон нэмэлт элементүүдийг — аяны тавиур, хуваагч, цэцгийн сав, хувцас өлгөөч — тус тусад нь мөрөөр үзүүлдэг. Бүлэг бүр өөрийн тоо болон өөрийн документаар бичигддэг.",
+          "Байршлын төлөвлөгөөг бүсчилж жагсаалт гаргах нь хамгийн найдвартай арга: оролт болон хүлээн авалт, үндсэн хүлээлгийн бүс, дотоод баар, цахилгаан шат болон холбоос замууд. Бүс бүрт ямар бүлэг хэрэгтэй, ямар ашиглалтын горим тохиолдохыг тэмдэглэнэ.",
+          "Улаанбаатарын нэг буудлын анхны жагсаалт ерөнхий найруулгаар бичигдсэн байсан тул хамгийн бага саналд хажуугийн ширээ болон аяны тавиур орсонгүй. Тэдгээрийг саналаас гадуур нэмэхэд эцсийн дүн хоёр дахь саналаас өндөр болсон. Бүлгүүдийн жагсаалт ийм давтагдах явдлаас сэргийлдэг."
+        ]
+      },
+      {
+        "heading": "Загварчлалын зэрэглэл үнэд хэрхэн нөлөөлдөг вэ?",
+        "paragraphs": [
+          "Каталогт суурилсан өөрчлөлт хамгийн хэмнэлттэй зам: тавилда бэлэн байгаа, зөвхөн материал, будаг эсвэл модон өнгө сонгодог, үйлдвэрлэлийн хэрэгсэл бусад төслүүдтэй хамтран ашиглагддаг. Каталог дээр суурилсан өөрчлөлттэй хувилбарт хэмжээ, залгуур эсвэл амын бэхжээ өөрчлөгддөг тул нэмэлт бэлтгэл үнэд нэмэгддэг.",
+          "Бүрэн шинэ загварт зураг төсөл, туршилтын загвар болон дээж баталгаажуулалт саналд багтдаг. Хэлэлцэхэс бүлэг гурав дахь шатанд шинэ загварыг баталваал үйлдвэрлэгч загвараа дахин хийдэг бөгөөд энэ ажил саналд тооцоогүй бол тусдаа тооцогддог. Тиймээс бүлэг бүрийн түвшинг урьдчилан бичдэг.",
+          "Практик шийдэл бол түвшинг хослуулах: брендийн танин байдлыг тодорхойлдог цөөнхийг бүрэн шинээр, давтагдах хүлээлгийн сандал суудлыг каталог дээр суурилсан өөрчлөлтөөр, нэмэлт элементүүдийг каталогиар авах. Ийм хуваарь үнэ болон үйлдвэрлэлийн хугацааг аль алиныг нь тогтворжуулдаг."
+        ]
+      },
+      {
+        "heading": "Зураг төсөлд харагдахгүй аль шинж чанар үнийг тодорхойлдог вэ?",
+        "paragraphs": [
+          "Эхний давхарга бол амын бүтэц: хүрээний хэлбэр, материалын төрөл болон дэмжлэгийн цэгүүдэд хийсэн бэхжүүлэлт. Идэвхтэй ашиглалтад зориулсан сандал туршилтаар шалгагддаг бөгөөд түүнд нийцэх нь гэрийн тавилдаас илүү бат бэх шаарддаг.",
+          "Хоёр дахь давхарга нь тав тух: хөөсөний нягт болон өндөр, сандалны дэмжлэгийн систем, дүүргэгчийн эсэргүүцэл. Өндөр уян хатан чанартай хөөс мянга мянган ашиглалтын дараа ч хэлбэрээ хадгалдаг бөгөөд түүний түлхүүр түүхий эд саналд тусгалтай байдаг. Гурав дахь давхарга нь нийцэл: материал галд тэвчээр болон парти бүрийг мөшгөх боломж олгодог документ.",
+          "Энэ давхаргыг шалгах дараалал нь нийлүүлэгчийг шүүх шалгуур бас байдаг: эхлээд туршилтын тайлан туршилтын дугаарыг бүрэн дурдсан эсэх, дараа нь дээж зургаар биш, бодитоор баталгаажсан эсэх, зөвхөн үүний дараа цуврал үйлдвэрлэлд зөвшөөрөл олгогдох эсэх. Энэ дарааллыг бүрэн документаар даван туулсан үйлдвэрлэгч үнээс илүү чухал зүйлийг харуулдаг."
+        ]
+      },
+      {
+        "heading": "Хоёр саналыг нэг үндэс дээр хэрхэн харьцуулах вэ?",
+        "paragraphs": [
+          "Харьцуулахаас өмнө таван цэгийг нэгтгэдэг: бүлгүүдийн бүрэлдэхүүн, загварчлалын зэрэглэл, сандал суудлын тодорхойлолт, баглаа боодлын стандарт, хүргэлтийн нөхцөл. Мөр бүрийн зөрүүг тодорхой хариулт болгон хөрвүүлдэг: саналд ямар документ дутуу, түүний үнэ хэдэр байх вэ.",
+          "Харьцуулалтын хүснэгт бүхий зөрүүдийг тодорхой асуулт болгон бичдэг: туршилтын загвар болон дээж саналын дотор эсэх, экспортын баглаа боодол үнэд багтсан эсэх, алинд нь хүргэлтийн дараах үйлчилгээ тусдаа төлөгдөх вэ. Эдгээр асуултууд хаагдахад саналууд харьцуулах боломжтой түвшинд хүрдэг.",
+          "Захиргааны хувьд хоёр дадал тустай: санал бүрийн хувилбарыг огноо болон агуулгатай нь бүртгэдэг, харьцуулалтын уулзалтын дараах хаагдаагүй зөрүү бүрийг хариуцагч болон хугацаатай нээлттэй цэг болгон тэмдэглэдэг. Эцсийн техникийн даалгавар эдгээр хариултуудыг залгамжилдаг."
+        ]
+      },
+      {
+        "heading": "Гарын үсгийн дараа ямар зардал гарч ирдэг вэ?",
+        "paragraphs": [
+          "Хамгийн түгээмэл гурван эх үүсвэр: баглаа боодол болон логистик, байр дээрх суурилуулалт болон засварлалтын давтамж. FOB нөхцөл дээрх дүн чингэлэг, даатгал, байр руу хүргэлтийг багтаадаггүй; суурилуулалт ажиллагаатай буудалд шөнийн цагаар хийгдэж болох бөгөөд орон нутгийн багтай уялдуулдаг.",
+          "Дээж баталгаажсаны дараах материал бүрийн өөрчлөлт үйлдвэрлэлийг дахин нээдэг. Саналууд ихэвчлэн тодорхой тооны үнэгүй засварлалтын давтамжийг багтаадаг тул давтамжийн тоог саналын текстэд бичих шаардлагатай.",
+          "Байр дээрх хүлээлт нь дараагийн худалдан авалтын нотолгоо болж чадна: багц бүрийг шалгах жагсаалтаар хүлээж авах, нээхээс өмнө баглааг зураг авах, дутуу бүхнийг партийн дугаартай нь бүртгэх нь ирээдүйн харьцуулалтад нийлүүлэгчийн хариуцлагыг тодорхой харуулдаг. Зураг төсөл, BOQ болон өрөөний жагсаалттай ирсэн худалдан авагч эдгээр асуултыг эхний давтамжтаа хаадаг."
+        ]
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Лоббийн саналд хамгийн түрүүнд ямар документ хүсдэг вэ?",
+        "answer": "Эхний документ бол үнэ биш, бүсчилсэн бүлгүүдийн жагсаалт: бүс бүрд ямар тавилда, хэдэн ширхэг, ямар загварчлалын түвшинд хэрэгтэйг. Ийм жагсаалтын үндэс дээр авсан саналуудыг харьцуулж болно."
+      },
+      {
+        "question": "FOB болон байр руу хүргэсэн үнийн ялгаа юу вэ?",
+        "answer": "FOB нь зөвхөн буух боомт дахь зардалд хамаарна. Байр руу хүргэсэн үнд чингэлэг, документ, очих боомт болон сүүлчийн тээвэрлэлт нэмэгддэг. Өөр нөхцөлтэй саналуудыг харьцуулахаас өмнө хүргэлтийн нөхцөлийг нэгтгэдэг."
+      },
+      {
+        "question": "Засварлалтын давтамж ихэвчлэн хэд байдаг вэ?",
+        "answer": "Ноцтой үйлдвэрлэгчид нэг үзэл баримтлалын хүрээнд ихэвчлэн хоёр, гурван удаагийн үнэгүй засварлалтыг багтааж, дээж баталгаажсаны дараах үзэл баримтлалын өөрчлөлтийг тусдаа тооцдог. Давтамжийн тоог саналын текстэд бичсэн байх ёстой."
+      },
+      {
+        "question": "Зөвхөн лобби шинэчлэгдэх үед тооны хязгаар хэрэгжих үү?",
+        "answer": "Тооны хязгаар төсөл биш, тусгай шийдэл болон материалын ангиллаар тогтоодог. Бага хэмжээний шинэчлэлтэд түүнийг нэг программ дахь бусад бүсийн захиалгатай хослуулан хангадаг бөгөөд санал үүнийг тус тусад нь мөрөөр харуулдаг."
+      },
+      {
+        "question": "Сандал суудалд ямар документ шаарддаг вэ?",
+        "answer": "Амын бүтэц болон бат бэх чанарын туршилтын тайлан, материалд галд тэвчээрийн тайлан болон парти мөшгөх боломж олгодог документ. Шаардлага бүрийг ерөнхий мэдэгдэл биш, тодорхой тайлан болон шалгалтын төлөвлөгөөгөөр баталгаажуулдаг."
+      },
+      {
+        "question": "Дээж баталгаажсаны дараа процесс хэрхэн үргэлжилдэг вэ?",
+        "answer": "Үйлдвэрлэлийн явцад завсрын шалгалтын цэгүүд тогтоогдож, ачаалахын өмнө эцсийн шалгалт хийгдэж, партинууд дээжтэй харьцуулагддаг. Бүх шат бичгээр хэрэгжилтээр баталгаажсан байдаг."
+      },
+      {
+        "question": "Лоббиг бусад нийтлэг бүстэй хамт худалдаж авах нь дээр үү?",
+        "answer": "Тийм ээ, хэрэв жагсаалт бүсчилсэн бол. Нэгтгэсэн худалдан авалт хэлэлцэх боломжийг нэмэгдүүлж, материалыг нэгтгэдэг ч саналыг бүсээр нь ангилсан байх ёстой, ингэснээр бүс бүрийг тусад нь баталгаажуулж эсвэл хойшлуулж болно."
+      }
+    ]
+  },
+  {
+    "id": "hotel-lobby-furniture-price-drivers-ru",
+    "market": "ru",
+    "title": "Мебель для лобби отеля: что на самом деле определяет цену",
+    "tag": "Отель",
+    "excerpt": "Почему два предложения на одно и то же лобби расходятся в цене, какие семейства мебели должны входить в смету, как уровень персонализации влияет на стоимость и какие расходы появляются после подписания.",
+    "date": "2026-11-08",
+    "readingMin": 10,
+    "image": "/images/blog/hotel-lobby-price-drivers.webp",
+    "imageAlt": "Зона отдыха в лобби отеля с круглыми диванами под сводчатым деревянным потолком",
+    "definition": "Мебель для лобби отеля — это закупочное решение, определяемое набором семейств мебели для входной зоны, зоны ожидания, стойки ресепшн и внутреннего бара. Цена обычно зависит не столько от маржи производителя, сколько от решений спецификации: уровня персонализации, невидимых характеристик (плотность поролона, каркас, испытания), отделки поверхностей, упаковки и условий поставки. Поэтому перечень семейств и уровень персонализации фиксируются письменно до запроса цены, а сравнение проводится на единой основе.",
+    "takeaways": [
+      "Запрашивайте смету не общей суммой, а перечнем семейств: зоны ожидания, стойка ресепшн, столы и комплектующие отдельными строками.",
+      "Зафиксируйте уровень персонализации по каждому семейству: каталог, адаптация каталога или индивидуальный проект.",
+      "Проверьте, что в обоих предложениях одинаково заявлены плотность поролона, конструкция каркаса и ссылки на испытания.",
+      "Отдельно уточните, входят ли упаковка, контейнер, страхование и доставка на объект в каждое из предложений.",
+      "Получите письменно, сколько раундов правок после утверждённого образца включено в цену.",
+      "По каждой строке фиксируйте недостающий документ: без чертежа, карты материалов или протокола испытаний строка неполная."
+    ],
+    "sections": [
+      {
+        "heading": "Почему два предложения на одно и то же лобби расходятся в цене?",
+        "paragraphs": [
+          "Расхождение между сметами для залов практически одинаковой площади чаще всего объясняется не маржой, а тем, что каждая смета понимает под «мебелью лобби». Одна может включать четыре семейства, другая — только два, а остальное относить на следующий этап. Предложение, которое кажется более дешёвым, в итоге дорожает за счёт доплат по позиции, которых в нём не было.",
+          "Второй фактор — уровень персонализации. Изделие из каталога с заменой обивки или лака, каталожная позиция с изменёнными размерами и мебель, спроектированная с нуля по чертежам заказчика, стоят принципиально по-разному. Если в предложении уровень не указан, корректное сравнение невозможно.",
+          "Третий фактор — невидимые характеристики и логистика. Плотность поролона, сечения каркаса, испытания и стандарт упаковки не видны на рендерах предложения, но способны сдвинуть итог на заметные проценты. Поэтому перед чтением цифр проверяют, что все четыре решения объявлены письменно."
+        ]
+      },
+      {
+        "heading": "Какие семейства мебели должны входить в смету лобби?",
+        "paragraphs": [
+          "Полная смета перечисляет отдельными строками посадочные места и лаунж-зоны, центральные и приставные столы, стойку ресепшн и комплектующие: полку для багажа, перегородку-решётку, кашпо, вешалку. Каждое семейство идёт со своим количеством и своим комплектом документов.",
+          "Самый надёжный способ составить перечень — пройти по проекту зонами: вход и ресепшн, основная зона ожидания, внутренний бар или салон, лифты и проходы. Для каждой зоны фиксируются нужные семейства и ожидаемый режим эксплуатации. С таким перечнем и производитель может отвечать предметно, предлагая каталожные эквиваленты по каждой зоне.",
+          "В одном региональном проекте исходный перечень был написан общей формулировкой, и в самом дешёвом предложении не оказалось ни приставных столов, ни полок для багажа. Когда их добавили сверх предложения, итоговая сумма превысила второй вариант, который включал их изначально. Перечень по семействам устраняет именно этот сценарий."
+        ]
+      },
+      {
+        "heading": "Сколько персонализации стоит закладывать в смету?",
+        "paragraphs": [
+          "Адаптация каталога — самый экономный путь: изделие существует, выбираются обивка, лак или тон дерева, производственная оснастка делится с другими проектами. При доработке каталога меняются размеры, розетки или усиление каркаса, и эта подготовка добавляется к цене.",
+          "Индивидуальный проект включает чертежи, прототип и утверждение образца. Если комитет утверждает новый дизайн на третьем раунде, производитель переделывает прототип, и эта работа становится отдельной статьёй, если предложение её не предусматривало. Поэтому уровень персонализации по каждому семейству фиксируется до запроса цены.",
+          "Практичное решение — смешивать уровни: индивидуально проектируются немногие изделия, задающие характер бренда, повторяющиеся посадочные места идут через адаптацию каталога, а комплектующие берутся из каталога напрямую. Такое распределение стабилизирует и цену, и график производства."
+        ]
+      },
+      {
+        "heading": "Какие характеристики не видны на плане, но определяют цену?",
+        "paragraphs": [
+          "Первый слой — конструкция: сечения рамы, материал и усиления в точках опоры. Стулья и кресла интенсивного использования проходят испытания для недомашних условий, и соответствие этим испытаниям требует более серьёзной внутренней сборки, чем мебель для жилого интерьера.",
+          "Второй слой — комфорт: плотность и высота поролона, система поддержки сиденья, устойчивость наполнителя. Поролон высокой упругости сохраняет форму после тысяч циклов посадки, и его сырьё отражено в цене. Третий слой — соответствие требованиям: воспламеняемость обивочных материалов и документы, позволяющие отследить партию.",
+          "Порядок проверки этих слоёв одновременно служит фильтром поставщиков: сначала в технической карте должна быть ссылка на конкретное испытание, затем физический образец утверждается против этого документа, а не против фотографии, и только после этого разрешается серийное производство. Производитель, который проходит эту последовательность с полным комплектом документов, демонстрирует нечто более важное, чем цену."
+        ]
+      },
+      {
+        "heading": "Как сравнивать два предложения на одном основании?",
+        "paragraphs": [
+          "Перед сравнением унифицируются пять пунктов: состав семейств, уровень персонализации, спецификация посадочных мест, стандарт упаковки и условие поставки. Каждое расхождение переводится в конкретный вопрос: какого документа не хватает в предложении и сколько стоит его добавление.",
+          "В сравнительной таблице по каждому расхождению формулируется точный вопрос: входят ли прототип и образец в предложение или оплачиваются отдельно, включён ли экспортный стандарт упаковки в цену, какие работы на объекте оплачиваются отдельно. Когда эти вопросы закрыты, предложения становятся сопоставимыми.",
+          "Два административных приёма поддерживают процесс: каждая версия предложения регистрируется с датой и составом, а каждое незакрытое расхождение после сравнительного совещания фиксируется как открытый пункт с ответственным и сроком. Итоговое техническое задание наследует именно эти ответы."
+        ]
+      },
+      {
+        "heading": "Какие расходы появляются после подписания?",
+        "paragraphs": [
+          "Три самых частых источника: упаковка и логистика, монтаж на объекте и раунды правок. Цифра на условиях FOB не включает контейнер, страхование и доставку на объект; монтаж в действующем отеле часто идёт в ночное время и координируется с местной бригадой, грузовыми лифтами и режимом работы зон.",
+          "Каждая замена отделки после утверждённого образца заново открывает производство. Предложения обычно включают ограниченное число бесплатных раундов правок, поэтому их количество должно быть прописано в тексте предложения.",
+          "Приёмка на объекте становится доказательной базой для следующей закупки: каждую палету принимают по контрольному списку, упаковку фотографируют до вскрытия, каждое замечание регистрируют с номером партии. Заказчик, который приходит с чертежами, BOQ и перечнем помещений, закрывает все эти вопросы в первом же раунде."
+        ]
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Какой документ запрашивается первым при закупке мебели для лобби?",
+        "answer": "Первый документ — не цена, а перечень семейств по зонам: какая мебель, в каком количестве и на каком уровне персонализации нужна в каждой зоне. На основе такого перечня полученные предложения уже можно сравнивать между собой."
+      },
+      {
+        "question": "Чем отличается цена FOB от цены с доставкой на объект?",
+        "answer": "FOB включает стоимость товара в порту отправления. Цена с доставкой добавляет контейнер, документы, порт прибытия и финальную перевозку. Перед сравнением предложений на разных условиях условие поставки унифицируется."
+      },
+      {
+        "question": "Сколько раундов правок обычно включается в предложение?",
+        "answer": "Серьёзные производители обычно включают два или три бесплатных раунда правок в рамках одной концепции и считают отдельно изменения концепции после утверждённого образца. Число раундов должно быть зафиксировано в тексте предложения."
+      },
+      {
+        "question": "Действуют ли минимальные объёмы, если обновляется только лобби?",
+        "answer": "Минимальные объёмы привязаны к позиции и отделке, а не к проекту. В небольших обновлениях они закрываются объединением заказа с другими зонами той же линейки, и предложение показывает это отдельными строками."
+      },
+      {
+        "question": "Какие документы нужно требовать по посадочным местам?",
+        "answer": "Протокол испытаний каркаса и долговечности, данные по воспламеняемости обивочного материала и документы, позволяющие отследить партию. Каждое требование подтверждается конкретным протоколом и планом контроля, а не общим заявлением из каталога."
+      },
+      {
+        "question": "Как продолжается процесс после утверждения образца?",
+        "answer": "В процессе производства назначаются промежуточные контрольные точки, перед отгрузкой проводится финальная проверка, а партии сравниваются с утверждённым образцом. Каждый этап фиксируется письменным протоколом."
+      },
+      {
+        "question": "Стоит ли закупать лобби вместе с остальными общими зонами?",
+        "answer": "Да, если перечень разделён по зонам. Объединённая закупка усиливает переговорную позицию и унифицирует отделки, но предложение должно быть разбито по зонам, чтобы каждую зону можно было утвердить или отложить отдельно."
+      }
+    ]
+  }
 ];
 
 export const marketPostsFor = (market: MarketCode) =>

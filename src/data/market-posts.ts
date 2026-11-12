@@ -2553,7 +2553,302 @@ export const marketPosts: MarketPost[] = [
         "answer": "Да, если перечень разделён по зонам. Объединённая закупка усиливает переговорную позицию и унифицирует отделки, но предложение должно быть разбито по зонам, чтобы каждую зону можно было утвердить или отложить отдельно."
       }
     ]
-  }
+  },
+  /* ── d38a1 / bel-276 · 2026-11-11 · container-loading topic (gate PASS) ──
+     Three market-native entries (uz / mn / ru), written separately, no
+     translation mirroring. No delivery-time, certification, capacity,
+     project-count or MOQ claims; conservative 3.5-5 CBM per room range.
+     Image: AI-generated container loading scene (provenance in
+     article-automation/output/d38a1_imgs/_stock_img_ledger.json). */
+  {
+    id: "hotel-furniture-container-loading-uzbekistan",
+    market: "uz",
+    title: "Mehmonxona mebellari konteyner yuklash: 40 futlik konteynerga nechta xona joylashadi",
+    tag: "Logistika",
+    excerpt:
+      "«Bir konteynerga 10 yoki 17 xona» degan javob nima uchun noto'g'ri bo'ladi? Bitta xonaning haqiqiy hajmi, 40HC sig'imi, vazn chegarasi va o'z loyihangiz uchun konteynerlar sonini hisoblash usuli haqida.",
+    date: "2026-11-11",
+    readingMin: 7,
+    image: "/images/blog/hotel-furniture-container-loading.webp",
+    imageAlt: "Ochiq 40 futlik konteyner ichiga yig'ilgan mehmonxona mebellari: karton qutilar, o'ralgan stullar va yog'och lakatlar",
+    definition:
+      "Konteyner yuklash plani — bu loyiha bo'yicha mebellar ro'yxatini (BOQ) har bir pozitsiyaning qadoqlangan hajmi va vazni bilan bog'lab, 40 futlik konteyner ichida qanday tartibda joylashishini oldindan hisoblab chiqadigan hujjat. U yuk mashinasida emas, qog'ozda hosil bo'ladi: konteyner ochilishidan oldin har bir quti qaysi qavat, qaysi korpus va qaysi xonaga borishini ko'rsatadi.",
+    takeaways: [
+      "Bir mehmonxona xonasi o'rtacha 3,5–5 m³ qadoqlangan mebel egallaydi; aniq raqam mebel tarkibiga bog'liq.",
+      "40 futli yuqori konteyner nazariy 67,7 m³, amalda esa 60–65 m³ foydali yuk hajmi beradi.",
+      "Taqsimot chegara va qadoq usuliga bog'liq: yig'ilgan mebel yassi qadoqda ancha kam joy egallaydi.",
+      "Vazn chegarasi hajmdan oldin to'lishi mumkin: og'ir pozitsiyalar bilan yengil pozitsiyalarni aralashtirish kerak.",
+      "Har bir quti yuk ro'yxatida qavat, korpus va xona raqamiga bog'langan bo'lsa, obyektda qabul tezlashadi.",
+      "Yuklash sxemasi, quti ro'yxati va pozitsiya bo'yicha og'irliklar oldindan kelishilgan bo'lsa, da'volar kamayadi.",
+    ],
+    sections: [
+      {
+        heading: "Nima uchun «bir konteynerga nechta xona» degan yagona javob yo'q?",
+        paragraphs: [
+          "Xalqaro savdo forumlarida bu raqam 8 dan 17 gacha ko'rsatiladi. Ular orasidagi farq bir xil konteyner bilan emas, turlicha loyiha tarkibi bilan izohlanadi: bir loyihada xona faqat yotoq, kabinet va kondensatorli stul bo'lsa, boshqada divan, yozuv stoli, boshliq paneli va ichimlik stansiyasi bo'lsa, ikkinchisining hajmi birinchisidan ikki barobar oshadi.",
+          "Qadoq usuli ham xuddi shunday ta'sir qiladi. Yig'ilgan holda yetkazilgan mebel (flat-pack) yassi qutilarda ketma-ket joylashadi; yig'ib qo'yilgan holatda yetkazilgan mebel esa bo'sh joy bilan birga tashiladi. Shu ikki omilni bilmasdan keltirilgan «xona soni» raqami solishtirish uchun yaroqsiz; uni faqat o'z loyihangiz ro'yxati ustida hisoblash mumkin.",
+        ],
+      },
+      {
+        heading: "Bitta mehmonxona xonasi mebellari qancha hajm egallaydi?",
+        paragraphs: [
+          "Standart mehmon xonasi to'plami — yotoq, boshliq paneli, ikki tumba, kabinet, yozuv stoli, stul, valance va ko'pincha ko'prik yoki divan — qadoqlangan holatda o'rtacha 3,5–5 m³ oralig'ida joylashadi. Bu oralig'ning kengligi mebelning kategoriyasiga bog'liq: ekonom segmentda yassi qadoqda 3,5 m³ atrofida bo'lsa, ko'proq yumshoq mebel va dekorativ detallar bilan 5 m³ ga yaqinlashadi.",
+          "Bu raqamni aniqroq qilish uchun ro'yxatni qatorlar bo'yicha yurgizing: har bir pozitsiya uchun qadoq o'lchamlarini (uzunlik × kenglik × balandlik) so'rang va yig'indini o'zingiz hisoblang. Bu hisob bir necha daqiqa oladi va keyingi bosqichda konteyner sonini taxmin qilishning asosi bo'ladi.",
+        ],
+      },
+      {
+        heading: "40 futlik konteyner amalda qancha sig'im beradi?",
+        paragraphs: [
+          "40 futli yuqori (40HC) konteynerning nazariy hajmi 67,7 m³. Amalda esa devorlar va eshik oralig'i, yuklash tartibi va qutilar orasidagi bo'shliqlar hisobiga 60–65 m³ foydali hajm qoladi. Bu degani, agar loyihangiz 60 ta xona bo'lsa va har bir xona 4 m³ bo'lsa, 240 m³ kerak bo'ladi, taxminan 4 ta konteyner.",
+          "Ikkinchi chegar — vazn. Hajm to'lmay turganda ham konteyning maksimal yuk vazni (odatda 26–28 tonna atrofida, yo'nalish qoidalariga qarab) to'lishi mumkin. Marmar yoki tosh qoplamali pozitsiyalar, metall poyali mebellar og'ir tomonni hosil qiladi; bu yengil pozitsiyalar bilan aralashtirilishi shart.",
+        ],
+      },
+      {
+        heading: "O'z loyihangiz uchun konteynerlar sonini qanday hisoblash kerak?",
+        paragraphs: [
+          "Uch ustunli jadval tuzing: pozitsiya nomi, qadoq hajmi (m³), pozitsiya soni. Har bir xona turini alohida qatorlarda yig'ing — standart xona, lyuks, korpus va jamoat zonasi alohida. Jamoadagi zonalar (lobbi, restoran, konferens-zal) ko'pincha bir xona to'plamidan ko'proq hajm oladi, shuning uchun ularni alohida hisoblash to'g'ri.",
+          "Yig'indini foydali hajmga bo'ling va natijani yuqoriga yaxlitlang. Agar natija chegara bo'lsa (masalan 3,97 konteyner), 4 ni rejalashtiring: qutilar soni cheklovlar bilan to'liq to'lganda yuklash sxemasi buziladi va bu obyektda qabulni sekinlashtiradi.",
+          "Yig'indini tekshirishning oddiy usuli — natijani xona soniga bo'lib, xona boshiga qancha hajm to'g'ri kelishini ko'rish. Agar hisoblangan xona boshiga hajm 2 m³ dan kam bo'lsa yoki 7 m³ dan ko'p bo'lsa, ro'yxatda bir pozitsiya yoki ko'proq qadoq o'lchami tushib qolgan bo'lishi ehtimol va jadvalni qaytadan ko'rib chiqish kerak.",
+        ],
+      },
+      {
+        heading: "Og'ir va yengil mebellarni qanday joylashtirish kerak?",
+        paragraphs: [
+          "Konteyner ichida og'irlik pastda va markazda, yengil pozitsiyalar esa yuqorida joylashishi kerak. Og'ir pozitsiyalar (tosh qoplamali stollar, metall poyali mebellar, qutilar bilan yig'ilgan korpuslar) polga yaqin qo'yiladi va yengil qadoqlangan yotoq chiplari, tekstil va dekor yuqori qatlamlarga chiqadi.",
+          "Yukni ikki qismga bo'lish va og'irliklar taqsimotini tekshirish yuk qutisining deformatsiyasi va tashish paytidagi siljishlarni kamaytiradi. Har bir qatlam orasida lakatlar bilan mustahkamlash va lentalar bilan bog'lash standart amaliyot hisoblanadi.",
+        ],
+      },
+      {
+        heading: "Yuklash sxemasi va hujjatlar nima uchun muhim?",
+        paragraphs: [
+          "Yaxshi tayyorlangan konteynerda har bir qutida ikki ma'lumot bo'ladi: pozitsiya kodi va manzil — qavat, korpus, xona raqami. Bu ma'lumot yuk ro'yxatida ham takrorlanadi. Obyektda qabul qiluvchi jamoa konteynerni ochganda har bir qutini qayerga yuborishni biladi; bu ma'lumot yo'q bo'lsa, konteyner ochilishi tartibsizlikka aylanadi.",
+          "Yuklash sxemasi (konteyner ichidagi joylashuv), quti ro'yxati va pozitsiya bo'yicha og'irliklar oldindan kelishilgan bo'lsa, portda va obyektda bahslar kamayadi. Bu hujjatlar to'plami kichik loyihalarda ham bir necha sahifadan oshmaydi, lekin butun yetkazish jarayonini tartibga soladi.",
+        ],
+      },
+    ],
+    faqs: [
+      {
+        question: "40 futlik yuqori konteynerning hajmi qancha?",
+        answer: "Nazariy hajmi 67,7 m³. Amalda qadoq usuli va yuklash tartibiga qarab 60–65 m³ foydali hajm qoladi.",
+      },
+      {
+        question: "Bitta mehmonxona xonasi uchun qancha hajm hisoblash kerak?",
+        answer: "Standart to'plam uchun o'rtacha 3,5–5 m³ qadoqlangan mebel. Aniq raqam ro'yxatdagi har bir pozitsiyaning qadoq o'lchamlari asosida hisoblanadi.",
+      },
+      {
+        question: "Nega turli yetkazib beruvchilar turlicha xona soni aytadi?",
+        answer: "Raqam loyiha tarkibi va qadoq usuliga bog'liq. Yig'ilgan holatda yetkazilgan mebel va ko'proq yumshoq mebel bilan bir xil konteyner kamroq xona oladi.",
+      },
+      {
+        question: "Yassi qadoq (flat-pack) yoki yig'ilgan holatda yetkazish yaxshiroqmi?",
+        answer: "Yassi qadoq konteynerda kamroq joy egallaydi va konteynerlar sonini kamaytiradi. Yig'ilgan holat obyektda yig'ish vaqtini tejaydi. Qaror loyiha grafigi va byudjetga bog'liq.",
+      },
+      {
+        question: "Konteyner vazn chegarasi muammoga aylanadimi?",
+        answer: "Og'ir qoplamali va metall konstruksiyali pozitsiyalar ko'p bo'lgan loyihalarda hajm to'lmay turganda vazn chegarasi to'lishi mumkin. Bu hisobni pozitsiya bo'yicha oldindan o'tkazish kerak.",
+      },
+      {
+        question: "Turli xona turlarining mebellari bitta konteynerda aralashtirilsa bo'ladimi?",
+        answer: "Ha, amalda ko'p loyihalarda aralash yuk qo'llanadi. Muhim shart — qutilarning manzil ma'lumoti va yuk ro'yxati aniq bo'lishi, og'irliklar esa to'g'ri taqsimlangan bo'lishi.",
+      },
+      {
+        question: "Konteynerlar sonini qanday kamaytirish mumkin?",
+        answer: "Yassi qadoqni kengroq qo'llash, qadoq o'lchamlarini konteyner moduliga moslashtirish va jamoat zonasi pozitsiyalarini alohida emas, asosiy oqim bilan rejalashtirish hisobga keladi.",
+      },
+    ],
+  },
+  {
+    id: "hotel-furniture-container-loading-mongolia",
+    market: "mn",
+    title: "Зочны байшны тавилтын чингэлэг ачих: 40 фут чингэлэгт хэдэн өрөө багтах вэ",
+    tag: "Логистик",
+    excerpt:
+      "«Нэг чингэлэгт 10 эсвэл 17 өрөө» гэсэн тоо яагаад зөрүүтэй вэ? Нэг өрөөний жинхэнэ эзэлхүүн, 40HC-ийн багтаамж, жингийн хязгаар, өөрийн төслийн чингэлгийн тоог тооцоолох арга.",
+    date: "2026-11-11",
+    readingMin: 7,
+    image: "/images/blog/hotel-furniture-container-loading.webp",
+    imageAlt: "Нээлттэй 40 фут чингэлэг дотор зочны өрөөний тавилтууд: хайрцаг, боодолтой сандал, хөвөн материал",
+    definition:
+      "Чингэлэг ачих төлөвлөгөө гэдэг нь төслийн тавилтын жагсаалтыг (BOQ) бүр эд хэсэг бүрийн савласан эзэлхүүн, жинтэй холбож, 40 фут чингэлэг дотор ямар дарааллаар байрлахыг урьдчилан тооцоолж бичсэн баримт бичиг юм. Чингэлэг нээхээс өмнө хайрцаг бүр аль давхар, аль бүс, аль өрөөнд очих нь тодорхой болсон байдаг.",
+    takeaways: [
+      "Нэг зочны өрөөний тавилт савласан байдлаар дунджаар 3,5–5 м³ эзэлдэг; нарийн тоо тавилтын бүрэлдэхүүнээс хамаарна.",
+      "40 фут өндөр чингэлэг онолын 67,7 м³, практикад 60–65 м³ ашигтай багтаамж үлддэг.",
+      "Багтаамжийн зөрүү нь бүрэлдэхүүн, савлах аргаар тайлбарлагдана; задгай савтай тавилт бага зай эзэлдэг.",
+      "Эзэлхүүнээс өмнө жингийн хязгаар дүүж болох тохиолдол бий; хүнд бүрдлийг хөнгөн бүрдэлтэй хольж ачих хэрэгтэй.",
+      "Хайрцаг бүр давхар, бүс, өрөөний дугаартай холбогдсон байвал талбай дээр хүлээн авалт хурдасна.",
+      "Ачих схем, хайрцгийн жагсаалт, бүрдлээрх жинг урьдчилан тохиролцсоноор маргаан багасдаг.",
+    ],
+    sections: [
+      {
+        heading: "Яагаад «нэг чингэлэгт хэдэн өрөө» гэсэн нэг л хариулт байдаггүй вэ?",
+        paragraphs: [
+          "Олон улсын худалдааны чуулгануудад энэ тоог 8-оос 17 хүртэл өөр өөрөөр дурддаг. Зөрүү нь чингэлэг биш, төслийн бүрэлдэхүүний ялгаанаас гардаг: нэг төсөлд өрөө зөвхөн ор, шүүнээс бүрдсэн бол, нөгөөд нь сандал тавиур, гар бичгийн ширээ, толгойн самбар, уух зүйлийн бүс нэмэгдсэнээр эзэлхүүн хоёр дахин ордог.",
+          "Савлах арга мөн адил нөлөөлнө. Задгай савтай (flat-pack) тавилт хавтгай хайрцагт дараалан багтдаг; угсарсан байдлаар зөөгдсөн тавилт хоосон зайтай тээвэрлэгддэг. Энэ хоёр хүчин зүйлийг мэдэлгүй дурдсан «өрөөний тоо» харьцуулалтад тохирохгүй; түүнийг зөвхөн өөрийн төслийн жагсаалт дээр тооцоолж болно.",
+        ],
+      },
+      {
+        heading: "Нэг зочны өрөөний тавилт хэдэн хэмжээний зай эзэлдэг вэ?",
+        paragraphs: [
+          "Үндсэн өрөөний багц — ор, толгойн самбар, хоёр тавиур, шүүнээс, гар бичгийн ширээ, сандал, хөлийн завсрын самбар, зарим тохиолдолд сандал тавиур — савласан байдлаар дунджаар 3,5–5 м³-ийн завсарт багтдаг. Завсрын өргөн нь тавилтын ангилалаас хамаарна: энгийн зэрэглэлийн задгай савтай багц 3,5 м³ орчим бол, зөөлөн тавилт, чимэглэлийн элемент ихтэй багц 5 м³-ийг барьдаг.",
+          "Энэ тоог нарийвчлахын тулд жагсаалтаар мөр мөрөн гар: бүр эд хэсэг бүрийн савны хэмжээг (урт × өргөн × өндөр) асуугаад нийлбэрийг өөрөө тооц. Энэ тооцоолол хэдхэн минут авах бөгөөд дараагийн шатанд чингэлгийн тоог урьдчилан таамаглах үндэс болно.",
+        ],
+      },
+      {
+        heading: "40 фут чингэлэг практикад хэрэгтэй багтаамж өгдөг вэ?",
+        paragraphs: [
+          "40 фут өндөр (40HC) чингэлгийн онолын эзэлхүүн 67,7 м³. Гэхдээ хананы завсар, хаалганы орон зай, ачих дараалал, хайрцгийн хоорондын зай тооцогдсоноор 60–65 м³ ашигтай эзэлхүүн үлддэг. Тухайлбал, төсөлд 60 өрөө байгаа бөгөөд өрөө бүр 4 м³ бол 240 м³ хэрэгтэй, ойролцоогоор 4 чингэлэг.",
+          "Хоёр дахь хязгаар нь жин. Эзэлхүүн дүүрэхгүй байхад чингэлгийн дээд ачих жин (ихэвчлэн 26–28 тонн орчим, чиглэлийн дүрмээс хамаарна) дүүж болно. Шавар чулуун бүрээстэй ширээ, металл хөлтэй тавилт хүнд талыг үүсгэдэг тул тэдгээрийг хөнгөн бүрдэлтэй хольж ачих заавал шаардлагатай.",
+        ],
+      },
+      {
+        heading: "Өөрийн төслийн чингэлгийн тоог хэрхэн тооцоолох вэ?",
+        paragraphs: [
+          "Гурван баганат хүснэгт үүсгэ: бүрдлийн нэр, савны эзэлхүүн (м³), тоо ширхэг. Өрөөний төрөл бүрийг тусдаа мөрөнд нэгтгэ — стандарт өрөө, люкс, коридор, нийтийн бүс тус тусад нь. Нийтийн бүс (хүлээн авалтын танхим, ресторан, хурлын танхим) өрөөний багцаас илүү зай авдаг тул тэдгээрийг тусдаа тооцох зөв.",
+          "Нийлбэрийг шалгах энгийн арга — өрөөний тоонд хувааж, өрөө бүрт хэдэн эзэлхүүн ноогдохыг харах. Хэрэв өрөө бүрт тооцоолсон эзэлхүүн 2 м³-ээс бага эсвэл 7 м³-ээс их байвал жагсаалтад бүрдэл эсвэл савны хэмжээ орхигдсон байх магадлал өндөр тул хүснэгтийг дахин шалгах хэрэгтэй.",
+        ],
+      },
+      {
+        heading: "Хүнд болон хөнгөн тавилтыг хэрхэн байрлуулах вэ?",
+        paragraphs: [
+          "Чингэлэг дотор хүнд жин доод талд, төвд; хөнгөн бүрдэл дээд талд байрлах ёстой. Хүнд бүрдэл (чулуун бүрээстэй ширээ, металл хөлтэй тавилт, хайрцагт угсарсан шүүнээс) шалтай ойр тавигдаж, хөнгөн савласан орны толгой, даавуу, чимэглэл дээд давхаргад гарна.",
+          "Ачилтыг давхаргаар хувааж, жингийн тархалтыг шалгах нь хайрцгийн хэв гажилт, тээвэр дундах хөдөлгөөн багасгадаг. Давхарга бүрийн хооронд хөвөн материал, бэхэлгээний тууз ашиглах нь стандарт дадлага.",
+        ],
+      },
+      {
+        heading: "Ачих схем, баримт бичиг яагаад чухал вэ?",
+        paragraphs: [
+          "Сайн бэлтгэсэн чингэлэгт хайрцаг бүр дээр хоёр мэдээлэл байдаг: бүрдлийн код, хаяг — давхар, бүс, өрөөний дугаар. Энэ мэдээлэл ачих жагсаалтад давхар давтагддаг. Талбай дээрх хүлээн авах баг чингэлэг нээхэд хайрцаг бүрийг хаашаа илгээхийг мэднэ; энэ мэдээлэл байхгүй бол чингэлэг нээлт эмх замбараагүй байдал болно.",
+          "Ачих схем (чингэлэг доторх байрлал), хайрцгийн жагсаалт, бүрдлээрх жинг урьдчилан тохиролцсоноор боомт болон талбай дээрх маргаан багасдаг. Энэ баримтууд жижиг төсөлд ч хэд хуудсаас хэтрэхгүй, гэхдээ бүх тээвэрлэлтийг журамладаг.",
+        ],
+      },
+    ],
+    faqs: [
+      {
+        question: "40 фут өндөр чингэлгийн эзэлхүүн хэдэр вэ?",
+        answer: "Онолын хэмжээ нь 67,7 м³. Практикад савлах арга, ачих дарааллаас хамааран 60–65 м³ ашигтай эзэлхүүн үлддэг.",
+      },
+      {
+        question: "Нэг зочны өрөөнд хэдэн эзэлхүүн тооцох вэ?",
+        answer: "Үндсэн багцад дунджаар 3,5–5 м³ савласан тавилт. Нарийн тоог жагсаалтын бүр эд хэсэг бүрийн савны хэмжээнээс тооцно.",
+      },
+      {
+        question: "Яагаад нийлүүлэгчид өөр өөр өрөөний тоо хэлдэг вэ?",
+        answer: "Тоо нь төслийн бүрэлдэхүүн, савлах аргаас хамаарна. Угсарсан байдлаар тээвэрлэсэн, зөөлөн тавилт ихтэй багц ижил чингэлэгт бага өрөө багтана.",
+      },
+      {
+        question: "Задгай савтай болон угсарсан байдлаар тээвэрлэхээс аль нь дээр вэ?",
+        answer: "Задгай савтай нь чингэлэгт бага зай эзэлж, чингэлгийн тоог багасгадаг. Угсарсан байдлаар нь талбай дээрх угсралтын хугацаа хэмнэгддэг. Шийдвэр нь төслийн хугацаа, төсвөөс хамаарна.",
+      },
+      {
+        question: "Чингэлгийн жингийн хязгаар асуудал болж ч байдаг уу?",
+        answer: "Хүнд бүрээс, металл конструкц ихтэй төслүүдэд эзэлхүүн дүүрэхгүй байхад жингийн хязгаар дүүж болно. Энэ тооцоог бүрдэл бүрээр урьдчилан хийх хэрэгтэй.",
+      },
+      {
+        question: "Өөр өөр өрөөний тавилтыг нэг чингэлэгт хольж ачихыг зөвшөөрдөг үү?",
+        answer: "Тийм, олон төсөлд холимог ачилт хэрэглэдэг. Гол нөхцөл нь хайрцгийн хаяг, ачих жагсаалт тодорхой байх, жин зөв тархсан байх явдал.",
+      },
+      {
+        question: "Чингэлгийн тоог хэрхэн багасгах вэ?",
+        answer: "Задгай савыг өргөн хэрэглэх, савны хэмжээг чингэлгийн модультай тохируулах, нийтийн бүсийн бүрдлийг тусдаа бус үндсэн урсгалтай хамт төлөвлөх нь тооцоог сайжруулдаг.",
+      },
+    ],
+  },
+  {
+    id: "hotel-furniture-container-loading-russia",
+    market: "ru",
+    title: "Погрузка мебели для отелей в контейнер: сколько номеров входит в 40-футовый контейнер",
+    tag: "Логистика",
+    excerpt:
+      "Почему ответы «в один контейнер входит 10 или 17 номеров» не совпадают: реальный объём одного номера, полезная вместимость 40HC, ограничение по весу и методика расчёта числа контейнеров под свой проект.",
+    date: "2026-11-11",
+    readingMin: 7,
+    image: "/images/blog/hotel-furniture-container-loading.webp",
+    imageAlt: "Открытый 40-футовый контейнер с загруженной мебелью для гостиницы: коробки, обёрнутые стулья и деревянные распорки",
+    definition:
+      "План погрузки контейнера — это документ, который связывает ведомость мебели проекта (BOQ) с упакованным объёмом и весом каждой позиции и заранее рассчитывает порядок размещения внутри 40-футового контейнера. Он создаётся на бумаге, а не в кузове: до открытия контейнера каждая коробка уже привязана к этажу, корпусу и номеру.",
+    takeaways: [
+      "Один гостиничный номер занимает в среднем 3,5–5 м³ упакованной мебели; точная цифра зависит от состава комплекта.",
+      "40-футовый высокий контейнер имеет теоретический объём 67,7 м³, но на практике даёт 60–65 м³ полезной загрузки.",
+      "Разброс в оценках объясняется составом и способом упаковки: плоская упаковка занимает заметно меньше места.",
+      "Лимит по весу может наступить раньше, чем заполнится объём: тяжёлые позиции перемешивают с лёгкими.",
+      "Если каждая коробка привязана к этажу, корпусу и номеру в ведомости, приёмка на объекте ускоряется.",
+      "Схема погрузки, ведомость коробок и веса по позициям, согласованные заранее, снижают число споров.",
+    ],
+    sections: [
+      {
+        heading: "Почему на вопрос «сколько номеров входит в контейнер» нет единого ответа?",
+        paragraphs: [
+          "На отраслевых форумах и в публикациях эта цифра колеблется от 8 до 17 номеров. Разброс объясняется не контейнером, а составом проекта: если в одном номере только кровать, шкаф и стул, а в другом добавлены диван, письменный стол, изголовье и мини-барная зона, объём второго комплекта вырастает почти вдвое.",
+          "Столь же сильно влияет способ упаковки. Мебель в плоской упаковке (flat-pack) укладывается коробками плотными рядами; мебель, поставленная в собранном виде, везёт вместе с собой воздух. Без этих двух параметров цифра «номеров на контейнер» несопоставима: её можно посчитать только по собственной ведомости проекта.",
+        ],
+      },
+      {
+        heading: "Какой объём занимает мебель одного гостиничного номера?",
+        paragraphs: [
+          "Стандартный комплект номера — кровать с изголовьем, две тумбочки, шкаф, письменный стол, стул, фрамуга и чаще всего кушетка или диван — в упакованном виде занимает в среднем от 3,5 до 5 м³. Ширина диапазона определяется категорией: базовый комплект в плоской упаковке ближе к 3,5 м³, комплект с большей долей мягкой мебели и декоративных элементов приближается к 5 м³.",
+          "Чтобы получить точную цифру, пройдите по ведомости построчно: запросите габариты упаковки каждой позиции (длина × ширина × высота) и сложите их. Такой расчёт занимает несколько минут и становится основой для оценки числа контейнеров на следующем шаге.",
+        ],
+      },
+      {
+        heading: "Что реально вмещает 40-футовый контейнер?",
+        paragraphs: [
+          "Теоретический объём 40-футового высокого контейнера (40HC) — 67,7 м³. На практике из-за зазоров у стен и дверного проёма, порядка укладки и промежутков между коробками остаётся около 60–65 м³ полезной загрузки. Это значит: если в проекте 60 номеров и на каждый приходится 4 м³, потребуется около 240 м³, то есть примерно четыре контейнера.",
+          "Второе ограничение — вес. Даже при незаполненном объёме может достигаться максимальная грузоподъёмность контейнера (обычно около 26–28 тонн в зависимости от правил направления). Позиции с каменными столешницами и металлическими каркасами формируют тяжёлую сторону, и их обязательно перемешивают с лёгкими позициями.",
+        ],
+      },
+      {
+        heading: "Как посчитать число контейнеров под свой проект?",
+        paragraphs: [
+          "Составьте таблицу из трёх столбцов: наименование позиции, объём упаковки (м³), количество. Сведите каждую категорию номера в отдельные строки — стандартный номер, люкс, коридорные и общественные зоны отдельно. Общественные зоны (лобби, ресторан, конференц-зал) часто занимают больше объёма, чем комплект номера, поэтому их считают отдельным блоком.",
+          "Разделите сумму на полезный объём и округлите результат вверх. Если получается пограничное значение (например, 3,97 контейнера), планируйте четыре: при полной загрузке впритык схема погрузки нарушается, и это замедляет приёмку на объекте.",
+        ],
+      },
+      {
+        heading: "Как размещать тяжёлые и лёгкие позиции внутри контейнера?",
+        paragraphs: [
+          "Внутри контейнера тяжёлый груз размещают внизу и ближе к центру, лёгкие позиции — сверху. Тяжёлые позиции (столы с каменными столешницами, мебель на металлокаркасах, корпусная мебель в коробках) ставят ближе к полу, а лёгко упакованные изголовья, текстиль и декор выходят на верхние слои.",
+          "Разбиение погрузки на слои и проверка распределения весов снижают деформацию коробок и смещения в пути. Распорки между слоями и фиксация стропами — стандартная практика при погрузке гостиничных партий.",
+        ],
+      },
+      {
+        heading: "Почему схема погрузки и документы важнее самой погрузки?",
+        paragraphs: [
+          "На хорошо подготовленной партии каждая коробка несёт два сведения: код позиции и адрес — этаж, корпус, номер. Эти сведения повторяются в ведомости коробок. Когда бригада на объекте открывает контейнер, она знает, куда направить каждую коробку; без этого вскрытие превращается в неуправляемый поток.",
+          "Схема погрузки (расположение внутри контейнера), ведомость коробок и веса по позициям, согласованные до отгрузки, сокращают споры в порту и на объекте. Такой комплект документов даже на небольших проектах занимает несколько страниц, но упорядочивает всю поставку.",
+        ],
+      },
+    ],
+    faqs: [
+      {
+        question: "Какой объём у 40-футового высокого контейнера?",
+        answer: "Теоретический объём — 67,7 м³. На практике из-за способа упаковки и порядка укладки остаётся около 60–65 м³ полезной загрузки.",
+      },
+      {
+        question: "Какой объём закладывать на один гостиничный номер?",
+        answer: "Для стандартного комплекта — в среднем 3,5–5 м³ упакованной мебели. Точная цифра считается по габаритам упаковки каждой позиции ведомости.",
+      },
+      {
+        question: "Почему поставщики называют разное число номеров на контейнер?",
+        answer: "Цифра зависит от состава комплекта и способа упаковки. Собранная мебель и большая доля мягких позиций занимают в том же контейнере меньше номеров.",
+      },
+      {
+        question: "Что лучше: плоская упаковка или поставка в собранном виде?",
+        answer: "Плоская упаковка занимает меньше места и сокращает число контейнеров. Собранная поставка экономит время монтажа на объекте. Решение зависит от графика и бюджета проекта.",
+      },
+      {
+        question: "Может ли лимит по весу стать проблемой?",
+        answer: "Да, в проектах с тяжёлыми покрытиями и металлокаркасами лимит веса достигается раньше, чем заполняется объём. Этот расчёт проводят заранее по каждой позиции.",
+      },
+      {
+        question: "Можно ли смешивать мебель разных типов номеров в одном контейнере?",
+        answer: "Да, на практике большинство проектов грузят смешанно. Важно, чтобы у коробок была адресная маркировка и точная ведомость, а веса были правильно распределены.",
+      },
+      {
+        question: "Как уменьшить число контейнеров?",
+        answer: "Шире применять плоскую упаковку, подгонять габариты упаковки под модуль контейнера и планировать позиции общественных зон вместе с основным потоком, а не отдельной партией.",
+      },
+    ],
+  },
 ];
 
 export const marketPostsFor = (market: MarketCode) =>

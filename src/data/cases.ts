@@ -41,7 +41,7 @@ export const cases: CaseStudy[] = [
   },
   {
     id: "hotel-banquet-astana",
-    image: "/images/products/hotel-ca-11/hotel-ca-11-scene.jpg",
+    image: "/images/products/hotel-ca-11/hotel-ca-11-scene.webp",
     industry: { kk: "Қонақүй", uz: "Mehmonxona", en: "Hotel" },
     title: {
       kk: "Премиум қонақүйдің банкет залы",
@@ -62,7 +62,7 @@ export const cases: CaseStudy[] = [
   },
   {
     id: "hotel-bar-restaurant",
-    image: "/images/products/hotel-ca-07/hotel-ca-07-scene.jpg",
+    image: "/images/products/hotel-ca-07/hotel-ca-07-scene.webp",
     industry: { kk: "Қонақүй", uz: "Mehmonxona", en: "Hotel" },
     title: {
       kk: "Қонақүйдің бөлме мейрамханасы мен бар аймағы",
@@ -83,7 +83,7 @@ export const cases: CaseStudy[] = [
   },
   {
     id: "office-conference-astana",
-    image: "/images/products/office-ca-05/office-ca-05-scene.jpg",
+    image: "/images/products/office-ca-05/office-ca-05-scene.webp",
     industry: { kk: "Кеңсе", uz: "Ofis", en: "Office" },
     title: {
       kk: "Бизнес-орталықтың кеңес аймағы",
@@ -104,7 +104,7 @@ export const cases: CaseStudy[] = [
   },
   {
     id: "edu-campus-kz",
-    image: "/images/products/edu-ca-01/edu-ca-01-scene.jpg",
+    image: "/images/products/edu-ca-01/edu-ca-01-scene.webp",
     industry: { kk: "Білім беру", uz: "Ta'lim", en: "Education" },
     title: {
       kk: "Халықаралық мектеп кампусы",
@@ -125,7 +125,7 @@ export const cases: CaseStudy[] = [
   },
   {
     id: "villa-residence-tashkent",
-    image: "/images/products/home-ca-01/home-ca-01-scene.jpg",
+    image: "/images/products/home-ca-01/home-ca-01-scene.webp",
     industry: { kk: "Тұрғын үй", uz: "Turar-joy", en: "Residential" },
     title: {
       kk: "Жеке резиденцияға толық циклды жиһаздау",

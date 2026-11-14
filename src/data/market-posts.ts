@@ -2849,6 +2849,92 @@ export const marketPosts: MarketPost[] = [
       },
     ],
   },
+  {
+    id: "hotel-furniture-technical-brief-uzbekistan",
+    market: "uz",
+    title: "Mehmonxona mebeli buyurtmasi: texnik topshiriqni qanday tuzish kerak",
+    tag: "Loyihalash",
+    excerpt:
+      "Texnik topshiriq — loyihaning eng arzon hujjati va eng qimmat xatosi. Xona to'plamlari, o'lchamlar, materiallar va qabul mezoni qanday yozilishi kerakligi haqida amaliy qo'llanma.",
+    date: "2026-11-14",
+    readingMin: 7,
+    image: "/images/blog/hotel-furniture-technical-brief.webp",
+    imageAlt: "Ish stoli ustidagi mehmonxona mebellari texnik topshirig'i: xona rejalar, miqdor jadvali, material namunalari va o'lchash lineykasi",
+    definition:
+      "Texnik topshiriq — bu mehmonxona mebellari bo'yicha buyurtmaning yozma vazifasi: qaysi xonalarga qanday mebel, qanday o'lchamlar va materiallarda, qanday qabul mezolari bilan yetkazilishi kerakligini bir hujjatga jamlaydi. U narx so'roviga asos bo'ladi va shartnomaga ilova qilinadi.",
+    takeaways: [
+      "Texnik topshiriq xona to'plamlari bo'yicha yoziladi, ayrim mebel pozitsiyalari bo'yicha emas.",
+      "Har bir pozitsiya uchun o'lcham, material va yuzaki ishlov bir jadvalda yuritiladi.",
+      "Namuna (mock-up) uchun bitta xona tanlanadi va qabul mezoni shu namunaga bog'lanadi.",
+      "Herrajalar, yuklama va olov-xavfsizlik talablari alohida bandda yoziladi.",
+      "Qabul bosqichi uchun mezoni oldindan yozish keyingi bahslarning oldini oladi.",
+      "O'lchamlar xona rejasiga bog'lanmasa, ishlab chiqarishda og'ish boshlanadi.",
+    ],
+    sections: [
+      {
+        heading: "Texnik topshiriq nima uchun shartnomadan oldin yoziladi?",
+        paragraphs: [
+          "Buyurtmaning eng qimmat xatosi — «keyinroq aniqlashtiramiz» degan iboradir. Narx so'rovi texnik topshiriqsiz berilsa, zavod o'z taxminlari bilan ishlaydi va taklifdagi har bir raqam shu taxminlarga bog'lanadi. Shartnoma imzolangandan keyin aniqlashtirish esa o'zgartirish buyurtmasiga aylanadi: u vaqt ham, pul ham oladi.",
+          "Texnik topshiriq ikki tomonni ham himoyalaydi. Mijoz uchun u nima olayotganini yozma ko'rsatadi; ishlab chiqaruvchi uchun esa ish boshlash uchun bitta rasmiy manba bo'lib xizmat qiladi. Telegramdagi og'zaki kelishuvlar va jonli suhbatdagi qarorlar hujjatga kiritilmaguncha, ular loyiha tarixining bir qismi bo'lmaydi.",
+        ],
+      },
+      {
+        heading: "Xona to'plami qanday tuziladi?",
+        paragraphs: [
+          "To'plam xona turiga bog'lanadi: standart yotoqxona, biznes toifa, lyuks va umumiy zonalar alohida yoziladi. Har bir to'plam uchun mebel ro'yxati, ularning taxminiy o'lchamlari va material guruhlari ko'rsatiladi. Masalan, standart yotoqxona uchun krovat, boshliq paneli, ikkita tumba, shkaf, yozuv stoli va stul bir guruhga birlashtiriladi.",
+          "To'plam ichidagi pozitsiyalar soni ko'paygan sari jadval ham o'sadi. Tajribali yo'nalishda bu jadval exceldan ko'chib, loyihaning asosiy hujjatiga aylanadi: har bir qator o'lcham, material, rang va yuzaki ishlov ustunlariga ega bo'ladi. Bu jadval keyinchalik yetkazish ro'yxati va qabul tekshiruvi uchun ham asos bo'ladi.",
+        ],
+      },
+      {
+        heading: "O'lchamlar qanday berilishi kerak?",
+        paragraphs: [
+          "O'lchamlar xona rejasiga bog'lanmasa, zavod «umumiy» mebel ishlab chiqaradi va obyektda joy yetishmasligi mumkin. Shuning uchun texnik topshiriqda har bir xona uchun plan yoki hech bo'lmasa asosiy o'lchamlar — devor uzunligi, deraza va eshik joylari, tokcha va tungi stolbalandliklari ko'rsatiladi.",
+          "O'lchamni yozishda uch o'lcham tartibi bir xil bo'lishi kerak: uzunlik × kenglik × balandlik. Nomutanosib yozilgan o'lchamlar — «120×45×220» yoki «220×45×120» — ishlab chiqarishda eng ko'p tarqalgan xato manbaidir. Shartnoma ilovasida bitta tartib tanlanadi va butun jadval shu tartibda yuritiladi.",
+        ],
+      },
+      {
+        heading: "Materiallar va namuna mezoni qanday yoziladi?",
+        paragraphs: [
+          "Materiallar ikki darajada yoziladi: majburiy talablar va tavsiyalar. Majburiy qismga olov-xavfsizlik talablari, yuviladigan yuzalar, xavfsizlik shishasi kabi mezonlar kiradi. Tavsiya qismga rang palitrasi, dekorativ qoplamlar va yumshoq mebel matolari kiradi; ular namuna tasdiqlanganda yakunlanadi.",
+          "Namuna (mock-up) uchun bitta xona tanlanadi va uning mebellari to'liq tayyorlanadi. Mijoz bu xonani joyida ko'rib, og'ishlarni yozma qayd etadi. Shu qayd qolgan barcha xonalar uchun qabul mezoni bo'lib xizmat qiladi. Namunasiz ketgan loyihalarda esa har bir xona «birinchi marta» qabul qilinadi va bahs ko'payadi.",
+        ],
+      },
+      {
+        heading: "Qabul mezoni topshiriqda qanday yoziladi?",
+        paragraphs: [
+          "Qabul bosqichi uchun mezoni oldindan yozish eng ko'p bahsni bartaraf qiladi. Qanday kattalikdagi sirt nuqsoni qabul qilinadi, qanday og'ish me'yordan oshsa qayta ishlanadi, kim qaror qabul qiladi — bu uch savolga javob topshiriqning qabul bo'limida yozma beriladi.",
+          "Bizning amaliyotda texnik topshiriq shartnoma ilovasiga aylanadi va har bir pozitsiya unga bog'lanadi. 1996-yildan beri eksport loyihalarida ishlagan ishlab chiqaruvchi uchun bu hujjat oddiy tartib; Hilton Tashkent loyihasi ham ana shu tartibda yuritilgan hujjatlar bilan bajarilgan. Buyurtmani shu tartibda boshlagan mijoz esa keyingi bosqichlarda vaqt tejaydi.",
+        ],
+      },
+    ],
+    faqs: [
+      {
+        question: "Texnik topshiriqni kim tuzadi: mijozmi yoki ishlab chiqaruvchimi?",
+        answer: "Iskelbni mijoz belgilaydi, hujjatni ikki tomon birga to'ldiradi. Mijoz xona ro'yxati, o'lchamlar va talablarni beradi; ishlab chiqaruvchi material variantlari, konstruksiya va qabul mezonlarini taklif qiladi.",
+      },
+      {
+        question: "Xona rejasiz buyurtma berish mumkinmi?",
+        answer: "Kichik hajmlarda mumkin, lekin risk yuqori. Rejasiz berilgan o'lchamlar obyektda joy yetmasligiga olib keladi. Kamida asosiy o'lchamlar — devor uzunliklari, eshik va deraza joylari — yozma berilishi kerak.",
+      },
+      {
+        question: "Namuna (mock-up) qancha xona uchun tayyorlanadi?",
+        answer: "Odatda bitta standart yotoqxona. Lyuks toifa va umumiy zonalar uchun alohida namunalar so'ralishi mumkin. Namuna tasdiqlangandan keyingi xonalar shu mezon bo'yicha qabul qilinadi.",
+      },
+      {
+        question: "O'lchamlar qaysi tartibda yozilishi kerak?",
+        answer: "Butun hujjat bo'ylab bitta tartib: uzunlik × kenglik × balandlik. Tartib almashsa, ishlab chiqarishda eng ko'p uchraydigan xato — o'lchamlarni almashtirib olish — yuzaga keladi.",
+      },
+      {
+        question: "Material talablari qanday bo'linadi?",
+        answer: "Majburiy talablar (olov-xavfsizlik, yuviladigan yuzalar, xavfsizlik shishasi) va tavsiyalar (rang, dekorativ qoplama) ikki bo'limga ajratiladi. Majburiy qism shartnomaga kiradi, tavsiyalar namuna bosqichida yakunlanadi.",
+      },
+      {
+        question: "Qabul mezoni keyinroq kelishib olish mumkinmi?",
+        answer: "Mumkin, lekin bu eng qimmat yo'l. Mezonlar oldindan yozilsa, qabul bosqichi bahsga emas, tekshiruvga aylanadi va ish jadali saqlanadi.",
+      },
+    ],
+  },
+
 ];
 
 export const marketPostsFor = (market: MarketCode) =>

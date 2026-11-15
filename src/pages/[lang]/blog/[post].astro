@@ -2,6 +2,7 @@
 import BaseLayout from "../../../layouts/BaseLayout.astro";
 import { localePath, useTranslations } from "../../../i18n/utils";
 import { posts, postById, type BlogPost } from "../../../data/blog";
+import { blogFigures, type BlogFigure } from "../../../data/blog-figures";
 import { categories } from "../../../data/categories";
 import { locales, type Lang } from "../../../i18n/ui";
 
@@ -19,6 +20,7 @@ const t = useTranslations(lang);
 const title = `${p.title[lang]} · Hymebel Blog`;
 const description = p.excerpt[lang];
 const related = posts.filter((x) => x.id !== p.id).slice(0, 3);
+const figs: BlogFigure[] = blogFigures[p.id] ?? [];
 
 /** 文章 → 相关品类页（正文锚文本内链，传递站内权重） */
 const POST_CATS: Record<string, string[]> = {
@@ -123,10 +125,16 @@ const crumb = [
         </ul>
       </div>
 
-      {p.sections.map((s) => (
+      {p.sections.map((s, i) => (
         <>
           <h2>{s.h[lang]}</h2>
           {s.paras[lang].map((par) => <p set:html={linkify(par)} />)}
+          {figs.filter((f) => f.afterSection === i).map((f) => (
+            <figure class="post-figure">
+              <img src={f.src} alt={f.alt[lang]} width="1200" height="735" loading="lazy" />
+              <figcaption>{f.caption[lang]}</figcaption>
+            </figure>
+          ))}
         </>
       ))}
 

@@ -2935,6 +2935,154 @@ export const marketPosts: MarketPost[] = [
     ],
   },
 
+  {
+    id: "mehmonxona-mebeli-kafolati",
+    market: "uz",
+    title: "Mehmonxona mebeli kafolati: nuqsonlarni qanday qayd etish va almashtirish",
+    tag: "Sifat nazorati",
+    excerpt:
+      "Mehmonxona mebeli kafolati bo'yicha nuqsonni qanday qayd etish, dalil to'plash va almashtirish yoki joyida tuzatishni tanlash tartibi: amaliy qo'llanma.",
+    date: "2026-11-17",
+    readingMin: 10,
+    image: "/images/blog/hotel-furniture-warranty.webp",
+    imageAlt: "Mehmonxona mebeli kafolati bo'yicha nuqsonni tekshirish jarayoni",
+    definition:
+      "Mehmonxona mebeli kafolati — yetkazib beruvchining ishlab chiqarish sababli paydo bo'lgan nuqsonlar uchun kelishilgan muddat ichida yozma javob berish majburiyati. Bu majburiyat muddat, dalil va javob tartibi shartnomada yozilgan bo'lsa ishlaydi: qayd etilmagan nuqson va og'zaki murojaat kafolat muddatini to'xtatmaydi.",
+    takeaways: [
+      "Kafolat — bu bepul ta'mirlash va'dasi emas, balki muddat, dalil va javob majburiyati bilan bog'langan yozma kelishuv.",
+      "Nuqson faqat xonaga o'rnatilgandan keyin emas, qabul paytida ham qayd etilishi kerak, chunki kechiktirilgan yozuv dalil kuchini yo'qotadi.",
+      "Konstruktiv nuqson, xavfsizlikka ta'sir qiladigan holat va bir partiyada takrorlangan nuqson almashtirish uchun asos bo'ladi.",
+      "Furnitura, oyoq, tortma relsi va qirra kabi elementlar odatda joyida tuzatiladi, lekin yozma rozilik va foto-fiksatsiya bilan.",
+      "Da'vo har bir xona va partiya raqami bilan yuritiladi, chunki og'zaki murojaat kafolat muddatini to'xtatmaydi.",
+      "Shartnomada muddatning boshlanish sanasi, javob vaqti va ehtiyot qismlar sharti yozilmasa, kafolat qog'ozda qoladi.",
+    ],
+    sections: [
+      {
+        heading: "Mehmonxona mebeli kafolati nimani qamrab oladi va nimani qamramaydi?",
+        paragraphs: [
+          "Yetkazib berilgandan keyingi o'n ikki oy mehmonxona mebeli kafolati bo'yicha eng ko'p nizo chiqadigan davr hisoblanadi. Muammo ko'pincha mebelning o'zida emas, dalilning yo'qligida: qaysi xonada, qaysi partiyada va qachon nuqson paydo bo'lgani yozilmagan bo'lsa, ikki tomon bir xil faktlarga tayanmaydi. Quyida nuqsonni qanday foto-fiksatsiya qilish, qaysi holatda almashtirish talab qilinishi va qaysi holatda joyida tuzatish ma'qulligi ko'rsatilgan. Bu tartib qabul ro'yxati bilan birga ishlaydi, uni almashtirmaydi.",
+          "Mehmonxona mebeli kafolati deganda yetkazib beruvchining o'z mahsulotida ishlab chiqarish sababli paydo bo'lgan nuqson uchun kelishilgan muddat ichida javob berish majburiyati tushuniladi va u odatda karkas, furnitura, qoplama hamda yumshoq mebel qismlarini qamrab oladi, lekin noto'g'ri ishlatish va tabiiy eskirishni qamramaydi. Bu majburiyat mahsulot turiga qarab farq qiladi: xona mebeli uchun odatda o'n ikki oy, ommaviy zonalardagi stul va stollar uchun esa loyihaga qarab qisqaroq muddat kelishiladi.",
+          "Muddatning boshlanish sanasi eng ko'p chalkashtiriladigan joy. Zavod yukni tayyorlagan kun, konteyner Toshkentga yetib kelgan kun va mebel xonaga o'rnatilgan kun bir xil emas. Shartnomada qaysi sana asos qilib olinishi yozilishi kerak, aks holda loyiha oxirida hisob-kitob ikki xil bo'ladi.",
+          "Amalda kafolat qamrovi uchta savolga javob beradi. Nuqson ishlab chiqarishda paydo bo'lganmi? U mebelning belgilangan sharoitda ishlatilishida yuz berganmi? Dalil nuqsonni aynan shu mahsulotga bog'lay oladimi? Uch javob ham \"ha\" bo'lsa, da'vo asosli hisoblanadi.",
+          "Nuqsonlarni to'rt toifaga ajratish amaliy jihatdan qulay. Konstruktiv nuqson karkas, payvand va yuk ko'taruvchi qismlarga tegishli bo'ladi. Funksional nuqson eshik, tortma yoki mexanizmning ishlashini buzadi. Kosmetik nuqson faqat tashqi ko'rinishga ta'sir qiladi, qadoqlashdan kelib chiqqan nuqson esa tashish paytida yuzaga keladi va ko'pincha bir nechta xonada bir vaqtda ko'rinadi. Har bir toifa uchun dalil talabi har xil, shuning uchun ularni aralashtirib yuborish da'voni sekinlashtiradi.",
+          "Karkas chokining yorilishi — ishlab chiqarish nuqsoni bo'lsa kafolat qamroviga kiradi; tashqi zarba bo'lsa qamrovdan tashqarida qoladi. Tutqich, petlya, rels — zavod nuqsoni bo'lsa kafolat qamroviga kiradi; noto'g'ri o'rnatish bo'lsa qamrovdan tashqarida qoladi. Qoplama va qirra lentasi — zavodda yopishmagan bo'lsa kafolat qamroviga kiradi; namlik yoki kimyoviy tozalashdan keyin qamrovdan tashqarida qoladi. Yumshoq mebel matosi — tikuv va chok nuqsoni bo'lsa kafolat qamroviga kiradi; mehmon tomonidan shikastlansa qamrovdan tashqarida qoladi. Oynali eshik va fasad — mahkamlash nuqsoni bo'lsa kafolat qamroviga kiradi; tashqi urilish bo'lsa qamrovdan tashqarida qoladi.",
+          "Zavod amaliyotidagi eng ko'p bahs tug'diradigan nuqta — MDF qirrasining shishishi. Bu holat ko'pincha namlikdan kelib chiqadi, lekin chetning yopilish sifati ham muhim rol o'ynaydi. Shuning uchun qabul paytida qirra lentasining yopishgan joyini barmoq bilan tekshirish va shubhali xonalarni ro'yxatga kiritish kerak.",
+          "Yumshoq mebel alohida e'tibor talab qiladi. Mato cho'zilishi, chokning ochilishi va to'ldirgichning cho'kishi ko'pincha foydalanish intensivligiga bog'liq bo'ladi. Loyihada qaysi xonalar ko'proq band bo'lishini oldindan bilish mumkin bo'lsa, kafolat da'volarini tahlil qilishda bu ma'lumot foydali bo'ladi. Namlik yuqori bo'lgan hududlarda esa mato va karkas birikmalarini qo'shimcha tekshirish kerak.",
+        ],
+      },
+      {
+        heading: "Yetkazib berilgandan keyin nuqsonni qanday qayd etish kerak?",
+        paragraphs: [
+          "Nuqsonni qayd etishning maqsadi mebel qaysi xonada, qaysi partiyada va qanday sharoitda shikastlanganini isbotlaydigan yozma iz qoldirishdir, chunki kafolat da'vosi suratga olish, o'lchov va partiya raqamisiz ko'p hollarda rad etiladi va keyin bahs faqat og'zaki gaplarga tayanadi, shu sababli tartib boshidan yozma bo'lishi shart.",
+          "Qayd etish uchun besh qadam yetarli:",
+          "Nuqsonni topgan kuni xona raqami va mebel nomini daftarga yozing.; keng burchakli surat oling, keyin nuqsonning yaqin planini o'lchagich bilan suratga oling.; partiya raqamini qadoqdagi yorliqdan yoki qabul hujjatidan ko'chiring.; harakatlanuvchi qism bo'lsa, qisqa video yozib oling.; dalolatnoma tuzing va uni qabul komissiyasi hamda yetkazib beruvchi vakili imzolasin..",
+          "Dalolatnoma qisqa bo'lishi mumkin, lekin majburiy maydonlari aniq bo'lishi kerak: sana va vaqt, xona raqami, mebel nomi va o'lchami, partiya raqami, nuqsonning bir jumlalik tavsifi, o'lchov natijasi, aniqlagan shaxs, imzolar hamda ilova fayllar ro'yxati. Maydonlardan biri bo'sh qolsa, yetkazib beruvchi da'voni to'liq emas deb qaytarishi mumkin va jarayon boshidan boshlanadi.",
+          "Bu besh qadamning kuchi bir-birini to'ldirishida. Surat nuqsonni ko'rsatadi, lekin qaysi xonaga tegishli ekanini isbotlamaydi. Dalolatnoma esa sanani va mas'ul shaxsni bog'laydi. Faqat bitta turdagi dalil bilan yuborilgan da'vo ko'pincha qayta tekshirish talabi bilan qaytadi.",
+          "Nuqsonni qayd etishda ikki xil xatoga yo'l qo'yiladi. Birinchisi, nuqsonni \"keyinroq, barcha xonalar tayyor bo'lganda\" yozish. Ikkinchisi, bir nechta xonadagi o'xshash nuqsonni bitta fotoga jamlash. Ikkalasi ham partiyaviy tahlilni buzadi va almashtirish talabini asossiz ko'rsatadi.",
+          "Yana bir amaliy detal: surat faylining nomi xona raqami va sanadan boshlanishi kerak. Telefon galereyasidagi tartib o'zgarsa, keyin qaysi kadr qaysi xonaga tegishli ekanini topish qiyinlashadi.",
+          "Foto talablari oddiy: tekis yorug'lik, soyani kamaytirish uchun yon tomondan yoritish, nuqson bilan birga o'lchagich ko'rinishi va fonda xona kontekstining saqlanishi. Har bir nuqson uchun kamida uch kadr olinadi: umumiy, o'rta va yaqin. Kadrlarni keyin tahrirlash tavsiya etilmaydi, chunki o'lchov chizig'i yoki rang buzilsa, dalilning ishonchliligi pasayadi.",
+          "Partiya raqamini topish har doim ham oson emas. Yorliq qadoqning yon tomonida bo'ladi va konteyner ochilganda birinchi bo'lib yo'qoladi. Shuning uchun qabul guruhi yorliqlarni darhol skanerlab, xona raqami bilan bog'lashi kerak. Yorliq yo'qolsa, qabul hujjatidagi partiya jadvali yagona manba bo'lib qoladi.",
+          "Qabul bosqichidagi tekshiruv ro'yxati mehmonxona xonalari uchun qabul ro'yxati bilan bog'langan bo'lsa, nuqsonlar bir xil formatda yoziladi. Konteyner ochilganda qadoq shikastini qanday tekshirish konteyner yuklash tartibi sahifasida batafsil ko'rsatilgan.",
+          "Umumiy surat: xona va mebel joylashuvini ko'rsatadi; format — 1–2 kadr, keng burchak. Yaqin surat: nuqson chegarasini ko'rsatadi; format — 20–30 sm masofadan. O'lchov: bahsni miqdoriy qiladi; format — chizg'ich yoki lenta bilan. Video: harakatlanuvchi qism nuqsonini ko'rsatadi; format — 10–20 soniya. Dalolatnoma: yozma iz va imzo qoldiradi; format — sana va mas'ul shaxs bilan.",
+        ],
+      },
+      {
+        heading: "Qaysi holatda mebelni almashtirishni talab qilish kerak?",
+        paragraphs: [
+          "Mebelni almashtirishni talab qilish uchun nuqson ishlab chiqarish xatosidan kelib chiqqan bo'lishi, xavfsizlikka ta'sir qilishi yoki bir partiyada bir necha marta takrorlanishi kerak, chunki faqat kosmetik belgilar asosida almashtirish talab qilinsa, yetkazib beruvchi odatda ta'mirlashni taklif qiladi va bu qoida shartnomada oldindan yozilgan bo'lsa ishlaydi.",
+          "Uch holat almashtirish uchun eng kuchli asos hisoblanadi. Birinchisi, karkasdagi yoriq yoki payvand chokining ajralishi: bunday nuqson mebelning yuk ko'tarish qobiliyatini pasaytiradi. Ikkinchisi, bolalar yoki keksa mehmonlar ishlatadigan zonalarda xavfsizlikka ta'sir qiladigan qirralar va mahkamlashlar. Uchinchisi, bir partiyadagi o'nta xonadan uchtasida bir xil nuqson takrorlanishi.",
+          "Partiyaviy takrorlanish alohida e'tibor talab qiladi. Bitta xonadagi singan tutqich tasodif bo'lishi mumkin, lekin bir xil partiyadagi bir necha xonada bir xil nuqson ko'rinsa, sabab odatda ishlab chiqarish yoki qadoqlashda bo'ladi. Bunday holatda almashtirish talabi butun partiyaga nisbatan qo'yiladi.",
+          "Chegara ko'pincha nuqsonning takrorlanish ehtimoli bilan belgilanadi. Agar tuzatishdan keyin o'sha joyda nuqson qayta chiqsa, almashtirish talabi kuchayadi. Shuning uchun birinchi tuzatishdan keyin kuzatuv muddati belgilash foydali: odatda bir necha hafta ichida holat qayta ko'riladi va natija yozma qayd etiladi. Bu amaliyot partiyaviy qarorni asoslashda ham ishlatiladi.",
+          "Kosmetik nuqsonlarning ruxsat etilgan darajasi oldindan kelishilishi kerak. Mehmon ko'ziga ko'rinadigan yuza bilan yopiq yuza bir xil talabga ega emas. Shartnomada ko'rinadigan yuzalar uchun alohida, yashirin yuzalar uchun alohida mezon yozilsa, keyin har bir tirnalish bo'yicha bahs chiqmaydi. Bu mezon foto namunasi bilan biriktirilsa, talqin farqi ham kamayadi.",
+          "Karkas yorilgan yoki chok ajralgan: almashtirish — ha; joyida tuzatish — yo'q. Xavfsizlikka ta'sir qiladi: almashtirish — ha; joyida tuzatish — yo'q. Bir partiyada takrorlangan: almashtirish — ha, partiya bo'yicha; joyida tuzatish — yo'q. Furnitura singan: almashtirish — ko'p hollarda yo'q; joyida tuzatish — ha. Kosmetik tirnalish: almashtirish — yo'q; joyida tuzatish — ha.",
+          "Amaliyotda almashtirish qarori ko'pincha hissiy bosim ostida qabul qilinadi. Loyiha muddati yaqin bo'lsa, ba'zi menejerlar butun partiyani qaytarishni talab qiladi. Bu qimmat va sekin yo'l. Partiya ichidan faqat nuqsonli birliklarni ajratish uchun avval barcha xonalarni bir xil belgilar bo'yicha tekshirish kerak.",
+          "Almashtirish qarori logistikani ham qamrab oladi. Nuqsonli birlik qaytariladigan bo'lsa, u qayta qadoqlanishi va tashish paytida qo'shimcha shikastlanmasligi kerak. Qaytarish hujjatida birlik soni, model va nuqson tavsifi ko'rsatiladi. Aks holda zavod qabul qilganda boshqa nuqsonni ko'rib, da'vo rad etilishi mumkin.",
+          "Ba'zan to'liq almashtirish o'rniga qisman yechim tanlanadi: nuqsonli eshik yoki tortma fronti alohida yuboriladi. Bu usul tezroq va arzonroq, lekin rang hamda tekstura partiyaga mos kelishi kerak. Shu sababli zavoddan aynan bir xil partiyadan zaxira yuborish so'raladi.",
+        ],
+      },
+      {
+        heading: "Qaysi nuqsonlarni joyida tuzatish mumkin?",
+        paragraphs: [
+          "Joyida tuzatish odatda furnitura, oyoq, tortma relsi, qirra lentasi va mato kabi almashtiriladigan qismlarga tegishli bo'lib, karkas geometriyasi yoki qoplamaning butun yuzasi buzilganda bu usul yetarli natija bermaydi va uni faqat yozma rozilik bilan qo'llash kerak, chunki egasining roziligisiz aralashuv keyingi da'voni yopadi.",
+          "Tuzatishning chegarasi bor. Petlyani almashtirish, oyoqni mahkamlash yoki tortma relsini yangilash odatda bir necha soat ichida bajariladi va mebelning ko'rinishini o'zgartirmaydi. Mato qoplamasini almashtirish esa mahalliy ustaxona ishini talab qiladi va bir necha kun davom etadi.",
+          "Lok va bo'yoq bilan bog'liq ishlar alohida guruhga kiradi. Zavodda qo'llanilgan lok qatlami va mahalliy sharoitdagi namlik darajasi har xil bo'lgani uchun joyida qayta ishlangan yuza rang jihatidan boshqalardan ajralib turishi mumkin. Shu sababli bunday ish faqat yetkazib beruvchi yozma tasdiqlagan hollarda bajariladi.",
+          "Petlya va tutqichni almashtirish — kim bajaradi: mehmonxona texnik xizmati; odatda vaqt: 1–2 soat.",
+          "Tortma relsini almashtirish — kim bajaradi: texnik xizmat; odatda vaqt: 1–2 soat.",
+          "Mato qoplamasini almashtirish — kim bajaradi: mahalliy ustaxona; odatda vaqt: 1–3 kun.",
+          "Qirra lentasini yopish — kim bajaradi: texnik xizmat; odatda vaqt: 2–4 soat.",
+          "Lokni qayta ishlash — kim bajaradi: faqat zavod roziligi bilan; odatda vaqt: loyihaga qarab.",
+          "Har bir tuzatishdan keyin qisqa yozuv qoldirish kerak: nima almashtirildi, kim bajardi va qancha vaqt ketdi. Bu yozuv keyingi da'voda nuqson takrorlanganini ko'rsatadigan asosiy dalil bo'ladi.",
+          "Zaxira furnitura to'plami bu jarayonni tezlashtiradi. Loyiha boshida qaysi tutqich, petlya va rels ishlatilgani yozib qo'yilsa, keyin bir xil modelni topish oson bo'ladi. Aks holda kichik bir nuqson uchun butun eshikni almashtirishga to'g'ri keladi.",
+          "Zaxira qismlar ro'yxati loyiha boshida tuziladi va kamida quyidagilarni qamrab oladi: petlya, tutqich, tortma relsi, oyoq uchun plastik taglik, qirra lentasi, vintlar to'plami va mato namunasi. Har bir pozitsiya uchun model va o'lcham yozilishi kerak, chunki bir xil ko'rinadigan tutqichning teshik oralig'i farq qilishi mumkin. Ro'yxat qabul hujjatlariga ilova qilinsa, keyingi almashtirishda qidiruv vaqti qisqaradi.",
+          "Ishni kim bajarishi ham muhim. Mehmonxona texnik xizmati kundalik mayda ishlarni tez hal qiladi, lekin mato va lok bilan ishlash alohida malaka talab qiladi. Mahalliy ustaxonani oldindan tanlab qo'yish va sinov ishini bajarish foydali. Shoshilinch holatda tanlanmagan usta mebelning qoplamasini yanada buzishi mumkin.",
+        ],
+      },
+      {
+        heading: "Kafolat da'vosini qanday yuritish va muddatni qanday nazorat qilish kerak?",
+        paragraphs: [
+          "Kafolat da'vosi yozma ro'yxatda yuritilishi va har bir yozuv xona raqami, partiya, nuqson turi, dalil fayllari hamda javob sanasi bilan bog'lanishi kerak, aks holda o'n ikki oy tugagach qaysi holat yopilgani va qaysi biri ochiq qolgani aniqlanmaydi, natijada yangi mavsum oldidan rejalashtirish ham buziladi.",
+          "Ro'yxat oddiy jadval shaklida bo'lishi mumkin. Muhimi, u bitta joyda saqlanishi va qabul komissiyasi, ta'minot bo'limi hamda texnik xizmat bir xil versiyani ko'rishi. Bir nechta nusxa yuritilsa, raqamlar tezda farq qiladi.",
+          "Da'voni yuborishda uchta hujjat biriktiriladi: dalolatnoma, foto fayllar va nuqsonli birliklar ro'yxati. Bu ro'yxatda har bir birlik alohida ko'rsatilishi kerak, chunki \"o'nta stul singan\" degan umumiy jumla bo'yicha zavod qaysi mahsulotni yuborishni aniqlay olmaydi.",
+          "O'n ikki oylik kafolat ichida javob muddati alohida nazorat qilinadi. Birinchi javob odatda bir necha ish kuni ichida kelishi kerak, lekin qaror ehtiyot qismlar mavjudligiga bog'liq bo'lib, loyihaga qarab cho'zilishi mumkin. Muhimi, har bir bosqich sanasi yozilishi: murojaat yuborilgan kun, javob olingan kun va qaror qabul qilingan kun. Bu uch sana bo'lmasa, kechikish kimning hisobida ekanini aniqlash qiyin.",
+          "Nuqsonni qayd etish — odatda muddat: 24–72 soat; mas'ul: qabul komissiyasi.",
+          "Da'voni yuborish — odatda muddat: 3–7 kun; mas'ul: ta'minot bo'limi.",
+          "Yetkazib beruvchi javobi — odatda muddat: 5–10 ish kuni; mas'ul: savdo menejeri.",
+          "Qaror va ehtiyot qism — odatda muddat: 2–4 hafta; mas'ul: ikkala tomon.",
+          "Yopish va arxiv — odatda muddat: 1–2 kun; mas'ul: loyiha menejeri.",
+          "Muddatni nazorat qilishning amaliy usuli har oy oxirida ochiq da'volarni ko'rib chiqish. Yopilmagan yozuvlar soni o'sib borsa, sabab ko'pincha ehtiyot qismlar yetishmovchiligi bo'ladi. Shu sababli zaxira furnitura to'plamini loyiha boshida kelishib qo'yish foydali.",
+          "Oylik ko'rik oddiy savollarga javob beradi: nechta da'vo ochilgan, nechtasi yopilgan va o'rtacha javob vaqti qanday. Bu raqamlar mavsumiy ta'mirlash rejasini tuzishda ham kerak bo'ladi. Agar bir xil turdagi nuqson uch oy ketma-ket takrorlansa, sabab mahsulotda emas, ishlatish yoki tozalash tartibida bo'lishi mumkin.",
+          "Da'vo yopilganda hujjatlar arxivga o'tkaziladi. Arxivda dalolatnoma, foto fayllar, yozishmalar va yakuniy qaror bir papkada saqlanadi. Kafolat muddati tugagach ham bu papka kerak bo'ladi, chunki yangi mavsumda xuddi shu model qayta buyurtma qilinsa, oldingi nuqsonlar tarixi spetsifikatsiyani tuzatishga yordam beradi.",
+          "Kafolat muddati tugashidan oldin yakuniy ro'yxat tuziladi. Unda yopilgan da'volar, almashtirilgan birliklar va ochiq qolgan masalalar ko'rsatiladi. Yakuniy ro'yxat imzolansa, keyingi mavsumda qaysi mebel almashtirilgani va qaysi biri hali xizmatda ekani aniq bo'ladi.",
+        ],
+      },
+      {
+        heading: "Yetkazib beruvchining kafolat shartlarini qanday tekshirish kerak?",
+        paragraphs: [
+          "Yetkazib beruvchining kafolat shartlarini tekshirishda muddat qachon boshlanishi, javob vaqti, ehtiyot qismlar kimning hisobidan yuborilishi va qaysi holatlar qamrovdan chiqarilgani yozma ravishda aniqlanishi kerak, chunki og'zaki va'da shartnoma bo'yicha majburiyat tug'dirmaydi va keyin bahs faqat vaqtni yo'qotadi, shu sababli har bir band shartnoma matnida alohida ko'rsatilishi ma'qul.",
+          "Tekshirish ro'yxati qisqa bo'lishi mumkin, lekin har bir band javob talab qiladi. Muddat boshlanish sanasi, javob berish muddati, ehtiyot qismlar yetkazib berish sharti, tashish xarajati kimga tegishli ekani va joyida tuzatishga ruxsat bor-yo'qligi. Bu besh band shartnomada aniq yozilsa, keyingi nizolar sezilarli kamayadi.",
+          "Muvofiqlik hujjatlari ham tekshiriladi. Markaziy Osiyo bozoriga kiradigan mebel uchun EAC TR CU 025/2011 talablari qo'llaniladi, ishlab chiqarish jarayoni esa ISO 9001 sifat menejmenti tizimi bilan bog'lanishi mumkin. Hujjat borligi sifatni kafolatlamaydi, lekin da'vo paytida javobgarlik chegarasini aniqlashtiradi.",
+          "Texnik topshiriqda material, o'lcham va qoplama aniq yozilgan bo'lsa, kafolat bahsi kamayadi. Mehmonxona mebeli uchun texnik topshiriq va BOQ paketi hujjatlari shu poydevorni tayyorlaydi.",
+          "Toshkentga yetkazib berishda qadoqlash holati kafolat zanjirining birinchi bo'g'ini hisoblanadi. Yo'lda namlik o'zgarishi, uzoq kutish va bir necha marta yuklash sodir bo'ladi. Shuning uchun konteyner ochilganda burchak himoyasi, plyonka butunligi va namlik yutgich paketlar tekshiriladi. Qadoq shikasti darhol foto-fiksatsiya qilinmasa, keyin mebel nuqsoni tashish zararimi yoki ishlab chiqarish nuqsonimi ekanini ajratish qiyinlashadi.",
+          "Shartnomada noaniq jumlalar ko'p uchraydi: \"sifat talablariga javob beradi\" yoki \"ishlab chiqarish nuqsonlari qoplanadi\". Bunday matn bahsni hal qilmaydi, chunki nuqsonni kim aniqlashi va qanday hujjat bilan tasdiqlashi yozilmagan. Har bir band amal qilinadigan harakatga aylantirilishi kerak: kim, qancha vaqt ichida va qaysi hujjatni yuboradi.",
+          "Yetkazib beruvchini tanlashda kafolat tarixini so'rash foydali. Oldingi loyihalarda da'volar qanday yopilgani, ehtiyot qismlar qancha vaqtda yetkazilgani va joyida tuzatishga ruxsat berilgani muhim ma'lumot. Bu savollarga aniq javob olmagan taqdirda, eng past narx taklifi keyinchalik qimmatga tushishi mumkin.",
+          "Hongye Furniture Group 1996-yilda tashkil etilgan bo'lib, 300 000 m² ishlab chiqarish maydonida 1 000 dan ortiq ishchi bilan ishlaydi. Kompaniya 50 dan ortiq davlatda 1 000 dan ortiq loyihani amalga oshirgan, ishlab chiqarish muddati odatda 30–45 kunni tashkil qiladi va mahsulotlar EAC TR CU 025/2011 talablariga muvofiq tayyorlanadi.",
+          "Kafolat jarayoni zavodda qadoqlashdan boshlanadi: har bir partiya foto-fiksatsiya qilinadi va o'ram ichidagi namuna tekshiriladi. Hilton Tashkent loyihasida qabul paytida yuritilgan dalolatnomalar keyinchalik nuqsonlarni partiya bo'yicha aniqlashda asos bo'lgan. Bu tajriba O'zbekiston va Qozog'istondagi mehmonxona loyihalarida ham qo'llaniladi.",
+          "Agar loyihangiz uchun kafolat tartibini boshidan to'g'ri qurish kerak bo'lsa, hujjatlar va dalil formatini birga kelishib olish mumkin.",
+        ],
+      },
+    ],
+    faqs: [
+      {
+        question: "Mehmonxona mebeli kafolati odatda qancha muddatni qamrab oladi?",
+        answer: "A: Xona mebeli uchun kafolat odatda yetkazib berilgan kundan boshlab o'n ikki oyni tashkil qiladi, ommaviy zonalardagi stul va stollarda esa loyihaga qarab qisqaroq muddat kelishiladi. Aniq sana shartnomada yozilishi kerak, chunki zavod yukni jo'natgan kun va mebel xonaga o'rnatilgan kun har xil bo'ladi.",
+      },
+      {
+        question: "Nuqsonni qancha vaqt ichida qayd etish kerak?",
+        answer: "A: Nuqson aniqlangan kundan boshlab imkon qadar tez, odatda bir necha kun ichida qayd etish ma'qul. Kechiktirilgan yozuv nuqsonning qachon paydo bo'lganini isbotlashni qiyinlashtiradi. Surat, o'lchov va partiya raqami bir kunda yig'ilsa, da'vo ko'rib chiqish uchun yetarli asos bo'ladi. Dalolatnomaga xona raqami va partiya yozilsa, yetkazib beruvchi nuqsonni o'z mahsulotiga bog'lay oladi.",
+      },
+      {
+        question: "Qaysi holatda almashtirish talab qilinadi?",
+        answer: "A: Karkas yorilgan, payvand chok ajralgan, xavfsizlikka ta'sir qiladigan yoki bir partiyada bir necha marta takrorlangan nuqson almashtirish uchun asos bo'ladi. Kosmetik tirnalish yoki bitta furnitura sinishi odatda almashtirishni talab qilmaydi, bunday holatda joyida tuzatish taklif qilinadi. Qaror yozma ravishda qayd etilsa, keyingi bahsda ikkala tomon bir xil hujjatga tayanadi.",
+      },
+      {
+        question: "Joyida tuzatishni kim bajarishi mumkin?",
+        answer: "A: Furnitura, oyoq, tortma relsi va qirra lentasi kabi ishlarni mehmonxonaning texnik xizmati bajarishi mumkin. Mato qoplamasi va lok bilan bog'liq ishlar odatda mahalliy ustaxona yoki zavod roziligi bilan amalga oshiriladi. Har bir aralashuv oldindan yozma kelishilishi va foto-fiksatsiya bilan qayd etilishi kerak.",
+      },
+      {
+        question: "Kafolat da'vosiga qanday dalillar biriktiriladi?",
+        answer: "A: Dalolatnoma, keng burchakli va yaqin planli suratlar, o'lchov ko'rsatkichlari, harakatlanuvchi qism uchun qisqa video hamda partiya raqami biriktiriladi. Har bir nuqsonli birlik ro'yxatda alohida ko'rsatilishi kerak, aks holda yetkazib beruvchi qaysi mahsulot almashtirilishini aniqlay olmaydi. Fayl nomida xona raqami va sana bo'lsa, keyinchalik qidirish osonlashadi.",
+      },
+      {
+        question: "Yetkazib beruvchi javob bermasa nima qilish kerak?",
+        answer: "A: Avval yozma murojaat yuborilgan sana va javob muddatini tekshirish kerak, keyin eskalatsiya xati yuboriladi. Bunda dalolatnoma, foto fayllar va oldingi yozishmalar biriktiriladi. Shartnomada javob muddati va kechikish oqibati ko'rsatilgan bo'lsa, muzokara ancha tez yurishadi. Javob kelmasa, keyingi bosqichda shartnomadagi jarima yoki hakamlik sharti qo'llaniladi.",
+      },
+      {
+        question: "Kafolat tugagach nuqson chiqsa nima bo'ladi?",
+        answer: "A: Kafolat tugagandan keyin nuqson odatda pullik tuzatish hisoblanadi, lekin agar nuqson ishlab chiqarish xatosidan kelib chiqqanligi hujjat bilan isbotlansa, yetkazib beruvchi bilan alohida kelishuv mumkin. Shu sababli barcha dalillar kafolat tugagach ham kamida bir muddat arxivda saqlanadi. Arxiv muddati odatda kafolat tugagandan keyin ham bir yilga yaqin davom etadi.",
+      },
+    ],
+  },
+
 ];
 
 export const marketPostsFor = (market: MarketCode) =>

@@ -32,4 +32,36 @@ export const marketPostFigures: Record<string, MarketFigure[]> = {
         "3-rasm. Material va namuna mezoni: har bir material uchun tasdiqlangan namuna saqlanadi, qabul paytida aynan shu namuna bilan solishtiriladi.",
     },
   ],
+  "mehmonxona-mebeli-kafolati": [
+    {
+      src: "/images/blog/warranty-fig1.webp",
+      afterSection: 1,
+      alt: "Mebel nuqsonini suratga olish va dalolatnoma tuzish",
+      caption: "Nuqson yaqin planda o'lchov bilan birga suratga olinadi.",
+    },
+    {
+      src: "/images/blog/warranty-fig2.webp",
+      afterSection: 2,
+      alt: "Almashtirish talab qilinadigan mebel nuqsonini baholash",
+      caption: "Karkas va xavfsizlikka ta'sir qiluvchi nuqson almashtirish uchun asos bo'ladi.",
+    },
+    {
+      src: "/images/blog/warranty-fig3.webp",
+      afterSection: 3,
+      alt: "Mehmonxona mebeli furniturasini joyida tuzatish",
+      caption: "Almashtiriladigan qismlar joyida tuzatiladi, karkas nuqsoni esa boshqacha baholanadi.",
+    },
+    {
+      src: "/images/blog/warranty-fig4.webp",
+      afterSection: 4,
+      alt: "Kafolat da'vosi ro'yxati va javob muddatlarini nazorat qilish",
+      caption: "Har bir da'vo xona va partiya raqami bilan yagona ro'yxatda yuritiladi.",
+    },
+    {
+      src: "/images/blog/warranty-fig5.webp",
+      afterSection: 5,
+      alt: "Kafolat shartlari va muvofiqlik hujjatlarini tekshirish",
+      caption: "Shartnoma shartlari va muvofiqlik hujjatlari birgalikda tekshiriladi.",
+    },
+  ],
 };

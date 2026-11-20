@@ -9,6 +9,38 @@ export type MarketFigure = {
 };
 
 export const marketPostFigures: Record<string, MarketFigure[]> = {
+  "mehmonxona-mebeli-parvarishi": [
+    {
+      src: "/images/blog/hotel-maintenance-fig1.webp",
+      afterSection: 1,
+      alt: "Chapa qirrasi va mato yuzasining yonma-yon ko'rinishi, chang qatlami bilan",
+      caption: "Chang qirrada va mato tolasida to'planadi: quruq latta uni yuzaga yoyadi, changyutgich olib tashlaydi.",
+    },
+    {
+      src: "/images/blog/hotel-maintenance-fig2.webp",
+      afterSection: 2,
+      alt: "Chapa yuzani tozalash uchun mikrofiber latta, changyutgich va neytral sovun",
+      caption: "Uch qadam: quruq chang, siqilgan nam latta, quruq latta. Suv yuzada qolmasligi kerak.",
+    },
+    {
+      src: "/images/blog/hotel-maintenance-fig3.webp",
+      afterSection: 3,
+      alt: "Mato va teri yuzalarni tozalash uchun vositalar va yumshoq cho'tka",
+      caption: "Mato uchun changyutgich, teri uchun pH neytral sovun: ikkalasida ham ortiqcha suv zarar qiladi.",
+    },
+    {
+      src: "/images/blog/hotel-maintenance-fig4.webp",
+      afterSection: 4,
+      alt: "Lobbi va restoran mebellari: chang chastotasi yuqori bo'lgan hudud",
+      caption: "Lobbi va restoranda chastota yuqori, vosita bir xil qoladi: neytral, spirtsiz, quritish bilan.",
+    },
+    {
+      src: "/images/blog/hotel-maintenance-fig5.webp",
+      afterSection: 5,
+      alt: "Xodim uchun bir varaqli parvarish ko'rsatmasi va tozalash qaydnomasi",
+      caption: "Ko'rsatma bir varaqda: material, vosita, suyultirish, davriylik va taqiqlangan vositalar.",
+    },
+  ],
   "hotel-furniture-technical-brief-uzbekistan": [
     {
       src: "/images/blog/tech-brief-fig1.webp",

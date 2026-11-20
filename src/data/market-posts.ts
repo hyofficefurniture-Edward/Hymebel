@@ -22,6 +22,7 @@ export interface MarketPost {
   definition: string;
   takeaways: string[];
   sections: { heading: string; paragraphs: string[] }[];
+  tables?: { afterSection: number; headers: string[]; rows: string[][] }[];
   faqs: { question: string; answer: string }[];
 }
 
@@ -48,6 +49,84 @@ export interface MarketPost {
  * assets carry no third-party branding and no performance claims.
  */
 export const marketPosts: MarketPost[] = [
+  {
+    id: "mehmonxona-mebeli-parvarishi",
+    market: "uz",
+    title: "Mehmonxona mebeli parvarishi: chang, quruq havo va mato tozalash",
+    tag: "Parvarish",
+    excerpt: "Chapa, laminat, mato, teri va metall uchun tozalash vositalari hamda davriylik jadvali: quruq iqlimda mebelni va kafolatni saqlab qolish yo'li.",
+    date: "2026-11-20",
+    readingMin: 10,
+    image: "/images/blog/hotel-maintenance-hero.webp",
+    imageAlt: "Mehmonxona xonasida chapa va mato bilan qoplangan mebel to'plami",
+    definition: "Mehmonxona mebeli uchun parvarish jadvali uchta savolga javob beradi: qaysi material qanday vositani ko'taradi, qanchalik tez-tez tozalanadi va qaysi holatda nosozlik deb hisoblanadi. Bu uch savolga yozma javob bo'lmasa, xodim har safar o'zicha qaror qabul qiladi va bir xil mebel ikki xonada ikki xil ko'rinishga keladi. Quruq va changli iqlimda xato qaror tez ko'rinadi: chapa qirrasi ochiladi, teri yoriladi, mato esa rangini yo'qotadi.",
+    takeaways: [
+      "Parvarish jadvali kafolatdan keyin boshlanmaydi: u qabul dalolatnomasi imzolangan kuni boshlanadi va shartnomadagi kafolat shartlarini saqlab qoladi.",
+      "Quruq iqlimda birinchi zarar ko'radigan joy — chapa qirrasi: havo namligi isitish mavsumida pasayganda qirra ochiladi, yuzasi emas.",
+      "Har bir material uchun bitta vosita yetarli emas: chapa, laminat, mato, teri va metall alohida tozalanadi, aks holda dog' va yaltiroq iz qoladi.",
+      "Changni kutish muddati bilan tozalash chastotasi ikki xil narsa: chang har kuni, chuqur tozalash esa oyda yoki mavsumda.",
+      "Xodim uchun ko'rsatma bir varaqda bo'lishi kerak: material, vosita, suyultirish, davriylik va taqiqlangan vositalar.",
+    ],
+    sections: [
+      { heading: "Mehmonxona mebeli parvarishi uchun jadval nima uchun kerak?", paragraphs: [
+        "Jadval uchun uchta sabab bor: kafolat shartlari, xodimlar almashinuvi va mebel partiyalarining bir xil bo'lmasligi. Kafolat shartnomasida ko'pincha \"noto'g'ri parvarish\" istisno sifatida yozilgan bo'ladi; jadval va tozalash qaydnomasi bo'lsa, bu istisno isbotlanishi qiyinlashadi. Xodim almashganda esa jadval yangi xodimga materiallarni o'rgatadi.",
+        "Ikkinchi sabab — iqtisodiy. Bir partiya mebelning xizmat muddati 8-12 yil bo'lishi mumkin, lekin mato va teri 3-5 yilda almashtiriladi. Tozalash jadvali noto'g'ri bo'lsa, almashtirish muddati ikki yilga qisqaradi va bu xarajat byudjetda \"kichik ta'mirlash\" bo'lib ko'rinadi. Jadvalning maqsadi shu xarajatni kechiktirish, mebelni abadiy saqlash emas.",
+        "Uchinchi sabab — qabul bilan bog'liq. Mebel qabul qilinganda nuqsonlar ro'yxati tuziladi va foto-fiksatsiya qilinadi. Parvarish jadvali shu ro'yxatga tayanadi: qaysi nuqson ishlab chiqarishdan, qaysi biri foydalanishdan kelib chiqqanini ajratish uchun boshlang'ich holat kerak. Jadval birinchi kundan yuritilsa, keyingi bahs texnik savolga aylanadi, hissiy bahsga emas.",
+        "Amalda jadval uch qismdan iborat: materiallar ro'yxati (xonada nima bor), har bir material uchun vosita va davriylik, hamda nosozlik belgilari ro'yxati. Uch qism bir varaqda sig'sa, xodim uni o'qiydi. O'ttiz betlik qo'llanma esa javonda qoladi.",
+      ] },
+      { heading: "Chang va quruq havo qaysi materialga birinchi ta'sir qiladi?", paragraphs: [
+        "Birinchi ta'sir chapa qirrasiga bo'ladi, keyin teriga, keyin matoga. Sabab bir xil: namlik o'zgarishi bilan material o'lchamini o'zgartiradi, lekin har xil tezlikda. Chapa yupqa qatlam bo'lgani uchun qirra bo'ylab tezroq ishlaydi; teri namlikni yo'qotganda qattiqlashadi; mato esa changni to'qimasida ushlab qoladi va vaqt o'tib kulrang tusga kiradi.",
+        "Isitish mavsumida xona havosi quruqlashadi, ayniqsa kechasi. Chapa yuzasi qisqaradi, ostidagi MDF esa sekinroq javob beradi; natijada qirra bo'ylab kichik ochilish paydo bo'ladi. U birinchi yilda ko'zga tashlanmaydi, ikkinchi yilda chang bilan to'ladi va qorayadi. Shu nuqtada tozalash yetarli emas, qirrani qayta yopish kerak bo'ladi.",
+        "Chang esa alohida muammo: u namlikni ushlab turadi va matoning tolasiga kirib ketadi. Quruq latta bilan changni surtish uni yuzaga yoyadi, changyutgich esa olib tashlaydi. Shuning uchun yumshoq mebel uchun birinchi vosita changyutgich, latta emas. Changyutgichning cho'tkasi ham muhim: qattiq cho'tka matoni tirnaydi.",
+        "Uchinchi omil — quyosh. Deraza yonidagi mebel ikki xil ta'sirga uchraydi: UV nurlanish va harorat o'zgarishi. Mato rangini yo'qotadi, teri quriydi, chapa esa sarg'ayadi. Jadvalda bu \"deraza zonasi\" alohida ko'rsatilishi kerak, chunki u yerda tozalash chastotasi emas, himoya choralari boshqacha: parda, himoya plyonka yoki mebelni 30-50 sm masofada joylashtirish.",
+      ] },
+      { heading: "Chapa va laminat yuzalarni qanday tozalash kerak?", paragraphs: [
+        "Chapa va laminatni nam latta bilan tozalash mumkin, lekin suv yuzada qolmasligi kerak. Tartib oddiy: avval quruq mikrofiber bilan chang, keyin yaxshi siqilgan nam latta, oxirida quruq latta. Bu uch qadam ikki daqiqa vaqt oladi va yuzada suv dog'i qolishining oldini oladi. Suv chapa ostiga kirsa, qirra ko'tariladi.",
+        "Chapa uchun ishlatiladigan vosita muhim. Spirtli eritmalar va abraziv kukunlar lak qatlamini yupqalashtiradi; bir marta foydalanishda ko'rinmaydi, olti oyda yaltiroq dog' paydo bo'ladi. Neft asosidagi erituvchilar esa yog'ni yuzadan olib tashlab, yog'sizlantiradi va quritadi. Amaliy tavsiya: iliq suv va juda oz miqdorda neytral sovun, keyin darhol quritish.",
+        "Laminat va HPL uchun chegara kengroq, lekin qirra bir xil zaif. Laminat yuzasi suvni kamroq yutadi, ammo qirra ochiq qolsa, suv o'sha yerdan kiradi va tabardagi qatlam shishadi. Shuning uchun laminat mebelda ham qirra tekshiruvi har mavsumda takrorlanadi. Ofis va restoran mebellari ko'proq tozalanadi, shuning uchun qirra nazorati u yerda muhimroq.",
+        "Dog'lar uchun tartib: avval quruq usul (changyutgich, yumshoq cho'tka), keyin iliq suv, keyin neytral sovun, eng oxirida maxsus vosita. Bu ketma-ketlikdan sakrab o'tish dog'ni yuzaga yoyadi. Yopishqoq qoldiq (shakar, ichimlik) uchun iliq suv yetarli; bo'yoq yoki smola uchun esa ishlab chiqaruvchining tavsiya qilgan eritmasi kerak.",
+        "Chapa yuzani himoya qilish uchun mavsumiy mum ishlatiladi, lekin har oyda emas. Mum qatlami changni ushlab turadi va noto'g'ri surtilsa, dog'lar paydo bo'ladi. Amaliy davriylik: yiliga ikki marta, isitish mavsumi oldidan va tugagandan keyin. Bu — jadvaldagi \"mavsumiy\" ustunga to'g'ri keladi.",
+      ] },
+      { heading: "Mato va terini qanday tozalash kerak?", paragraphs: [
+        "Matoni changyutgich bilan tozalash kerak, latta bilan emas; terini esa nam latta va pH neytral sovun bilan. Mato uchun asosiy vosita — past quvvatli changyutgich va yumshoq cho'tka; teri uchun — yumshoq mato, suv va sovun, so'ng darhol quritish. Ikkalasida ham ortiqcha suv zarar qiladi, chunki u to'qima ichiga kirib, quritishni qiyinlashtiradi.",
+        "Mato dog'ini tozalashda birinchi qoida: dog'ni ishqalamaslik. Ishqalash tolani ko'taradi va dog'ni kattalashtiradi. To'g'ri tartib — dog'ni chetdan markazga qarab yumshoq harakat bilan artish, so'ng quruq mato bilan bosib suvni olish. Katta dog' uchun ekstraksiya mashinasi kerak, lekin u har kuni ishlatiladigan vosita emas.",
+        "Teri va eko-teri quruq havoda qattiqlashadi. Uni saqlab qolish uchun yiliga ikki-to'rt marta konditsioner surtiladi, lekin bu vosita terining turiga mos bo'lishi kerak: analin teri uchun boshqa, qoplangan teri uchun boshqa. Noto'g'ri konditsioner yopishqoq qatlam qoldiradi va chang yig'adi.",
+        "Yumshoq mebelning ichki qismi ham e'tibor talab qiladi: ko'pik va prujina changni yutadi, hidni saqlaydi. Choraklik changyutgich (pastki va orqa tomondan) bu muammoni kamaytiradi. Restoran va lobbi mebellari uchun bu amaliyot tez-tez kerak bo'ladi, chunki mebel kuniga o'nlab marta ishlatiladi.",
+        "Mato tanlashda parvarish sharti oldindan ko'riladi: ba'zi matolar faqat quruq tozalashga ruxsat beradi, ba'zilari suv bilan yuviladi. Xodim uchun bu farq muhim, chunki noto'g'ri usul matoni qaytarib bo'lmaydigan holga keltiradi. Mebel tanlashda materiallar taqqoslangan bo'lsa, parvarish sharti ham shu ro'yxatda ko'rsatilishi kerak.",
+      ] },
+      { heading: "Metall, shisha va oynali yuzalarni qanday parvarish qilish kerak?", paragraphs: [
+        "Metall va shisha yuzalar uchun spirtsiz, abrazivsiz vosita ishlatiladi va darhol quritiladi. Ko'p ishlatiladigan muammo — nam latta bilan artib, quritmaslik: suv dog'i qoladi, vaqt o'tib metall yuzada oq iz paydo bo'ladi. Ikkinchi muammo — xlorli tozalash vositalari: ular zanglamaydigan po'latni ham yemiradi.",
+        "Mahkamlagichlar alohida nazorat qilinadi. Mebel yuzasi toza bo'lsa ham, vint va gayka ochiq qolsa, ular birinchi bo'lib oksidlanadi. Har mavsumda tutqich, ilgak va oyoq mahkamlagichlari tekshiriladi: bo'shashgan vintni tortish, zanglaganini almashtirish kerak. Bu ish ikki daqiqa vaqt oladi, lekin mebelning \"eskirgan\" ko'rinishini kechiktiradi.",
+        "Shisha va oynali yuzalar barmoq izlarini tez ko'rsatadi, shuning uchun ko'pincha ortiqcha tozalanadi. Ortiqcha tozalash ham zarar: ko'p purkagich qirraga va ramkaga tushadi, ramka ostiga suv kiradi. Amaliy yechim — purkagichni lattaga purkash, yuzaga emas.",
+        "Lobbi va restoran kabi joylarda metall tutqichlar kuniga yuzlab marta ushlanadi. Ularda tozalash chastotasi yuqori, lekin vosita bir xil qoladi: neytral, spirtsiz, quritish bilan. Bu qoida xodim uchun oddiy va esda qoladigan bo'lishi kerak, aks holda har bir smena o'z usulini o'ylab topadi.",
+        "Yana bir kichik detal — mebel oyoqlari va tagligi. Chang va namlik aynan polga tegib turadigan qismda to'planadi, lekin u yerda kamdan-kam tozalanadi. Har oyda oyoq taglari va pol bilan birikma joyi tekshirilsa, pol qoplamasining shishishi va mebelning tebranishi oldini olinadi. Bu tekshiruv changyutgichdan keyin bir daqiqada bajariladi.",
+      ] },
+      { heading: "Xodimlar uchun ko'rsatma qanday yoziladi?", paragraphs: [
+        "Ko'rsatma bir varaqda, material nomi bilan boshlanadi va uchta ustundan iborat bo'ladi: vosita, suyultirish, davriylik. Oxirida taqiqlangan vositalar ro'yxati turadi. Bu format xodim almashganda ham ishlaydi, chunki har bir yangi xodim bir xil varaqni o'qiydi va bir xil tartibni takrorlaydi.",
+        "Ko'rsatmada \"toza\" so'zi yetarli emas. \"Chapa yuzani iliq suv va neytral sovun bilan, siqilgan latta bilan, keyin quruq latta bilan artish\" — bu bajariladigan ko'rsatma. \"Yaxshilab tozalash\" esa talqin qilinadigan ko'rsatma. Farq shunda: birinchisini tekshirish mumkin, ikkinchisini emas.",
+        "Taqiqlangan vositalar ro'yxati qisqa bo'lishi kerak, lekin aniq: xlorli vositalar, abraziv kukunlar, neft asosidagi erituvchilar, bug' mashinasi (chapa uchun). Har bir taqiqning sababi bir qatorda yoziladi, chunki sababsiz taqiq buziladi. \"Bug' mashinasi chapa qirrasini ko'taradi\" — bu tushunarli sabab.",
+        "Nazorat ham jadvalga kiradi: kim, qachon va nimani tekshiradi. Masalan, smena boshlig'i har hafta uchta xonani tasodifiy tekshiradi va natijani qaydnomaga yozadi. Bu nazorat jazo uchun emas, jadvalning ishlayotganini bilish uchun. Agar bir xil nuqson uch xonada chiqsa, muammo xodimda emas, jadvalda yoki materialda bo'ladi.",
+        "Yillik taqvim ham kerak, chunki isitish mavsumi boshlanishi va tugashi bilan havo namligi keskin o'zgaradi. Bu ikki nuqta jadvaldagi eng muhim sanalar: isitish boshlanishidan oldin chapa qirralari va teri yuzalar tekshiriladi, mavsum tugagach esa chang va quruq qoldiq tozalanadi. Bu ikki tekshiruv yiliga ikki marta takrorlanadi va mebelning holatini solishtirish imkonini beradi.",
+        "Shu taqvim bilan jadval \"har kuni nima qilinadi\" savolidan \"yil davomida nima o'zgaradi\" savoliga o'tadi. Ikkinchi savol mehmonxona uchun muhimroq, chunki xarajat va nosozliklar mavsumga bog'liq holda to'planadi.",
+        "Oxirgi qadam — qabul bilan bog'lash. Jadvalning birinchi sahifasida mebel partiyasi, qabul sanasi va kafolat muddati turadi. Shunda har bir nuqson qaysi partiyaga tegishli ekani ma'lum bo'ladi va yetkazib beruvchi bilan muloqot aniq faktlar bilan yuriladi. Kafolat tartibi alohida hujjatda batafsil yozilgan.",
+        "Jadvalni har yil boshida qayta ko'rib chiqish kerak, chunki xona tarkibi va mebel partiyalari o'zgaradi. Yangi partiya qo'shilsa, uning materiallari va vositalari jadvalga kiritiladi, eski partiya uchun esa alohida ustun qoldiriladi. Shunda bir xil turdagi ikki mebel bir xil ko'rsatma bilan tozalanmaydi. Bu kichik tartib uzoq muddatda katta farq qiladi.",
+      ] },
+    ],
+    tables: [
+      { afterSection: 0, headers: ["Material", "Kundalik", "Haftalik", "Mavsumiy"], rows: [["Chapa (yog'och qatlami)", "Quruq mikrofiber bilan chang", "Nam latta, darhol quritish", "Mumni yangilash, qirrani tekshirish"], ["Laminat / HPL", "Nam latta, yumshoq sirt", "Dog'ni spirtli eritma bilan", "Qirra va birikma choklarini tekshirish"], ["Mato (yumshoq mebel)", "Changyutgich, past quvvat", "Dog'ni mahalliy tozalash", "Chuqur ekstraksiya, mavsumda bir marta"], ["Teri / eko-teri", "Quruq latta", "Nam latta, pH neytral sovun", "Konditsioner, yoriq nazorati"], ["Metall va shisha", "Quruq mikrofiber", "Nam latta, spirtsiz vosita", "Oksidlanish va mahkamlagich nazorati"]] },
+      { afterSection: 1, headers: ["Belgi", "Ehtimoliy sabab", "Birinchi tekshiruv"], rows: [["Chapa qirrasida ochilish", "Havo juda quruq, qirra yopilmagan", "Namlik o'lchash, qirra holati"], ["Mato rangida kulrang tus", "Chang to'plangan, noto'g'ri yuvish", "Changyutgich, yuvish vosdasi"], ["Terida mayda yoriqlar", "Namlik yetishmaydi, quyosh ta'siri", "Konditsioner, deraza zonasi"], ["Metall yuzada oq dog'lar", "Nam latta, quritilmagan", "Quritish tartibi, vosita tarkibi"]] },
+      { afterSection: 5, headers: ["Mavsum", "Asosiy xavf", "Bajariladigan ish"], rows: [["Isitish boshlanishi (noyabr)", "Havo quruqlashadi, qirra ochiladi", "Qirra tekshiruvi, konditsioner, namlik o'lchovi"], ["Qish o'rtasi (yanvar)", "Statik chang, teri qattiqlashadi", "Changyutgich chastotasini oshirish, teri parvarishi"], ["Bahor (mart-aprel)", "Chang bo'roni, ochiq deraza", "Chuqur tozalash, mato ekstraksiyasi"], ["Yoz (iyul-avgust)", "Quyosh va konditsioner oqimi", "Deraza zonasi nazorati, mebel masofasi"]] },
+    ],
+    faqs: [
+      { question: "Parvarish jadvalini kim tuzishi kerak?", answer: "Jadvalni mebel yetkazib beruvchi va mehmonxonaning texnik xizmati birgalikda tuzadi: yetkazib beruvchi material va vosita chegarasini biladi, mehmonxona esa kundalik ish ritmini. Faqat bittasi tuzgan jadval amalda qo'llanmaydi. Jadval qabul dalolatnomasiga ilova sifatida biriktirilsa, keyingi bahslarda asos bo'ladi." },
+      { question: "Quruq iqlimda namlikni qanday ushlab turish kerak?", answer: "Xona namligini 35-55% oralig'ida saqlash maqsad qilinadi; isitish mavsumida bu ko'rsatkich ko'pincha undan past bo'ladi. Namlikni oshirish uchun oddiy bug'latgich yetarli, lekin u mebelga to'g'ridan-to'g'ri qaratilmaydi. Eng arzon chora — mebelni radiator va konditsioner oqimidan uzoqroqqa joylashtirish." },
+      { question: "Matoni qanday qilib tez-tez tozash mumkin, lekin eskirtirmasdan?", answer: "Har kuni changyutgich, haftada bir marta dog'larni mahalliy tozalash, mavsumda bir marta chuqur ekstraksiya. Ko'p ishlatiladigan joylarda (lobbi, restoran) changyutgich chastotasi oshadi, lekin chuqur tozalash chastotasi o'sha qoladi. Ortiqcha yuvish mato tolasini bo'shashtiradi va rangni tezroq yo'qotadi." },
+      { question: "Chapa qirrasi ochilib qolsa nima qilish kerak?", answer: "Avval namlik sababini tekshirish kerak, keyin qirrani qayta yopish va kerak bo'lsa mumni yangilash. Sabab bartaraf etilmasa, qirra yana ochiladi. Qabul vaqtida foto-fiksatsiya qilingan bo'lsa, bu holat kafolat da'vosiga asos bo'lishi mumkin, chunki ochilish ishlab chiqarishdagi qirra yopilishiga ham bog'liq." },
+      { question: "Teri uchun qanday vosita xavfsiz?", answer: "pH neytral sovun eritmasi va yumshoq mato; so'ng darhol quritish. Spirtli va erituvchi vositalar terining yuza qatlamini yupqalashtiradi. Konditsioner yiliga ikki-to'rt marta, terining turiga mos tanlanadi. Noto'g'ri konditsioner yopishqoq qatlam qoldirib, chang yig'adi." },
+      { question: "Tozalash qaydnomasini yuritish shartmi?", answer: "Kafolat nizolarida bu qaydnoma asosiy dalil bo'ladi, shuning uchun yuritish tavsiya etiladi. Qaydnomada sana, xona raqami, bajarilgan ish va xodim ismi ko'rsatiladi. Bir varaqli jadval bilan birga yuritilsa, ortiqcha vaqt olmaydi. Kafolat tugagach ham kamida bir yil saqlanadi." },
+      { question: "Mebelni almashtirish kerakmi yoki tuzatish mumkinmi?", answer: "Ko'p hollarda tuzatish mumkin: qirra qayta yopiladi, mato almashtiriladi, teri konditsionerlanadi. Lekin chapa ostidagi tabaqa shishgan bo'lsa, tuzatish natija bermaydi va element almashtiriladi. Qaror qabul qilishdan oldin namlik o'lchovi va foto-fiksatsiya kerak, aks holda almashtirish ham, tuzatish ham asossiz bo'ladi." },
+    ],
+  },
   {
     id: "hotel-furniture-supplier-evaluation-uzbekistan",
     market: "uz",

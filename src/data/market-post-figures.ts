@@ -25,8 +25,8 @@ export const marketPostFigures: Record<string, MarketFigure[]> = {
     {
       src: "/images/blog/hotel-maintenance-fig3.webp",
       afterSection: 3,
-      alt: "Mato va teri yuzalarni tozalash uchun vositalar va yumshoq cho'tka",
-      caption: "Mato uchun changyutgich, teri uchun pH neytral sovun: ikkalasida ham ortiqcha suv zarar qiladi.",
+      alt: "Mehmonxona xonasida choyshab va yostiqlarni tuzatayotgan xodim: mato yuzalar har kuni ko'zdan kechiriladi",
+      caption: "Mato va teri yuzalar har kuni ko'zdan kechiriladi: dog' paydo bo'lsa, mahalliy tozalash darhol boshlanadi.",
     },
     {
       src: "/images/blog/hotel-maintenance-fig4.webp",

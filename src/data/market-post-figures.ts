@@ -9,6 +9,38 @@ export type MarketFigure = {
 };
 
 export const marketPostFigures: Record<string, MarketFigure[]> = {
+  "mehmonxona-shkafi": [
+    {
+      src: "/images/blog/wardrobe-spec-fig1.webp",
+      afterSection: 0,
+      alt: "Ochilgan shkaf korpusi: yon panel qalinligi, orqa panel bo'shlig'i va plint ko'rinadi",
+      caption: "Kesim: 600 mm tashqi korpus, 18 mm yon panel va 8 mm orqa paneldan keyin 555 mm foydali chuqurlik qoladi.",
+    },
+    {
+      src: "/images/blog/wardrobe-spec-fig2.webp",
+      afterSection: 1,
+      alt: "Ikki qavatli osma zona: pastki va yuqori ilgich simlari orasidagi masofa",
+      caption: "Ikki qavatli yechim: pastki sim 950–1000 mm, yuqori sim 1950–2000 mm, orasida 30 mm polka.",
+    },
+    {
+      src: "/images/blog/wardrobe-spec-fig3.webp",
+      afterSection: 2,
+      alt: "Shkaf ichidagi seyf uyasi va chamadon uchun tokcha, o'lcham belgilari bilan",
+      caption: "Seyf uyasi 900–1200 mm balandlikda, chamadon tokchasi 450–500 mm da; ikkalasi bitta vertikal ustunda.",
+    },
+    {
+      src: "/images/blog/wardrobe-spec-fig4.webp",
+      afterSection: 3,
+      alt: "Yopiq eshikli shkaf modullari: 1200 mm modul ketma-ketligi",
+      caption: "Modul kengligi 1200 mm bo'lsa, ichki bo'linish osma, polka va tortmaga bo'linadi.",
+    },
+    {
+      src: "/images/blog/wardrobe-spec-fig5.webp",
+      afterSection: 4,
+      alt: "Sirg'aluvchi eshik relslari va yumshoq yopilish mexanizmi yirik planda",
+      caption: "Ikki relsli tizim: umumiy chuqurlik 650–700 mm, panel og'irligi 20–30 kg, yumshoq yopilish majburiy.",
+    },
+  ],
   "mehmonxona-mebeli-parvarishi": [
     {
       src: "/images/blog/hotel-maintenance-fig1.webp",

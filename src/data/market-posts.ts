@@ -50,6 +50,70 @@ export interface MarketPost {
  */
 export const marketPosts: MarketPost[] = [
   {
+    id: "mehmonxona-shkafi",
+    market: "uz",
+    title: "Mehmonxona shkafi: o'lchamlar, ilgich balandligi va ichki jihozlash",
+    tag: "Mehmonxona",
+    excerpt: "Mehmonxona shkafi uchun korpus chuqurligi, ilgich balandligi, seyf va chamadon joyi hamda eshik turlari: uchta o'lcham jadvali bilan amaliy spetsifikatsiya.",
+    date: "2026-11-25",
+    readingMin: 10,
+    image: "/images/blog/wardrobe-spec-hero.webp",
+    imageAlt: "Mehmonxona shkafi: oq korpus, baland bo'lim va osma zona",
+    definition: "Mehmonxona shkafi ikkita raqamdan boshlanadi: korpus chuqurligi 580–600 mm va ilgich simining poldan balandligi 1750–1800 mm. Bu qiymatlar uzun kiyim orqa panelga tegmasligini, seyf esa mehmon qo'li yetadigan joyda turishini ta'minlaydi.",
+    takeaways: [
+      "Korpus chuqurligi 580–600 mm: 580 mm yupqa ilgich uchun, 600 mm standart.",
+      "Ichki foydali chuqurlik 40–45 mm kam: 600 mm korpusda 555 mm.",
+      "Ilgich simi poldan 1750–1800 mm da, uzun kiyim uchun osma uzunlik 1500–1600 mm.",
+      "Seyf 900–1200 mm da, ichki o'lchami kamida 350×300×250 mm.",
+      "Chamadon uchun 800–1000 mm kenglik, 500–550 mm chuqurlik, 450–500 mm balandlik kerak.",
+      "Namuna sexidagi o'lchov: 580 mm korpusda foydali chuqurlik 535 mm, palto esa 540 mm talab qiladi — farq ilgich qalinligida yopiladi.",
+    ],
+    sections: [
+      { heading: "Mehmonxona shkafi qanchalik chuqur bo'lishi kerak?", paragraphs: [
+        "Mehmonxona shkafi korpusi 580–600 mm chuqurlikda bo'ladi, ichki foydali o'lcham esa 550–560 mm ni tashkil qiladi. 580 mm faqat yupqa ilgich bilan ishlaydi; 600 mm standart hisoblanadi, chunki 45 mm yelka kengligidagi ilgichda osilgan palto 540 mm joy egallaydi. Jadval bu qiymatlarni xona turi bo'yicha jamlaydi.",
+        "500 mm chuqurlik yetarli emas: bunday korpusda kiyim orqa panelga yaqin turadi va eshik yopilganda yeng burmalanadi.",
+        "Chuqurlikdan yon panel, orqa panel va montaj bo'shlig'i ayiriladi. 18 mm yon panel va 8 mm orqa paneldan keyin 600 mm korpusda 555 mm qoladi. Namuna sexidagi o'lchovda 580 mm korpus 535 mm beradi, ya'ni 45 mm yelka kengligidagi ilgichdagi paltoga 5 mm yetmaydi; bu farq faqat yupqa ilgich bilan yopiladi.",
+        "Sirg'aluvchi eshik bu hisobni o'zgartiradi: relslar va panel qalinligi qo'shilib, umumiy chuqurlik 650–700 mm ga chiqadi.",
+      ] },
+      { heading: "Ilgich balandligi qanday belgilanadi?", paragraphs: [
+        "Ilgich simi poldan 1750–1800 mm balandlikda o'rnatiladi, uzun kiyim uchun osma uzunlik 1500–1600 mm, qisqa kiyim uchun 1000–1100 mm olinadi. Ikki qavatli yechimda yuqori sim 1950–2000 mm, pastki sim 950–1000 mm bo'ladi. Bu qiymatlar xona balandligiga emas, kiyim turiga bog'lanadi.",
+        "Balandlik mehmon bo'yidan emas, kiyim uzunligidan hisoblanadi. Palto va libos 1500–1600 mm talab qiladi; sim 1700 mm da bo'lsa, etak polga 100 mm qolib chang yig'adi. Shim va ko'ylak uchun 1000–1100 mm yetarli, shuning uchun ikki qavatli zona shu juftlikda ishlaydi.",
+        "Yuqori chegara ham bor: mehmon qo'li odatda 1900–2000 mm gacha yetadi. Polka 2000 mm dan yuqoriga ko'chsa, u saqlash joyi bo'lishdan to'xtaydi. Ikki qavatli zonaning hisobi: 100 mm plint, 1000 mm pastki osma, 30 mm polka, 1000 mm yuqori osma va 70 mm zaxira — jami 2200 mm.",
+      ] },
+      { heading: "Seyf va chamadon uchun joy qanday ajratiladi?", paragraphs: [
+        "Seyf 900–1200 mm balandlikda, ichki o'lchami kamida 350×300×250 mm bo'lgan uyaga o'rnatiladi. Chamadon uchun 800–1000 mm kenglik, 500–550 mm chuqurlik va 450–500 mm balandlikdagi tokcha ajratiladi; bu o'lcham ochiq chamadonning 700×450 mm izini qoplaydi. Ikkala zona bitta vertikal ustunda joylashsa, montaj osonlashadi.",
+        "Seyf balandligi uchta talab bilan belgilanadi: egilmasdan ochish, yo'lakni to'smaslik va klaviatura ko'rinishi. 900 mm dan pastda mehmon tizzalab turadi, 1200 mm dan yuqorida klaviatura ko'rinmay qoladi.",
+        "Seyf korpusning yon paneliga emas, mustahkamlangan tokchaga mahkamlanadi. Uyani polka ostiga yashirish shamollatishni yo'qotadi va elektron qulfni isitish mavsumida ishdan chiqaradi. Uya orqasida 20–30 mm bo'shliq qoldiriladi.",
+        "Chamadon zonasi eng ko'p xato qilinadigan qism. Ochiq chamadon 700×450 mm joy egallaydi; mehmon uni polga qo'ysa, shkafning pastki 400 mm i ishlatilmay qoladi. 450–500 mm balandlikdagi tortma ham skameyka, ham saqlash joyi bo'lib ishlaydi, ostidagi 300 mm poyabzal uchun qoladi.",
+      ] },
+      { heading: "Ichki modul taqsimoti: osma, polka va tortma nisbati", paragraphs: [
+        "1200 mm kenglikdagi modul besh qismga bo'linadi: 50% uzun osma, 20% ikki qavatli qisqa osma, 15% polka, 10% tortma va 5% seyf uyasi. Nisbat qisqa muddatli mehmon uchun: kiyim osiladi, mayda narsa tortmaga tushadi.",
+        "Nisbat xona turiga qarab siljiydi: ikki kishilik raqamda tortma, lyuksda polka ulushi oshadi.",
+        "Modul chegaralari yon panel bilan ajratiladi, aks holda ilgichlar bir-biriga urilib sirtni tirnaydi. 18 mm yon paneldan keyin 1200 mm tashqi kenglikdan 36 mm yo'qoladi va ikkita 582 mm bo'linma qoladi.",
+        "Sxema xona rejasi bilan birga tasdiqlanadi: eshik tomoni, karavot va deraza joyi osma zonani belgilaydi. To'liq ro'yxat [mehmonxona xonasi jihozlari ro'yxatida](guestroom-checklist) keltirilgan. Saqlash bo'limlarining chidamliligi [ISO 7170](https://www.iso.org/committee/49070.html) sinov usullari doirasida tekshiriladi.",
+      ] },
+      { heading: "Eshik turlari: qanotli, sirg'aluvchi va ochiq bo'shliq", paragraphs: [
+        "1200–1800 mm kenglikdagi mehmonxona shkafi uchun ikki relsli sirg'aluvchi eshik eng ko'p qo'llanadi: u 650–700 mm umumiy chuqurlik talab qiladi va yo'lakda ochilish zonasi qoldirmaydi. Qanotli eshik arzonroq va to'liq ochiladi, lekin oldida 550 mm bo'sh joy kerak.",
+        "Sirg'aluvchi panel og'irligi 20–30 kg, shuning uchun yuqori relsga osilgan tizim pastki roliklidan uzoqroq xizmat qiladi: chang va gilam tolasi rolikni tez to'sadi. Yumshoq yopilish mexanizmi majburiy, aks holda tunda eshik urilishi qo'shni xonaga eshitiladi.",
+        "Qanotli eshik lyuks va keng xonalarda qulay: 90 gradusgacha ochilib, ichki qismni to'liq ko'rsatadi. Lekin 550 mm ochilish zonasi koridorda qolmasa, eshik karavotga uriladi. Ochiq bo'shliq va parda eng arzon yechim, ammo chang va ko'rinish nazorati qiyinlashadi.",
+        "Eshik furniturasi parvarish talab qiladi: rels har oyda changyutgich bilan tozalanadi, rolik yiliga bir marta almashtiriladi. Bu tartib [mehmonxona mebeli parvarishi](mehmonxona-mebeli-parvarishi) jadvaliga kiritiladi. Mustahkamlik sinovlari [BIFMA standartlari](https://www.bifma.org/page/standards) asosida o'tkaziladi.",
+        "Loyiha uchun spetsifikatsiya: xona rejasi va eshik turini yuboring — har bir tur uchun modul sxemasini tayyorlaymiz. Hongye Furniture Group 1996-yilda tashkil etilgan, 300 000 m² maydonda ishlaydi, 50 dan ortiq davlatda 1 000 dan ortiq loyihani amalga oshirgan; ishlab chiqarish muddati odatda 45–60 kun. Kafolat shartlari [kafolat bo'yicha qo'llanmada](mehmonxona-mebeli-kafolati) yoritilgan.",
+      ] },
+    ],
+    tables: [
+      { afterSection: 0, headers: ["Mehmonxona shkafi parametri", "Qiymat", "Izoh"], rows: [["Korpus tashqi chuqurligi", "580–600 mm", "600 mm — yagona ilgich simi uchun asosiy o'lcham"], ["Ichki foydali chuqurlik", "550–560 mm", "Yon va orqa panel ayirilgandan keyin"], ["Sirg'aluvchi eshik bilan umumiy chuqurlik", "650–700 mm", "Ikki rels va panel qalinligi qo'shiladi"], ["Bir kishilik bo'lim kengligi", "1200 mm", "Besh zona bitta korpusda"], ["Ikki kishilik bo'lim kengligi", "1500–1800 mm", "Osma zonalar kenglikning 70% ini oladi"], ["Ilgich simi balandligi", "1750–1800 mm", "Uzun kiyim uchun yagona qavat"], ["Plint balandligi", "80–100 mm", "Tozalash va havo aylanishi uchun"]] },
+      { afterSection: 3, headers: ["Modul", "Tipik ulush", "Joylashuvi", "Vazifasi"], rows: [["Uzun osma zona", "50%", "Sim 1750–1800 mm", "Palto, libos, uzun ko'ylak"], ["Ikki qavatli qisqa osma", "20%", "1950–2000 va 950–1000 mm", "Ko'ylak, kurtka, shim"], ["Polkalar", "15%", "1200–2000 mm", "Yig'ilgan kiyim, sumka"], ["Tortmalar", "10%", "600–1100 mm", "Ichki kiyim, aksessuar"], ["Seyf va minibar uyasi", "5%", "900–1200 mm", "Xavfsizlik va servis"]] },
+      { afterSection: 4, headers: ["Eshik turi", "Kerakli chuqurlik va zona", "Afzalligi", "Cheklovi", "Mos qo'llanish"], rows: [["Qanotli", "600 mm + 550 mm ochilish zonasi", "To'liq ochilish, oddiy ta'mir", "Yo'lakni to'sadi", "Lyuks va keng xonalar"], ["Sirg'aluvchi (ikki relsli)", "650–700 mm", "Joy tejaydi, yo'lak bo'sh", "Rels chang yig'adi, panel 20–30 kg", "1200–1800 mm shkaf"], ["Buklanuvchi", "600 mm + 300 mm", "Qisman ochilish, tor joyga sig'adi", "Ko'p ilgak, tez eskiradi", "Kichik xonalar"], ["Ochiq bo'shliq va parda", "600 mm", "Eng arzon, ko'rik oson", "Chang yig'adi, yopiq saqlash yo'q", "Apartament va hostellar"]] },
+    ],
+    faqs: [
+      { question: "Mehmonxona shkafi uchun eng kichik chuqurlik qancha?", answer: "Korpus uchun eng kichik amaliy chuqurlik 580 mm, ichki foydali o'lcham 535 mm. Bu qiymat faqat yupqa ilgich va kam kiyim bilan ishlaydi. Standart variant — 600 mm korpus va 555 mm foydali chuqurlik; sirg'aluvchi eshik qo'shilsa, umumiy chuqurlik 650–700 mm ga chiqadi." },
+      { question: "Ilgich simini qanday balandlikda o'rnatish kerak?", answer: "Yagona qavatda sim poldan 1750–1800 mm da bo'ladi, uzun kiyim uchun 1500–1600 mm osma uzunlik qoladi. Ikki qavatli yechimda yuqori sim 1950–2000 mm, pastki sim 950–1000 mm. Polka 2000 mm dan yuqoriga chiqmasligi kerak, aks holda mehmon polkaga yeta olmaydi." },
+      { question: "Seyfni qaysi balandlikda joylashtirish kerak?", answer: "900–1200 mm oralig'ida, ichki o'lchami kamida 350×300×250 mm bo'lgan uyada. Pastda mehmon tizzalab turadi, yuqorida klaviatura ko'rinmaydi. Uya orqasida 20–30 mm shamollatish bo'shlig'i qoldiriladi va seyf mustahkamlangan tokchaga to'rt vint bilan mahkamlanadi. Uya eshik ochilganda yo'lakning 400 mm dan ko'pini to'smasligi kerak." },
+      { question: "Chamadon uchun qancha joy ajratiladi?", answer: "Ochiq chamadon 700×450 mm iz egallaydi, shuning uchun 800–1000 mm kenglik, 500–550 mm chuqurlik va 450–500 mm balandlikdagi tokcha ajratiladi. Tokcha ostidagi 300 mm balandlik poyabzal juftlari uchun qoladi. Chamadonni polga qo'yishga majbur qilgan shkaf pastki 400 mm zonani behuda sarflaydi." },
+      { question: "Shkaf kengligini qanday hisoblash kerak?", answer: "Har bir mehmon uchun 600–700 mm osma joy hisoblanadi: bir kishilik raqamda 1200 mm, ikki kishilikda 1500–1800 mm. Lyuks va apartamentlarda bu ko'rsatkich 1800–2400 mm ga chiqadi. Aniq kenglik xona rejasi va eshik turi bilan belgilanadi, chunki ochilish zonasi kenglikni kamaytiradi." },
+    ],
+  },
+  {
     id: "mehmonxona-mebeli-parvarishi",
     market: "uz",
     title: "Mehmonxona mebeli parvarishi: chang, quruq havo va mato tozalash",
